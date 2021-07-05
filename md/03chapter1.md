@@ -17,9 +17,9 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Wojak’s lament: Excess and Voyeurism Under Platform Capitalism\
-\
-Anthony Glyn Burton
+#**Wojak’s lament: Excess and Voyeurism Under Platform Capitalism**
+
+###Anthony Glyn Burton
 
 Those of us with faint memories of the early internet may remember it
 making a different appeal: nobody needed to know who you were if you
@@ -71,7 +71,7 @@ impression of belonging. By exceeding its capture, memery points to a
 potential avenue for transcending the formatting and freezing of digital
 life into mere bunker data.
 
-## The Phantasmagoric Social: Excess, Memes, and Affective Identification\
+## The Phantasmagoric Social: Excess, Memes, and Affective Identification
 
 In an aside of Chapter 2 in Platform Capitalism, Nick Srnicek contests
 Tiziana Terranova’s view that user output is labor, claiming that since
@@ -150,9 +150,6 @@ alongside me. Memes circulate through networks, and there is an element
 of affect that is produced in this traversal: impressions of the other
 *who felt themselves in the NPC meme* are left and felt on me.[^03chapter1_6]
 
-Figure 1: Wojak himself
-
-Figure 2: Wojak wall
 
 I’m using Wojak and NPC here interchangeably because while Wojak himself
 might be the most recognizable type, he represents a genre of images
@@ -287,7 +284,7 @@ those whose ‘typical’ behavior makes up a landscape as rich as the
 social itself: a horizon that always, already exceeds the valorization
 machine.
 
-## References\
+## References
 
 Brown, Wendy. *Undoing the Demos: Neoliberalism’s Stealth Revolution.*
 New York: Zone Books, 2015.

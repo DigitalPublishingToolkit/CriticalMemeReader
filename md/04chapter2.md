@@ -17,9 +17,9 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# The ‘Grotesque’ in Instagram Memes\
-\
-İdil Galip
+# **The ‘Grotesque’ in Instagram Memes**
+
+###İdil Galip
 
 The *grotto* is damp. It is cavernous and dark, existing between life
 outside and the molten core of the underground. The serpentine foliage
@@ -31,8 +31,7 @@ that echoes incessantly in the crypt. The *grotto* is bizarre, and so is
 your laughter—it is an uncanny feeling that can only be described as
 *grotto-esque*.
 
-![](media/image1.jpg){width="4.611805555555556in"
-height="3.6597222222222223in"}If the Emperor Nero knew that *Domus
+If the Emperor Nero knew that *Domus
 Aurea*, the golden palace he built in Rome, was initially thought to be
 a mere grotto, a mysterious devotional cave, he would have probably set
 fire to Rome a second time. This once extravagant palace had been built
@@ -49,11 +48,14 @@ to and outside of the Renaissance, the *Domus Aurea*, the Roman Empire
 or ‘the West’. In fact, the grotesque appears throughout human culture,
 from *Topeng* dance in Indonesia, the *Haka* in Maori culture, to the
 mania of *Hacivat* and *Karagöz* in Turkish shadow play, as well as in
-modes of expression and experience in contemporary digital culture
-
-[^04chapter2_1]. While the term might have been inspired by this accidental
+modes of expression and experience in contemporary digital culture [^04chapter2_1]. While the term might have been inspired by this accidental
 discovery and the vestiges of a Roman past, the aesthetic form itself is
 monstrously human.
+
+![Fig. 1 Photograph captioned 'A tari topeng mask, on its dancer'
+Creative Commons Chris Woodrich Crisco 1492 2014. Licensed under CC BY-SA 3.0.](imgs/2.1.jpeg) 
+
+<br/>
 
 ## A Digital Carnival
 
@@ -153,13 +155,9 @@ social body in his discussion of the comic grotesque, the grotesque as
 uncanny is ‘is related most strongly to the psychic register and to the
 bodily as a cultural projection of the inner state’.[^04chapter2_12]
 
-![Afbeelding met tekst, pop, speelgoed, cosmetisch Automatisch
-gegenereerde beschrijving](media/image2.jpg){width="5.208333333333333in"
-height="4.3125in"}
+![Figure 2: Meme captioned ‘you were merely sent to horny jail, I was born in it - molded by it’ (Instagram: @todaywasmybirthday, 2020a). Reproduced by permission of @todaywasmybirthday.](imgs/2.2.jpeg)
 
-Figure 2: Meme captioned ‘you were merely sent to horny jail, I was born
-in it - molded by it’ (Instagram: @todaywasmybirthday, 2020a).
-Reproduced by permission of @todaywasmybirthday.
+<br/>
 
 Within my digital ethnography of a community of meme artists on
 Instagram, I encountered expressions of both comic and uncanny
@@ -208,10 +206,8 @@ exploitation of play as ‘serious business’, complicates the
 conceptualization of these spaces as digital carnivals. However, the
 connection between digital marketplace-talk and the appearance of the
 grotesque as a meme response is still pertinent as to how festive and
-grotesque laughter as well as vulgar language can be understood within
-memes.
+grotesque laughter as well as vulgar language can be understood within memes.
 
-![](media/image3.png){width="3.0in" height="2.75in"}
 Marketplaces—especially those which are casual, non-compliant and
 informal such as this one, as well as others in the wider meme economy,
 are by their nature vulgar spaces. To that end, they produce their own
@@ -227,9 +223,9 @@ themselves for contributing to it too, in true carnivalesque fashion
 and the vulgar text is ‘not simply parod\[y\]; it is no more comic than
 tragic; it is both at once, one might say that it is serious’.[^04chapter2_15]
 
-Figure 3: Meme captioned ‘this meme brought to you by THIS FUCKIN GUY
-AAA??! 😂😂😂GET A LOaD 💦 of HIM 😂😂😂😂😂😂’ (Instagram: @lilperc666, 2020).
-Reproduced by permission of @lilperc666.
+![Fig. 3: Meme captioned ‘this meme brought to you by THIS FUCKIN GUY AAA??! 😂😂😂GET A LOaD 💦 of HIM 😂😂😂😂😂😂’ (Instagram: @lilperc666, 2020).Reproduced by permission of @lilperc666.](imgs/2.3.jpeg)
+
+<br/>
 
 The comedy, tragedy and seriousness of the grotesque which Kristeva
 presents can be seen in Figure 3 created by artist @lilperc666. There
@@ -281,11 +277,9 @@ symphonic metal band After Forever’s debut album *Prison of Desire*
 description of what it means for reason to be enslaved by the lower
 parts of the soul’.[^04chapter2_21]
 
-![](media/image4.png){width="6.709013560804899in"
-height="3.2812456255468065in"}
+![Fig. 4: The cycles of meaning of the doll as a toy and the doll as a meme.](imgs/2.4.jpeg)
 
-Figure 4: The cycles of meaning of the doll as a toy and the doll as a
-meme.
+<br/>
 
 Within grotesque memes, the use of *strange langu*age, a combination of
 metaphors, rhymes, references, fuses with the *strange image*—absurd,
@@ -338,13 +332,7 @@ game’.[^04chapter2_25] In line with customary festive laughter, the meme maker
 makes fun of herself, her viewer and the meme itself. The grotesque meme
 is thus the object, the subject and the spectacle in one.
 
-![Afbeelding met tekst Automatisch gegenereerde
-beschrijving](media/image5.png){width="4.716666666666667in"
-height="4.75in"}
-
-Figure 5: Meme captioned ‘Dam you felt proud to start w?? Sounds like a
-personal problem’ (Instagram: @todaywasmybirthday, 2020b). Reproduced by
-permission of @todaywasmybirthday.
+![Fig. 5: Meme captioned ‘Dam you felt proud to start w?? Sounds like a personal problem’ (Instagram: @todaywasmybirthday, 2020b). Reproduced by permission of @todaywasmybirthday.](imgs/2.5)
 
 Grotesque memes are concerned with the cyclical biological processes,
 such as sex, birth, death, eating, drinking, defecating, like grotesque
@@ -375,7 +363,7 @@ by ‘serious thinkers’, adds a further layer of grotesqueness. It also
 reminds us that carnivalesque laughter is serious as much as it is
 comedic and tragic.[^04chapter2_28]
 
-[]{#_heading=h.gjdgxs .anchor}The mask donned by the image of the dog in
+The mask donned by the image of the dog in
 Figure 6 is yet another reflection of the grotesque folk culture which
 emerges from the digital carnival. Bakhtin has a reverence for the mask,
 as to him it symbolizes the ‘most complex theme in folk culture’.[^04chapter2_29]
@@ -390,14 +378,10 @@ costumed and masked animal is placed against a glitchy, static
 background. The resulting visual composite is of a grotesque body, and
 emblematic of grotesque realism in memes.
 
-![Afbeelding met tekst Automatisch gegenereerde
-beschrijving](media/image6.png){width="5.427766841644795in"
-height="5.2905260279965in"}
+![Fig. 6: Meme captioned ‘I have brain ibs: either the thoughts won’t come out at all or they wanna come out TOO OFTEN but both ways it feels bad’ (Instagram: @todaywasmybirthday, 2020c). Reproduced by permission
+of @todaywasmybirthday.](imgs/2.6)
 
-Figure 6: Meme captioned ‘I have brain ibs: either the thoughts won’t
-come out at all or they wanna come out TOO OFTEN but both ways it feels
-bad’ (Instagram: @todaywasmybirthday, 2020c). Reproduced by permission
-of @todaywasmybirthday.
+<br/>
 
 ## Conclusion
 
@@ -513,7 +497,7 @@ todaywasmybirthday. “Me Herniating My Brain.” Instagram, February 19,
 ———. “You Cannot Send Me to Horny Jail.” Instagram, December 21, 2020.
 <a href="https://www.instagram.com/p/CJC2cRDlXLS/?utm%5C_source=ig%5C_web%5C_copy%5C_link">https://www.instagram.com/p/CJC2cRDlXLS/?utm\_source=ig\_web\_copy\_link</a>.
 
-[]{#_Hlk73565440 .anchor}de Seta, Gabriele. “Digital Folklore”. In
+de Seta, Gabriele. “Digital Folklore”. In
 *Second International Handbook of Internet Research*, edited by Jeremy
 Hunsinger, Lisbeth Klastrup, and Matthew M. Allen, 1–17. Dordrecht:
 Springer Netherlands, 2019.
