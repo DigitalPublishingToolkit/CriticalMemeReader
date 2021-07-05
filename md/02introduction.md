@@ -63,13 +63,13 @@ imperceptibly changed after the arrival of the Messiah. Yet through it,
 *everything* becomes different, and therein lies its revolutionary
 thrust.
 
-![fig. 1 [*https://giphy.com/gifs/pipe-einstein-s5z4Oy4xrezm0*](ttps://giphy.com/gifs/pipe-einstein-s5z4Oy4xrezm0)](imgs/0.1.png)
+![Fig. 1 https://giphy.com/gifs/pipe-einstein-s5z4Oy4xrezm0](imgs/0.1.jpeg)
 
-![](media/image2.gif){width="2.9895833333333335in"
-height="1.6608792650918636in"}
+<br/>
 
-![Fig. 2
-[*https://tenor.com/view/truck-crash-gif-10492368*](https://tenor.com/view/truck-crash-gif-10492368)](imgs/0.2.png]
+![Fig. 2chttps://tenor.com/view/truck-crash-gif-10492368](imgs/0.2.jpeg)
+
+<br/>
 
 Memes are also tricksters, as they make us believe we control them while
 it’s actually the other way around. Classic Zizek: ‘Memes, misperceived
@@ -154,12 +154,9 @@ with postmodernity, and of a generalized informational obesity whose
 gravitational pull bends reality to whatever ‘program’, in the multiple
 senses of that term.
 
-![Afbeelding met tekst Automatisch gegenereerde
-beschrijving](media/image3.gif){width="2.5in"
-height="1.5833333333333333in"}
+![Fig. 3 https://tenor.com/view/nyan-cat-gif-5716621](imgs/0.3.jpeg)
 
-Fig. 3.
-[*https://tenor.com/view/nyan-cat-gif-5716621*](https://tenor.com/view/nyan-cat-gif-5716621)
+<br/>
 
 Enter: a 100 hour-long video of Nyan cat on YouTube. The perverse
 delight of endless repetition, the way it tries to make no sense of
@@ -238,7 +235,7 @@ prototypical instance of ‘influence’ as a tactical acting at a distance,
 changing the psycho-physical makeup of the agents it targets. Acting at
 a distance: isn’t that the very definition of media?
 
-![Fig. 4](0.4.jpeg)
+![Fig. 4](imgs/0.4.jpeg)
 
 <br/>
 
@@ -370,10 +367,8 @@ Bueno, Claudio Celis. “Harun Farocki's Asignifying Images.” *tripleC*
 15, no. 2 (2017): 740-54.
 <a href="https://triple-c.at/index.php/tripleC/article/download/874/1040?inline=1">https://triple-c.at/index.php/tripleC/article/download/874/1040?inline=1</a>.
 
-Comaroff, [J.. “Alien-Nation: Zombies, Immigrants, and Millennial
-Capitalism.” *South Atlantic
-<a href="http://Quarterly*](https://www.zotero.org/google-docs/?hoXm6H)">Quarterly*](https://www.zotero.org/google-docs/?hoXm6H)</a> 101, no. 4
-(October 1, 2002): 779–805. <a href="https://doi.org/10.1215/00382876-101-4-779">https://doi.org/10.1215/00382876-101-4-779</a>.
+Comaroff, “Alien-Nation: Zombies, Immigrants, and Millennial
+Capitalism.” *South Atlantic Quarterly* 101, no. 4 (October 1, 2002): 779–805. <a href="https://doi.org/10.1215/00382876-101-4-779">https://doi.org/10.1215/00382876-101-4-779</a>.
 
 Finkelstein, Robert. 2011. “Tutorial: Military Memetics.” Paper
 presented at *Social Media for Defence* *Summit*, Alexandria, VA,
