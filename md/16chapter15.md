@@ -21,7 +21,6 @@ Rights: CC BY-NC 4.0
 
 ###Scott Wark
 
-![](media/image1.jpeg){width="4.7972222222222225in" height="3.19375in"}
 
 ## 0.
 
@@ -36,9 +35,7 @@ somewhat stupidly literal. What if—bear with me—this meme perfectly
 represents a (post-)digital version of Walter Benjamin’s ‘angel of
 history’? What if it perfectly figures how ‘one pictures the angel of
 history’ and the ‘wreckage… in front of his feet’ blown in by the
-‘storm… we call progress’
-
-[^16chapter15_1] in our postdigital present?
+‘storm… we call progress’[^16chapter15_1] in our postdigital present?
 
 ## 1. 
 
@@ -90,14 +87,10 @@ way through our contemporary post-digital media situation.
 
 ## 2.
 
-![The 'Distracted Boyfriend' Meme Photographer Explains All |
-WIRED](media/image2.jpeg){width="4.491666666666666in"
-height="2.5271850393700785in"}
+![Fig. 1: Disloyal Man with his Girlfriend Looking at Another Girl, also known as Distracted Boyfriend. Antonio Guillem, November 2, 2015. Digital image.
+Archived at Wikipedia. <a href="https://en.wikipedia.org/wiki/File:Disloyal%5C_man%5C_with%5C_his%5C_girlfriend%5C_looking%5C_at%5C_another%5C_girl.jpg">https://en.wikipedia.org/wiki/File:Disloyal\_man\_with\_his\_girlfriend\_looking\_at\_another\_girl.jpg</a>](imgs/15.2.jpeg)
 
-Figure 1: Disloyal Man with his Girlfriend Looking at Another Girl, also
-known as Distracted Boyfriend. Antonio Guillem, November 2, 2015.
-Digital image. Archived at Wikipedia.
-<a href="https://en.wikipedia.org/wiki/File:Disloyal%5C_man%5C_with%5C_his%5C_girlfriend%5C_looking%5C_at%5C_another%5C_girl.jpg">https://en.wikipedia.org/wiki/File:Disloyal\_man\_with\_his\_girlfriend\_looking\_at\_another\_girl.jpg</a>
+<br/>
 
 By the time I found this example of the ‘Distracted Boyfriend’ meme, the
 meme itself was kind of over. It persists today as a particularly
@@ -251,8 +244,7 @@ perpetual obsolescence, new becoming old through bland repetition.
 
 ## 6.
 
-![page278image55894768](media/image1.jpeg){width="4.1305555555555555in"
-height="2.75in"}
+![Fig. 2: Distracted Angel of History. Digital Image. Originally seen on Twitter, late-2018. Archived at: Know Your Meme. <https://knowyourmeme.com/photos/1290289-distracted-boyfriend>](imgs/15.1.jpeg)
 
 Let’s try to draw all of these conceptual threads together by returning
 to my original conceit: ‘Distracted Boyfriend’ manifesting a
@@ -428,15 +420,14 @@ Do we not get the angels we deserve? If so, it’s no wonder that what
 this post-digital angel figures, amongst everything else, is toxic
 masculinity. The ‘storm… we call progress,’ indeed.[^16chapter15_22]
 
-## References\
+## References
 
 BBC News. ““Distracted Boyfriend” Couple Star in Hungaray Pro-Family
 Ads.” *BBC* News, March 13, 2019.
 <a href="https://www.bbc.co.uk/news/world-europe-47557217">https://www.bbc.co.uk/news/world-europe-47557217</a>
 
 Benjamin, Walter. “The Work of Art in the Age of Its Technological
-Reproducibility \[Third Version\].” In []{#_Hlk72787636
-.anchor}*Selected Writings Vol. 4, 1938-1940*, edited by Howard Eiland,
+Reproducibility \[Third Version\].” In *Selected Writings Vol. 4, 1938-1940*, edited by Howard Eiland,
 and Michael W. Jennings, 252–83. Cambridge, Mass. and London: The
 Belknap Press of Harvard University Press, 2003.
 

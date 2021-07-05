@@ -17,18 +17,15 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Deeper and Higher: Memes as Scalar Abstraction\
-\
-Geoffrey Hondroudakis
+# **Deeper and Higher: Memes as Scalar Abstraction**
+
+###Geoffrey Hondroudakis
 
 ## How Many Layers Are You On?
 
-![The Original 'Layers of Irony' Meme from the Facebook page 'Special
-Meme Fresh'](media/image1.png){width="4.045833333333333in"
-height="4.045833333333333in"}
+![Fig. 1 - The 'Layers of Irony' Meme - first posted to the ‘Special Meme Fresh’ Facebook page on October 24th, 2015](imgs/17.1)
 
-> Figure 1 - The 'Layers of Irony' Meme - first posted to the ‘Special
-> Meme Fresh’ Facebook page on October 24th, 2015
+<br/>
 
 This is an old meme – which is to say that it’s tired, tiresome,
 coopted, boring – it’s well and truly dead. But the vulture of Minerva
@@ -86,9 +83,7 @@ there is too much stuff and it is all the same.
 The internet is very large. Trivial to say, but it registers important
 phenomenological, cognitive, infrastructural, and informatic facts. For
 one, information and choice overload are significant factors inflecting
-everyday interactions. Whether reading or watching news,
-
-[^18chapter17_1] buying things,[^18chapter17_2] browsing a social media feed, or engaging in any
+everyday interactions. Whether reading or watching news,[^18chapter17_1] buying things,[^18chapter17_2] browsing a social media feed, or engaging in any
 number of other activities on the internet, there is a confrontation
 with cascading flows of activity. Adding further to this is the sense
 that there are not only innumerable objects and possibilities within an
@@ -401,7 +396,7 @@ This mediation is itself active, structuring and restructuring as it
 recursively incorporates and adjusts to the inevitable ruptures and
 contingencies of billions of people and gigantic technical systems.
 
-## Conclusion\
+## Conclusion
 
 So, what do we have? Memes are, or could be:
 
@@ -432,7 +427,7 @@ sand – they might be furnace-blasted and soldered into regular
 circuitries, but they retain the memory of the dunes, and all the
 atomistic changeability that entails.
 
-## References\
+## References
 
 Baudrillard, Jean. *Simulacra and Simulation*. Translated by Sheila
 Faria Glaser. Michigan: University of Michigan Press, 1994.

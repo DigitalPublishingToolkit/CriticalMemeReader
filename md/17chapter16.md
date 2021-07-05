@@ -17,10 +17,9 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# On the Prospect of Overcoming Meme-Culture\
-or, The Last Meme in History\
-\
-Åke Gafvelin\
+# On the Prospect of Overcoming Meme-Culture, or, The Last Meme in History
+
+###Åke Gafvelin
 
 Meme culture, at its present stage, consists in an oscillation between
 two opposed tendencies. On one hand, it attempts to *rigidify* various
@@ -71,12 +70,15 @@ equally ambivalent conclusion of this essay.
 
 ## Moving Up
 
+![Fig. 0 - Source: https://en.wikipedia.org/wiki/Distracted_boyfriend](imgs/16.1.jpeg)
+
+<br/>
+
 Consider the *Distracted Boyfriend Meme*, featuring (unsurprisingly) a
 distracted boyfriend (see Figure 0). Figure 0 can be called **Level 0**
 meme in this paradigm—a memetic paradigm being simply a set of memes
 that share a family resemblance. Although Figure 0 forms a stable
-building-ground for ![](media/image1.jpeg){width="3.2472222222222222in"
-height="2.533333333333333in"}the paradigm, it is clearly not a meme in
+building-ground for the paradigm, it is clearly not a meme in
 the colloquial sense. To create an actual meme, we need to map the
 relations between the objects we find in level 0 to the relations of
 some other phenomena, thus moving up to **Level 1.** An example of this
@@ -88,8 +90,11 @@ analogous to what logicians call an *object-language*. In such a
 language, we are capable of representing relations between various
 objects in reality. Figure 1 is simply representing the relation between
 the youth, socialism, and capitalism by means of the relations between
-the ![](media/image3.jpeg){width="3.173611111111111in"
-height="2.7604166666666665in"}people in Figure 0.
+the people in Figure 0.
+
+![Fig. 1 - Source: https://en.meming.world/wiki/Distracted_Boyf](imgs/16.2.jpeg)
+
+<br/>
 
 One can find an infinite number of possible memes within Level 1, all
 with different levels of *dankness* (*dankness* roughly standing for the
@@ -99,28 +104,32 @@ with the comparative public support for capitalism and socialism.
 However, divisions of *dankness* within this level are so culturally
 contingent and dependent on personal taste that they do not lend
 themselves to rigorous philosophical
-analysis.![](media/image5.jpeg){width="3.1319444444444446in"
-height="2.3666054243219596in"}
+analysis.
+
+![Fig. 2 - Source: https://knowyourmeme.com/photos/1287554-](imgs/16.3.jpeg)
+
+<br/>
 
 Moving up to **Level 2**, we find memes making reference to other memes.
 Consider Figure 2, for example, which refers to memes discovered on
 Level 1. We can think of Level 2 as roughly equivalent to what logicians
-call a *meta-language*: a language used to talk about languages.
-
-[^17chapter16_1]
+call a *meta-language*: a language used to talk about languages.[^17chapter16_1]
 
 We can further imagine that Level 2 has an infinite number of possible
 layers: Figure 2 is a *meta*-meme, a meme about memes, but we might
 imagine meta-meta memes: memes like the meme in Figure 2 (see Figure
 2.1); meta-meta-meta memes and so on… It should be noted, however, that
-memes do not always ![](media/image7.jpeg){width="3.303034776902887in"
-height="2.5616546369203848in"}become *danker* as they become more
+memes do not always become *danker* as they become more
 ‘meta’: the fundamental joke is already in place by Figure 2. One might
 speculate whether this has something to do with the fact that these
 memes are not genuinely self-referential. Any attempt at *representing*
 a meme M *within* itself would instantaneously move M up one order in
 the hierarchy. But then, the meme we are representing is obviously no
 longer M.
+
+![Fig. 2.1 - Source: https://knowyourmeme.com/photos/1287554-](imgs/16.4.jpeg)
+
+<br/>
 
 This fits neatly with our (albeit imperfect) analogy of a hierarchy of
 languages, which was developed by Tarski precisely because any notion of
@@ -133,9 +142,7 @@ To fully comprehend a **Level 3** meme, we need to make a short detour
 through Russell and Wittgenstein’s dispute on the distinction between
 *saying* and *showing* outlined in the *Tractatus-Logico Philosophicus.*
 In his treatise, Wittgenstein sought to unveil the necessary structures
-of language. In doing so, he argued that all logical truths,
-![](media/image9.jpeg){width="3.0555555555555554in"
-height="2.6458333333333335in"}like *it* *rains or it does not rain,* are
+of language. In doing so, he argued that all logical truths, like *it* *rains or it does not rain,* are
 vacuous; absolutely true precisely because they say absolutely nothing.
 Such tautologies instead gain their significance by *showing* something
 about the structure of the language in which they are formulated; in the
@@ -145,6 +152,10 @@ that Wittgenstein’s own philosophy is unsayable, since it successfully
 formulates the necessary structure of language from within that very
 structure. Hence his treatise concludes: *Whereof one cannot speak,
 thereof one must be silent*.
+
+![Fig. 2.2 - Source: Set Theory Memes for Logically Equivalent Teens](imgs/16.5.jpeg)
+
+<br/>
 
 Russell thought this to be a superfluous piece of mysticism. He
 suggested in the preface that any quietism could be avoided by
@@ -163,8 +174,7 @@ With this distinction in place, we can now begin to comprehend a **Level
 by means of *representation* (like the picture under “the other format”
 in Figure 2). But Level 3 memes (see Figure 3)[^17chapter16_2] *show* the structure
 of all possible memes within its paradigm by simply
-![](media/image11.jpeg){width="3.0555555555555554in"
-height="2.895138888888889in"}instantiating its barren structure,
+instantiating its barren structure,
 breaching the limits of any representational scope found within the
 hierarchy at Level 2. Figure 3 can thus be seen as the *Tractatus* of
 the *Distracted Boyfriend-*paradigm of memes, elucidating the ultimate
@@ -174,6 +184,10 @@ Wittgenstein proclaimed, mean the end of philosophy. Similarly, any
 Level 3 meme must finalize the upward movement in its paradigm: when one
 has reached it, one must – paraphrasing proposition 6.54 of the
 *Tractatus – throw away the ladder one used to climb it*.
+
+![Fig. 3 - Source: https://emaaneastwood.blogspot.com/2019/11/meme-template-distracted-boyfriend.html](16.6.jpeg)
+
+<br/>
 
 ## Moving Sideways
 
@@ -243,9 +257,7 @@ upwards. Geist wakes up on a 4chan board, and “based” is applied to
 someone like Ben Shapiro or Jordan Peterson. But that **Level 1** usage
 is obviously cringe. So we move up to **Level 2**, achieving
 *meta-basedness.* I take it that this is where Geist is located
-presently: ‘return to monké,’ is Urban Dictionary’s most up-voted
-![](media/image13.jpeg){width="3.4006944444444445in"
-height="3.2333333333333334in"}example of something based, and this
+presently: ‘return to monké,’ is Urban Dictionary’s most up-voted example of something based, and this
 clearly mocks the alt-right and /pol/-associated wish to reject
 modernity and embrace tradition. We can only speculate what is to come,
 but plausibly the paradigm will continue to accelerate its upward
@@ -255,10 +267,17 @@ basedness (see Figure 4 and Figure 5). But this will, as before, result
 in quietism, requiring us to throw away the ladder and move sideways
 into a new paradigm. And so memeological history will continue.
 
+![Fig. 4 – Source: eSCATological posting (a Facebook group that has now been zucced)](imgs/16.7.jpeg)
+
+<br/>
+
 ## Moving Beyond?
 
-![](media/image15.jpeg){width="3.077777777777778in"
-height="1.7583333333333333in"}The preceding parts of this essay have
+![Fig. 5 - Source: https://youtu.be/VSkPkSYFQ3U](imgs/16.8.jpeg)
+
+<br/>
+
+The preceding parts of this essay have
 sought to describe the workings of memeological history – the point,
 however, is to change it. Is meme culture something we ought to leave on
 the historical scrap-heap? Don’t get me wrong; I like a good meme just
