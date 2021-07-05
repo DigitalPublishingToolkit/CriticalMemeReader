@@ -17,9 +17,9 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# ‘A Vaguely Erotic Mime’: Mimetic Text vs. Optical Tactility\
-\
-Sabrina Ward-Kimola
+# **‘A Vaguely Erotic Mime’: Mimetic Text vs. Optical Tactility**
+
+###Sabrina Ward-Kimola
 
 TikTok dances assemble various fragments—music, human bodily rhythms,
 platform infrastructures—towards an imitative end. The imitative body
@@ -71,8 +71,8 @@ undetermined and continual becoming that can only aspire towards, but
 never fully meet the object of imitation. I conclude with a discussion
 of the “phenomena of dance as something inherently bound to the
 social”[^05chapter3_7] and reorient the significance of the TikTok dance as a
-cultural form worthy of further analysis.\
-\
+cultural form worthy of further analysis.
+
 In ‘Extending the Internet meme: Conceptualizing technological mimesis
 and imitation publics on the TikTok platform’, Diana and David James
 Zulli argue that TikTok’s algorithm (the ‘For You’ page), organization
@@ -114,8 +114,7 @@ something new. Consequently, there is the evolution of forms that
 constitute the flows of cultural unfolding – for our purposes here, this
 is the meme.
 
-![](media/image1.jpg){width="4.979861111111111in"
-height="3.666162510936133in"}As the clock struck 2013, Limor Shifman
+As the clock struck 2013, Limor Shifman
 emerged from the ninth circle with foreknowledge of memetics to come:
 firstly, it is a unit of cultural information that eventually scales
 into a macro-level social phenomenon; secondly, it is a unit of cultural
@@ -139,6 +138,10 @@ yearn for visibility (often manifesting in the aesthetic *du jour*), in
 addition to the spectral algorithm of the ‘For You’ page. It is because
 of these predetermined streams of mimetic output that Zulli & Zulli
 describe TikTok as a mimetic text, in and of itself.
+
+![Fig. 1: Stills of pop musician Rosé performing the infamous WAP choreography. KpopPostEditor, Cardi B Reacts to BLACKPINK Rosé WAP Dance Challenge on TikTok, 2021, video stills, KpopPost, https://www.kpoppost.com/blackpink-rose-wap-dance-challenge-tiktok-cardi-b/](imgs/3.1)
+
+<br/>
 
 To conceive of TikTok as a mimetic text complicates the role that
 mimesis has traditionally played in the continual unfolding of memetics.
@@ -261,8 +264,7 @@ Future Body At Work, points to the ways:
 > transformed through individual decisions and how listening can precede
 > acting, how contraction gives space for release.[^05chapter3_28]
 
-![](media/image3.jpg){width="4.3284722222222225in"
-height="3.2729166666666667in"}Wolinkska and Sandström see the moving
+Wolinkska and Sandström see the moving
 body as a site of potential that can be controlled and exploited as a
 means to a definitive end. Often in the interests of representation, the
 ‘reigning body absorbs the body of the ruled’[^05chapter3_29] a bodily relationship
@@ -287,6 +289,10 @@ speak of an imitation public through the optical lens is to speak of the
 virtualized body as a means to a massively-scalable end in the interests
 of more and more content.
 
+![Fig. 2. The front cover of Thomas Hobbes’s The Leviathan. Wenceslas Hollar or Abraham Bosse, Drawing of frontispiece of Leviathan, 1910, ink drawing on manuscript, 784 x 600 pixels, Wikimedia Commons, https://commons.wikimedia.org/wiki/File:Drawing_of_frontispiece_of_Leviathan.jpg](imgs/3.2)
+
+<br/>
+
 While I am skeptical of the ‘revolutionary’ potential of a
 hypothetically *becoming* body identified by Wolinkska and Sandström, it
 may be true that cultural innovation, i.e. the embrace of difference,
@@ -309,17 +315,17 @@ erotic mime. Really TikTok dances and NFTs are the only new artistic
 mediums of the last decade’. Twitter post, 29 March 2021, 8:26 PM.
 <https://twitter.com/deankissick/status/1376692176470614025>.
 
-[]{#_Hlk70676826 .anchor}———. ‘We’re trapped in the world Frederic
+———. ‘We’re trapped in the world Frederic
 Jameson foretold, ‘a world in which stylistic innovation is no longer
 possible, all that is left to imitate is to imitate dead styles, to
 speak through the masks with the voices of the styles in the imaginary
 museum.’ But I know there are ways out’. Twitter post, 7 April 2021,
 11:49 AM. <a href="https://twitter.com/deankissick/status/">https://twitter.com/deankissick/status/</a> 1379823627948933122
 
-[]{#_Hlk70669293 .anchor}“Club Quarantine.” Instagram, March 4,^,^ 2021.
-<a href="https://www.instagram.com/">https://www.instagram.com/</a> clubquarantine/?hl=en.
+“Club Quarantine.” Instagram, March 4, 2021.
+<http://www.instagram.com/clubquarantine/>.
 
-Benjamin, Walter, and Knut Tarnowski[]{#_Hlk70674177 .anchor}. “Doctrine
+Benjamin, Walter, and Knut Tarnowski. “Doctrine
 of the Similar (1933).” *New German Critique*, no. 17 (1979): 65.
 <https://doi.org/10.2307/488010>.
 
@@ -348,8 +354,7 @@ relationship between online trolling and mainstream culture*. Cambridge:
 
 Shifman, Limor. “Memes in a Digital World: Reconciling with a Conceptual
 Troublemaker.” *Journal of Computer-Mediated Communication* 18, no. 3
-(2013): 362–77. [<a href="https://doi.org/">https://doi.org/</a>
-<a href="http://10.1111/jcc4.12013](https://doi.org/%2010.1111/jcc4.12013)">10.1111/jcc4.12013](https://doi.org/%2010.1111/jcc4.12013)</a>.
+(2013): 362–77. <https://doi.org/%2010.1111/jcc4.12013>.
 
 Taussig, Michael T. *Mimesis and Alterity: A Particular History of the
 Senses*. New York: Routledge, 1993.
@@ -370,14 +375,14 @@ TikTok Platform.” *New Media & Society*, December, 2020.
     See Some ‘WAP’ Dance Challenges”, *Vulture,* 19 August 2020,
     <a href="https://www.vulture.com/2020/08/wap-cardi-b-tiktok-dance-challenge-explained.html">https://www.vulture.com/2020/08/wap-cardi-b-tiktok-dance-challenge-explained.html</a>
 
-[^05chapter3_3]: []{#_Hlk70670221 .anchor}@deankissick, “I do find the TikTok dance
+[^05chapter3_3]: @deankissick, “I do find the TikTok dance
     interesting because it’s not really dance, it’s something else. It’s
     like a weird form of vaguely erotic mime. Really TikTok dances and
     NFTs are the only new artistic mediums of the last decade,” Twitter,
     March 29, 2021,
     <a href="https://twitter.com/deankissick/status/1376692176470614025">https://twitter.com/deankissick/status/1376692176470614025</a>
 
-[^05chapter3_4]: []{#_Hlk70670246 .anchor}Whitney Phillips, *This is Why we Can’t
+[^05chapter3_4]: Whitney Phillips, *This is Why we Can’t
     Have Nice Things: Mapping the Relationship Between Online Trolling
     and Mainstream Culture* (Cambridge: *MIT Press,* 2015), 172-176.
 
@@ -467,4 +472,4 @@ TikTok Platform.” *New Media & Society*, December, 2020.
     possible, all that is left to imitate is to imitate dead styles, to
     speak through the masks with the voices of the styles in the
     imaginary museum’, But I know there are ways out,” Twitter, April 7,
-    2021. <https://twitter.com/deankissick/> status/1379823627948933122.
+    2021. <https://twitter.com/deankissick/status/1379823627948933122>.
