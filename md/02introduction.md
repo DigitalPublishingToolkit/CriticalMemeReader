@@ -63,13 +63,13 @@ imperceptibly changed after the arrival of the Messiah. Yet through it,
 *everything* becomes different, and therein lies its revolutionary
 thrust.
 
-![fig. 1 (https://giphy.com/gifs/pipe-einstein-s5z4Oy4xrezm0)](imgs/0.1.png)
+![fig. 1 [*https://giphy.com/gifs/pipe-einstein-s5z4Oy4xrezm0*](ttps://giphy.com/gifs/pipe-einstein-s5z4Oy4xrezm0)](imgs/0.1.png)
 
 ![](media/image2.gif){width="2.9895833333333335in"
 height="1.6608792650918636in"}
 
-Fig. 2
-[*https://tenor.com/view/truck-crash-gif-10492368*](https://tenor.com/view/truck-crash-gif-10492368)
+![Fig. 2
+[*https://tenor.com/view/truck-crash-gif-10492368*](https://tenor.com/view/truck-crash-gif-10492368)](imgs/0.2.png]
 
 Memes are also tricksters, as they make us believe we control them while
 it’s actually the other way around. Classic Zizek: ‘Memes, misperceived
@@ -238,11 +238,9 @@ prototypical instance of ‘influence’ as a tactical acting at a distance,
 changing the psycho-physical makeup of the agents it targets. Acting at
 a distance: isn’t that the very definition of media?
 
-![Afbeelding met tekst Automatisch gegenereerde
-beschrijving](media/image4.jpg){width="5.448567366579177in"
-height="3.064819553805774in"}
+![Fig. 4](0.4.jpeg)
 
-Fig. 4
+<br/>
 
 From state actors to insurgents, Memes have proven to be powerful
 weapons in informational warfare. Indeed, even the canard that ‘the left
