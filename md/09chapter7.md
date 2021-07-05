@@ -17,9 +17,9 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Masks, Monsters, and Memes: In Conversation with Scoobert Doobert\
-\
-By Max Horwich
+# **Masks, Monsters, and Memes: In Conversation with Scoobert Doobert**
+
+###By Max Horwich
 
 Forgive the ‘Webster’s Dictionary defines…’ introduction, but I recently
 learned (from Wikipedia, obviously) that the word meme comes from the
@@ -44,8 +44,9 @@ I watched the 50-minute video in its entirety four times that night. We
 were introduced over the phone two days later and have been working
 together ever since.
 
-![](media/image1.jpg){width="6.499104330708661in"
-height="4.113888888888889in"}
+![Fig. 1: Still from Scoobert Doobert’s video for ‘A Good Life’](imgs/7.1)
+
+<br/>
 
 While his stage name and many of his song titles (‘Shaggy’s Anthem,’
 ‘Mystery Machine,’ ‘What a Velma What a Night,’ etc.) might give the
@@ -62,8 +63,9 @@ Scoobert Doobert memes. So let the record show, it wasn’t from Scooby
 Doo. In fact, there is no character named Scoobert Doobert. Just
 Scoobert Doo.’
 
-![](media/image3.jpg){width="6.499272747156605in"
-height="3.93333552055993in"}
+![Fig. 2: A tryptic of stills from the music video for ‘Bread Stapled to Trees’](imgs/7.2)
+
+<br/>
 
 Much of his work engages heavily with memes—from his ongoing series of
 one-minute songs dedicated to various Subreddits, to the year-in-review
@@ -99,7 +101,7 @@ thinking about how music engages with meme culture, and how much it’s
 changed over, say, the past decade. Ten years out from the coinage of
 the term trollgaze and we’ve had Beyonce and Lizzo unassumingly
 interpolating tweets into lyrics for chart-topping songs. It feels like
-pop music is figuring out what to do with memes. *
+pop music is figuring out what to do with memes.*
 
 Popular music has always been meme-based. A ‘hit’ is unpredictable, it
 catches some invisible thread of shared reality.
@@ -164,7 +166,7 @@ world than the end of capitalism. It’s hard to address a problem when
 you’re so deep in it that you don’t even have the language to identify
 and describe it, and it seems to me like one of the roles of memes as an
 artform (or whatever you want to call them) has been to help us develop
-the language. *
+the language.*
 
 I think that's barking up the wrong tree though. I think that
 postmodernism, to me at least, was all about trying to find the right
@@ -192,8 +194,9 @@ smart. We're not that good. There's not a lot for us to grasp onto. We
 can't trust our eyes. We can't trust our experiences. We can't trust the
 systems that we’ve built. All of it is artificial.
 
-![](media/image5.jpg){width="6.499043088363955in"
-height="4.100695538057742in"}
+![Figure 3: Still from ‘Scoobert Doobert Eats a Banana in the Void’](imgs/7.3)
+
+<br/>
 
 And then what do you do with that knowledge, according to Socrates? You
 laugh! And you just say, like, ‘I don't really know what good *is*, but
@@ -224,12 +227,12 @@ hard time communicating because he was trying to deconstruct language
 with language, rather than just laughing.
 
 *Since we’re having an academic discussion about memes, I feel like we
-should probably talk about Richard Dawkins. I haven’t actually read* The
-Selfish Gene*—I was supposed to read it in grad school but I think I was
+should probably talk about Richard Dawkins. I haven’t actually read The
+Selfish Gene —I was supposed to read it in grad school but I think I was
 busy that week—but I’m interested in him as a figure, because before I
 knew he was ‘the memes guy,’ I just thought of him as ‘that stuffy old
 British dude who’s shitty about Muslims,’ and I’m fascinated by a guy
-who’s so on-point about one thing and so wrong about everything else. *
+who’s so on-point about one thing and so wrong about everything else.*
 
 Definitely. Richard Dawkins is funny because, like, my first
 introduction to him was some of my religious friends showing me, like,
@@ -262,7 +265,7 @@ sailed to America to prove the world was round’ kind of understanding.
 It's wrong, but it works as a placeholder until you can learn how it
 really is. But the longer you sit with that incorrect understanding as
 the objective truth, the more ossified it becomes and the harder it is
-to break out of it. *
+to break out of it.*
 
 Yeah, exactly. There is a hidden danger in the economic theory of
 specialization, where you look at people as little machines—even if
@@ -356,13 +359,13 @@ powerful about humor is the reaction is so immediate and visceral.
 Someone tells a joke and either you laugh or you don’t, there’s no
 faking it. And a joke is often an observation about the world, so when
 someone laughs at your joke, it's because they share some of your
-underlying assumptions about the way the world works. *
+underlying assumptions about the way the world works.*
 
 *I mean like so much of the stuff that you're doing is genuinely funny,
 but it's always in service of the other stuff that you're grappling
 with, like deconstructing the absurdity of modern life and, you know,
 Derrida or whatever. Humor can be in service of these like larger things
-that don't go down so smoothly without it, you know? *
+that don't go down so smoothly without it, you know?*
 
 Definitely, definitely. I think it's interesting how there are certain
 things that translate really well across cultures—like character acting,
@@ -373,19 +376,18 @@ try and bring a healthy dose of that to what I'm doing, and hopefully
 make stuff that’s cross-cultural. I don't want to get too swept up in
 the U.S. and thinking that our problems are the universals.
 
-*Will Farrell is a funny example because, did you see that* EuroVision
-*movie that came out like last year? I mean, it wasn’t great; but the
+*Will Farrell is a funny example because, did you see that EuroVision movie that came out like last year? I mean, it wasn’t great; but the
 thing that I thought was interesting about that movie was 1) it was
 clearly intended for an international audience (i.e. people who watch
 EuroVision), and 2) all of the humor is visual. There aren’t really any
 funny lines of dialogue, all of the jokes are in the camera tricks or
 the staging or all of these other things that are unique to the language
 of film; which is great, because it’s kinda rare for American comedies
-to meaningfully engage with the medium of film in their humor* — *it’s
+to meaningfully engage with the medium of film in their humor — it’s
 mostly just a camera pointed at people while they tell jokes. It begs
 the question of what’s even the point of making something as complicated
 and expensive as a movie when the content could just as easily be
-delivered through a much simpler medium? *
+delivered through a much simpler medium?*
 
 That's a good way of looking at it. And I think that that's a good way
 to kind of flip the narrative, because I know a lot of people are really
@@ -427,7 +429,7 @@ than my love of \[whatever unpopular thing\]. Sure. But it also has
 people doing some like pretty weird mental gymnastics trying to
 politicize every consumer decision they make. It just seems a little
 unnecessary, and frustrating for everyone involved. It just becomes
-another thing to get angry at strangers on Twitter about. *
+another thing to get angry at strangers on Twitter about.*
 
 Yeah, but I feel like that goes back to control. For a long time we had
 this illusion of control that felt safe but boring. Now there are cracks
@@ -444,14 +446,16 @@ responses, not just from the policy angle, but like from businesses,
 from people, from neighbors. And then it all eroded it into storming the
 Capitol.
 
-*Totally. What strikes me most about your album* Masks and Monsters *is
+*Totally. What strikes me most about your album Masks and Monsters is
 how it feels almost nostalgic now*—*there was that period in 2020 from
 around March to May when it really felt like everyone on planet earth
 was dealing with the same problem for the first time ever. It’s like we
 were all right on the verge of this incredible epiphany and then just
 ran screaming in the other direction.*
 
-![](media/image7.jpg){width="6.5in" height="4.2062707786526685in"}
+![Figure 4: Still from the music video for ‘Why, How, Yeah, Yeah’](imgs/7.4)
+
+<br/>
 
 COVID connected all of us, and I think a lot of people were extremely
 uncomfortable with that. Just consider all of the rich people fleeing to
@@ -490,7 +494,7 @@ possible.
 conversation back to humor one more time. Humor is a powerful tool for
 creating in-groups and out-groups, and some of the worst people in
 America have used this to great effect. Do you think there’s a way that
-we could use humor to fight back? *
+we could use humor to fight back?*
 
 Especially in the West, we tend to think linearly and in binaries.
 There’s left and right, with cause-and-effect. One and zero. So, our

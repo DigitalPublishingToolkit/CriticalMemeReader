@@ -17,11 +17,10 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Ibiza Austrian Memes: Reflections on Reclaiming Political Discourse through Memes\
-\
-Anahita Neghabat
+# **Ibiza Austrian Memes: Reflections on Reclaiming Political Discourse through Memes**
 
-[]{#_Hlk66014007 .anchor}\
+###Anahita Neghabat
+
 On 15 October of 2017, for the first time in almost twenty years,
 Austrian citizens elected a far-right government, consisting of a
 coalition between the Christian-conservative Austrian People’s Party
@@ -79,20 +78,11 @@ downloaded a random meme-making app and, because I didn’t want to flood
 my private Instagram stories with countless memes, I spontaneously
 created a meme account: @ibiza\_austrian\_memes.
 
-![Ein Bild, das Text, Person, Zeitung, Mann enthält. Automatisch
-generierte Beschreibung](media/image1.jpg){width="4.322834645669292in"
-height="4.330708661417323in"}\
-\
-Fig. 1. One of my first memes posted on @ibiza\_austrian\_memes in the
-first couple of days following the Ibiza-scandal. It depicts former vice
-chancellor and FPÖ leader Heinz-Christian Strache and former FPÖ
-politician Johann Gudenus, who were both filmed on Ibiza. Both are
-smiling and giving a thumbs up. The text reads, ‘When people have
-12-hour shifts because of you but you are unemployed’, referring to the
-loosening of labor laws and introduction of a 12-hour workday by the
-ÖVP-FPÖ government in 2018.
+![Fig. 1. One of my first memes posted on @ibiza\_austrian\_memes in the first couple of days following the Ibiza-scandal. It depicts former vice
+chancellor and FPÖ leader Heinz-Christian Strache and former FPÖ politician Johann Gudenus, who were both filmed on Ibiza. Both are smiling and giving a thumbs up. The text reads, ‘When people have 12-hour shifts because of you but you are unemployed’, referring to the loosening of labor laws and introduction of a 12-hour workday by the ÖVP-FPÖ government in 2018.[^14chapter12_1]](imgs/12.1.jpeg)
 
-[^14chapter12_1]
+<br/>
+
 
 What started as a small idea quickly grew into a big project. After only
 two days of posting, I already had 5000 followers and it became apparent
@@ -124,7 +114,7 @@ moderating comments, deleting hate-speech, and replying to problematic
 comments, even providing sources for the facts I build my arguments on
 in my replies.
 
-## Shaping Public Discourse with Memes: When Mainstream Media Sucks\
+## Shaping Public Discourse with Memes: When Mainstream Media Sucks
 
 I think one of the reasons my memes resonate with so many people is that
 by analyzing Austrian interior politics from an explicitly anti-racist
@@ -175,14 +165,10 @@ political actors. SpongeBob’s expression is also funny: He looks
 confused, lost and even a little desperate. The meme thus also belittles
 Sebastian Kurz, his actions and political rhetoric by ridiculing it.
 
-![](media/image2.jpg){width="4.665354330708661in"
-height="4.330708661417323in"}\
-\
-Fig. 2. A meme depicting cartoon character SpongeBob Squarepants. It
-criticizes chancellor Sebastian Kurz’ use of the term ‘Judeo-Christian’.
-The meme was made and posted by me on the Instagram page
-@ibiza\_austrian\_memes.\
-\
+![Fig. 2. A meme depicting cartoon character SpongeBob Squarepants. It criticizes chancellor Sebastian Kurz’ use of the term ‘Judeo-Christian’. The meme was made and posted by me on the Instagram page @ibiza\_austrian\_memes.](imgs/12.2.jpeg)
+
+<br/>
+
 Along with the meme, I wrote a caption with which I contextualized and
 criticized the term ‘Judeo-Christian’ by pinpointing several problematic
 aspects: first, insisting on a ‘Judeo-Christian’ European or Austrian
@@ -201,8 +187,8 @@ problem.[^14chapter12_8] This framing of Orientalized, supposedly ‘Muslim’
 immigrants as perpetrators not only discursively distracts from the fact
 that they are marginalized and affected by anti-Muslim racism, but it
 also erases Austria’s National Socialist history and antisemitic
-present.\
-\
+present.
+
 Using memes, which are enjoyable and quickly readable, as the central
 medium for voicing my criticism enables me to reach a lot of users, many
 of whom then proceed to read my written commentary and analysis in the
@@ -229,8 +215,8 @@ amazing post, learned something new again.’ Accordingly, my meme page
 @ibiza\_austrian\_memes, which I would have previously labelled
 satirical political activism, has also been perceived as educational
 work and even been discussed in an art education research context
-before.[^14chapter12_11]\
-\
+before.[^14chapter12_11]
+
 At first glance, it might seem like this is *just* the meme-maker
 telling her story. However, this is not the case. As Limor Shifman
 reminds us, memes are intrinsically tied to practices of copying,
@@ -279,17 +265,10 @@ below humorously addresses a painful truth for many people of color, who
 know what it feels like to be racially profiled and unrightfully
 suspected of being up to something dangerous.
 
-![Ein Bild, das Text enthält. Automatisch generierte
-Beschreibung](media/image3.jpg){width="4.338582677165355in"
-height="4.330708661417323in"}\
-\
-Fig. 3. Posted by @migraobservations on Instagram. The meme consists of
-stock photos showing a person who is protecting their purse and making
-dramatic faces and gestures that can be read as ‘stop’ or ‘leave my
-purse alone’. The text reads: ‘How I’m holding my bag when Almans sit
-down or walk next to me, in the hope of inciting a reflection of their
-racism through my ingenious experiment’.\
-\
+![Fig. 3. Posted by @migraobservations on Instagram. The meme consists of stock photos showing a person who is protecting their purse and making dramatic faces and gestures that can be read as ‘stop’ or ‘leave my purse alone’. The text reads: ‘How I’m holding my bag when Almans sit down or walk next to me, in the hope of inciting a reflection of their racism through my ingenious experiment’.](imgs/12.3.jpeg)
+
+<br/>
+
 Marginalized groups are of course not only using memes, but also more
 conventional media formats to partake in public discourse. There is an
 endless quantity of blog entries, online magazines, and even online talk
@@ -313,17 +292,11 @@ use easily understandable language. The meme below, posted by
 of criticism too. Using an image from an animated children’s movie—a
 medium not typically taken too seriously—it questions the expertise and
 legitimacy of those who are commonly given a platform in political talk
-shows on German TV.\
-\
-![Ein Bild, das Text enthält. Automatisch generierte
-Beschreibung](media/image4.jpg){width="3.858267716535433in"
-height="4.330708661417323in"}\
-\
-Fig. 4. A meme by @kanaxanax on Instagram. It depicts a cartoon
-character turtle from the movie *Kung Fu Panda*, saying ‘My time has
-come’ while gazing into the distance. The added text reads: ‘German talk
-shows when they finally find an opportunity to discuss political and
-radical Islam with 5 white men and 1 German Islam scholar again.’
+shows on German TV.
+
+![Fig. 4. A meme by @kanaxanax on Instagram. It depicts a cartoon character turtle from the movie *Kung Fu Panda*, saying ‘My time has come’ while gazing into the distance. The added text reads: ‘German talk shows when they finally find an opportunity to discuss political and radical Islam with 5 white men and 1 German Islam scholar again.’](imgs/12.4.jpeg)
+
+<br/>
 
 ## Building Resilience Through Memes: When Life Sucks
 
@@ -347,22 +320,12 @@ the meme below after a press conference held by Austria’s Federal
 Minister for Women and Integration. I experienced the press conference
 and its media coverage as very emotionally draining, which is why I
 decided to bring fun into it by ridiculing the minister’s anti-Muslim
-rhetoric with a meme.\
-\
-![Ein Bild, das Text enthält. Automatisch generierte
-Beschreibung](media/image5.jpg){width="4.338582677165355in"
-height="4.330708661417323in"}\
-\
-Fig. 5. A meme I made and posted as @ibiza\_austrian\_memes on
-Instagram. The top depicts part of a newspaper article about Susanne
-Raab, Austrian Federal Minister for Women and Integration, who according
-to the screenshot warned against a ‘fertile ground for violence’ due to
-some people ‘only going to Turkish supermarkets and the mosque.’ Below
-is an image of pop culture figure Baby Yoda, a cute and innocent-looking
-baby alien. The alien is holding a Turkish pastry called Simit, that was
-edited into the original image. Baby Yoda is described as ‘My Simit and
-I’. He says, ‘Hi Susi, I won’t hurt you if you don’t hurt me please
-thanks byyyeee’.
+rhetoric with a meme.
+
+![Fig. 5. A meme I made and posted as @ibiza\_austrian\_memes on Instagram. The top depicts part of a newspaper article about Susanne Raab, Austrian Federal Minister for Women and Integration, who according to the screenshot warned against a ‘fertile ground for violence’ due to some people ‘only going to Turkish supermarkets and the mosque.’ Below is an image of pop culture figure Baby Yoda, a cute and innocent-looking baby alien. The alien is holding a Turkish pastry called Simit, that was edited into the original image. Baby Yoda is described as ‘My Simit and
+I’. He says, ‘Hi Susi, I won’t hurt you if you don’t hurt me please thanks byyyeee’.](imgs/12.5.jpeg)
+
+<br/>
 
 After I had uploaded the meme I received a message from a Muslim
 follower, who wrote, ‘Seriously, I opened your page three or four times
@@ -391,7 +354,7 @@ collective relief during its aftermath. As it turns out, however, we are
 not only making memes when we experience relief—we are also gifting each
 other experiences of relief when we are making memes.
 
-## References\
+## References
 
 Blewitt-Golsch, Ashley Lorraine. 2019. "Transgender Experience Depicted
 Through Memes: An Ethnographic Investigation of Minority Stress and

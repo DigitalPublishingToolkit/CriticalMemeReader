@@ -17,9 +17,9 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Audio Memes, Earworms, and Templatability: the ‘Aural Turn’ of Memes on TikTok\
-\
-Crystal Abidin and Dr. Bondy Valdovinos Kaye 
+# **Audio Memes, Earworms, and Templatability: the ‘Aural Turn’ of Memes on TikTok**
+
+###Crystal Abidin and Dr. Bondy Valdovinos Kaye 
 
 ‘Audio memes’ popularized by TikTok have become the next frontier of
 meme cultures on the internet, presenting an 'aural turn' in meme
@@ -447,7 +447,7 @@ Kumar, Sangeet. “Contagious Memes, Viral Videos and Subversive Parody:
 The Grammar of Contention on the Indian Web.” *International
 Communication Gazette* 77, no. 3 (2015): 232–247.
 
-[]{#_Hlk73378913 .anchor}Leaver, Tama, Tim Highfield, and Crystal
+Leaver, Tama, Tim Highfield, and Crystal
 Abidin. *Instagram: Visual Social Media Cultures.* Cambridge: Polity
 Press, 2020.
 

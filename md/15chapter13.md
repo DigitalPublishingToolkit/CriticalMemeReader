@@ -17,11 +17,10 @@ Rights: CC BY-NC 4.0
 ...
 
 
-Dear Mr.BoneSaw your face smells like a chicken shawarma:\
-A Clapback to Saudi Arabia’s Electronic Army\
-\
-Saeeda Saeed\
-\
+#Dear Mr.BoneSaw your face smells like a chicken shawarma: A Clapback to Saudi Arabia’s Electronic Army
+
+###Saeeda Saeed
+
 Hello:) My pseudonym is Saeeda Saeed, and I’m an e-activist from Saudi
 Arabia. This is the story of how I came to devise an Instant Meme Noise
 Generator that spews out nonsensical insults to the top 10 Saudi
@@ -51,14 +50,13 @@ to drown out official state-run tweets, to vent and express frustration
 directly towards state institutions that have prosecuted, harassed and
 silenced critical voices within the Saudi authoritarian regime.
 
-## \
-The Rise of Hypernationalism in Saudi Arabia
+## The Rise of Hypernationalism in Saudi Arabia
 
 Imagine an electronic dance music festival with DJ David Guetta remixing
 pro-regime patriotic songs: the crowd goes wild when the beat drops on
-the lyrics ‘LONG LIVE THE SALMANS.’
+the lyrics ‘LONG LIVE THE SALMANS.’[^15chapter13_1] 
 
-[^15chapter13_1] Prior to gaining the nickname Mr.BoneSaw, the crown prince Mohammed
+Prior to gaining the nickname Mr.BoneSaw, the crown prince Mohammed
 Bin Salman—also known as MBS—was quick to gain the support of the Saudi
 transnational google generation aged 15 to 34 which make up 36.7% of the
 population.[^15chapter13_2] Upon his anointment in April 2017, he led several
@@ -147,8 +145,9 @@ This virtually unspoken yet constantly looming reminder led people to
 self-censor in public, retreating to self-organized and mobilized
 underground physical safe spaces.
 
-![](media/image2.png){width="2.345138888888889in"
-height="4.404166666666667in"}
+![Image Source: Whisper App @Yellow_Net](imgs/13.1.jpeg)
+
+<br>
 
 A similar pattern is reflected online where users are seemingly silent
 but are actually in constant movement searching and replatforming on to
@@ -210,12 +209,18 @@ measures. All these are highly critical topics that would have been
 flagged had they been framed in the form of tweets or interviews, but
 dressed in the vernacular of memes they seem to be dismissed by state.
 Michel Foucault touches upon the
-![](media/image4.png){width="6.738194444444445in"
-height="3.1972222222222224in"}
-
 notion of ‘disqualified knowledges’ when he writes that ‘It is through
 the re-appearance of this knowledge, of the local popular knowledges,
 the disqualified knowledges, that criticism performs its work.’[^15chapter13_11]
+
+![The covid19 contact tracing app is called Tawakalna which roughly translates to God be with you. This meme deletes the app ands write to it God be with you.](imgs/13.2.jpeg)
+
+<br/>
+
+![Meme commenting on police raid during the nationwide crackdown on illegal immigrants](imgs/13.3.jpeg)
+
+<br/>
+
 
 This underlies that idea that the distance between the very serious and
 very silly is quite small. The epistemology of nonsense has been used
@@ -245,7 +250,11 @@ in the visual vernacular of internet memes, and thus generally
 disregarded as trolls being a nuisance, with little to no ramifications
 other than your account being taken down.
 
-## ![](media/image10.png){width="5.708333333333333in" height="3.5in"}The Instant Meme Noise Generator
+## The Instant Meme Noise Generator
+
+![Some of the insults coded into the randomized insult generator.](imgs/13.5.jpeg)
+
+<br/>
 
 A study titled ‘Dissecting the Meme magic: Understanding Indicators of
 Virality in Meme Images’ found that memes that trigger high arousal
@@ -274,7 +283,7 @@ large button for a total of 4 rounds; each round randomly generated
 insults with the final round tagging one of the Top 10 State run Media
 accounts and directly uploading the sentence on to Twitter in real time.
 (In order to play log onto on to
-[*https://insultgenerator.club/*](https://insultgenerator.club/) )
+[*https://insultgenerator.club/*](https://insultgenerator.club/))
 
 An example randomly generated Insult:
 
@@ -285,8 +294,15 @@ An example randomly generated Insult:
 \[round 3\] MOULDED CHEESE
 
 \[round 4\] TAG STATE MEDIA
-ACCOUNT![](media/image12.png){width="7.24375in"
-height="3.2743055555555554in"}\[final round \] UPLOAD TO TWITTER
+ACCOUNT
+
+![Gigantic key cap from Novel Keys: Big Switch Series.](imgs/13.6.jpeg)
+
+<br/>
+
+![An example of a nonsensical insult generated post on Twitter.](imgs/13.7.jpeg)
+
+<br/>
 
 Now I that I had the mechanism of the game, I needed to find out when
 and which accounts I should target, and what was the most optimal way to

@@ -17,9 +17,9 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Memes in Kuwait as Coping Mechanism for a Lack of Infrastructure\
-\
-Yasmeen Khaja
+# **Memes in Kuwait as Coping Mechanism for a Lack of Infrastructure**
+
+###Yasmeen Khaja
 
 When the pandemic arrived in Kuwait, things happened fast. Makeshift
 COVID-19 testing centers were quickly organized, tracking technologies
@@ -69,13 +69,9 @@ consequences. In effect, so is their dealing with it. The sticker comes
 from the same place that yields uneasiness—the screen—except it lets us
 reconcile it.
 
-![Curfew, no curfew. Digital animated sticker. Received on WhatsApp.
-February 21, 2021. Fig. 1 Curfew, no
-curfew.](media/image1.jpeg){width="2.0833333333333335in"
-height="4.5488156167979in"}
+![Fig. 1 Curfew, no curfew. Digital animated sticker. Received on WhatsApp. February 21, 2021.](imgs/6.1.jpg)
 
-Fig. 1 Curfew, no curfew. Digital animated sticker. Received on
-WhatsApp. February 21, 2021.
+<br/>
 
 A lack of planning and foresight—it seemed—left the government with an
 ad hoc strategy that appeared to rely on trial and error. Whether this
@@ -124,12 +120,9 @@ and a symbolic figure dearly nicknamed the hummingbird of the Gulf—with
 a photoshopped mask asking ‘ملكي ولا استيديو؟’ (‘King suite or
 studio?’).
 
-![Fig. 2 King suite or
-studio?](media/image2.jpeg){width="2.7777777777777777in"
-height="2.7777777777777777in"}
+![Fig. 2 King suite or studio? Digital image. Received on WhatsApp. February 25, 2020.](imgs/6.2.jpg)
 
-Fig. 2 King suite or studio? Digital image. Received on WhatsApp.
-February 25, 2020.
+<br/>
 
 Another meme from this period: a video of a woman declaring the free
 food provided at the resort to be bland, inedible, oily, and the salad
@@ -152,13 +145,9 @@ and that its citizens ought to see it that way. Beyond the nationalist
 rhetoric, Dr. Mona isn’t wrong: if your quarantine facility is a resort,
 *something* must be working in your favor.
 
-![The salad doesn't have dressing. Digital sticker. Received on
-WhatsApp. March 5, 2021. Fig 3. The salad doesn't have
-dresing.](media/image3.jpeg){width="2.7777777777777777in"
-height="2.7777777777777777in"}
+![Fig 3. The salad doesn't have dressing. Digital sticker. Received on WhatsApp. March 5, 2021.](imgs/6.3.jpg)
 
-Fig 3. The salad doesn't have dressing. Digital sticker. Received on
-WhatsApp. March 5, 2021.
+<br/>
 
 A lot happens around a joke like this, and the activity alone means
 there is attention and thereby potential for something to be done, or
@@ -269,21 +258,13 @@ The jokes aren’t funny, but to address them as unfunny would be to
 address a message that is far from the message that this meme carries.
 When it comes to memes, the joke is the point.
 
-![Saltbae meme with Iran, Coronavirus, and Kuwait. Digital image.
-Received on WhatsApp. Feb 27, 2020. Fig. 4 Iran, Kuwait,
-Coronavirus](media/image4.jpeg){width="2.7777777777777777in"
-height="3.5159995625546805in"}
+![Fig. 4 Saltbae meme with Iran, Coronavirus, and Kuwait. Digital image. Received on WhatsApp. Feb 27, 2020](imgs/6.4.jpg)
 
-Fig. 4 Saltbae meme with Iran, Coronavirus, and Kuwait. Digital image.
-Received on WhatsApp. Feb 27, 2020
+<br/>
 
-![This time it really is Iran's fault. Digital sticker. Received on
-WhatsApp. March 5, 2021. Fig. 5 This time it really is Iran's
-fault.](media/image5.tif){width="2.7777777777777777in"
-height="2.7777777777777777in"}
+![Fig. 5 This time it really is Iran's fault. Digital sticker. Received on WhatsApp. March 5, 2021](imgs/6.5.jpg)
 
-Fig. 5 This time it really is Iran's fault. Digital sticker. Received on
-WhatsApp. March 5, 2021
+<br/>
 
 There have been multiple critiques of the failure of the Kuwaiti
 government to address the root of problems. Policies have long protected

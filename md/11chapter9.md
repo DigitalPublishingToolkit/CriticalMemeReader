@@ -17,9 +17,9 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Making poetry babies in an online world\
-\
-Laurence Scherz
+# **Making poetry babies in an online world**
+
+###Laurence Scherz
 
 If there were a meeting akin to alcoholics anonymous for the
 overconsumption of memes, I would be the first to lift my butt off the
@@ -145,7 +145,7 @@ DJs.
 
 ## I Worked Out in My Mind
 
-## The joke or 'clue' of a meme is very often—yet not always—a punchline that is accomplished with visual aid. Depriving the reader of this visual information when dragging the meme language into fiction, into these assembled poems, sometimes proved effective. An additional weirdness entered the scene, or, the joke was still understood and shone brightly in its new-found appearance. But sometimes the transposition missed the mark completely. 
+The joke or 'clue' of a meme is very often—yet not always—a punchline that is accomplished with visual aid. Depriving the reader of this visual information when dragging the meme language into fiction, into these assembled poems, sometimes proved effective. An additional weirdness entered the scene, or, the joke was still understood and shone brightly in its new-found appearance. But sometimes the transposition missed the mark completely. 
 
 Cutting up these jokes laid them bare in a way that was quite
 surprising, almost reminiscent of the American author William Burroughs'
@@ -177,11 +177,11 @@ entered the gates of poetry.
 
 ## Lean Mean Meme Machine
 
-## The term *meme* originates from the ancient Greek word *mīmēma*, meaning 'something that is imitated'.[^11chapter9_14] There’s a meme in my catalogue for this too: 'We get it, poets, things are *like* other things.' 
+The term *meme* originates from the ancient Greek word *mīmēma*, meaning 'something that is imitated'.[^11chapter9_14] There’s a meme in my catalogue for this too: 'We get it, poets, things are *like* other things.' 
 
-## Life imitates life, poetry imitates life imitating life, metaphors and parables are flying around in an intense Droste effect that makes your head spin. Almost always signifying something outside themselves, memes are akin to a poet looking out of their window and describing the world through comparisons, referenced symbolism and insider jokes (sometimes only referring to the poem they are in). Is this poet, writing their new-found hybrids with all the pastiche, montage and remix they posses, not just a Marcel Duchamp, casually plucking ready-mades from the web and putting them on a literary pedestal? 
+Life imitates life, poetry imitates life imitating life, metaphors and parables are flying around in an intense Droste effect that makes your head spin. Almost always signifying something outside themselves, memes are akin to a poet looking out of their window and describing the world through comparisons, referenced symbolism and insider jokes (sometimes only referring to the poem they are in). Is this poet, writing their new-found hybrids with all the pastiche, montage and remix they posses, not just a Marcel Duchamp, casually plucking ready-mades from the web and putting them on a literary pedestal? 
 
-## Avant-garde works such as Duchamp's and, naturally, the Dada artists’, had 'constantly been built around a critique of notions of originality, identity, and property'.[^11chapter9_15] This might explain my simmering intuition that intentional vagueness was needed around which lines of my poems were quotes from the internet, and which were by my own hand. Surely, a hundred years later you would think notions of authorship and originality had evolved enough to make me care less—but alas. Perhaps the contemporary poet who's using recycled digital texts is not a Dada artist after all. Maybe, as I've joked unwisely, a DJ? Or something else altogether?
+Avant-garde works such as Duchamp's and, naturally, the Dada artists’, had 'constantly been built around a critique of notions of originality, identity, and property'.[^11chapter9_15] This might explain my simmering intuition that intentional vagueness was needed around which lines of my poems were quotes from the internet, and which were by my own hand. Surely, a hundred years later you would think notions of authorship and originality had evolved enough to make me care less—but alas. Perhaps the contemporary poet who's using recycled digital texts is not a Dada artist after all. Maybe, as I've joked unwisely, a DJ? Or something else altogether?
 
 In a *New Yorker* article titled ‘The Writer as Meme Machine’, poet and
 critic Kenneth Goldsmith sees poetry slipping out the backdoor, running

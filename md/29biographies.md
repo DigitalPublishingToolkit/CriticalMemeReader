@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Biographies
+# **Biographies**
 
 **Abidin Abidin and D. Bondy Valdovinos Kaye**
 
@@ -44,7 +44,7 @@ Press to be published in 2022. He has also published research on
 creative labor in India, digital nationalism in China, and cultural
 policy in Myanmar.
 
-**Anirban K. Baishya **
+**Anirban K. Baishya**
 
 Anirban Baishya is an Assistant Professor at the Communication and Media
 Studies Department, Fordham University. His current research examines
@@ -56,7 +56,7 @@ Communication*, *Communication, Culture & Critique*, *South Asian
 Popular Culture*, *Porn Studies*, *South Asia: Journal of South Asian
 Studies* and *Media, Culture and Society.*
 
-**Aarushi Bapna and Ajitesh Lokhande **
+**Aarushi Bapna and Ajitesh Lokhande**
 
 Aarushi Bapna is a visual communicator, designer, and researcher from
 India. She graduated with a Bachelor's in Design (Graphic Design) from
@@ -79,7 +79,7 @@ the DeSForM 2019 conference organized by the MIT Design Lab.
 
 Both Aarushi and Ajtesh are a part of the Critters' Collective.
 
-**Grant Bolmer **
+**Grant Bolmer**
 
 Grant Bollmer is the author of three books, *Inhuman Networks: Social
 Media and the Archaeology of Connection* (2016), *Theorizing Digital
@@ -90,8 +90,8 @@ completing a book on the history of technologies used in psychological
 research on emotion. He is an Associate Professor of Media Studies at
 North Carolina State University, where he teaches in the Department of
 Communication and the Ph.D. Program in Communication, Rhetoric, and
-Digital Media (CRDM).\
-\
+Digital Media (CRDM).
+
 **Stephanie Boulding**
 
 Stephanie Boulding is a teller of stories. She is interested in the
@@ -117,12 +117,12 @@ and Work in Kinshasa*, forthcoming with the University of Wisconsin
 Press, focuses on the ways that popular dance, in its embodied and
 symbolic forms, participates in the construction of an urban experience.
 
-**Anthony Burton **
+**Anthony Burton**
 
-## \
+
 Anthony Glyn Burton is a Ph.D. student and SSHRC Joseph Bombardier Fellow in the Department of Communications at Simon Fraser University. Anthony’s research is broadly concerned with the networked development of epistemologies and ideology in technological and datafied environments. He has published in *First Monday*, the *International Journal of Communications*, the *Canadian Journal of Communications*, and the *Harvard Misinformation Review*. He also co-convenes the Techne/Technics/Technology (3T) reading and research group with the Associação de Pesquisas e Práticas em Humanidades (Porto Alegre). He graduated from Ryerson and York University’s Master of Arts in Communication & Culture, where he wrote his thesis on involuntary celibacy, programmatic epistemology, and masculinity under neoliberalism. He is a researcher at the Digital Democracies Institute, the Infoscape Lab at Ryerson University, and affiliated with the Open Intelligence Lab at the University of Amsterdam. [https://anthbrtn.com](https://anthbrtn.com/).
 
-**Caspar Chan **
+**Caspar Chan**
 
 Caspar Chan, originally from Macau, is a current Research Master student
 of Arts and Culture at the University of Groningen, following the track
@@ -135,7 +135,7 @@ University. Raised as a music scholar and being a keen traveler, he also
 writes on music, travel, heritage, and culture on different local and
 international platforms, as well as in various journals and newspapers.
 
-**Clusterduck **
+**Clusterduck**
 
 [*Clusterduck*](https://clusterduck.space) is a collective working at
 the crossroads of research, design and transmedia, focusing on social
@@ -150,7 +150,7 @@ interviews with Swedish philosophers on the Covid-19 pandemic. Aside
 from meme-culture, Åke is interested in metaethics, pragmatism and the
 philosophy of religion.
 
-**Idil Galip **
+**Idil Galip**
 
 İdil Galip is a writer, researcher and maker. Her work explores the
 intersections of digital culture and labour, especially with relation to
@@ -159,8 +159,7 @@ University of Edinburgh, finishing up her thesis titled *Art Worlds
 Online: Memes, Labour and Politics*. She is also the founder and
 convener of the Meme Studies Research Network. 
 
-**Martin Hanßen\
-**
+**Martin Hanßen**
 
 Martin Hanßen is an art and visual historian. He works as an art
 educator for the Berlin State Museums and teaches art history online.
@@ -183,7 +182,7 @@ Currently he is a graduate research student at the University of
 Melbourne, where his work examines theories of scale and abstraction in
 philosophy and media.
 
-**Max Horwich **
+**Max Horwich**
 
 Max Horwich is a musician, designer, teacher and creative technologist
 based in Brooklyn, NY. His work explores the intersections of new media
@@ -222,7 +221,7 @@ College London in 2021 for a thesis entitled *Meme-work: Psychoanalysis
 and the alt-right*. His research focuses on questions of psychoanalysis
 and masculinity.
 
-**Jacob Sujin Kuppermann **
+**Jacob Sujin Kuppermann**
 
 Jacob Sujin Kuppermann is an interdisciplinary researcher and writer
 currently living in the San Francisco Bay Area. Their work focuses on
@@ -317,11 +316,11 @@ German-American origin, based in Philadephia and London. As artists,
 comedians and academics, they are interested in the radical potential of
 lols and using them to jinx the constraints of consensus reality.
 
-**Marc Tuters **
+**Marc Tuters**
 
 X
 
-**Sabrina Ward-Kimola **
+**Sabrina Ward-Kimola**
 
 Sabrina Ward-Kimola is a Research Associate with the Infoscape Lab. She
 is currently a student at Ryerson/York’s joint program in Communication
@@ -333,7 +332,7 @@ North America. Her more general research interests include critical
 theory, post-hermeneutics, virtual embodiment and platform
 infrastructures.
 
-**Scott Wark **
+**Scott Wark**
 
 Scott Wark is a Research Fellow for the Wellcome-funded project, People
 Like You: Contemporary Figures of Personalisation. He is based at the

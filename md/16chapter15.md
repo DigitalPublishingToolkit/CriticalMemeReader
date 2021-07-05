@@ -17,10 +17,9 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# A Postdigital Angel of History? On ‘Meme Theory’\
-\
-Scott Wark\
-\
+# A Postdigital Angel of History? On ‘Meme Theory’
+
+###Scott Wark
 
 ![](media/image1.jpeg){width="4.7972222222222225in" height="3.19375in"}
 

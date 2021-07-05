@@ -17,9 +17,9 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Mimetic Sameness\
-\
-Grant Bollmer
+# **Mimetic Sameness**
+
+###Grant Bollmer
 
 ## A New Replicator, A New Exterior to Rationality
 
@@ -32,9 +32,7 @@ behavior acceptable to his particular Darwinian sensibilities. Hence the
 need for a ‘new replicator’, the meme, a ‘thing’ analogous to a gene
 which obeys many of the same genetic principles Dawkins sketches
 elsewhere. The meme is ‘a unit of cultural transmission, or a unit of
-*imitation*’,
-
-[^15chapter14_1] one that follows a rationalistic logic of evolution. The meme is
+*imitation*’,[^15chapter14_1] one that follows a rationalistic logic of evolution. The meme is
 that which gives us ‘culture’: culture as an accumulation of discrete,
 competing practices, trends, and statements—‘tunes, ideas,
 catch-phrases, clothes fashions, ways of making pots or of building
@@ -369,8 +367,7 @@ the trick of the meme is to induce sameness at an individual level, with
 each person believing themselves to be the origin of the meme through
 which they become united as a fascist mass.
 
-## \
-The Uncanny and the Dream-Meme 
+## The Uncanny and the Dream-Meme 
 
 The eeriness of the double is essential for any Freudian notion of the
 uncanny. The doppelgänger is a failed copy, a duplicate that is partial,

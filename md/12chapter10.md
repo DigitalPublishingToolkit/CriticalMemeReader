@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-**A SELL FOR FILLING PROPHECY **
+#**A SELL FOR FILLING PROPHECY**
 
 When you accidentally write 'satan'
 
@@ -253,7 +253,7 @@ u
 
 come back, plz.
 
-**RACISTS DON'T DESERVE MOLLY**
+#**RACISTS DON'T DESERVE MOLLY**
 
 A woman’s
 
@@ -371,7 +371,7 @@ not
 
 garbage cannot
 
-**PUTTING THE PRO IN UNPRODUCTIVE**
+#**PUTTING THE PRO IN UNPRODUCTIVE**
 
 Live life to the fullest:
 

@@ -33,10 +33,10 @@ server. 
 To learn more and join the network,
 visit [*http://memestudiesrn.wordpress.com*](http://memestudiesrn.wordpress.com) 
 
-Follow us on
+Follow the MSRN on
 Twitter [*http://twitter.com/MemeStudiesRN*](http://twitter.com/MemeStudiesRN) 
 
-E-mail us
+E-mail the MSRN
 at [*memestudiesrn@gmail.com*](mailto:memestudiesrn@gmail.com) 
 
-![](media/image1.png){width="6.3in" height="4.725in"}
+![](imgs/30.1)

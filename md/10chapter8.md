@@ -17,10 +17,9 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Le Meme d’Auteur, or:\
-How We Learned to Stop Worrying and Love Original Content Memes.\
-\
-Clusterduck (Silvia Dal Dosso, Francesca Del Bono, Aria Mag, Noel Nicolaus)
+# Le Meme d’Auteur, or: How We Learned to Stop Worrying and Love Original Content Memes.
+
+###Clusterduck (Silvia Dal Dosso, Francesca Del Bono, Aria Mag, Noel Nicolaus)
 
 At the start of the third decade of the 21st century, while internet
 Memes certainly can’t be considered a cultural novelty anymore, their
@@ -457,7 +456,9 @@ direction.
 
 Anonymous. “On Vectoralism & the Meme Alliance's General Strike.” *The
 Philosopher’s Meme*, October 27.
-<http://thephilosophersmeme.com/2016/10/27/on-vectoralism-and-the-meme-alliance/>.Anothercountyheard.
+<http://thephilosophersmeme.com/2016/10/27/on-vectoralism-and-the-meme-alliance/>.
+
+Anothercountyheard.
 “The Verdict on Vaporwave.” *Anothercountyheard Blogspot*. March 19,
 2013.
 <a href="https://anothercountyheard.blogspot.com/2013/03/the-verdict-on-vaporwave.html">https://anothercountyheard.blogspot.com/2013/03/the-verdict-on-vaporwave.html</a>.
@@ -534,8 +535,7 @@ Subculture.” *Best Stories Online*, October 1, 2015.
 
 Wofford, Taylor. “Fuck You And Die: An Oral History of Something Awful.”
 *Vice*, April 5, 2017.
-<a href="https://www.vice.com/en/article/nzg4yw/fuck-you-and-die-an-oral-history-of-something-awful.Confessions">https://www.vice.com/en/article/nzg4yw/fuck-you-and-die-an-oral-history-of-something-awful.Confessions</a>
-of a Meme-oholic:
+<a href="https://www.vice.com/en/article/nzg4yw/fuck-you-and-die-an-oral-history-of-something-awful.Confessions">https://www.vice.com/en/article/nzg4yw/fuck-you-and-die-an-oral-history-of-something-awful</a>.
 
 [^10chapter8_1]: Limor Shifman, *Memes in Digital Culture* (Cambridge, Mass.: The
     MIT Press, 2013), 49.
