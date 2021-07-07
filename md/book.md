@@ -8354,7 +8354,7 @@ edition. Kegan Paul, Trench, Trubner & Co.
 
 ## How Many Layers Are You On?
 
-![Fig. 1 - The 'Layers of Irony' Meme - first posted to the ‘Special Meme Fresh’ Facebook page on October 24th, 2015](imgs/17.1)
+![Fig. 1: The 'Layers of Irony' Meme - first posted to the ‘Special Meme Fresh’ Facebook page on October 24th, 2015](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/17.1.jpeg)
 
 <br/>
 
@@ -8998,7 +8998,7 @@ accessible to any person with an internet connection.
 
 ### Types of ‘Aestheticization of Politics’
 
-![Fig. 1 Types of Aestheticization of Politics](imgs/18.1.jpeg)
+![Fig. 1: Types of Aestheticization of Politics](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/18.1.jpeg)
 
 <br/>
 
@@ -9031,7 +9031,7 @@ of this fact-defying virality is its visuality.
 
 ### Meme 1: One Nation, One Flag
 
-![Fig. 2 One Nation One Flag. Source: @saffronpilled, One Nation One Flag, 2019, Instagram Post, <https://www.instagram.com/p/BzA4B9cFs7W/>](imgs/18.2.jpeg)
+![Fig. 2: One Nation One Flag. Source: @saffronpilled, One Nation One Flag, 2019, Instagram Post, <https://www.instagram.com/p/BzA4B9cFs7W/>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/18.2.jpeg)
 
 <br/>
 
@@ -9062,7 +9062,7 @@ immersed in digital culture.
 
 ### Meme 2: Hindu Lives Matter
 
-![Fig. 3 Hindu Lives Matter Source: @bharatincrisis, Hindu Lives Matter meme, 2020, Instagram Post, <https://www.instagram.com/p/CLMMSfdABK6/?igshid=1kf3pts4eyki3>](imgs/18.3.jpeg)
+![Fig. 3: Hindu Lives Matter Source: @bharatincrisis, Hindu Lives Matter meme, 2020, Instagram Post, <https://www.instagram.com/p/CLMMSfdABK6/?igshid=1kf3pts4eyki3>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/18.3.jpeg)
 
 <br/>
 
@@ -9091,8 +9091,8 @@ completely false equivalence to support its position.
 
 ### Meme 3: Sanskari (Virtuous) Girl meme
 
-![Fig. 4 Girl wearing Sari
-Source: @hindutvamemes, Girl Wearing Sari, 2021, Instagram Post, <https://www.instagram.com/p/CNt4ug6Lxd4>](imgs/18.4.jpeg)
+![Fig. 4: Girl wearing Sari
+Source: @hindutvamemes, Girl Wearing Sari, 2021, Instagram Post, <https://www.instagram.com/p/CNt4ug6Lxd4>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/18.4.jpeg)
 
 <br/>
 
@@ -9129,10 +9129,10 @@ Adapting historical and political contexts to trendy visual genres or
 subcultures to appeal to their respective audiences. These trends may
 include aesthetic styles, current events & pop culture references.
 
-![Fig. 5 ‘Govt’s involvement in protecting Hindu temple and civilization’ Fig. 5 is a reference to a ship getting stuck at the Suez Canal in March
+![Fig. 5: ‘Govt’s involvement in protecting Hindu temple and civilization’ Fig. 5 is a reference to a ship getting stuck at the Suez Canal in March
 ‘21 and was a heavily used meme format. Here the messaging points at religious (Hindu) victimization even though the group is a vast majority
 in the country. This is a classic example of Trendification. Source: @indic\_history\_memes, ‘Govt’s involvement in protecting Hindu temple and civilization’, 2021, Instagram Post,
-<https://www.instagram.com/p/CM3wFp4Bl82>.](imgs/18.5.jpeg)
+<https://www.instagram.com/p/CM3wFp4Bl82>.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/18.5.jpeg)
 
 <br/>
 
@@ -9142,14 +9142,14 @@ in the country. This is a classic example of Trendification. Source: @indic\_his
 Associating an idea with positive and emotive language. Juxtaposing an
 ideological message with euphoric or cheerful imagery.
 
-![ Fig. 6 ‘Nudes…? No girl. The meme (fig.6) is a reference to the popular culture of sharing nudes.
-However, this is depicted as a ‘vice’, and doing pooja (engaging in worship) is depicted as a ‘virtuous’ act. The aesthetic used is of a popular AR filter and the imagery is of a young Hindu monk. Source: @rastrawadi\_dank\_memes, ‘Nudes…? No Girl’, 2021, Instagram Post, <https://www.instagram.com/p/CNkgd-4hfxp>](imgs/18.6.jpeg)
+![ Fig. 6: ‘Nudes…? No girl. The meme (fig.6) is a reference to the popular culture of sharing nudes.
+However, this is depicted as a ‘vice’, and doing pooja (engaging in worship) is depicted as a ‘virtuous’ act. The aesthetic used is of a popular AR filter and the imagery is of a young Hindu monk. Source: @rastrawadi\_dank\_memes, ‘Nudes…? No Girl’, 2021, Instagram Post, <https://www.instagram.com/p/CNkgd-4hfxp>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/18.6.jpeg)
 
 <br/>
 
-![Fig. 7 Soldiers performing worship infographic\
+![Fig. 7: Soldiers performing worship infographic\
 The meme is from a popular right-wing page with over 16.1k followers. This meme consists of two ‘virtues’: those of religiosity and military patriotism. The mixed message hopes to point at how the ‘brave’ soldiers
-are engaging in Hindu prayer at theIndia-Pakistan border. Source: @bharatarashtra, Soldiers performing worship infographic, 2021, Instagram Post, <https://www.instagram.com/p/CNpOeTyBij7/>](imgs/18.7.jpeg) 
+are engaging in Hindu prayer at theIndia-Pakistan border. Source: @bharatarashtra, Soldiers performing worship infographic, 2021, Instagram Post, <https://www.instagram.com/p/CNpOeTyBij7/>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/18.7.jpeg) 
 
 <br/>
 
@@ -9159,9 +9159,9 @@ Using *glittering generalities,*[^19chapter18_19] to falsely prove ideological
 arguments. Oversimplifying complex, nuanced realities to incite a change
 in viewpoint.
 
-![Fig. 8 Hindu vs. Muslim reaction meme. This meme is an example of an over-simplistic and vague comparison of two incidents. It depicts two personalities with different religious affiliations conveyed through their background colours (saffron being Hindu, green being Muslim). However, the meme is a jab at liberals and
+![Fig. 8: Hindu vs. Muslim reaction meme. This meme is an example of an over-simplistic and vague comparison of two incidents. It depicts two personalities with different religious affiliations conveyed through their background colours (saffron being Hindu, green being Muslim). However, the meme is a jab at liberals and
 claims that in their eyes only Muslims have ‘freedom of speech’ while Hindus do not. This is a case of *Hindu-victimisation* and whataboutism. Source: @burnol\_wala, Hindu vs. Muslim reaction meme, 2021, Instagram
-Post, <https://www.instagram.com/p/CNxh-fjj-q8/>](imgs/18.8.jpeg)
+Post, <https://www.instagram.com/p/CNxh-fjj-q8/>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/18.8.jpeg)
 
 <br/>
 
@@ -9177,7 +9177,7 @@ slideshows on Instagram[^19chapter18_20]) to propagate a right-wing agenda. Driv
 by transfer of association of the visuals they imitate, such memes
 establish the credibility of their content.
 
-![Fig. 9 ‘Can you go with me?’ In Fig. 9 the meme shows a mob climbing on top of the Taj Mahal and waving a saffron flag as a display of their domination. The meme is meant to be an attack on this monument because it was built by a Mughal ruler (the entire Mughal empire being a symbol of Islamic oppression of Hindu India according to the Hindu right-wing ideology). By using the recurring imagery of Hindu ideology (saffron flags) the meme tries to dissociate its gruesome context. This visual recall helps in endorsing views under the guise of subscribing to this ideology. It also uses Trendification (1) as a visual style in the form of its pink glitter filter which gives it a Tik Tok aesthetic. It’s worth pointing out the photo is a direct reference to the Insta-famous ‘hand-holding’ couple. Source: @jai\_mahakal1, “Can you go with me?”, 2021, Instagram Post, <https://www.instagram.com/p/CNsNq4YBmGW/>](imgs/18.9.jpeg)
+![Fig. 9: ‘Can you go with me?’ In Fig. 9 the meme shows a mob climbing on top of the Taj Mahal and waving a saffron flag as a display of their domination. The meme is meant to be an attack on this monument because it was built by a Mughal ruler (the entire Mughal empire being a symbol of Islamic oppression of Hindu India according to the Hindu right-wing ideology). By using the recurring imagery of Hindu ideology (saffron flags) the meme tries to dissociate its gruesome context. This visual recall helps in endorsing views under the guise of subscribing to this ideology. It also uses Trendification (1) as a visual style in the form of its pink glitter filter which gives it a Tik Tok aesthetic. It’s worth pointing out the photo is a direct reference to the Insta-famous ‘hand-holding’ couple. Source: @jai\_mahakal1, “Can you go with me?”, 2021, Instagram Post, <https://www.instagram.com/p/CNsNq4YBmGW/>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/18.9.jpeg)
 
 <br/>
 
@@ -9193,11 +9193,8 @@ Another approach is disinformation combined with false imagery in the
 form of image manipulation, deepfakes etc. to create false visual
 association. This can also be achieved by cherry picking content.
 
-![Fig. 10 Sundar Pichai on NEET exam\
-In fig. 10, we see a viral image that was being circulated to show
-Google CEO Sundar Pichai’s opinion on the NEET exam (a medical entrance exam in India). The image includes the logos of the *Copenhagen University Press, Google* and *The Business Outsider.* However, Sundar Pichai reportedly never said any of the given text[^19chapter18_21] *Copenhagen
-University Press* has no association with this statement either and the name and website of *The Business Outsider* seeks to emulate another much more credible and well-known website called *The Business Insider*. These three elements add a touch of legitimacy to this viral and false
-image.](imgs/18.10.jpeg)
+![Fig. 10: Sundar Pichai on NEET exam. In fig. 10, we see a viral image that was being circulated to show
+Google CEO Sundar Pichai’s opinion on the NEET exam (a medical entrance exam in India). The image includes the logos of the *Copenhagen University Press, Google* and *The Business Outsider.* However, Sundar Pichai reportedly never said any of the given text[^19chapter18_21] *Copenhagen University Press* has no association with this statement either and the name and website of *The Business Outsider* seeks to emulate another much more credible and well-known website called *The Business Insider*. These three elements add a touch of legitimacy to this viral and false image.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/18.10.jpeg)
 
 <br/>
 
@@ -9211,19 +9208,17 @@ claims and fake news. This is done through diagrams, scientific-looking
 visuals, made-up testimonies of projected experts, other similar
 techniques.
 
-![Fig.11.1 Value of Semen](imgs/18.11.1.jpeg)
+![Fig.11.1: Value of Semen.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/18.11.1.jpeg)
 
 <br/>
 
-![Fig.11.2 Formation of Semen. The Fig.s 11.1 and 11.2 are slides from a post claiming unverified facts
-and a hoax theory (11.1) by using anatomical diagrams (11.2) to appear scientific. The claim cites Ayurveda[^19chapter18_22] as logic for this theory and
-calls to reject so-called western notions on the subject. Source: @snaatanhindutva, Value of Semen Infographic, 2020, Instagram Post, <https://www.instagram.com/p/CHw-KnBAEJH/>](imgs/18.11.2.jpeg)
+![Fig.11.2: Formation of Semen. The Fig.s 11.1 and 11.2 are slides from a post claiming unverified facts
+and a hoax theory (11.1) by using anatomical diagrams (11.2) to appear scientific. The claim cites Ayurveda[^19chapter18_22] as logic for this theory and calls to reject so-called western notions on the subject. Source: @snaatanhindutva, Value of Semen Infographic, 2020, Instagram Post, <https://www.instagram.com/p/CHw-KnBAEJH/>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/18.11.2.jpeg)
 
 <br/>
 
-![Fig. 11.3 Darwin x Dashavatara. In this second example, the meme is trying to establish a supposed link between the chain of evolution and the different avatars of the hindu god Vishnu. By juxtaposing arbitrary creatures on a timeline, the meme
-tries to imply that the Hindu mythological concept of ‘Dashavatara’ had foretold and preceded Darwin’s theory of evolution. Source: Mystery of India Website, Evolution according to Dashavatara, 2014, Blog Post,
-<https://www.mysteryofindia.com/2014/10/dashavatar-darwins-evolution.html>](18.11.3.jpg)
+![Fig. 11.3: Darwin x Dashavatara. In this second example, the meme is trying to establish a supposed link between the chain of evolution and the different avatars of the hindu god Vishnu. By juxtaposing arbitrary creatures on a timeline, the meme tries to imply that the Hindu mythological concept of ‘Dashavatara’ had foretold and preceded Darwin’s theory of evolution. Source: Mystery of India Website, Evolution according to Dashavatara, 2014, Blog Post,
+<https://www.mysteryofindia.com/2014/10/dashavatar-darwins-evolution.html>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/18.11.3.jpg)
 
 ### Cute-ification
 
@@ -9234,9 +9229,9 @@ messages embedded in cute pop cultural references. The bite-sized format
 of cute, aesthetically pleasing memes distances you from the grotesque
 facts, thereby warping your perception of reality.
 
-![Fig.12 Har Har Mahadev X Doge. In the meme above, we see the character Doge asking the viewer what is stopping them from saying ‘Har Har Mahadev’– originally a religious Hindu mantra. The meme is a reference to a political speech where the phrase was used as a jab at the opposition (for having contested the use
+![Fig.12: Har Har Mahadev X Doge. In the meme above, we see the character Doge asking the viewer what is stopping them from saying ‘Har Har Mahadev’– originally a religious Hindu mantra. The meme is a reference to a political speech where the phrase was used as a jab at the opposition (for having contested the use
 of religious slogans in politics). It undoes this political connotation by presenting it with the Doge meme and cute emojis. Source: @proudhindu\_, Har Har Mahadev X Doge, 2021, Instagram Post,
-<https://www.instagram.com/p/CM2T9PRBRQL/>.](imgs/18.13.jpeg)
+<https://www.instagram.com/p/CM2T9PRBRQL/>.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/18.13.jpeg)
 
 <br/>
 
@@ -9246,9 +9241,8 @@ The use of imagery to imply something is unimportant or not worthy of
 attention. Using common jokes, cartoons and rage comics to dismiss and
 trivialize oppressed groups, the opposition and critique.
 
-![Fig. 13 Indian Transgender people x Tom and Jerry. In this example, we see Indian transgender people being equated to the cartoon Tom, insistently asking for something. This is a jibe at transgender people who beg due to forced systemic poverty. By depicting their plight in the form of a cartoon-based meme, all nuance and attempts to understand the issue are discarded. The entire Indian transgender community is thus alienated and reduced to mere fodder for humor. Source: Reserved Memes for Dalit Teens, Indian Transgenders X Tom and
-Jerry, 2019, Facebook Post,
-<https://www.facebook.com/Dalitsenpai/photos/610210472788608">.](imgs/18.14.jpeg)
+![Fig. 13: Indian Transgender people x Tom and Jerry. In this example, we see Indian transgender people being equated to the cartoon Tom, insistently asking for something. This is a jibe at transgender people who beg due to forced systemic poverty. By depicting their plight in the form of a cartoon-based meme, all nuance and attempts to understand the issue are discarded. The entire Indian transgender community is thus alienated and reduced to mere fodder for humor. Source: Reserved Memes for Dalit Teens, Indian Transgenders X Tom and
+Jerry, 2019, Facebook Post, <https://www.facebook.com/Dalitsenpai/photos/610210472788608">.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/18.14.jpeg)
 
 <br/>
 
@@ -9293,8 +9287,8 @@ radicalized by malicious propaganda: the content he consumed in turn
 consumed him. A shocking incident, but can we really say we didn't see
 it coming?
 
-![Fig.15 Screenshot from the perpetrator’s Facebook page right before he pulled out the gun. He uses the prefix ‘*Rambhakt*’ (which translates to
-a worshiper of the Hindu god Ram). Source: Screenshot of ‘Rambhakt’s’ Facebook post, the 17-year-old shooter at Jamia Milia Islamia University is posing with a gun, 2020, News Article, <https://thediplomat.com/2020/02/jamia-millia-shootout-making-of-a-hindutva-terrorist/>](imgs/18.15.jpeg)
+![Fig.15: Screenshot from the perpetrator’s Facebook page right before he pulled out the gun. He uses the prefix ‘*Rambhakt*’ (which translates to
+a worshiper of the Hindu god Ram). Source: Screenshot of ‘Rambhakt’s’ Facebook post, the 17-year-old shooter at Jamia Milia Islamia University is posing with a gun, 2020, News Article, <https://thediplomat.com/2020/02/jamia-millia-shootout-making-of-a-hindutva-terrorist/>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/18.15.jpeg)
 
 In Freedom House’s *Freedom in the World 2021* report, India had its
 status a s a ‘free’ nation downgraded to ‘partly free’ due to what they
@@ -9566,7 +9560,7 @@ old news to the veterans that waged them, but have only recently been
 scrutinized by journalists and politicians, tripping over the already
 outdated lingo. Progressives have sheepishly acknowledged the political
 power of memes but still fail to accommodate their production
-mechanisms$$and develop countermeasures. Leftist memes are still
+mechanisms and develop countermeasures. Leftist memes are still
 primarily created *by* leftists *for* leftists, without a methodical
 branching out to adversaries. The alt-right excels at conquering new
 territories by invading not only politically neutral online spaces, but
@@ -9586,7 +9580,7 @@ of an out-of-touch academic defender—rather than influencer—fighting to
 protect remaining online territories, instead of seizing and subverting
 new grounds.
 
-![Fig. 1: Right-wing meme stereotyping leftists as digitally illiterate and therefore irrelevant SJWs. <https://imgflip.com/i/1zwubx>](imgs/19.1.jpeg) 
+![Fig. 1: Right-wing meme stereotyping leftists as digitally illiterate and therefore irrelevant SJWs. <https://imgflip.com/i/1zwubx>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/19.1.jpeg) 
 
 </br>
 
@@ -9645,19 +9639,13 @@ activists willing to publicly expose their faces in real-life
 Identitarian rallies to ‘lower tier’ (but more popular) battalions
 consisting of anonymous activists ready to spam, dox, and harass.
 
-![Afbeelding met tafel Automatisch gegenereerde
-beschrijving](media/image2.jpg){width="6.267716535433071in"
-height="2.013888888888889in"}
-
-![Afbeelding met tekst Automatisch gegenereerde
-beschrijving](media/image3.jpg){width="6.267716535433071in"
-height="1.8888888888888888in"}
-
-**Fig. 2.** Example of a krautpol copypasta. Note the upbeat military
+![Fig. 2: Example of a krautpol copypasta. Note the upbeat military
 tone and the reminder for members to be proactive without in-fighting.
 Copypastas such as this one help far-right factions overlook their
 ideological differences and work together to complete specific tasks.
-<a href="https://pastebin.com/zRU2HecC">https://pastebin.com/zRU2HecC</a>
+<https://pastebin.com/zRU2HecC>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/19.2.jpeg)
+
+<br/>
 
 Another reason the alt-right is able to amass large troll armies is due
 to its ability to embrace ideological differences within its own
@@ -9751,20 +9739,16 @@ mascot they didn’t even invent. Best of all, political opponents who
 weren’t aware of Pepe’s new status as a hate symbol, or refused to give
 him up, were suddenly attacked for being closeted fascists.
 
-![Afbeelding met tekst Automatisch gegenereerde
-beschrijving](media/image4.png){width="3.026042213473316in"
-height="2.5511515748031495in"}![Afbeelding met tekst, bed, slaapkamer
-Automatisch gegenereerde
-beschrijving](media/image5.jpg){width="2.5156255468066493in"
-height="2.5156255468066493in"}
+![Fig. 3.1: Matt Furie—Pepe’s creator—officially killed off his creation
+in 2017. Far-right usersresponded by resurrecting him. (i)
+<https://me.me/i/00-pepe-has-been-resurrected-praise-kek-shadilay-13576027> \(ii) <https://archive.4plebs.org/pol/thread/257302630/%5C#q257304889">](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/19.3.1.jpeg)
 
-**Fig. 3.** Matt Furie—Pepe’s creator—officially killed off his creation
-in 2017. Far-right users
+<br/>
 
-responded by resurrecting him. (i)
-[*https://me.me/i/00-pepe-has-been-resurrected-praise-kek-shadilay-13576027*](https://me.me/i/00-pepe-has-been-resurrected-praise-kek-shadilay-13576027)
+![Fig. 3.2: Matt Furie—Pepe’s creator—officially killed off his creation
+in 2017. Far-right usersresponded by resurrecting him. (ii) <https://archive.4plebs.org/pol/thread/257302630/%5C#q257304889">](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/19.3.2.jpeg)
 
-\(ii) <a href="https://archive.4plebs.org/pol/thread/257302630/%5C#q257304889">https://archive.4plebs.org/pol/thread/257302630/\#q257304889</a>
+<br/>
 
 A movement born on the internet needs real life legitimacy if it aspires
 to influence the world at large. Since trust is difficult to
@@ -9796,13 +9780,9 @@ at this new symbol for white power. At the same time, openly fascist
 alt-accounts were used to spam twitter with offensive content
 accompanied by the OK Hand emoji👌 in order to validate accusations.
 
-![Afbeelding met tekst Automatisch gegenereerde
-beschrijving](media/image6.jpg){width="4.921875546806649in"
-height="2.4039271653543306in"}
+![Fig. 4: One of many OPERATION O-KKK threads on 4chan. Image: <ahttps://archive.4plebs.org/pol/thread/209521954/%5C#q209527911>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/19.4.jpeg)
 
-**Fig. 4**. One of many OPERATION O-KKK threads on 4chan.
-
-Image: <a href="https://archive.4plebs.org/pol/thread/209521954/%5C#q209527911">https://archive.4plebs.org/pol/thread/209521954/\#q209527911</a>
+<br/>
 
 Far-right users masquerading as feminists began to wage a pretend war
 with far-right users masquerading as caricatured versions of themselves
@@ -9825,12 +9805,9 @@ their ethnicity, race, culture or faith’.[^20chapter19_4] Justin Trudeau and C
 Owens—a black conservative—were sardonically credited as influences.
 After his arrest, Tarrant flashed the OK hand sign in court.[^20chapter19_5]
 
-![](media/image7.jpg){width="3.5052088801399823in"
-height="2.6028040244969377in"}
+![Fig. 5: Feminists United is a Twitter account led by a 4chan troll. Tweet: <https://twitter.com/proudfemme83/status/836366339514241024>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/19.5.jpeg)
 
-**Fig. 5.** Feminists United is a Twitter account led by a 4chan troll.
-
-Tweet: <a href="https://twitter.com/proudfemme83/status/836366339514241024">https://twitter.com/proudfemme83/status/836366339514241024</a>
+<br/>
 
 Ironic far-right charades benefit everyone whose ideologies lie beyond
 the centre-right. It’s advantageous for Conservatives if the Overton
@@ -9882,16 +9859,14 @@ fact that they will report on this clown meme proves this point and will
 redpill the masses as the fact that they are reading about a cartoon
 frog clown sinks in.’
 
-![Afbeelding met tekst Automatisch gegenereerde
-beschrijving](media/image8.png){width="2.276042213473316in"
-height="2.5725010936132984in"}
-
-**Fig. 6.** *Honkler* holding Brenton Tarrant’s inscribed gun. In one of
+![Fig. 6: *Honkler* holding Brenton Tarrant’s inscribed gun. In one of
 his manifestos, Brentan Tarrant wrote ‘Clown memes are step one of
 riding the tiger where we have to go a little coocoo and rebuild
 ourselves.’[^20chapter19_7] He also advocated supporters to: ‘Create memes, post
 memes, and spread memes. Memes have done more for the ethno-nationalist
-movement than any manifesto.[^20chapter19_8] Image: <a href="https://boards.4chan.org/pol/">https://boards.4chan.org/pol/</a>
+movement than any manifesto.[^20chapter19_8] Image: <https://boards.4chan.org/pol/">](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/19.6.jpeg)
+
+<br/>
 
 Once again, the media took the bait. Articles such as ‘White
 Nationalists Adopt Clowns as Their Next Racist Symbol’[^20chapter19_9] and ‘No Joke:
@@ -9915,13 +9890,9 @@ algorithms designed to automatically remove hate-speech would pick up on
 this artificially manufactured connection. Fortunately, despite their
 best efforts, this has not happened yet.
 
-![Afbeelding met tekst Automatisch gegenereerde
-beschrijving](media/image9.jpg){width="3.384025590551181in"
-height="3.338542213473316in"}
+![Fig. 7: 4chan thread laying out Operation \#takingbacktherainbow. Image: <https://boards.4chan.org/pol/>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/19.7.jpeg)
 
-**Fig. 7.** 4chan thread laying out Operation \#takingbacktherainbow.
-
-Image: [*https://boards.4chan.org/pol/*](https://boards.4chan.org/pol/)
+<br/>
 
 \#takingbacktherainbow memes were (poorly) disguised as being pro-LGBT+,
 advocating ‘preserving diversity’ through racial segregation. Some
@@ -9940,19 +9911,21 @@ feign open-mindedness to potential converts, while simultaneously
 tricking opponents into unfairly condemning LGBT+ communities for
 inciting hate.
 
-![](media/image10.jpg){width="2.811744313210849in"
-height="2.119792213473316in"}![](media/image11.jpg){width="2.3541666666666665in"
-height="2.1197265966754157in"}![](media/image12.jpg){width="2.441512467191601in"
-height="2.3527307524059493in"}![Afbeelding met persoon, buiten,
-kleurrijk Automatisch gegenereerde
-beschrijving](media/image13.jpg){width="2.588542213473316in"
-height="2.2924660979877514in"}
+![Fig. 8.1 Collection of Honkler and \#takingbacktherainbow memes.Images: <https://boards.4chan.org/pol/> and <https://knowyourmeme.com/memes/clown-pepe-honk-honk-clown-world/photos/>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/19.8.1.jpeg)
 
-**Fig. 8.** Collection of Honkler and \#takingbacktherainbow memes.
+<br/>
 
-Images: [*https://boards.4chan.org/pol/*](https://boards.4chan.org/pol/)
-&
-<a href="https://knowyourmeme.com/memes/clown-pepe-honk-honk-clown-world/photos/">https://knowyourmeme.com/memes/clown-pepe-honk-honk-clown-world/photos/</a>
+![Fig. 8.1 Collection of Honkler and \#takingbacktherainbow memes.Images: <https://boards.4chan.org/pol/> and <https://knowyourmeme.com/memes/clown-pepe-honk-honk-clown-world/photos/>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/19.8.2.jpeg)
+
+<br/>
+
+![Fig. 8.1 Collection of Honkler and \#takingbacktherainbow memes.Images: <https://boards.4chan.org/pol/> and <https://knowyourmeme.com/memes/clown-pepe-honk-honk-clown-world/photos/>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/19.8.3.jpeg)
+
+<br/>
+
+![Fig. 8.1 Collection of Honkler and \#takingbacktherainbow memes.Images: <https://boards.4chan.org/pol/> and <https://knowyourmeme.com/memes/clown-pepe-honk-honk-clown-world/photos/>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/19.8.4.jpeg)
+
+<br/>
 
 ## How to Kill a Clown
 
@@ -10020,29 +9993,22 @@ clown emoji began to be used extensively to convey the feeling of being
 shortchanged, drowning its secondary meaning. The far-right couldn’t get
 their last laugh in a world overrun with clowns.
 
-![Afbeelding met tekst Automatisch gegenereerde
-beschrijving](media/image14.jpg){width="2.466899606299213in"
-height="2.6406255468066493in"}
-
-**Fig. 9.** *Putting on Clown Makeup* meme template was popularized in
+![Fig. 9: *Putting on Clown Makeup* meme template was popularized in
 2019. It depicts an individual suffering cognitive dissonance from
 contradicting observations of the world. He reconciles the contradiction
 in a nonsensical way, thereby making a fool of himself*.*[^20chapter19_16] Image:
-<a href="https://knowyourmeme.com/photos/1563390-putting-on-clown-makeup">https://knowyourmeme.com/photos/1563390-putting-on-clown-makeup</a>
+<https://knowyourmeme.com/photos/1563390-putting-on-clown-makeup>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/19.9.jpeg)
 
-![](media/image15.jpg){width="2.3281255468066493in"
-height="2.5335476815398077in"}![Afbeelding met dragen, geschilderd
-Automatisch gegenereerde
-beschrijving](media/image16.jpg){width="2.5364588801399823in"
-height="2.526147200349956in"}
+<br/>
 
-**Fig. 10.** Joker memes created and spread outside far-right circles.
+![Fig. 10.1: Joker memes created and spread outside far-right circles. ‘We Live in a Society’ became one of the most popular Joker memes, yielding endless variants.
+<https://me.me/i/creating-joker-1989-throw-him-into-chemical-waster-creating-joker-866cd2582a7042679e82fd818478d36e>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/19.10.1.jpeg)
 
-*Left:* ‘We Live in a Society’ became one of the most popular Joker
-memes, yielding endless variants.
-[*https://me.me/i/creating-joker-1989-throw-him-into-chemical-waster-creating-joker-866cd2582a7042679e82fd818478d36e*](https://me.me/i/creating-joker-1989-throw-him-into-chemical-waster-creating-joker-866cd2582a7042679e82fd818478d36e)
+<br/>
 
-*Right:* Left-wing meme depicting Karl Marx as Joker.
+![Fig. 10.1: Joker memes created and spread outside far-right circles. Left-wing meme depicting Karl Marx as Joker.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/19.10.2.jpeg)
+
+<br/>
 
 When right-wing extremists began to exit the screen in 2016, their
 threat to democracy became apparent IRL. People who previously brushed
@@ -10174,13 +10140,10 @@ the chans sees rainbow Pepe and thinks LGBT /.../ your doing their dirty
 work for them.’ Other users echoed similar concerns:s the real danger to
 Pepe is appropriation, *not* cancellation.
 
-![](media/image17.jpg){width="3.7968755468066493in"
-height="3.8212139107611547in"}
-
-**Fig. 11.** Pepe Instagram collage created by clusterduck, a left-wing
+![Fig. 11: Pepe Instagram collage created by clusterduck, a left-wing
 artist collective that uses memes to protest the climate crisis. They
 have reappropriated Pepe to promote a positive message of inclusivity.
-<a href="https://www.instagram.com/realclusterfuck">https://www.instagram.com/realclusterfuck</a>
+<https://www.instagram.com/realclusterfuck>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/19.11.jpeg) 
 
 What the alt-right fears most is losing media attention and its
 reputation for being an edgy counterculture that defends ‘free-speech’
@@ -10383,7 +10346,7 @@ the horns and peace gestures. At that time, I was not able to decipher
 these enigmatic salutations, but it seemed to work like a charm to
 indicate that one was cool.
 
-![Fig. 1. Author’s childhood portrait while flashing the peace gesture. Date unknown.](imgs/20.1.jpg)
+![Fig. 1: Author’s childhood portrait while flashing the peace gesture. Date unknown.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/20.1.jpg)
 
 <br/>
 
@@ -10489,8 +10452,8 @@ behind this that hurts AKP supporters by suggesting there is an absence
 of subjectivity amongst those who do as Erdoğan bids—akin to zombie
 armies.
 
-![Fig. 2. A meme example mocking the style of AKP propaganda posters featuring the Night King, the supreme leader of White Walkers from the Game of Thrones series. Translates as: ‘Redemption and Ascension with kind support of the president we are resurrecting the Ottoman.’ Meme archived from Uludağ Sözlük. Posted by ‘theoutsider’ under the subsection ‘akgezenler vs the akp secmeni’ on 27.08.2017. Image
-available at: <ahttps://www.uludagsozluk.com/k/ak-gezenler-vs-akp-se%C3%A7meni/>](imgs/20.2.jpg)
+![Fig. 2: A meme example mocking the style of AKP propaganda posters featuring the Night King, the supreme leader of White Walkers from the Game of Thrones series. Translates as: ‘Redemption and Ascension with kind support of the president we are resurrecting the Ottoman.’ Meme archived from Uludağ Sözlük. Posted by ‘theoutsider’ under the subsection ‘akgezenler vs the akp secmeni’ on 27.08.2017. Image
+available at: <ahttps://www.uludagsozluk.com/k/ak-gezenler-vs-akp-se%C3%A7meni/>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/20.2.jpg)
 
 <br/> 
 
@@ -10632,7 +10595,7 @@ guards: similarly, Erdoğan descends from the principal stairs of his
 palace to receive his guest surrounded by guardsmen in warrior
 costumes.[^21chapter20_10]
 
-![Fig. 3. Guarded by Pokémon, Erdoğan shakes hands with Professor Oak in Aksaray. Author unknown. Posted on Twitter under the username: Çapul-Şen @kivanceliacik Date: 12.01.2015 Image available at: <https://www.diken.com.tr/erdoganin-askerleri-caps-oldu-yagdi-game-thronestan-age-empiresa-sey-var/>](imgs/20.3.jpg)
+![Fig. 3: Guarded by Pokémon, Erdoğan shakes hands with Professor Oak in Aksaray. Author unknown. Posted on Twitter under the username: Çapul-Şen @kivanceliacik Date: 12.01.2015 Image available at: <https://www.diken.com.tr/erdoganin-askerleri-caps-oldu-yagdi-game-thronestan-age-empiresa-sey-var/>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/20.3.jpg)
 
 <br/>
 
@@ -10668,7 +10631,7 @@ incompetent dummy minister or a nitwit caused so much humiliation that
 it resulted in his resignation. Under heavy fire, Erdoğan could not
 insist on keeping the weakest link in his position anymore.[^21chapter20_13]
 
-![Fig. 4. Meme showing Minister Berat Albayrak smiling by the tombstone of Turkish Economy. Author unknown. Posted on Twitter by the username: Dünyalı @obirdunyali Date: 17.08.2020 Image available at: <https://twitter.com/obirdunyali/status/1295298492555042816?s=20>](imgs/20.4.jpg)
+![Fig. 4: Meme showing Minister Berat Albayrak smiling by the tombstone of Turkish Economy. Author unknown. Posted on Twitter by the username: Dünyalı @obirdunyali Date: 17.08.2020 Image available at: <https://twitter.com/obirdunyali/status/1295298492555042816?s=20>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/20.4.jpg)
 
 <br/>
 
@@ -11158,7 +11121,7 @@ take a page from Ryan Milner’s work, this is literally a ‘world made
 meme’ through the ‘messy memetic interrelationships’ between media, law,
 regulation and of course, users.[^22chapter21_26]
 
-![Fig. 1: Excerpt of an information brochure about the BWC hosted on the Information Security Awareness website run by the Ministry of Electronics and Information Technology.[^22chapter21_27] (Original Creator: Information Security Awareness, Ministry of Electronics and Information Technology (MeitY), Govt of India).](imgs/21.1.jpeg)
+![Fig. 1: Excerpt of an information brochure about the BWC hosted on the Information Security Awareness website run by the Ministry of Electronics and Information Technology.[^22chapter21_27] (Original Creator: Information Security Awareness, Ministry of Electronics and Information Technology (MeitY), Govt of India).](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/21.1.jpeg)
 
 <br/>
 
@@ -11249,7 +11212,7 @@ becomes a key agent in everyday practices of connectedness, it also
 overlaps with misinformation, rumor mongering and the fear of sudden,
 erupting violence.
 
-![Fig. 2: The WhatsApp interface and *The Ring* featured in an amateur short film on the BWC on YouTube. (Creator: onionNgarlic, YouTube).[^22chapter21_37]](imgs/21.2.jpeg)
+![Fig. 2: The WhatsApp interface and *The Ring* featured in an amateur short film on the BWC on YouTube. (Creator: onionNgarlic, YouTube).[^22chapter21_37]](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/21.2.jpeg)
 
 </br>
 
@@ -11267,7 +11230,7 @@ scramble to catch up to the viral speed of the network, the collision
 between bodies, devices and practices remains largely unmanageable. And
 as Bauman reminds us, ‘we fear what we can’t manage.’[^22chapter21_38]
 
-![Fig. 3: YouTube screengrabs of an *NDTV* news program about the BWC. The image on the right shows public demonstrations against the BWC (NDTV, YouTube).[^22chapter21_39]](imgs/21.3.jpeg)
+![Fig. 3: YouTube screengrabs of an *NDTV* news program about the BWC. The image on the right shows public demonstrations against the BWC (NDTV, YouTube).[^22chapter21_39]](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/21.3.jpeg)
 
 </br>
 
@@ -11292,7 +11255,7 @@ horror films at 4:20 am. The same coding is also visible in the short
 film variants, albeit in narrative form, and such details also inform
 the PILs discussed earlier.
 
-![Fig. 4: The BWC ‘tasks’ listed in an advisory video on YouTube. (Creator: SidTalk, YouTube).[^22chapter21_41]](imgs/21.4.jpeg)
+![Fig. 4: The BWC ‘tasks’ listed in an advisory video on YouTube. (Creator: SidTalk, YouTube).[^22chapter21_41]](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/21.4.jpeg)
 
 </br>
 
@@ -11911,9 +11874,13 @@ Control and the Chinese Government,” MA Diss., University of Leiden,
 
 
 
-# The Trans Bears
+# An Ambiguous Utopia 
 
-## Introduction\
+###The Trans Bears
+
+![Fig. 1](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/23.1.jpeg)
+
+## Introduction
 
 Our contribution is an experiment in memetic worlding. It explores what
 could happen if we generated pluralistic, positive visions as an
@@ -11960,7 +11927,7 @@ xo
 
 The Trans Bears
 
-## Prologue\
+## Prologue
 
 Hello!
 
@@ -11973,7 +11940,11 @@ tiny bits of cultural DNA then, like us, you might be able to imagine
 using them to alter the status quo. We hope you might discover their
 radical potential and want to make mischief as we did.
 
-## The Ruins\
+## The Ruins
+
+![Fig. 2](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/23.2.jpeg)
+
+<br/>
 
 Our Meme Squad met at a time we now refer to as The Ruins. Human and
 natural systems were on the brink of collapse. Our societies and
@@ -11988,6 +11959,10 @@ their own island. Few were imaginative enough to question the narrative
 we were fed: that it was easier to imagine the end of the world than the
 end of the systems that governed our lives. As apathy grew, irony and
 cynicism were normalized in online and offline culture.
+
+![Fig. 3](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/23.3.jpeg)
+
+<br/>
 
 Still, a scattering of people searched for alternatives. Seeking
 connection, we tried to find like-minded others on the Whisper Web, a
@@ -12006,6 +11981,13 @@ collectivised. We formed a syndicate, and began casting coordinated
 memetic spells to jinx the established order. We hexed corrupt
 corporations, went troll hunting, and inundated bureaucrats with our
 raging semiotic meltdown.
+
+![Fig. 4](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/23.4.jpeg)
+
+<br/>
+
+![Fig. 5](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/23.5.jpeg)
+
 
 We ridiculed old power, and laid bare that the concepts and systems
 invented by humans were impressionable to our resistance and change. Our
@@ -12028,6 +12010,10 @@ monied, who paid gatekeepers for access to information and goods, and
 the poor left with nothing but patchy service hosting unreliable,
 ad-littered news sites and communication channels.
 
+![Fig. 6](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/23.6.jpeg)
+
+<br/>
+
 Our plans to grow an accessible, sustainable internet gained urgency.
 We’d laid some groundwork in The Ruins, but the crash took its toll on
 us and our network too. After the initial shock, we began working in
@@ -12039,7 +12025,11 @@ thing and we learned to meme offline, in slower and more local forms
 that resembled older and more ancient traditions. Most importantly, we
 learned to laugh together in person again.
 
-## The Makeshift\
+![Fig. 7](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/23.7.jpeg)
+
+<br/>
+
+## The Makeshift
 
 We began to adapt and find new ways to operate in The Makeshift, the
 decade following the collapse. While the rich walled themselves off in
@@ -12059,6 +12049,14 @@ The Makeshift were shared using old meme formats. Hopepunk emerged as an
 absurdist mash-up philosophy, encoding a culture of care, nurture, and
 maintenance into our mischief.
 
+![Fig. 8](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/23.8.jpeg)
+
+<br/>
+
+![Fig. 9](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/23.9.jpeg)
+
+<br/>
+
 As the years passed, the last of the old elite hid in their walled and
 now dying gardens. While locked out, we'd come to realize we didn't need
 them. They had just been middlemen who estranged us from ourselves and
@@ -12070,7 +12068,7 @@ measured against earthly vitality instead of growth. We still faced
 opposition at times, but even sceptics joined us when they saw we were
 thriving.
 
-## Deep Adaptation\
+## Deep Adaptation
 
 After a rocky and generative decade in The Makeshift, we found Deep
 Adaptation. While in many ways still reeling, we were freed from old
@@ -12090,6 +12088,18 @@ dramatically when we realized we were in essence all part of the same
 earthly nervous system. Turns out, natural and cultural DNA is one and
 the same thing, and Earth is the greatest memer of all.
 
+![Fig. 10](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/23.10.jpeg)
+
+<br/>
+
+![Fig. 11](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/23.11.jpeg)
+
+<br/>
+
+![Fig. 12](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/23.12.jpeg)
+
+<br/>
+
 Of course, many cultures had long known and embraced this. For those who
 hadn't, scientific evidence made the difference. Old concepts of the
 boundary between self and other dissolved and became obsolete. Once the
@@ -12098,7 +12108,7 @@ holobionts: multi-species organisms in constant communion with those in
 and outside ourselves. In the present day, we make no distinction
 between nature and culture. They have merged into one word: nurture.
 
-## Epilogue\
+## Epilogue
 
 That’s all from us for now. All we’re really saying is that ‘nonsense’
 can be an effective counter to hegemonic ‘common sense’. Don’t let the
@@ -12109,7 +12119,7 @@ your memes. We’ll try to get back to you through deep time.
 
 xo Meme Squad
 
-## Acknowledgements\
+## Acknowledgements
 
 Special thanks to:
 
@@ -12157,7 +12167,7 @@ Carlos Machado
 
 Ben Welch
 
-## References\
+## References
 
 Asprem, Egil. “The Magical Theory of Politics: Memes, Magic, and the
 Enchantment of Social Forces in the American Magic War.” *Nova Religio*
@@ -12234,11 +12244,11 @@ Daily Beast*, last updated April 13, 2017.
 
 
 
-# Pepe the Frog Is Love and Peace! His Second Life in Hong Kong\
-\
-Caspar Chan\
+# Pepe the Frog Is Love and Peace! His Second Life in Hong Kong
 
-## Introduction\
+###Caspar Chan
+
+## Introduction
 
 In Hong Kong, starting in June 2019, a series of demonstrations and
 civil disobedience actions were launched, protesting the government’s
@@ -12267,7 +12277,7 @@ way, a meme does not only appoint one specific way of understanding, but
 allows its viewers to derive and create their own ways of comprehending
 the meme through continually identifying with the meme itself.
 
-## The Entextualizability and Appropriability of Memes\
+## The Entextualizability and Appropriability of Memes
 
 Memes have taken on a variety of roles in online spaces. For one, their
 jocular aspect has been manipulated by users to refer to or mimic other
@@ -12292,14 +12302,12 @@ another*.* By entextualization, Piia Varis and Jan Blommaert mean that a
 sign can be extracted from its original context and re-inserted into
 another ‘involving different participation frameworks’, which allow
 ‘different meaning outcomes.’[^25chapter24_6] Richard Bauman and Charles Briggs also
-express that entextualisation as a
-
-process ‘of making a stretch of our linguistic and/or
+express that entextualisation as a process ‘of making a stretch of our linguistic and/or
 semiotic…production into a unit - a text - that can be lifted out of its
 interactional setting’[^25chapter24_7] Content from social media have a high
 possibility to be entextualisable.[^25chapter24_8] Through numerous clicks of
 transmitting and copy and-pasting a meme, its formal features can
-eventually be levered from their original context.\
+eventually be levered from their original context.
 Now that a meme, being entextualised, floats from its original niche, it
 opens up the possibility to be perceived in a different way. Michele
 Knobel and Colin Lankshear rightly point out that while a meme is
@@ -12326,7 +12334,7 @@ the meme. In the case of a political movement where the situation is
 dynamic, such as that in Hong Kong, a continuous, negotiable
 identification can arise.
 
-## Left or Right? — The Political Case in Hong Kong\
+## Left or Right? — The Political Case in Hong Kong
 
 To understand how the meme can be laden with a different political
 charge in Hong Kong, it is useful to first look at the political context
@@ -12393,11 +12401,10 @@ one store could be boycotted and destroyed because it was not ‘yellow
 enough’, some protestors became more radical and extreme, criticising
 and alienating other fellow protestors.
 
-![](media/image1.png){width="5.875in" height="2.6666666666666665in"}
+![Fig. 1: A poster circulated on LIGHK, a popular Hong Kong forum, which illustrate the four categories as well s what to act accordingly. Screen
+captured from <https://lihkg.com/thread/1626988/page/1>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/24.1.jpeg)
 
-Figure 1: A poster circulated on LIGHK, a popular Hong Kong forum, which
-illustrate the four categories as well s what to act accordingly. Screen
-captured from <a href="https://lihkg.com/thread/1626988/page/1">https://lihkg.com/thread/1626988/page/1</a>.
+<br/>
 
 One could also attack another protestor as being a “’eftard (左膠), who
 sought a universal struggle and focused on non-violent ways to continue
@@ -12427,8 +12434,8 @@ a term which is used to refer to those protestors who fought directly
 against the police, and contains the idea that their violence is
 justified because the authorities first used violence against them. It
 is also because of this that, generally speaking, no Hong Kongers
-seethis movement as a leftist movement.\
-\
+seethis movement as a leftist movement.
+
 Amidst the pandemic, and after the imposition of the National Security
 Law on 1 July 2020, Hong Kongers now have other agendas in continuing
 the movement. They have also revised their strategies for counteracting
@@ -12455,7 +12462,7 @@ can be produced.[^25chapter24_11] Within difficult-to-define political backgroun
 Pepe the Frog, well-known as a symbol of hatred, can receive his second
 life in Hong Kong.
 
-## Pepe the ‘Hong Konger’ — A Symbol of Love, Sympathy and Trolling\
+## Pepe the ‘Hong Konger’ — A Symbol of Love, Sympathy and Trolling
 
 Being fans of Trump’s presidency and shit-stirring online campaigns, as
 well as the exaggeration and bragging of his anti-China stance, the Hong
@@ -12494,52 +12501,27 @@ Pepe is ubiquitous, as if Pepe had become a fellow Hong Konger, so
 special as a symbol of the movement, but also familiar: a consolation a
 Hong Konger can always count on.
 
-![](media/image2.png){width="4.263888888888889in"
-height="2.486111111111111in"}
+![Fig. 2: ‘Pepe the Press’ graffitied by the Hong Kong protestors. Screen captured from Daniel Victor, ‘Hong Kong Protesters Love Pepe the Frog. No, They’re Not Alt-Right,’ The New York Times, August 19, 2019, retrieved from <http://www.nytimes.com/2019/08/19/world/asia/hong-kong-protest-pepe-frog.html>.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/24.2.jpeg)
 
-Figure 2: ‘Pepe the Press’ graffitied by the Hong Kong protestors.
-Screen captured from Daniel Victor, ‘Hong Kong Protesters Love Pepe the
-Frog. No, They’re Not Alt-Right,’ The New York Times, August 19, 2019,
-retrieved from https://
-<a href="http://www.nytimes.com/2019/08/19/world/asia/hong-kong-protest-pepe-frog.html">www.nytimes.com/2019/08/19/world/asia/hong-kong-protest-pepe-frog.html</a>.
+<br/>
 
-![Afbeelding met tekst, buiten Automatisch gegenereerde
-beschrijving](media/image3.png){width="4.375in"
-height="2.4583333333333335in"}
+![Fig. 3: A flag showing a cheering Pepe. Photo from: © Getty Images. Anadolu Agency. Miguel Candela. Screen captured from Igor Ogorodnev,‘What the Uncanceling of Pepe the Frog – Just for HK Protests, Though – Tells Us about US Media,’ RT Question More, September 21, 2019, retrieved from
+<https://www.rt.com/op-ed/469318-pepe-frog-hong-king-media/>.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/24.3.jpeg)
 
-Figure 3: A flag showing a cheering Pepe. Photo from: © Getty Images /
-Anadolu Agency / Miguel Candela. Screen captured from Igor Ogorodnev,
-‘What the Uncanceling of Pepe the Frog – Just for HK Protests, Though –
-Tells Us about US Media,’ RT Question More, September 21, 2019,
-retrieved from
-<a href="https://www.rt.com/op-ed/469318-pepe-frog-hong-king-media/">https://www.rt.com/op-ed/469318-pepe-frog-hong-king-media/</a>.
+<br/>
 
-![Afbeelding met persoon, groep Automatisch gegenereerde
-beschrijving](media/image4.png){width="4.083333333333333in"
-height="2.736111111111111in"}
+![Fig. 4: A graffiti of Pepe wearing the protestor’s helmet, smiling and holding a fist with the words ‘Hong Kong Hang On!’ On the side. Photo from Billy H.C. Kwok / Getty Images.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/24.4.jpeg)
 
-Figure 4: A graffiti of Pepe wearing the protestor’s helmet, smiling and
-holding a fist with the words ‘Hong Kong Hang On!’ On the side. Photo
-from Billy H.C. Kwok / Getty Images.
+<br/>
 
-![Afbeelding met tekst, binnen, verschillend Automatisch gegenereerde
-beschrijving](media/image5.png){width="4.083333333333333in"
-height="2.2222222222222223in"}
+![Fig. 5: A chains of Pepe with different look, hands in hands. Screen captured from Denise Tsang (@denis\_tsang), ‘Love this Pepe-the-Frog chain at the Shum Shui Po Lennon Wall,’ Twitter, August 23, 2019,
+<ahttps://twitter.com/denise%5C_tsang/status/1164779085186211840?ref%5C_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1164779085186211840%7Ctwgr%5E%7Ctwcon%5Es1%5C_&amp;ref%5C_url=https%3A%2F%2Fstayhipp.com%2Fnews%2Fpepe-the-frog-as-a-symbol-for>.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/24.5.jpeg)
 
-Figure 5: A chains of Pepe with different look, hands in hands. Screen
-captured from Denise Tsang (@denis\_tsang), ‘Love this Pepe-the-Frog
-chain at the Shum Shui Po Lennon Wall,’ Twitter, August 23, 2019,
-<a href="https://twitter.com/denise%5C_tsang/status/1164779085186211840?ref%5C_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1164779085186211840%7Ctwgr%5E%7Ctwcon%5Es1%5C_&amp;ref%5C_url=https%3A%2F%2Fstayhipp.com%2Fnews%2Fpepe-the-frog-as-a-symbol-for">https://twitter.com/denise\_tsang/status/1164779085186211840?ref\_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1164779085186211840%7Ctwgr%5E%7Ctwcon%5Es1\_&ref\_url=https%3A%2F%2Fstayhipp.com%2Fnews%2Fpepe-the-frog-as-a-symbol-for</a>.
+<br/>
 
-![Afbeelding met persoon, sport Automatisch gegenereerde
-beschrijving](media/image6.png){width="4.027777777777778in"
-height="2.6944444444444446in"}
+![Fig. 6: Graffiti of Pepe found outside the Central Government complex, depicted with a board with the word ‘Hope’. Photo from Billy H.C. Kwok / Getty Images.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/24.6.jpeg)
 
-Figure 6: Graffiti of Pepe found outside the Central Government complex,
-depicted with a board with the word ‘Hope’. Photo from Billy H.C. Kwok /
-Getty Images
-
-.
+<br/>
 
 The Hong Kong protestors do not only use Pepe to personify their ideals:
 Pepe is also used to express frustration and anger towards the
@@ -12575,31 +12557,20 @@ inflicted upon the Hong Kongers as it is onto Pepe. It is at this point
 that Hong Kong’s Pepe is distinguished from his counterpart in the US,
 where the partisans of ‘Pepe the Loser’ passionately embrace his
 self-effacing, bizarre, loser’s ’values’, rationalising them as an
-attempt to alter their own ‘loser’ status.^17^
+attempt to alter their own ‘loser’ status.
 
-![](media/image7.png){width="3.361111111111111in"
-height="3.361111111111111in"}
+![Fig. 7: Pepe the Frog, LIHKG Pig and LIHKG Dog. Screen captured from Lamjj (@Lamjj5), ‘Pepe and his friends in  hong kong Twitter, August 21, 2019, <https://twitter.com/Lamjj5/status/1163972363643318272/photo/1>.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/24.7.jpeg)
 
-![Afbeelding met tekst, persoon, binnen Automatisch gegenereerde
-beschrijving](media/image8.png){width="3.1527777777777777in"
-height="4.208333333333333in"}
+<br/>
 
-Figure 8: Pepe, with a yellow helmet, depicted as a patient with an eye
-bleeding, with the words: Police Shot MY EYE. Give me back my eye!
-Screen captured from Alvin Lum (@alvinllun), ‘In Queen Mary Hospital,
-some medical staff showed support for one one lady who is shot blind on
-Sun,’ Twitter, August 13, 2019, <a href="https://twitter.com/alvinllum/status/">https://twitter.com/alvinllum/status/</a>
-1161161988547870720/photo/1.
+![Figure 8: Pepe, with a yellow helmet, depicted as a patient with an eye bleeding, with the words: Police Shot MY EYE. Give me back my eye! Screen captured from Alvin Lum (@alvinllun), ‘In Queen Mary Hospital, some medical staff showed support for one one lady who is shot blind on Sun,’ Twitter, August 13, 2019, <https://twitter.com/alvinllum/status/>.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/24.8.jpeg)
 
-![Afbeelding met tekst, persoon, buiten, mensen Automatisch gegenereerde
-beschrijving](media/image9.png){width="3.7083333333333335in"
-height="2.9305555555555554in"}
+<br/>
 
-Figure 9: A sobbing Pepe with the words “Don’t Beat Me”, seemingly a
-protest against police brutality. “2019 Hong Kong Anti-Extradition Bill
-Protests - "Don't Beat Me" Pepe the Frog sign,” Know Your Meme, 2020,
-retrieved from https://
-<a href="http://knowyourmeme.com/photos/1543273-2019-hong-kong-anti-extradition-bill-protests">knowyourmeme.com/photos/1543273-2019-hong-kong-anti-extradition-bill-protests</a>.
+![Fig. 9: A sobbing Pepe with the words “Don’t Beat Me”, seemingly a protest against police brutality. “2019 Hong Kong Anti-Extradition Bill Protests - "Don't Beat Me" Pepe the Frog sign,” Know Your Meme, 2020,
+ etrieved from <http://knowyourmeme.com/photos/1543273-2019-hong-kong-anti-extradition-bill-protests>.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/24.9.jpeg)
+ 
+<br/>
 
 In addition, Pepe the Frog has also gone viral among Hong Kong netizens,
 further spreading the ideas of the political movement to internet users.
@@ -12616,24 +12587,16 @@ has become politicized and functions as a protesting strategy in Hong
 Kong, just in a very different way to its political deployments in the
 USA.
 
-![Afbeelding met diverse, verschillend, verschillende Automatisch
-gegenereerde
-beschrijving](media/image10.png){width="6.819444444444445in"
-height="1.5555555555555556in"}
+![Fig. 10: A Pepe sticker pack as a troll to the government and police, including one, the third one from the left on the bottom row, depicting the chief executive of Hong Kong, Ms Carrie Lam, “Polite Pepe,”
+WhatSticker, <https://whatsticker.online/p/18668317p5Lmt/HK/zh>.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/24.10.jpeg)
 
-Figure 10: A Pepe sticker pack as a troll to the government and police,
-including one, the third one from the left on the bottom row, depicting
-the chief executive of Hong Kong, Ms Carrie Lam, “Polite Pepe,”
-WhatSticker, <a href="https://whatsticker.online/p/18668317p5Lmt/HK/zh">https://whatsticker.online/p/18668317p5Lmt/HK/zh</a>.
+<br/>
 
-![](media/image11.png){width="6.402777777777778in" height="6.25in"}
+![Fig. 11: One of the many sticker packs depicting Pepe as the Hong Kong protestors and Pepe as the Hong Kong police. “Fighting Pepe,” Stickers.clould, retrieved from <https://stickers.cloud/pack/fighting-pepe>.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/24.11.jpeg)
 
-Figure 11: One of the many sticker packs depicting Pepe as the Hong Kong
-protestors and Pepe as the Hong Kong police. “Fighting Pepe,”
-Stickers.clould, retrieved from
-<a href="https://stickers.cloud/pack/fighting-pepe">https://stickers.cloud/pack/fighting-pepe</a>.
+<br/>
 
-## The Becoming of ‘Pepe the Omnipotent’\
+## The Becoming of ‘Pepe the Omnipotent’
 
 Pepe the Frog, escaping from its detestable character in the US, has
 become an adorable figure, a mascot in the political movement in Hong
@@ -12717,12 +12680,9 @@ with Pepe, the Hong Kongers can then appropriate the meme to their
 advantage and make Pepe their own possession, devising and weaponizing
 different Pepes in different arenas.
 
-![](media/image12.png){width="6.263888888888889in"
-height="4.055555555555555in"}
+![Fig. 12: How Pepe is eventually entextualized from its original context to be appropriated by the Hong Kongers in a new context through recurrent identification.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/24.12.jpeg)
 
-Figure 12: How Pepe is eventually entextualized from its original
-context to be appropriated by the Hong Kongers in a new context through
-recurrent identification
+<br/>
 
 The way Pepe has gained his second life in Hong Kongshows that one can
 identify a meme through relating to one’s own referential background,
@@ -12743,8 +12703,7 @@ affirmative.
 
 Australian Broadcasting Corporation. “Pepe Cartoonist Kills off
 Character That Became Hate symbol.” *Australian Broadcasting
-Corporation*, May 9, 2017. <a href="http://www.abc.net.au/news/2017-05-09/">http://www.abc.net.au/news/2017-05-09/</a>
-pepe-cartoonist -kills-off-character-that-became-hate-symbol/8509280.
+Corporation*, May 9, 2017. <http://www.abc.net.au/news/2017-05-09/>.
 
 Bauman, Richard, and Charles L. Briggs. “Poetics and Performance As
 Critical Perspectives on Language and Social Life.” *Annual Review of
@@ -12755,13 +12714,11 @@ Press, 1976.
 
 Beran, Dale. “4chan: The Skeleton Key to the Rise of Trump.” *Medium*,
 February 14, 2017.
-<a href="https://medium.com/@DaleBeran/4chan-the-skeleton-key-to-the-rise">https://medium.com/@DaleBeran/4chan-the-skeleton-key-to-the-rise</a>
-of-trump-624e7cb798cb.
+<https://medium.com/@DaleBeran/4chan-the-skeleton-key-to-the-rise>.
 
 Echevarria, Gina. “How This Frog Meme Became a Symbol of Hope and Hate.”
 *Insider,* October 8, 2020.
-<a href="https://www.businessinsider.com/pepe-frog-meme-hate-symbol-hope">https://www.businessinsider.com/pepe-frog-meme-hate-symbol-hope</a>
-hong-kong-protesters-2019-10?r=DE&IR=T.
+<https://www.businessinsider.com/pepe-frog-meme-hate-symbol-hope>.
 
 Galinsky, Adam D., et al. "The Reappropriation of Stigmatizing Labels:
 Implications for Social Identity." In *Identity Issues in Groups*, 221 -
@@ -12779,17 +12736,14 @@ Knobel, Michele, and Colin Lankshear. “Online Memes, Affinities, and
 Cultural Production.” *A New Literacies Sampler* 29 (2007): 199-227.
 
 KnowYourMeme. “2019 Hong Kong Anti-Extradition Bill Protests - "Don't
-Beat Me" Pepe the Frog sign.” 2020. <a href="https://knowyourmeme.com/photos/">https://knowyourmeme.com/photos/</a>
-1543273-2019-hong-kong-anti-extradition-bill-protests.
+Beat Me" Pepe the Frog sign.” 2020. <https://knowyourmeme.com/photos/1543273-2019-hong-kong-anti-extradition-bill-protests>.
 
 Know Your Meme. “Pepe the Frog - Pepe Timeline.”2015. https://
 knowyourmeme. com/photos/942029-pepe-the-frog.
 
 Ko, Christina. “How Pepe the Frog Became Face of Hong Kong Protests –
 Despite Cartoon Being a Symbol of Hate in US.” *South China Morning
-Post,* August 17, 2019. https://
-<a href="http://www.scmp.com/lifestyle/arts-culture/article/3023060/how-pepe-frog-became-face">www.scmp.com/lifestyle/arts-culture/article/3023060/how-pepe-frog-became-face</a>
-hong-kong-protests-despite-cartoon.
+Post,* August 17, 2019. <https://www.scmp.com/lifestyle/arts-culture/article/3023060/how-pepe-frog-became-face-hong-kong-protests-despite-cartoon>.
 
 Kuipers, Giselinde. “‘Where Was King Kong When We Needed Him?’ Public
 Discourse, Digital Disaster Jokes, and the Functions of Laughter After
@@ -12829,8 +12783,7 @@ alvinllum/status/1161161988547870720/photo/1.
 
 Naam Ngon Geoi Sii \[南岸居⼠\]. “‘Zhongli’ De Yuanzui「中⽴」的原罪.
 \[The Sin of Neutrality\].” *Standnews,* February 29, 2020.
-<a href="https://www.thestandnews.com/politics/">https://www.thestandnews.com/politics/</a>
-%E4%B8%AD%E7%AB%8B-%E7%9A%84%E5%8E%9 F%E7%BD%AA/.
+<https://www.thestandnews.com/politics/%E4%B8%AD%E7%AB%8B-%E7%9A%84%E5%8E%9 F%E7%BD%AA/>.
 
 Ogorodnev, Igor. “What the Uncanceling of Pepe the Frog – Just for HK
 Protests, Though – Tells Us about US Media.” *RT Question More,*
@@ -12849,11 +12802,7 @@ Context & Media* 14 (2016): 28– 39.
 
 Tsang, Denise (@denis\_tsang). “Love this Pepe-the-Frog chain at the
 Shum Shui Po Lennon Wall.” Twitter, August 23, 2019.
-<a href="https://twitter.com/denise%5C_tsang/status/">https://twitter.com/denise\_tsang/status/</a>
-1164779085186211840?ref\_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctw
-term%5E1164779085186211840%7Ctwgr%5E%7Ctwcon%5Es1\_&ref\_url=https%3A
-%2F%2Fstayhipp.com%2Fnews%2Fpepe-the-frog-as-a-symbol-for-hong-kong
-protestors %2F.
+<https://twitter.com/denise\_tsang/status/116477908518621184?ref\_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1164779085186211840%7Ctwgr%5E%7Ctwcon%5Es1\_&ref\_url=htps%3A%2F%2Fstayhipp.com%2Fnews%2Fpepe-the-frog-as-a-symbol-for-hong-kong-protestors%2F>.
 
 Varis, Piia, and Jan Blommaert. “Conviviality and Collectives on Social
 Media: Virality, Memes, and New Social Structures.” *Multilingual
@@ -12870,7 +12819,7 @@ Not Alt-Right.” *The New York Times,* August 19, 2019.
 2019/08/19/world/asia/hong-kong-protest-pepe-frog.html.
 
 WhatSticker. “Polite Pepe.”
-<a href="https://whatsticker.online/p/18668317p5Lmt/HK/">https://whatsticker.online/p/18668317p5Lmt/HK/</a> zh.
+<https://whatsticker.online/p/18668317p5Lmt/HK/zh>.
 
 [^25chapter24_1]: Laura Glitsos and James Hall, “The Pepe the Frog Meme: An
     Examination of Social, Political, and Cultural Implications Through
@@ -12969,135 +12918,92 @@ WhatSticker. “Polite Pepe.”
 
 # **Meme Tarot**
 
-###Marc Tuters
+###Luther Blisset
 
-##000 The Fool
 
 ![](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/25.1.jpeg)
 
 <br/>
 
-##001 The Magician
-
 ![](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/25.2.jpeg)
 
 <br/>
-
-##002 The High Priestess
 
 ![](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/25.3.jpeg)
 
 <br/>
 
-##003 The Empress
-
 ![](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/25.4.jpeg)
 
 <br/>
-
-##004 The Emperor
 
 ![](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/25.5.jpeg)
 
 <br/>
 
-##005 The Hierophant
-
 ![](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/25.6.jpeg)
 
 <br/>
-
-##006 The Lovers
 
 ![](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/25.7.jpeg)
 
 <br/>
 
-##007 The Chariot
-
 ![](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/25.8.jpeg)
 
 <br/>
-
-##008 Justice
 
 ![](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/25.9.jpeg)
 
 <br/>
 
-##009 The Hermit
-
 ![](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/25.10.jpeg)
 
 <br/>
-
-##010 Wheel of Fortune
 
 ![](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/25.11.jpeg)
 
 <br/>
 
-##011 Strength
-
 ![](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/25.12.jpeg)
 
 <br/>
-
-##012 The Hanged Man
 
 ![](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/25.13.jpeg)
 
 <br/>
 
-##013 Death
-
 ![](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/25.14.jpeg)
 
 <br/>
-
-##014 Temperance
 
 ![](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/25.15.jpeg)
 
 <br/>
 
-##015 The Devil
-
 ![](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/25.16.jpeg)
 
 <br/>
-
-##016 The Tower
 
 ![](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/25.17.jpeg)
 
 <br/>
 
-##017 The Star
-
 ![](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/25.18.jpeg)
 
 <br/>
-
-##018 The Moon
 
 ![](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/25.19.jpeg)
 
 <br/>
 
-##019 The Sun
-
 ![](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/25.20.jpeg)
 
 <br/>
 
-##020 Judgement
-
 ![](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/25.21.jpeg)
 
 <br/>
-
-##021 The World
 
 ![](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/25.22.jpeg)
 
@@ -13550,18 +13456,13 @@ Said, Edward. “Orientalism.” *The Georgia Review* 31 (1977): 162-206.
 
 
 
-# The Contagious Other: Virality and Anxiety in Congolese Memes\
-\
-Lesley Nicole Braun
+# The Contagious Other: Virality and Anxiety in Congolese Memes
 
-![Afbeelding met persoon, person, binnen Automatisch gegenereerde
-beschrijving](media/image1.png){width="1.707182852143482in"
-height="2.044199475065617in"}
+###Lesley Nicole Braun
 
-Figure 1 caption translation: Have you protected yourself? The wearing
-of dirty bills on one’s face resonates with current global mask
-mandates, as expressed in the caption's call to 'protect yourself.'[^28chapter27_1]
-[]{#_heading=h.30yem6yaiht8 .anchor}
+![Fig. 1: Caption translation: Have you protected yourself? The wearing of dirty bills on one’s face resonates with current global mask mandates, as expressed in the caption's call to 'protect yourself.'[^28chapter27_1]](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/27.1.jpeg)
+
+<br/>
 
 Two banknotes cover the mouth and eyes of a Congolese young man who is
 seated in front of a religious poster made in China. His shirt is
@@ -13628,19 +13529,12 @@ affirmations as spiritual cosmologies. These memes, carried anonymously
 by internet infrastructures, are another connection between the
 individual and the collective, and between the DRC and the world.
 
-![Afbeelding met tekst, persoon, krant, schermafbeelding Automatisch
-gegenereerde
-beschrijving](media/image2.png){width="2.0708333333333333in"
-height="2.448611111111111in"}
+![Fig. 2: Caption translation: When you’re left with only 50f to send 50 texts and Airtel asks you if you want to make a donation of 50f to the government for the fight against covid-19. The specific “when you’re…”
+opening text and the two-panel image follow familiar meme structures. Meanwhile, one needs to think twice before deciding if this is a meme, an ad or a PSA. Meme courtesy of Socier officiel (Instagram)](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/27.2.jpeg)
 
-Figure 2 caption translation: When you’re left with only 50f to send 50
-texts and Airtel asks you if you want to make a donation of 50f to the
-government for the fight against covid-19. The specific “when you’re…”
-opening text and the two-panel image follow familiar meme structures.
-Meanwhile, one needs to think twice before deciding if this is a meme,
-an ad or a PSA. Meme courtesy of Socier officiel (Instagram)
+<br/>
 
-## Digital Divide and Control\
+## Digital Divide and Control
 
 The West Africa Cable System (WACS) is a submarine fibre-optic cable
 that provides bandwidth to much of Africa. Implemented in 2012, the DRC
@@ -13705,7 +13599,7 @@ circulating in abstract and proprietary spaces. Moreover, in becoming a
 generative medium through which to discuss politics, they reshape lives
 and in turn form a continuous productive-consumptive loop.
 
-## The Appeal of Memes\
+## The Appeal of Memes
 
 As a mechanism of critique, subversive memes hold fascination both in
 their content as well as for the suspenseful thrill of following the
@@ -13724,13 +13618,9 @@ created and circulated online, it could not lead the authorities to hold
 any individual accountable. Still, simply viewing it or having it on a
 phone can give one a thrill of being a transgressive dissident.
 
-![Afbeelding met kleding, persoon, poseren, wapenrusting Automatisch
-gegenereerde
-beschrijving](media/image3.png){width="1.5972222222222223in"
-height="2.1534722222222222in"}
+![Fig. 3: Caption translation: I am Kabila Kamambe, a mediocre prostitute sent from Rwanda.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/27.3.jpeg)
 
-Figure 3 caption translation: “I am Kabila Kamambe, a mediocre
-prostitute sent from Rwanda.”
+<br/>
 
 Although some may argue that this symbolic act of transgression only
 deflates the pressure toward material action, a more likely assumption
@@ -13753,15 +13643,13 @@ more “worth it.” The question again is: Will such mocking images result
 into true societal self-criticism? Or by making light of these issues,
 will they temper any call to change?
 
-![Afbeelding met binnen, persoon, muur Automatisch gegenereerde
-beschrijving](media/image4.png){width="2.0493055555555557in"
-height="2.7319444444444443in"} ![Afbeelding met tekst, persoon
-Automatisch gegenereerde
-beschrijving](media/image5.png){width="2.20625in"
-height="2.9055555555555554in"}
+![Fig. 4 and fig. 5: Two examples of a popular meme depicting a man in a traditional sling normally used to carry babies.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/27.4.jpeg)
 
-Figures 4 & 5: Two examples of a popular meme depicting a man in a
-traditional sling normally used to carry babies.
+<br/>
+
+![Fig. 4 and fig. 5: Two examples of a popular meme depicting a man in a traditional sling normally used to carry babies.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/27.5.jpeg)
+
+<br/>
 
 This ambiguity brought on by political memes renders it difficult to
 locate a single source of unchallenged power. Rather, we have a
@@ -13781,16 +13669,10 @@ lack of agency in the face of a system that they perceive as
 immutable”.[^28chapter27_9] The self-reflexive laughter, always teetering at the
 edge of irony, is therefore a coping mechanism.
 
-![Afbeelding met tekst, auto, schermafbeelding Automatisch gegenereerde
-beschrijving](media/image6.png){width="2.584722222222222in"
-height="2.584722222222222in"}
+![Fig. 6: Caption translation from left to right: “Politicians, wives of
+politicians, sons of politicians, voters.” The instant you get the joke about the corruption of politicians, you’re immediately forced to confront your own poverty and powerlessness. Thisenforces the coping mechanism of self-reflexive laughter at your sorry lot and its causes (namely the greedy ruling classes).](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/27.6.jpeg)
 
-Figure 6 caption translation from left to right: “Politicians, wives of
-politicians, sons of politicians, voters.” The instant you get the joke
-about the corruption of politicians, you’re immediately forced to
-confront your own poverty and powerlessness. Thisenforces the coping
-mechanism of self-reflexive laughter at your sorry lot and its causes
-(namely the greedy ruling classes).
+<br/>
 
 Sometimes, universality is eschewed for more granular in-group
 identification. The virality of certain memes or videos depend on their
@@ -13808,18 +13690,11 @@ panel: a neighbourhood in Kinshasa. The meme’s appeal resides in how it
 emits self-essentialized caricatures of Congolese culture: perhaps
 low-tech, but more personal.
 
-![Afbeelding met tekst, buiten, krant Automatisch gegenereerde
-beschrijving](media/image7.png){width="1.8756944444444446in"
-height="2.786111111111111in"}
+![Fig. 6: Caption translation: “Surveillance cameras, America, China, Lingwala” (a neighbourhood in Kinshasa). Again, the joke is based on the material inequalities between the richer countries and poorer Africa, while at the same time reminding/rewarding “in-the-know” viewers through a sense of personal community-interest lacking in the techno-surveillance states of “advanced” countries.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/27.7.jpeg)
 
-Figure 6 caption translation: “Surveillance cameras, America, China,
-Lingwala” (a neighbourhood in Kinshasa). Again, the joke is based on the
-material inequalities between the richer countries and poorer Africa,
-while at the same time reminding/rewarding “in-the-know” viewers through
-a sense of personal community-interest lacking in the
-techno-surveillance states of “advanced” countries*. *
+</br>
 
-## Made in China\
+## Made in China
 
 International media often criticizes China’s manoeuvring as a
 neo-colonial power in Africa (though some would say that China is merely
@@ -13840,12 +13715,9 @@ silhouettes, with the text pointing to China’s propensity to make
 knockoffs of anything. These images work their way into everyday
 conversations, sometimes causing debate.
 
-![Afbeelding met tekst Automatisch gegenereerde
-beschrijving](media/image8.png){width="1.4673611111111111in"
-height="2.109027777777778in"}
+![Fig. 13: Caption translation: (left) “Chinese don’t miss anything! They made a Congolese mannequin.”](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/27.8.jpeg)
 
-Figure 13 caption translation: (left) “Chinese don’t miss anything! They
-made a Congolese mannequin.”
+<br/>
 
 The circulation of people, products and memes has given rise to a
 multiplication of conspiracy theories across the African continent.
@@ -13854,12 +13726,9 @@ grabbing African women’s breasts. Is this legitimate or fake news,
 propaganda or just a troll? What backlash can it cause if interpreted as
 legitimate?
 
-![Afbeelding met tekst, buiten, persoon, strand Automatisch gegenereerde
-beschrijving](media/image9.png){width="2.2895833333333333in"
-height="2.598611111111111in"}
+![Fig. 14: Caption translation: “Here is what this poor Chinese man is doing in the quarries with miners.”](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/27.9.jpeg)
 
-Figure 14 caption translation: “Here is what this poor Chinese man is
-doing in the quarries with miners.”
+<br>
 
 ## A Me(r)maid’s Tale
 
@@ -13876,17 +13745,18 @@ of the times changing. Clock-time is also symbolic of the rigid
 organization of daily life so necessary to capitalist modes of
 production.
 
-![Afbeelding met tekst, geschilderd Automatisch gegenereerde
-beschrijving](media/image10.png){width="2.7680555555555557in"
-height="1.5576388888888888in"} ![Afbeelding met tekst, oud, fotolijstje,
-vintage Automatisch gegenereerde
-beschrijving](media/image11.png){width="1.195138888888889in"
-height="1.5534722222222221in"} ![Afbeelding met tekst, oud, steen
-Automatisch gegenereerde
-beschrijving](media/image12.png){width="2.4722222222222223in"
-height="1.8590277777777777in"}
+![Fig. 7, fig. 8, and fig. 9: Mami Wata wearing a wrist watch.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/27.10.jpeg)
 
-Figures 7, 8, and 9: Mami Wata wearing a wrist watch.
+<br/>
+
+![Fig. 7, fig. 8, and fig. 9: Mami Wata wearing a wrist watch.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/27.11.jpeg)
+
+<br/>
+
+![Fig. 7, fig. 8, and fig. 9: Mami Wata wearing a wrist watch.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/27.12.jpeg)
+
+<br/>
+
 
 Since the colonial period, people have told of encounters with Mami
 Wata, who is depicted as a siren, an irresistible temptress. In exchange
@@ -13966,16 +13836,11 @@ memes, the passage from information to persuasion to manipulation is
 optimized, as depicted in Figure 10 in which a young man is washing his
 brain, trying to make it clean again.
 
-![Afbeelding met persoon, buiten Automatisch gegenereerde
-beschrijving](media/image13.png){width="2.147222222222222in"
-height="2.6777777777777776in"}
+![Fig. 10: Caption translation: “Tag a friend who needs to have his brain washed” Though the term brainwashing directly translates in French as “lavage de cerveau”, this meme also refers to having a dirty mind. Meme courtesy of Starjirexmedia (Instagram)](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/27.13.jpeg)
 
-Figure 10 caption translation: “Tag a friend who needs to have his brain
-washed” Though the term brainwashing directly translates in French as
-“lavage de cerveau”, this meme also refers to having a dirty mind. Meme
-courtesy of Starjirexmedia (Instagram)
+<br/>
 
-## Self-Mockery as Defence\
+## Self-Mockery as Defence
 
 Supernatural content in memes can also be light-hearted, and not
 perceived as sinister. Consider the rooster in Figure 11, standing at
@@ -13987,14 +13852,7 @@ forgetfulness, the in-feeling of getting the mystical significance, a
 poke at militarism, and the gesture of Congolese self-mockery in which
 the idea of a witch’s presence is an uncanny, yet plausible one.
 
-![Afbeelding met tekst, persoon, militair uniform, poseren Automatisch
-gegenereerde
-beschrijving](media/image14.png){width="2.348611111111111in"
-height="2.4194444444444443in"}
-
-Figure 11 caption translation: “When you’re a witch and you forget to
-transform yourself in the morning.” This follows the familiar “that
-moment when…” (TMW) structure very common in memes.
+![Fig. 11: Caption translation: “When you’re a witch and you forget to transform yourself in the morning.” This follows the familiar “that moment when…” (TMW) structure very common in memes.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/27.14.jpeg)
 
 “Sorcier officiel,” or ‘Witch official,’ is a profile on Instagram
 devoted to francophone African memes (Fig 12). The account handle is an
@@ -14004,16 +13862,9 @@ interns). Sorcier officiel’s popularity signals the bewitching quality
 of being a meme creator, charged with the task of sending out images to
 infect our minds.
 
-![Afbeelding met tekst, persoon, krant, schermafbeelding Automatisch
-gegenereerde
-beschrijving](media/image15.png){width="2.015277777777778in"
-height="2.4229166666666666in"}
+![Fig. 12: Caption translation: “The moment when your phone is charging and you start to think about your future.” Again, there is that “TMW” structure. Meme courtesy of Socier officiel (Instagram)](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/27.15.jpeg)
 
-Figure 12 caption translation: “The moment when your phone is charging
-and you start to think about your future.” Again, there is that “TMW”
-structure. Meme courtesy of Socier officiel (Instagram)
-
-## Enchanted Horizons\
+## Enchanted Horizons
 
 As the reality of a biological virus dominates our material lives, its
 media dominates our airwaves and bandwidth. The next decade’s struggle
@@ -14075,9 +13926,7 @@ Modified February 17, 2020.
 
 Willems, Wendy. “Comic Strips and “the crisis”: Postcolonial Laughter
 and Coping with Everyday Life in Zimbabwe.” *Popular Communication* 9,
-no. 2 (2011): 126–145[]{#_heading=h.g89hph4tumt2
-.anchor}.[[]{#_heading=h.7twaor8buis8 .anchor}]{#_heading=h.1ptu7j3wbnxi
-.anchor}
+no. 2 (2011): 126–145.
 
 [^28chapter27_1]: While the identities of the meme sources/creators are difficult to
     pin down, those that are known have been intentionally kept
@@ -14205,6 +14054,10 @@ the future of phygital publication practices, presented and published in
 the DeSForM 2019 conference organized by the MIT Design Lab.
 
 Both Aarushi and Ajtesh are a part of the Critters' Collective.
+
+**Luther Blisset**
+
+Luther Blisset is the pseudonym of one of the most notorious meme researchers out there.
 
 **Grant Bolmer**
 
@@ -14443,10 +14296,6 @@ German-American origin, based in Philadephia and London. As artists,
 comedians and academics, they are interested in the radical potential of
 lols and using them to jinx the constraints of consensus reality.
 
-**Marc Tuters**
-
-X
-
 **Sabrina Ward-Kimola**
 
 Sabrina Ward-Kimola is a Research Associate with the Infoscape Lab. She
@@ -14490,5 +14339,5 @@ Twitter [*http://twitter.com/MemeStudiesRN*](http://twitter.com/MemeStudiesRN)�
 E-mail the MSRN
 at [*memestudiesrn@gmail.com*](mailto:memestudiesrn@gmail.com) 
 
-![](imgs/30.1)
+![MSRN](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/30.1.jpeg)
 
