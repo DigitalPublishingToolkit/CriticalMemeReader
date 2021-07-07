@@ -145,7 +145,7 @@ This virtually unspoken yet constantly looming reminder led people to
 self-censor in public, retreating to self-organized and mobilized
 underground physical safe spaces.
 
-![Image Source: Whisper App @Yellow_Net](imgs/13.1.jpeg)
+![Fig. 1: Image Source: Whisper App @Yellow_Net](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/13.1.jpeg)
 
 <br>
 
@@ -213,11 +213,11 @@ notion of ‘disqualified knowledges’ when he writes that ‘It is through
 the re-appearance of this knowledge, of the local popular knowledges,
 the disqualified knowledges, that criticism performs its work.’[^15chapter13_11]
 
-![The covid19 contact tracing app is called Tawakalna which roughly translates to God be with you. This meme deletes the app ands write to it God be with you.](imgs/13.2.jpeg)
+![Fig. 2.1: The covid19 contact tracing app is called Tawakalna which roughly translates to God be with you. This meme deletes the app ands write to it God be with you.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/13.2.jpeg)
 
 <br/>
 
-![Meme commenting on police raid during the nationwide crackdown on illegal immigrants](imgs/13.3.jpeg)
+![Fig. 2.2: Meme commenting on police raid during the nationwide crackdown on illegal immigrants](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/13.3.jpeg)
 
 <br/>
 
@@ -252,7 +252,7 @@ other than your account being taken down.
 
 ## The Instant Meme Noise Generator
 
-![Some of the insults coded into the randomized insult generator.](imgs/13.5.jpeg)
+![Fig. 3: Some of the insults coded into the randomized insult generator.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/13.5.jpeg)
 
 <br/>
 
@@ -296,11 +296,11 @@ An example randomly generated Insult:
 \[round 4\] TAG STATE MEDIA
 ACCOUNT
 
-![Gigantic key cap from Novel Keys: Big Switch Series.](imgs/13.6.jpeg)
+![Fig. 4.1: Gigantic key cap from Novel Keys: Big Switch Series.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/13.6.jpeg)
 
 <br/>
 
-![An example of a nonsensical insult generated post on Twitter.](imgs/13.7.jpeg)
+![Fig. 4.2: An example of a nonsensical insult generated post on Twitter.]( /Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/13.7.jpeg)
 
 <br/>
 

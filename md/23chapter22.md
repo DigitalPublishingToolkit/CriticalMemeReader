@@ -17,11 +17,11 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# SILICODEFORESTATION\
-\
-Stephanie Boulding\
+# **SILICODEFORESTATION**
 
-### Statement of Intent
+###Stephanie Boulding
+
+## Statement of Intent
 
 Cowboys are dead and so is the Wild West. The utopian hacker-dream of
 the Net, of all the world’s knowledge at all the (hacker) world’s
@@ -52,7 +52,7 @@ today to be more like airspace or mineral rights, inherited from
 regional power projection by the builders and keepers of the Backbone.
 This new material reality demands a new metaphor.
 
-### Deforestation
+## Deforestation
 
 Scott Malcolmson, in his book Splinternet, describes the internet as
 “cracking apart into discrete groups no longer willing, or able, to
@@ -85,8 +85,8 @@ understanding of all activity of trees and forests. The mycorrhizal
 network, in brief, connects an estimated 90% of all land plants to each
 other through invisible hyphae within soil, and allows for the
 transmission of not only information (say, about a forest fire) but
-nutrients, chemicals, and other physical goods.\
-\
+nutrients, chemicals, and other physical goods.
+
 Understanding the vastness of the mycorrhizal network calls for a
 re-interrogation of how we understand trees, roots, fungi, and soil.
 There is a way of seeing available here that prompts us to imagine
@@ -110,9 +110,8 @@ the English language internet in size, is a special case which is not
 comparable to the RUnet or halal internet examples, which create smaller
 ‘walled gardens’ within an existing forest.
 
-[]{#_heading=h.2et92p0 .anchor}
 
-### Gardens
+## Gardens
 
 Different networking protocols lead to diasporic languages, services,
 and memescapes. The forest meme invites new understandings of these
@@ -155,7 +154,7 @@ only to lead to the swift persecution of those schools of thought and
 their participants. An invasive species, or weed, has always been
 defined by the gardener.
 
-### Virality
+## Virality
 
 On land, deforestation is an ecological catastrophe which contains its
 own aftershock - the pandemic. A forest, once clear-cut, fills with
@@ -224,14 +223,14 @@ resistance to these memes.
 
 ### 
 
-1.  *dà mā *
+1.  *dà mā* (big mama) | Dama, literally means "big mama," referring mainly to married women between the age 40-60. They were pushed to the forefront for the first time in 2013 when thousands of Chinese women began buying record amounts of gold. They were the driving force in the global gold market between April and June, when prices had slumped. As well as making investments, 大妈 also love public square dancing.
 
-2.  *dà mā* [^23chapter22_7]
+2.  *dà mā* (Big Mama) | Moderators required on web forums and BBSes based in China. Named in a cognate pun for both definition 1 and Orwell’s “Big Brother”. While automated surveillance and censorship tools prevent politically sensitive information from being directly stated, 大妈 monitor fora and chatrooms and ‘harmonize’ offending memetic content, sending the user an email notifying them that their post is now shadowbanned. As well as monitoring internet communities, 大妈 also grow to know and personally apologize to the users they censor.[^23chapter22_7]
 
 ### 
 
 Crazy Crab 疯蟹, then a pseudonymous contributing political cartoonist
-for the China Daily Times,[^23chapter22_8] issued a viral challenge: make your
+for the China Daily Times, issued a viral challenge: make your
 avatar a photo of yourself with dark sunglasses or a blindfold on, to
 show your support for the long-suffering Chen Guangchen. He also draws
 his comic, in which Red, the protagonist of the Angry Birds series, is
@@ -258,7 +257,7 @@ GAN exists in a state of balanced competition. But in the Chinese
 forest, the discriminator is empowered with the agency of the state. The
 house always wins.
 
-### VIII. reterritorialization Imbues an Artifact with a New Aura
+## VIII. reterritorialization Imbues an Artifact with a New Aura
 
 The stateless Marxist Jewish exile Walter Benjamin invented the idea of
 the ‘aura’ to explain what distinguished a mechanical reproduction of an
@@ -319,7 +318,7 @@ the terrestrial national borders the new continents imitate.
 > It has never been easier than it is now to copy art. JPEG artifacts
 > are samizdat without the hardship.
 
-## References\
+## References
 
 Benjamin, Walter. “The Work of Art in the Age of Mechanical
 Reproduction.” In *Illuminations*, edited by Hannah Arendt, translated
@@ -368,4 +367,3 @@ Control and the Chinese Government,” MA Diss., University of Leiden,
     the Chinese Government,” MA Diss., University of Leiden, 2001.
     <a href="https://www.lokman.nu/thesis/010717-thesis.pdf">https://www.lokman.nu/thesis/010717-thesis.pdf</a>.
 
-[^23chapter22_8]:

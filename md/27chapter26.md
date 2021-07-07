@@ -17,9 +17,9 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Genes, Memes, Dreams\
-\
-Ivan Knapp\
+# **Genes, Memes, Dreams**
+
+###Ivan Knapp
 
 Genes, Memes, Dreams. Three words which, to borrow one of Theodor
 Adorno’s famous remarks, ‘are connected by more than phonetic

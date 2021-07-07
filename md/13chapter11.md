@@ -49,12 +49,12 @@ the head which turned out to be the animal’s original right ear. To the
 right, separated by a vertical black line, the now-revealed true face of
 the lamb looks strikingly unlike a sheep, almost grotesque.
 
-![Fig. 1 Screenshot of a variation of the Ghent Altarpiece Lamb Restoration Meme juxtaposing the restored head of the Eyckian Lamb to Kylie Jenner’s face. A comment connects the two images. Posted by @alexvtunzelmann to twitter.com on 22 January 2020.](11.1.jpeg)
+![Fig. 1: Screenshot of a variation of the Ghent Altarpiece Lamb Restoration Meme juxtaposing the restored head of the Eyckian Lamb to Kylie Jenner’s face. A comment connects the two images. Posted by @alexvtunzelmann to twitter.com on 22 January 2020.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/11.1.jpeg)
 
 <br/>
 
-![Fig. 2 Screenshot of the initial variation of the Ghent Altarpiece Lamb
-Restoration Meme juxtaposing the head of the Mystic Lamb before and after restoration. A comment connects the two images. Posted by @fatherajds to <a href="http://twitter.com">twitter.com</a> on 20 January 2020.](imgs/11.2.jpeg)
+![Fig. 2: Screenshot of the initial variation of the Ghent Altarpiece Lamb
+Restoration Meme juxtaposing the head of the Mystic Lamb before and after restoration. A comment connects the two images. Posted by @fatherajds to <a href="http://twitter.com">twitter.com</a> on 20 January 2020.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/11.2.jpeg)
 
 <br/>
 
@@ -140,8 +140,8 @@ restoration to support the caption’s ironic claim—even if the work of
 art itself is not depicted and the lack of comparative vision undermines
 the processual character of the before-and-after-idea.
 
-![Fig. 3 Screenshot of a variation of the Ghent Altarpiece Lamb Restoration Meme. The user substitutes the image of the Mystic Lamb with the face of Shaun the Sheep. The comment labels the head ‘disturbingly
-humanoid’, picking up online media rhetoric. Posted by @CheeseWorrier to <a href="http://twitter.com">twitter.com</a> on 22 January 2020.](imgs/11.3.jpeg)
+![Fig. 3: Screenshot of a variation of the Ghent Altarpiece Lamb Restoration Meme. The user substitutes the image of the Mystic Lamb with the face of Shaun the Sheep. The comment labels the head ‘disturbingly
+humanoid’, picking up online media rhetoric. Posted by @CheeseWorrier to <a href="http://twitter.com">twitter.com</a> on 22 January 2020.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/11.3.jpeg)
 
 <br/>
 
@@ -222,7 +222,7 @@ the Holy Spirit representing the transubstantiation*.* Also lost is the
 Lamb’s exposure to the *Arma Christi* or the *Fountain of Life* which
 again emphasizes the lamb as a metaphor of Jesus himself. (Fig. 4).
 
-![Fig. 4 Hubert & Jan van Eyck, Adoration of the Mystic Lamb, 1432, 350 x 461 cm, oil on wood, St. Bavo’s Cathedral, Ghent. Macrophotography after the restoration. © closertovaneyck.kikirpa.be](imgs/11.4.jpeg)
+![Fig. 4: Hubert & Jan van Eyck, Adoration of the Mystic Lamb, 1432, 350 x 461 cm, oil on wood, St. Bavo’s Cathedral, Ghent. Macrophotography after the restoration. © closertovaneyck.kikirpa.be](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/11.4.jpeg)
 
 <br/>
 
@@ -337,11 +337,11 @@ conservator in Borja, Spain, that took social media by storm in 2012 and
 the many more memes of failed restoration attempts following the same
 genre of ‘restoration gone wrong’.
 
-![Fig. 5 Screenshot of a Twitter-thread on the initial variation of the Ghent Altarpiece Lamb Restoration Meme by @fatherajds. The user @somecaboose replied with a before and after juxtaposition of the Potato Jesus on 20 January 2020.](imgs/11.5.jpeg)
+![Fig. 5: Screenshot of a Twitter-thread on the initial variation of the Ghent Altarpiece Lamb Restoration Meme by @fatherajds. The user @somecaboose replied with a before and after juxtaposition of the Potato Jesus on 20 January 2020.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/11.5.jpeg)
 
 <br/>
 
-![Fig. 6 Screenshot of a variation of the ‘The Immaculate Conception of Los Venerables’ Restoration Fail Meme on <a href="http://knowyourmeme.com">knowyourmeme.com</a>, originally posted by @thetomzone to <a href="http://twitter.com">twitter.com</a>. The meme compares the before to the two restoration attempts focusing on the face of the Virgin. A comment relates it to the Potato Jesus.](imgs/11.6.jpeg)
+![Fig. 6: Screenshot of a variation of the ‘The Immaculate Conception of Los Venerables’ Restoration Fail Meme on <a href="http://knowyourmeme.com">knowyourmeme.com</a>, originally posted by @thetomzone to <a href="http://twitter.com">twitter.com</a>. The meme compares the before to the two restoration attempts focusing on the face of the Virgin. A comment relates it to the Potato Jesus.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/11.6.jpeg)
 
 <br/>
 

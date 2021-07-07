@@ -17,9 +17,9 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# It Lurks in the Deep: Memetic Terror and the Blue Whale Challenge in India\
-\
-Anirban K. Baishya
+# **It Lurks in the Deep: Memetic Terror and the Blue Whale Challenge in India**
+
+###Anirban K. Baishya
 
 ## The Networked Uncanny
 
@@ -118,7 +118,7 @@ it spreads. Thus, while there may be visual manifestations of the BWC
 (Maluna’s video is an example), the ripple-effect of the BWC emerges out
 of the affective power of the network itself.
 
-## Of Monkeys and Whales: Infrastructures of Feeling\
+## Of Monkeys and Whales: Infrastructures of Feeling
 
 It is true, the BWC does not originate in the specific cultural milieu
 of India. Yet something about it resonated with the Indian imaginary.
@@ -177,8 +177,7 @@ the possibility of the infrastructural uncanny. The spread of the BWC in
 India must be read in this infrastructural context. To the planned city:
 a monkeyman; to the algorithmic network: a whale.
 
-## \
-When a Meme Becomes Real
+## When a Meme Becomes Real
 
 As the BWC panic began to spread in India, institutional responses to
 the crisis also emerged. As mentioned earlier, the BWC was not made to
@@ -268,15 +267,9 @@ take a page from Ryan Milner’s work, this is literally a ‘world made
 meme’ through the ‘messy memetic interrelationships’ between media, law,
 regulation and of course, users.[^22chapter21_26]
 
-![Diagram Description automatically
-generated](media/image1.jpg){width="5.79816491688539in"
-height="4.063671259842519in"}
+![Fig. 1: Excerpt of an information brochure about the BWC hosted on the Information Security Awareness website run by the Ministry of Electronics and Information Technology.[^22chapter21_27] (Original Creator: Information Security Awareness, Ministry of Electronics and Information Technology (MeitY), Govt of India).](imgs/21.1.jpeg)
 
-**Fig. 1:** Excerpt of an information brochure about the BWC hosted on
-the Information Security Awareness website run by the Ministry of
-Electronics and Information Technology.[^22chapter21_27] (Original Creator:
-Information Security Awareness, Ministry of Electronics and Information
-Technology (MeitY), Govt of India).
+<br/>
 
 ## End/Users
 
@@ -365,13 +358,9 @@ becomes a key agent in everyday practices of connectedness, it also
 overlaps with misinformation, rumor mongering and the fear of sudden,
 erupting violence.
 
-![Graphical user interface, text, application, chat or text message
-Description automatically
-generated](media/image2.jpg){width="5.759689413823272in"
-height="3.6533409886264216in"}
+![Fig. 2: The WhatsApp interface and *The Ring* featured in an amateur short film on the BWC on YouTube. (Creator: onionNgarlic, YouTube).[^22chapter21_37]](imgs/21.2.jpeg)
 
-**Fig. 2:** The WhatsApp interface and *The Ring* featured in an amateur
-short film on the BWC on YouTube. (Creator: onionNgarlic, YouTube).[^22chapter21_37]
+</br>
 
 Let’s also not forget how the cellphone and such mobile communication
 platforms inform the petitions and regulatory efforts mentioned earlier,
@@ -387,15 +376,11 @@ scramble to catch up to the viral speed of the network, the collision
 between bodies, devices and practices remains largely unmanageable. And
 as Bauman reminds us, ‘we fear what we can’t manage.’[^22chapter21_38]
 
-![A picture containing text, electronics, display, computer Description
-automatically generated](media/image3.jpeg){width="6.5in"
-height="2.5243055555555554in"}
+![Fig. 3: YouTube screengrabs of an *NDTV* news program about the BWC. The image on the right shows public demonstrations against the BWC (NDTV, YouTube).[^22chapter21_39]](imgs/21.3.jpeg)
 
-**Fig. 3:** YouTube screengrabs of an *NDTV* news program about the BWC.
-The image on the right shows public demonstrations against the BWC
-(NDTV, YouTube).[^22chapter21_39]
+</br>
 
-## **The Fearsome Meme**
+## The Fearsome Meme
 
 That the networked uncanny manifests itself in text and images
 circulating and reverberating with users/audiences is not surprising in
@@ -416,12 +401,9 @@ horror films at 4:20 am. The same coding is also visible in the short
 film variants, albeit in narrative form, and such details also inform
 the PILs discussed earlier.
 
-![Graphical user interface, text, application Description automatically
-generated](media/image4.jpg){width="5.689889545056868in"
-height="3.990825678040245in"}
+![Fig. 4: The BWC ‘tasks’ listed in an advisory video on YouTube. (Creator: SidTalk, YouTube).[^22chapter21_41]](imgs/21.4.jpeg)
 
-**Fig. 4:** The BWC ‘tasks’ listed in an advisory video on YouTube.
-(Creator: SidTalk, YouTube).[^22chapter21_41]
+</br>
 
 While such details remain largely unverifiable or dubious, they become
 ‘real’ through repeated circulation. Details about the BWC take on the

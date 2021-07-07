@@ -17,9 +17,9 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Weapons of Mass Distraction: Far-Right Culture-Jamming Tactics in Memetic Warfare\
-\
-Andy King
+# Weapons of Mass Distraction: Far-Right Culture-Jamming Tactics in Memetic Warfare
+
+###Andy King
 
 ## Memefluencers
 
@@ -49,14 +49,9 @@ of an out-of-touch academic defender—rather than influencer—fighting to
 protect remaining online territories, instead of seizing and subverting
 new grounds.
 
-![Afbeelding met tekst, krant Automatisch gegenereerde
-beschrijving](media/image1.jpg){width="3.5280489938757653in"
-height="2.6460367454068243in"}
+![Fig. 1: Right-wing meme stereotyping leftists as digitally illiterate and therefore irrelevant SJWs. <https://imgflip.com/i/1zwubx>](imgs/19.1.jpeg) 
 
-**Fig. 1.** Right-wing meme stereotyping leftists as digitally
-illiterate
-
-and therefore irrelevant SJWs. <a href="https://imgflip.com/i/1zwubx">https://imgflip.com/i/1zwubx</a>
+</br>
 
 This is not to say that tech-savvy leftists haven’t been trying to
 discredit the internet maxim ‘*The left can’t meme’* \[Fig. 1.\]. There
@@ -87,8 +82,7 @@ understandably angry reactions to racist memes and hateful speech were
 documented and fed back into the online propaganda machine portraying
 them as humorless snowflakes.
 
-## \
-Open Book for Those Who Dare Look
+## Open Book for Those Who Dare Look
 
 Alt-right instructional guides and manifestos for online warfare have
 remained accessible and easy to share. Once uploaded to a pastebin, they
@@ -538,8 +532,7 @@ of time before alt-tech social media platforms grow in scope, this time
 out of plain sight. Fascist shibboleths will become subtler so as to
 evade auto-bans; the conversion tactics will become more nuanced.
 
-## \
-Countering the Counterstrategies
+## Countering the Counterstrategies
 
 The alt-right have persistently proven their ability to adapt to
 situations geared against them. By masterfully manipulating the
@@ -697,8 +690,9 @@ Will Never Be the Same.” *Indiewire,* August 31, 2019.
 
 Evans, Robert. “Ignore The Poway Synagogue Shooter’s Manifesto: Pay
 Attention To 8Chan’s /Pol/ Board.” *Bellingcat,* March 15, 2019.
-<https://www.bellingcat.com/news/americas/2019/04/28/ignore-the-poway-synagogue-shooters-manifesto-pay-attention-to-8chans-pol-board/>.Feinberg,
-Ashley. “This Is The Daily Stormer's Playbook.” *Huffpost UK,* December
+<https://www.bellingcat.com/news/americas/2019/04/28/ignore-the-poway-synagogue-shooters-manifesto-pay-attention-to-8chans-pol-board/>.
+
+Feinberg, Ashley. “This Is The Daily Stormer's Playbook.” *Huffpost UK,* December
 13, 2017.
 <https://www.huffpost.com/entry/daily-stormer-nazi-style-guide_n_5a2ece19e4b0ce3b344492f2>.
 

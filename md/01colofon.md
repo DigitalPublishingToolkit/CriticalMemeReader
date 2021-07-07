@@ -25,7 +25,9 @@ Editors: Chloë Arkenbout, Jack Wilson, Daniel de Zeeuw
 
 Copy editor: Geoff Hondroudakis
 
-Cover Design: Marijn Bril
+Cover design: Marijn Bril
+
+Cover font: Terminal Grotesque Regular by Raphaël Bastide (Velvetyne)
 
 Design and EPUB development: Chloë Arkenbout
 

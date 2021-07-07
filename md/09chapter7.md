@@ -44,7 +44,7 @@ I watched the 50-minute video in its entirety four times that night. We
 were introduced over the phone two days later and have been working
 together ever since.
 
-![Fig. 1: Still from Scoobert Doobert’s video for ‘A Good Life’](imgs/7.1)
+![Fig. 1: Still from Scoobert Doobert’s video for ‘A Good Life’](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/7.1.jpeg)
 
 <br/>
 
@@ -63,7 +63,7 @@ Scoobert Doobert memes. So let the record show, it wasn’t from Scooby
 Doo. In fact, there is no character named Scoobert Doobert. Just
 Scoobert Doo.’
 
-![Fig. 2: A tryptic of stills from the music video for ‘Bread Stapled to Trees’](imgs/7.2)
+![Fig. 2: A tryptic of stills from the music video for ‘Bread Stapled to Trees’](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/7.2.jpeg)
 
 <br/>
 
@@ -194,7 +194,7 @@ smart. We're not that good. There's not a lot for us to grasp onto. We
 can't trust our eyes. We can't trust our experiences. We can't trust the
 systems that we’ve built. All of it is artificial.
 
-![Figure 3: Still from ‘Scoobert Doobert Eats a Banana in the Void’](imgs/7.3)
+![Figure 3: Still from ‘Scoobert Doobert Eats a Banana in the Void’](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/7.3.jpeg)
 
 <br/>
 
@@ -453,7 +453,7 @@ was dealing with the same problem for the first time ever. It’s like we
 were all right on the verge of this incredible epiphany and then just
 ran screaming in the other direction.*
 
-![Figure 4: Still from the music video for ‘Why, How, Yeah, Yeah’](imgs/7.4)
+![Figure 4: Still from the music video for ‘Why, How, Yeah, Yeah’](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/7.4.jpeg)
 
 <br/>
 

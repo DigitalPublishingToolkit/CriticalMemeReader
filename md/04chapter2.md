@@ -52,8 +52,8 @@ modes of expression and experience in contemporary digital culture [^04chapter2_
 discovery and the vestiges of a Roman past, the aesthetic form itself is
 monstrously human.
 
-![Fig. 1 Photograph captioned 'A tari topeng mask, on its dancer'
-Creative Commons Chris Woodrich Crisco 1492 2014. Licensed under CC BY-SA 3.0.](imgs/2.1.jpeg) 
+![Fig. 1: Photograph captioned 'A tari topeng mask, on its dancer'
+Creative Commons Chris Woodrich Crisco 1492 2014. Licensed under CC BY-SA 3.0.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/2.1.jpeg) 
 
 <br/>
 
@@ -155,7 +155,7 @@ social body in his discussion of the comic grotesque, the grotesque as
 uncanny is ‘is related most strongly to the psychic register and to the
 bodily as a cultural projection of the inner state’.[^04chapter2_12]
 
-![Figure 2: Meme captioned ‘you were merely sent to horny jail, I was born in it - molded by it’ (Instagram: @todaywasmybirthday, 2020a). Reproduced by permission of @todaywasmybirthday.](imgs/2.2.jpeg)
+![Fig. 2: Meme captioned ‘you were merely sent to horny jail, I was born in it - molded by it’ (Instagram: @todaywasmybirthday, 2020a). Reproduced by permission of @todaywasmybirthday.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/2.2.jpeg)
 
 <br/>
 
@@ -223,7 +223,7 @@ themselves for contributing to it too, in true carnivalesque fashion
 and the vulgar text is ‘not simply parod\[y\]; it is no more comic than
 tragic; it is both at once, one might say that it is serious’.[^04chapter2_15]
 
-![Fig. 3: Meme captioned ‘this meme brought to you by THIS FUCKIN GUY AAA??! 😂😂😂GET A LOaD 💦 of HIM 😂😂😂😂😂😂’ (Instagram: @lilperc666, 2020).Reproduced by permission of @lilperc666.](imgs/2.3.jpeg)
+![Fig. 3: Meme captioned ‘this meme brought to you by THIS FUCKIN GUY AAA??! 😂😂😂GET A LOaD 💦 of HIM 😂😂😂😂😂😂’ (Instagram: @lilperc666, 2020). Reproduced by permission of @lilperc666.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/2.3.jpeg)
 
 <br/>
 
@@ -277,7 +277,7 @@ symphonic metal band After Forever’s debut album *Prison of Desire*
 description of what it means for reason to be enslaved by the lower
 parts of the soul’.[^04chapter2_21]
 
-![Fig. 4: The cycles of meaning of the doll as a toy and the doll as a meme.](imgs/2.4.jpeg)
+![Fig. 4: The cycles of meaning of the doll as a toy and the doll as a meme.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/2.4.jpeg)
 
 <br/>
 
@@ -332,7 +332,7 @@ game’.[^04chapter2_25] In line with customary festive laughter, the meme maker
 makes fun of herself, her viewer and the meme itself. The grotesque meme
 is thus the object, the subject and the spectacle in one.
 
-![Fig. 5: Meme captioned ‘Dam you felt proud to start w?? Sounds like a personal problem’ (Instagram: @todaywasmybirthday, 2020b). Reproduced by permission of @todaywasmybirthday.](imgs/2.5)
+![Fig. 5: Meme captioned ‘Dam you felt proud to start w?? Sounds like a personal problem’ (Instagram: @todaywasmybirthday, 2020b). Reproduced by permission of @todaywasmybirthday.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/2.5.jpeg)
 
 Grotesque memes are concerned with the cyclical biological processes,
 such as sex, birth, death, eating, drinking, defecating, like grotesque
@@ -379,7 +379,7 @@ background. The resulting visual composite is of a grotesque body, and
 emblematic of grotesque realism in memes.
 
 ![Fig. 6: Meme captioned ‘I have brain ibs: either the thoughts won’t come out at all or they wanna come out TOO OFTEN but both ways it feels bad’ (Instagram: @todaywasmybirthday, 2020c). Reproduced by permission
-of @todaywasmybirthday.](imgs/2.6)
+of @todaywasmybirthday.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/2.6.jpeg)
 
 <br/>
 

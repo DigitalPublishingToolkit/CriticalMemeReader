@@ -101,13 +101,13 @@ imperceptibly changed after the arrival of the Messiah. Yet through it,
 *everything* becomes different, and therein lies its revolutionary
 thrust.
 
-![fig. 1 [*https://giphy.com/gifs/pipe-einstein-s5z4Oy4xrezm0*](ttps://giphy.com/gifs/pipe-einstein-s5z4Oy4xrezm0)](imgs/0.1.png)
+![Fig. 1: <https://giphy.com/gifs/pipe-einstein-s5z4Oy4xrezm0>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/0.1.jpeg)
 
-![](media/image2.gif){width="2.9895833333333335in"
-height="1.6608792650918636in"}
+<br/>
 
-![Fig. 2
-[*https://tenor.com/view/truck-crash-gif-10492368*](https://tenor.com/view/truck-crash-gif-10492368)](imgs/0.2.png]
+![Fig. 2: <chttps://tenor.com/view/truck-crash-gif-10492368>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/0.2.jpeg)
+
+<br/>
 
 Memes are also tricksters, as they make us believe we control them while
 it’s actually the other way around. Classic Zizek: ‘Memes, misperceived
@@ -192,12 +192,9 @@ with postmodernity, and of a generalized informational obesity whose
 gravitational pull bends reality to whatever ‘program’, in the multiple
 senses of that term.
 
-![Afbeelding met tekst Automatisch gegenereerde
-beschrijving](media/image3.gif){width="2.5in"
-height="1.5833333333333333in"}
+![Fig. 3: <https://tenor.com/view/nyan-cat-gif-5716621>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/0.3.jpeg)
 
-Fig. 3.
-[*https://tenor.com/view/nyan-cat-gif-5716621*](https://tenor.com/view/nyan-cat-gif-5716621)
+<br/>
 
 Enter: a 100 hour-long video of Nyan cat on YouTube. The perverse
 delight of endless repetition, the way it tries to make no sense of
@@ -276,7 +273,9 @@ prototypical instance of ‘influence’ as a tactical acting at a distance,
 changing the psycho-physical makeup of the agents it targets. Acting at
 a distance: isn’t that the very definition of media?
 
-![Fig. 4](imgs/0.4.jpg)
+![Fig. 4](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/0.4.jpeg)
+
+<br/>
 
 From state actors to insurgents, Memes have proven to be powerful
 weapons in informational warfare. Indeed, even the canard that ‘the left
@@ -406,10 +405,8 @@ Bueno, Claudio Celis. “Harun Farocki's Asignifying Images.” *tripleC*
 15, no. 2 (2017): 740-54.
 <a href="https://triple-c.at/index.php/tripleC/article/download/874/1040?inline=1">https://triple-c.at/index.php/tripleC/article/download/874/1040?inline=1</a>.
 
-Comaroff, [J.. “Alien-Nation: Zombies, Immigrants, and Millennial
-Capitalism.” *South Atlantic
-<a href="http://Quarterly*](https://www.zotero.org/google-docs/?hoXm6H)">Quarterly*](https://www.zotero.org/google-docs/?hoXm6H)</a> 101, no. 4
-(October 1, 2002): 779–805. <a href="https://doi.org/10.1215/00382876-101-4-779">https://doi.org/10.1215/00382876-101-4-779</a>.
+Comaroff, “Alien-Nation: Zombies, Immigrants, and Millennial
+Capitalism.” *South Atlantic Quarterly* 101, no. 4 (October 1, 2002): 779–805. <a href="https://doi.org/10.1215/00382876-101-4-779">https://doi.org/10.1215/00382876-101-4-779</a>.
 
 Finkelstein, Robert. 2011. “Tutorial: Military Memetics.” Paper
 presented at *Social Media for Defence* *Summit*, Alexandria, VA,
@@ -478,9 +475,9 @@ York: Routledge, 2016.
 
 
 
-# Wojak’s lament: Excess and Voyeurism Under Platform Capitalism\
-\
-Anthony Glyn Burton
+#**Wojak’s lament: Excess and Voyeurism Under Platform Capitalism**
+
+###Anthony Glyn Burton
 
 Those of us with faint memories of the early internet may remember it
 making a different appeal: nobody needed to know who you were if you
@@ -532,7 +529,7 @@ impression of belonging. By exceeding its capture, memery points to a
 potential avenue for transcending the formatting and freezing of digital
 life into mere bunker data.
 
-## The Phantasmagoric Social: Excess, Memes, and Affective Identification\
+## The Phantasmagoric Social: Excess, Memes, and Affective Identification
 
 In an aside of Chapter 2 in Platform Capitalism, Nick Srnicek contests
 Tiziana Terranova’s view that user output is labor, claiming that since
@@ -611,9 +608,6 @@ alongside me. Memes circulate through networks, and there is an element
 of affect that is produced in this traversal: impressions of the other
 *who felt themselves in the NPC meme* are left and felt on me.[^03chapter1_6]
 
-Figure 1: Wojak himself
-
-Figure 2: Wojak wall
 
 I’m using Wojak and NPC here interchangeably because while Wojak himself
 might be the most recognizable type, he represents a genre of images
@@ -748,7 +742,7 @@ those whose ‘typical’ behavior makes up a landscape as rich as the
 social itself: a horizon that always, already exceeds the valorization
 machine.
 
-## References\
+## References
 
 Brown, Wendy. *Undoing the Demos: Neoliberalism’s Stealth Revolution.*
 New York: Zone Books, 2015.
@@ -901,9 +895,9 @@ no.11 (2015): 1886–1906. <a href="https://doi.org/10.1177/1461444814535194">ht
 
 
 
-# The ‘Grotesque’ in Instagram Memes\
-\
-İdil Galip
+# **The ‘Grotesque’ in Instagram Memes**
+
+###İdil Galip
 
 The *grotto* is damp. It is cavernous and dark, existing between life
 outside and the molten core of the underground. The serpentine foliage
@@ -915,8 +909,7 @@ that echoes incessantly in the crypt. The *grotto* is bizarre, and so is
 your laughter—it is an uncanny feeling that can only be described as
 *grotto-esque*.
 
-![](media/image1.jpg){width="4.611805555555556in"
-height="3.6597222222222223in"}If the Emperor Nero knew that *Domus
+If the Emperor Nero knew that *Domus
 Aurea*, the golden palace he built in Rome, was initially thought to be
 a mere grotto, a mysterious devotional cave, he would have probably set
 fire to Rome a second time. This once extravagant palace had been built
@@ -933,11 +926,14 @@ to and outside of the Renaissance, the *Domus Aurea*, the Roman Empire
 or ‘the West’. In fact, the grotesque appears throughout human culture,
 from *Topeng* dance in Indonesia, the *Haka* in Maori culture, to the
 mania of *Hacivat* and *Karagöz* in Turkish shadow play, as well as in
-modes of expression and experience in contemporary digital culture
-
-[^04chapter2_1]. While the term might have been inspired by this accidental
+modes of expression and experience in contemporary digital culture [^04chapter2_1]. While the term might have been inspired by this accidental
 discovery and the vestiges of a Roman past, the aesthetic form itself is
 monstrously human.
+
+![Fig. 1: Photograph captioned 'A tari topeng mask, on its dancer'
+Creative Commons Chris Woodrich Crisco 1492 2014. Licensed under CC BY-SA 3.0.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/2.1.jpeg) 
+
+<br/>
 
 ## A Digital Carnival
 
@@ -1037,13 +1033,9 @@ social body in his discussion of the comic grotesque, the grotesque as
 uncanny is ‘is related most strongly to the psychic register and to the
 bodily as a cultural projection of the inner state’.[^04chapter2_12]
 
-![Afbeelding met tekst, pop, speelgoed, cosmetisch Automatisch
-gegenereerde beschrijving](media/image2.jpg){width="5.208333333333333in"
-height="4.3125in"}
+![Fig. 2: Meme captioned ‘you were merely sent to horny jail, I was born in it - molded by it’ (Instagram: @todaywasmybirthday, 2020a). Reproduced by permission of @todaywasmybirthday.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/2.2.jpeg)
 
-Figure 2: Meme captioned ‘you were merely sent to horny jail, I was born
-in it - molded by it’ (Instagram: @todaywasmybirthday, 2020a).
-Reproduced by permission of @todaywasmybirthday.
+<br/>
 
 Within my digital ethnography of a community of meme artists on
 Instagram, I encountered expressions of both comic and uncanny
@@ -1092,10 +1084,8 @@ exploitation of play as ‘serious business’, complicates the
 conceptualization of these spaces as digital carnivals. However, the
 connection between digital marketplace-talk and the appearance of the
 grotesque as a meme response is still pertinent as to how festive and
-grotesque laughter as well as vulgar language can be understood within
-memes.
+grotesque laughter as well as vulgar language can be understood within memes.
 
-![](media/image3.png){width="3.0in" height="2.75in"}
 Marketplaces—especially those which are casual, non-compliant and
 informal such as this one, as well as others in the wider meme economy,
 are by their nature vulgar spaces. To that end, they produce their own
@@ -1111,9 +1101,9 @@ themselves for contributing to it too, in true carnivalesque fashion
 and the vulgar text is ‘not simply parod\[y\]; it is no more comic than
 tragic; it is both at once, one might say that it is serious’.[^04chapter2_15]
 
-Figure 3: Meme captioned ‘this meme brought to you by THIS FUCKIN GUY
-AAA??! 😂😂😂GET A LOaD 💦 of HIM 😂😂😂😂😂😂’ (Instagram: @lilperc666, 2020).
-Reproduced by permission of @lilperc666.
+![Fig. 3: Meme captioned ‘this meme brought to you by THIS FUCKIN GUY AAA??! 😂😂😂GET A LOaD 💦 of HIM 😂😂😂😂😂😂’ (Instagram: @lilperc666, 2020). Reproduced by permission of @lilperc666.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/2.3.jpeg)
+
+<br/>
 
 The comedy, tragedy and seriousness of the grotesque which Kristeva
 presents can be seen in Figure 3 created by artist @lilperc666. There
@@ -1165,11 +1155,9 @@ symphonic metal band After Forever’s debut album *Prison of Desire*
 description of what it means for reason to be enslaved by the lower
 parts of the soul’.[^04chapter2_21]
 
-![](media/image4.png){width="6.709013560804899in"
-height="3.2812456255468065in"}
+![Fig. 4: The cycles of meaning of the doll as a toy and the doll as a meme.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/2.4.jpeg)
 
-Figure 4: The cycles of meaning of the doll as a toy and the doll as a
-meme.
+<br/>
 
 Within grotesque memes, the use of *strange langu*age, a combination of
 metaphors, rhymes, references, fuses with the *strange image*—absurd,
@@ -1222,13 +1210,7 @@ game’.[^04chapter2_25] In line with customary festive laughter, the meme maker
 makes fun of herself, her viewer and the meme itself. The grotesque meme
 is thus the object, the subject and the spectacle in one.
 
-![Afbeelding met tekst Automatisch gegenereerde
-beschrijving](media/image5.png){width="4.716666666666667in"
-height="4.75in"}
-
-Figure 5: Meme captioned ‘Dam you felt proud to start w?? Sounds like a
-personal problem’ (Instagram: @todaywasmybirthday, 2020b). Reproduced by
-permission of @todaywasmybirthday.
+![Fig. 5: Meme captioned ‘Dam you felt proud to start w?? Sounds like a personal problem’ (Instagram: @todaywasmybirthday, 2020b). Reproduced by permission of @todaywasmybirthday.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/2.5.jpeg)
 
 Grotesque memes are concerned with the cyclical biological processes,
 such as sex, birth, death, eating, drinking, defecating, like grotesque
@@ -1259,7 +1241,7 @@ by ‘serious thinkers’, adds a further layer of grotesqueness. It also
 reminds us that carnivalesque laughter is serious as much as it is
 comedic and tragic.[^04chapter2_28]
 
-[]{#_heading=h.gjdgxs .anchor}The mask donned by the image of the dog in
+The mask donned by the image of the dog in
 Figure 6 is yet another reflection of the grotesque folk culture which
 emerges from the digital carnival. Bakhtin has a reverence for the mask,
 as to him it symbolizes the ‘most complex theme in folk culture’.[^04chapter2_29]
@@ -1274,14 +1256,10 @@ costumed and masked animal is placed against a glitchy, static
 background. The resulting visual composite is of a grotesque body, and
 emblematic of grotesque realism in memes.
 
-![Afbeelding met tekst Automatisch gegenereerde
-beschrijving](media/image6.png){width="5.427766841644795in"
-height="5.2905260279965in"}
+![Fig. 6: Meme captioned ‘I have brain ibs: either the thoughts won’t come out at all or they wanna come out TOO OFTEN but both ways it feels bad’ (Instagram: @todaywasmybirthday, 2020c). Reproduced by permission
+of @todaywasmybirthday.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/2.6.jpeg)
 
-Figure 6: Meme captioned ‘I have brain ibs: either the thoughts won’t
-come out at all or they wanna come out TOO OFTEN but both ways it feels
-bad’ (Instagram: @todaywasmybirthday, 2020c). Reproduced by permission
-of @todaywasmybirthday.
+<br/>
 
 ## Conclusion
 
@@ -1397,7 +1375,7 @@ todaywasmybirthday. “Me Herniating My Brain.” Instagram, February 19,
 ———. “You Cannot Send Me to Horny Jail.” Instagram, December 21, 2020.
 <a href="https://www.instagram.com/p/CJC2cRDlXLS/?utm%5C_source=ig%5C_web%5C_copy%5C_link">https://www.instagram.com/p/CJC2cRDlXLS/?utm\_source=ig\_web\_copy\_link</a>.
 
-[]{#_Hlk73565440 .anchor}de Seta, Gabriele. “Digital Folklore”. In
+de Seta, Gabriele. “Digital Folklore”. In
 *Second International Handbook of Internet Research*, edited by Jeremy
 Hunsinger, Lisbeth Klastrup, and Matthew M. Allen, 1–17. Dordrecht:
 Springer Netherlands, 2019.
@@ -1505,9 +1483,9 @@ Diss., University of Amsterdam, 2019.
 
 
 
-# ‘A Vaguely Erotic Mime’: Mimetic Text vs. Optical Tactility\
-\
-Sabrina Ward-Kimola
+# **‘A Vaguely Erotic Mime’: Mimetic Text vs. Optical Tactility**
+
+###Sabrina Ward-Kimola
 
 TikTok dances assemble various fragments—music, human bodily rhythms,
 platform infrastructures—towards an imitative end. The imitative body
@@ -1559,8 +1537,8 @@ undetermined and continual becoming that can only aspire towards, but
 never fully meet the object of imitation. I conclude with a discussion
 of the “phenomena of dance as something inherently bound to the
 social”[^05chapter3_7] and reorient the significance of the TikTok dance as a
-cultural form worthy of further analysis.\
-\
+cultural form worthy of further analysis.
+
 In ‘Extending the Internet meme: Conceptualizing technological mimesis
 and imitation publics on the TikTok platform’, Diana and David James
 Zulli argue that TikTok’s algorithm (the ‘For You’ page), organization
@@ -1602,8 +1580,7 @@ something new. Consequently, there is the evolution of forms that
 constitute the flows of cultural unfolding – for our purposes here, this
 is the meme.
 
-![](media/image1.jpg){width="4.979861111111111in"
-height="3.666162510936133in"}As the clock struck 2013, Limor Shifman
+As the clock struck 2013, Limor Shifman
 emerged from the ninth circle with foreknowledge of memetics to come:
 firstly, it is a unit of cultural information that eventually scales
 into a macro-level social phenomenon; secondly, it is a unit of cultural
@@ -1627,6 +1604,10 @@ yearn for visibility (often manifesting in the aesthetic *du jour*), in
 addition to the spectral algorithm of the ‘For You’ page. It is because
 of these predetermined streams of mimetic output that Zulli & Zulli
 describe TikTok as a mimetic text, in and of itself.
+
+![Fig. 1: Stills of pop musician Rosé performing the infamous WAP choreography. KpopPostEditor, Cardi B Reacts to BLACKPINK Rosé WAP Dance Challenge on TikTok, 2021, video stills, KpopPost, <https://www.kpoppost.com/blackpink-rose-wap-dance-challenge-tiktok-cardi-b/>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/3.1.jpeg)
+
+<br/>
 
 To conceive of TikTok as a mimetic text complicates the role that
 mimesis has traditionally played in the continual unfolding of memetics.
@@ -1749,8 +1730,7 @@ Future Body At Work, points to the ways:
 > transformed through individual decisions and how listening can precede
 > acting, how contraction gives space for release.[^05chapter3_28]
 
-![](media/image3.jpg){width="4.3284722222222225in"
-height="3.2729166666666667in"}Wolinkska and Sandström see the moving
+Wolinkska and Sandström see the moving
 body as a site of potential that can be controlled and exploited as a
 means to a definitive end. Often in the interests of representation, the
 ‘reigning body absorbs the body of the ruled’[^05chapter3_29] a bodily relationship
@@ -1775,6 +1755,10 @@ speak of an imitation public through the optical lens is to speak of the
 virtualized body as a means to a massively-scalable end in the interests
 of more and more content.
 
+![Fig. 2: The front cover of Thomas Hobbes’s The Leviathan. Wenceslas Hollar or Abraham Bosse, Drawing of frontispiece of Leviathan, 1910, ink drawing on manuscript, 784 x 600 pixels, Wikimedia Commons, https://commons.wikimedia.org/wiki/File:Drawing_of_frontispiece_of_Leviathan.jpg](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/3.2.jpeg)
+
+<br/>
+
 While I am skeptical of the ‘revolutionary’ potential of a
 hypothetically *becoming* body identified by Wolinkska and Sandström, it
 may be true that cultural innovation, i.e. the embrace of difference,
@@ -1797,17 +1781,17 @@ erotic mime. Really TikTok dances and NFTs are the only new artistic
 mediums of the last decade’. Twitter post, 29 March 2021, 8:26 PM.
 <https://twitter.com/deankissick/status/1376692176470614025>.
 
-[]{#_Hlk70676826 .anchor}———. ‘We’re trapped in the world Frederic
+———. ‘We’re trapped in the world Frederic
 Jameson foretold, ‘a world in which stylistic innovation is no longer
 possible, all that is left to imitate is to imitate dead styles, to
 speak through the masks with the voices of the styles in the imaginary
 museum.’ But I know there are ways out’. Twitter post, 7 April 2021,
 11:49 AM. <a href="https://twitter.com/deankissick/status/">https://twitter.com/deankissick/status/</a> 1379823627948933122
 
-[]{#_Hlk70669293 .anchor}“Club Quarantine.” Instagram, March 4,^,^ 2021.
-<a href="https://www.instagram.com/">https://www.instagram.com/</a> clubquarantine/?hl=en.
+“Club Quarantine.” Instagram, March 4, 2021.
+<http://www.instagram.com/clubquarantine/>.
 
-Benjamin, Walter, and Knut Tarnowski[]{#_Hlk70674177 .anchor}. “Doctrine
+Benjamin, Walter, and Knut Tarnowski. “Doctrine
 of the Similar (1933).” *New German Critique*, no. 17 (1979): 65.
 <https://doi.org/10.2307/488010>.
 
@@ -1836,8 +1820,7 @@ relationship between online trolling and mainstream culture*. Cambridge:
 
 Shifman, Limor. “Memes in a Digital World: Reconciling with a Conceptual
 Troublemaker.” *Journal of Computer-Mediated Communication* 18, no. 3
-(2013): 362–77. [<a href="https://doi.org/">https://doi.org/</a>
-<a href="http://10.1111/jcc4.12013](https://doi.org/%2010.1111/jcc4.12013)">10.1111/jcc4.12013](https://doi.org/%2010.1111/jcc4.12013)</a>.
+(2013): 362–77. <https://doi.org/%2010.1111/jcc4.12013>.
 
 Taussig, Michael T. *Mimesis and Alterity: A Particular History of the
 Senses*. New York: Routledge, 1993.
@@ -1858,14 +1841,14 @@ TikTok Platform.” *New Media & Society*, December, 2020.
     See Some ‘WAP’ Dance Challenges”, *Vulture,* 19 August 2020,
     <a href="https://www.vulture.com/2020/08/wap-cardi-b-tiktok-dance-challenge-explained.html">https://www.vulture.com/2020/08/wap-cardi-b-tiktok-dance-challenge-explained.html</a>
 
-[^05chapter3_3]: []{#_Hlk70670221 .anchor}@deankissick, “I do find the TikTok dance
+[^05chapter3_3]: @deankissick, “I do find the TikTok dance
     interesting because it’s not really dance, it’s something else. It’s
     like a weird form of vaguely erotic mime. Really TikTok dances and
     NFTs are the only new artistic mediums of the last decade,” Twitter,
     March 29, 2021,
     <a href="https://twitter.com/deankissick/status/1376692176470614025">https://twitter.com/deankissick/status/1376692176470614025</a>
 
-[^05chapter3_4]: []{#_Hlk70670246 .anchor}Whitney Phillips, *This is Why we Can’t
+[^05chapter3_4]: Whitney Phillips, *This is Why we Can’t
     Have Nice Things: Mapping the Relationship Between Online Trolling
     and Mainstream Culture* (Cambridge: *MIT Press,* 2015), 172-176.
 
@@ -1955,13 +1938,13 @@ TikTok Platform.” *New Media & Society*, December, 2020.
     possible, all that is left to imitate is to imitate dead styles, to
     speak through the masks with the voices of the styles in the
     imaginary museum’, But I know there are ways out,” Twitter, April 7,
-    2021. <https://twitter.com/deankissick/> status/1379823627948933122.
+    2021. <https://twitter.com/deankissick/status/1379823627948933122>.
 
 
 
-# Praise Gopod: Weird Tales and Memetic Lore on the WELL\
-\
-Jacob Sujin Kuppermann\
+# **Praise Gopod: Weird Tales and Memetic Lore on the WELL**
+
+###Jacob Sujin Kuppermann
 
 ## Memetic Prehistory
 
@@ -2089,8 +2072,7 @@ early online services like Usenet, or service providers like Compuserve.
 
 The ideology informing the WELL’s community structures is best shown in
 a set of founding principles that then-editor of *Wired* Kevin Kelly
-would recount to Howard Rheingold as part of Rheingold’s [*The Virtual
-<a href="http://Community*](https://www.rheingold.com/vc/book/2.html)">Community*](https://www.rheingold.com/vc/book/2.html)</a>, an
+would recount to Howard Rheingold as part of Rheingold’s [*The Virtual Community*](https://www.rheingold.com/vc/book/2.html)</a>, an
 anthropological survey of the early 1990s online cosmos that focused
 heavily on the WELL. In between notes on the WELL’s business model (it
 was to be as close as it could be to free while still being profitable),
@@ -2432,9 +2414,9 @@ The WELL, various posts. <a href="http://Well.com">Well.com</a>
 
 
 
-# Audio Memes, Earworms, and Templatability: the ‘Aural Turn’ of Memes on TikTok\
-\
-Crystal Abidin and Dr. Bondy Valdovinos Kaye 
+# **Audio Memes, Earworms, and Templatability: the ‘Aural Turn’ of Memes on TikTok**
+
+###Crystal Abidin and Dr. Bondy Valdovinos Kaye 
 
 ‘Audio memes’ popularized by TikTok have become the next frontier of
 meme cultures on the internet, presenting an 'aural turn' in meme
@@ -2862,7 +2844,7 @@ Kumar, Sangeet. “Contagious Memes, Viral Videos and Subversive Parody:
 The Grammar of Contention on the Indian Web.” *International
 Communication Gazette* 77, no. 3 (2015): 232–247.
 
-[]{#_Hlk73378913 .anchor}Leaver, Tama, Tim Highfield, and Crystal
+Leaver, Tama, Tim Highfield, and Crystal
 Abidin. *Instagram: Visual Social Media Cultures.* Cambridge: Polity
 Press, 2020.
 
@@ -3031,9 +3013,9 @@ TikTok. “TikTok Community Guidelines.” Last modified December, 2021.
 
 
 
-# Memes in Kuwait as Coping Mechanism for a Lack of Infrastructure\
-\
-Yasmeen Khaja
+# **Memes in Kuwait as Coping Mechanism for a Lack of Infrastructure**
+
+###Yasmeen Khaja
 
 When the pandemic arrived in Kuwait, things happened fast. Makeshift
 COVID-19 testing centers were quickly organized, tracking technologies
@@ -3083,13 +3065,9 @@ consequences. In effect, so is their dealing with it. The sticker comes
 from the same place that yields uneasiness—the screen—except it lets us
 reconcile it.
 
-![Curfew, no curfew. Digital animated sticker. Received on WhatsApp.
-February 21, 2021. Fig. 1 Curfew, no
-curfew.](media/image1.jpeg){width="2.0833333333333335in"
-height="4.5488156167979in"}
+![Fig. 1 Curfew, no curfew. Digital animated sticker. Received on WhatsApp. February 21, 2021.](imgs/6.1.jpg)
 
-Fig. 1 Curfew, no curfew. Digital animated sticker. Received on
-WhatsApp. February 21, 2021.
+<br/>
 
 A lack of planning and foresight—it seemed—left the government with an
 ad hoc strategy that appeared to rely on trial and error. Whether this
@@ -3138,12 +3116,9 @@ and a symbolic figure dearly nicknamed the hummingbird of the Gulf—with
 a photoshopped mask asking ‘ملكي ولا استيديو؟’ (‘King suite or
 studio?’).
 
-![Fig. 2 King suite or
-studio?](media/image2.jpeg){width="2.7777777777777777in"
-height="2.7777777777777777in"}
+![Fig. 2 King suite or studio? Digital image. Received on WhatsApp. February 25, 2020.](imgs/6.2.jpg)
 
-Fig. 2 King suite or studio? Digital image. Received on WhatsApp.
-February 25, 2020.
+<br/>
 
 Another meme from this period: a video of a woman declaring the free
 food provided at the resort to be bland, inedible, oily, and the salad
@@ -3166,13 +3141,9 @@ and that its citizens ought to see it that way. Beyond the nationalist
 rhetoric, Dr. Mona isn’t wrong: if your quarantine facility is a resort,
 *something* must be working in your favor.
 
-![The salad doesn't have dressing. Digital sticker. Received on
-WhatsApp. March 5, 2021. Fig 3. The salad doesn't have
-dresing.](media/image3.jpeg){width="2.7777777777777777in"
-height="2.7777777777777777in"}
+![Fig 3. The salad doesn't have dressing. Digital sticker. Received on WhatsApp. March 5, 2021.](imgs/6.3.jpg)
 
-Fig 3. The salad doesn't have dressing. Digital sticker. Received on
-WhatsApp. March 5, 2021.
+<br/>
 
 A lot happens around a joke like this, and the activity alone means
 there is attention and thereby potential for something to be done, or
@@ -3283,21 +3254,13 @@ The jokes aren’t funny, but to address them as unfunny would be to
 address a message that is far from the message that this meme carries.
 When it comes to memes, the joke is the point.
 
-![Saltbae meme with Iran, Coronavirus, and Kuwait. Digital image.
-Received on WhatsApp. Feb 27, 2020. Fig. 4 Iran, Kuwait,
-Coronavirus](media/image4.jpeg){width="2.7777777777777777in"
-height="3.5159995625546805in"}
+![Fig. 4 Saltbae meme with Iran, Coronavirus, and Kuwait. Digital image. Received on WhatsApp. Feb 27, 2020](imgs/6.4.jpg)
 
-Fig. 4 Saltbae meme with Iran, Coronavirus, and Kuwait. Digital image.
-Received on WhatsApp. Feb 27, 2020
+<br/>
 
-![This time it really is Iran's fault. Digital sticker. Received on
-WhatsApp. March 5, 2021. Fig. 5 This time it really is Iran's
-fault.](media/image5.tif){width="2.7777777777777777in"
-height="2.7777777777777777in"}
+![Fig. 5 This time it really is Iran's fault. Digital sticker. Received on WhatsApp. March 5, 2021](imgs/6.5.jpg)
 
-Fig. 5 This time it really is Iran's fault. Digital sticker. Received on
-WhatsApp. March 5, 2021
+<br/>
 
 There have been multiple critiques of the failure of the Kuwaiti
 government to address the root of problems. Policies have long protected
@@ -3401,9 +3364,9 @@ Watan. “فيديو-مستفز-لمواطنة-كويتية-من-داخل-الح
 
 
 
-# Masks, Monsters, and Memes: In Conversation with Scoobert Doobert\
-\
-By Max Horwich
+# **Masks, Monsters, and Memes: In Conversation with Scoobert Doobert**
+
+###By Max Horwich
 
 Forgive the ‘Webster’s Dictionary defines…’ introduction, but I recently
 learned (from Wikipedia, obviously) that the word meme comes from the
@@ -3428,8 +3391,9 @@ I watched the 50-minute video in its entirety four times that night. We
 were introduced over the phone two days later and have been working
 together ever since.
 
-![](media/image1.jpg){width="6.499104330708661in"
-height="4.113888888888889in"}
+![Fig. 1: Still from Scoobert Doobert’s video for ‘A Good Life’](imgs/7.1)
+
+<br/>
 
 While his stage name and many of his song titles (‘Shaggy’s Anthem,’
 ‘Mystery Machine,’ ‘What a Velma What a Night,’ etc.) might give the
@@ -3446,8 +3410,9 @@ Scoobert Doobert memes. So let the record show, it wasn’t from Scooby
 Doo. In fact, there is no character named Scoobert Doobert. Just
 Scoobert Doo.’
 
-![](media/image3.jpg){width="6.499272747156605in"
-height="3.93333552055993in"}
+![Fig. 2: A tryptic of stills from the music video for ‘Bread Stapled to Trees’](imgs/7.2)
+
+<br/>
 
 Much of his work engages heavily with memes—from his ongoing series of
 one-minute songs dedicated to various Subreddits, to the year-in-review
@@ -3483,7 +3448,7 @@ thinking about how music engages with meme culture, and how much it’s
 changed over, say, the past decade. Ten years out from the coinage of
 the term trollgaze and we’ve had Beyonce and Lizzo unassumingly
 interpolating tweets into lyrics for chart-topping songs. It feels like
-pop music is figuring out what to do with memes. *
+pop music is figuring out what to do with memes.*
 
 Popular music has always been meme-based. A ‘hit’ is unpredictable, it
 catches some invisible thread of shared reality.
@@ -3548,7 +3513,7 @@ world than the end of capitalism. It’s hard to address a problem when
 you’re so deep in it that you don’t even have the language to identify
 and describe it, and it seems to me like one of the roles of memes as an
 artform (or whatever you want to call them) has been to help us develop
-the language. *
+the language.*
 
 I think that's barking up the wrong tree though. I think that
 postmodernism, to me at least, was all about trying to find the right
@@ -3576,8 +3541,9 @@ smart. We're not that good. There's not a lot for us to grasp onto. We
 can't trust our eyes. We can't trust our experiences. We can't trust the
 systems that we’ve built. All of it is artificial.
 
-![](media/image5.jpg){width="6.499043088363955in"
-height="4.100695538057742in"}
+![Figure 3: Still from ‘Scoobert Doobert Eats a Banana in the Void’](imgs/7.3)
+
+<br/>
 
 And then what do you do with that knowledge, according to Socrates? You
 laugh! And you just say, like, ‘I don't really know what good *is*, but
@@ -3608,12 +3574,12 @@ hard time communicating because he was trying to deconstruct language
 with language, rather than just laughing.
 
 *Since we’re having an academic discussion about memes, I feel like we
-should probably talk about Richard Dawkins. I haven’t actually read* The
-Selfish Gene*—I was supposed to read it in grad school but I think I was
+should probably talk about Richard Dawkins. I haven’t actually read The
+Selfish Gene —I was supposed to read it in grad school but I think I was
 busy that week—but I’m interested in him as a figure, because before I
 knew he was ‘the memes guy,’ I just thought of him as ‘that stuffy old
 British dude who’s shitty about Muslims,’ and I’m fascinated by a guy
-who’s so on-point about one thing and so wrong about everything else. *
+who’s so on-point about one thing and so wrong about everything else.*
 
 Definitely. Richard Dawkins is funny because, like, my first
 introduction to him was some of my religious friends showing me, like,
@@ -3646,7 +3612,7 @@ sailed to America to prove the world was round’ kind of understanding.
 It's wrong, but it works as a placeholder until you can learn how it
 really is. But the longer you sit with that incorrect understanding as
 the objective truth, the more ossified it becomes and the harder it is
-to break out of it. *
+to break out of it.*
 
 Yeah, exactly. There is a hidden danger in the economic theory of
 specialization, where you look at people as little machines—even if
@@ -3740,13 +3706,13 @@ powerful about humor is the reaction is so immediate and visceral.
 Someone tells a joke and either you laugh or you don’t, there’s no
 faking it. And a joke is often an observation about the world, so when
 someone laughs at your joke, it's because they share some of your
-underlying assumptions about the way the world works. *
+underlying assumptions about the way the world works.*
 
 *I mean like so much of the stuff that you're doing is genuinely funny,
 but it's always in service of the other stuff that you're grappling
 with, like deconstructing the absurdity of modern life and, you know,
 Derrida or whatever. Humor can be in service of these like larger things
-that don't go down so smoothly without it, you know? *
+that don't go down so smoothly without it, you know?*
 
 Definitely, definitely. I think it's interesting how there are certain
 things that translate really well across cultures—like character acting,
@@ -3757,19 +3723,18 @@ try and bring a healthy dose of that to what I'm doing, and hopefully
 make stuff that’s cross-cultural. I don't want to get too swept up in
 the U.S. and thinking that our problems are the universals.
 
-*Will Farrell is a funny example because, did you see that* EuroVision
-*movie that came out like last year? I mean, it wasn’t great; but the
+*Will Farrell is a funny example because, did you see that EuroVision movie that came out like last year? I mean, it wasn’t great; but the
 thing that I thought was interesting about that movie was 1) it was
 clearly intended for an international audience (i.e. people who watch
 EuroVision), and 2) all of the humor is visual. There aren’t really any
 funny lines of dialogue, all of the jokes are in the camera tricks or
 the staging or all of these other things that are unique to the language
 of film; which is great, because it’s kinda rare for American comedies
-to meaningfully engage with the medium of film in their humor* — *it’s
+to meaningfully engage with the medium of film in their humor — it’s
 mostly just a camera pointed at people while they tell jokes. It begs
 the question of what’s even the point of making something as complicated
 and expensive as a movie when the content could just as easily be
-delivered through a much simpler medium? *
+delivered through a much simpler medium?*
 
 That's a good way of looking at it. And I think that that's a good way
 to kind of flip the narrative, because I know a lot of people are really
@@ -3811,7 +3776,7 @@ than my love of \[whatever unpopular thing\]. Sure. But it also has
 people doing some like pretty weird mental gymnastics trying to
 politicize every consumer decision they make. It just seems a little
 unnecessary, and frustrating for everyone involved. It just becomes
-another thing to get angry at strangers on Twitter about. *
+another thing to get angry at strangers on Twitter about.*
 
 Yeah, but I feel like that goes back to control. For a long time we had
 this illusion of control that felt safe but boring. Now there are cracks
@@ -3828,14 +3793,16 @@ responses, not just from the policy angle, but like from businesses,
 from people, from neighbors. And then it all eroded it into storming the
 Capitol.
 
-*Totally. What strikes me most about your album* Masks and Monsters *is
+*Totally. What strikes me most about your album Masks and Monsters is
 how it feels almost nostalgic now*—*there was that period in 2020 from
 around March to May when it really felt like everyone on planet earth
 was dealing with the same problem for the first time ever. It’s like we
 were all right on the verge of this incredible epiphany and then just
 ran screaming in the other direction.*
 
-![](media/image7.jpg){width="6.5in" height="4.2062707786526685in"}
+![Figure 4: Still from the music video for ‘Why, How, Yeah, Yeah’](imgs/7.4)
+
+<br/>
 
 COVID connected all of us, and I think a lot of people were extremely
 uncomfortable with that. Just consider all of the rich people fleeing to
@@ -3874,7 +3841,7 @@ possible.
 conversation back to humor one more time. Humor is a powerful tool for
 creating in-groups and out-groups, and some of the worst people in
 America have used this to great effect. Do you think there’s a way that
-we could use humor to fight back? *
+we could use humor to fight back?*
 
 Especially in the West, we tend to think linearly and in binaries.
 There’s left and right, with cause-and-effect. One and zero. So, our
@@ -3908,10 +3875,9 @@ Like, Socrates laughed on his deathbed. That’s memeable AF.
 
 
 
-# Le Meme d’Auteur, or:\
-How We Learned to Stop Worrying and Love Original Content Memes.\
-\
-Clusterduck (Silvia Dal Dosso, Francesca Del Bono, Aria Mag, Noel Nicolaus)
+# Le Meme d’Auteur, or: How We Learned to Stop Worrying and Love Original Content Memes.
+
+###Clusterduck (Silvia Dal Dosso, Francesca Del Bono, Aria Mag, Noel Nicolaus)
 
 At the start of the third decade of the 21st century, while internet
 Memes certainly can’t be considered a cultural novelty anymore, their
@@ -4348,7 +4314,9 @@ direction.
 
 Anonymous. “On Vectoralism & the Meme Alliance's General Strike.” *The
 Philosopher’s Meme*, October 27.
-<http://thephilosophersmeme.com/2016/10/27/on-vectoralism-and-the-meme-alliance/>.Anothercountyheard.
+<http://thephilosophersmeme.com/2016/10/27/on-vectoralism-and-the-meme-alliance/>.
+
+Anothercountyheard.
 “The Verdict on Vaporwave.” *Anothercountyheard Blogspot*. March 19,
 2013.
 <a href="https://anothercountyheard.blogspot.com/2013/03/the-verdict-on-vaporwave.html">https://anothercountyheard.blogspot.com/2013/03/the-verdict-on-vaporwave.html</a>.
@@ -4425,8 +4393,7 @@ Subculture.” *Best Stories Online*, October 1, 2015.
 
 Wofford, Taylor. “Fuck You And Die: An Oral History of Something Awful.”
 *Vice*, April 5, 2017.
-<a href="https://www.vice.com/en/article/nzg4yw/fuck-you-and-die-an-oral-history-of-something-awful.Confessions">https://www.vice.com/en/article/nzg4yw/fuck-you-and-die-an-oral-history-of-something-awful.Confessions</a>
-of a Meme-oholic:
+<a href="https://www.vice.com/en/article/nzg4yw/fuck-you-and-die-an-oral-history-of-something-awful.Confessions">https://www.vice.com/en/article/nzg4yw/fuck-you-and-die-an-oral-history-of-something-awful</a>.
 
 [^10chapter8_1]: Limor Shifman, *Memes in Digital Culture* (Cambridge, Mass.: The
     MIT Press, 2013), 49.
@@ -4537,9 +4504,9 @@ of a Meme-oholic:
 
 
 
-# Making poetry babies in an online world\
-\
-Laurence Scherz
+# **Making poetry babies in an online world**
+
+###Laurence Scherz
 
 If there were a meeting akin to alcoholics anonymous for the
 overconsumption of memes, I would be the first to lift my butt off the
@@ -4665,7 +4632,7 @@ DJs.
 
 ## I Worked Out in My Mind
 
-## The joke or 'clue' of a meme is very often—yet not always—a punchline that is accomplished with visual aid. Depriving the reader of this visual information when dragging the meme language into fiction, into these assembled poems, sometimes proved effective. An additional weirdness entered the scene, or, the joke was still understood and shone brightly in its new-found appearance. But sometimes the transposition missed the mark completely. 
+The joke or 'clue' of a meme is very often—yet not always—a punchline that is accomplished with visual aid. Depriving the reader of this visual information when dragging the meme language into fiction, into these assembled poems, sometimes proved effective. An additional weirdness entered the scene, or, the joke was still understood and shone brightly in its new-found appearance. But sometimes the transposition missed the mark completely. 
 
 Cutting up these jokes laid them bare in a way that was quite
 surprising, almost reminiscent of the American author William Burroughs'
@@ -4697,11 +4664,11 @@ entered the gates of poetry.
 
 ## Lean Mean Meme Machine
 
-## The term *meme* originates from the ancient Greek word *mīmēma*, meaning 'something that is imitated'.[^11chapter9_14] There’s a meme in my catalogue for this too: 'We get it, poets, things are *like* other things.' 
+The term *meme* originates from the ancient Greek word *mīmēma*, meaning 'something that is imitated'.[^11chapter9_14] There’s a meme in my catalogue for this too: 'We get it, poets, things are *like* other things.' 
 
-## Life imitates life, poetry imitates life imitating life, metaphors and parables are flying around in an intense Droste effect that makes your head spin. Almost always signifying something outside themselves, memes are akin to a poet looking out of their window and describing the world through comparisons, referenced symbolism and insider jokes (sometimes only referring to the poem they are in). Is this poet, writing their new-found hybrids with all the pastiche, montage and remix they posses, not just a Marcel Duchamp, casually plucking ready-mades from the web and putting them on a literary pedestal? 
+Life imitates life, poetry imitates life imitating life, metaphors and parables are flying around in an intense Droste effect that makes your head spin. Almost always signifying something outside themselves, memes are akin to a poet looking out of their window and describing the world through comparisons, referenced symbolism and insider jokes (sometimes only referring to the poem they are in). Is this poet, writing their new-found hybrids with all the pastiche, montage and remix they posses, not just a Marcel Duchamp, casually plucking ready-mades from the web and putting them on a literary pedestal? 
 
-## Avant-garde works such as Duchamp's and, naturally, the Dada artists’, had 'constantly been built around a critique of notions of originality, identity, and property'.[^11chapter9_15] This might explain my simmering intuition that intentional vagueness was needed around which lines of my poems were quotes from the internet, and which were by my own hand. Surely, a hundred years later you would think notions of authorship and originality had evolved enough to make me care less—but alas. Perhaps the contemporary poet who's using recycled digital texts is not a Dada artist after all. Maybe, as I've joked unwisely, a DJ? Or something else altogether?
+Avant-garde works such as Duchamp's and, naturally, the Dada artists’, had 'constantly been built around a critique of notions of originality, identity, and property'.[^11chapter9_15] This might explain my simmering intuition that intentional vagueness was needed around which lines of my poems were quotes from the internet, and which were by my own hand. Surely, a hundred years later you would think notions of authorship and originality had evolved enough to make me care less—but alas. Perhaps the contemporary poet who's using recycled digital texts is not a Dada artist after all. Maybe, as I've joked unwisely, a DJ? Or something else altogether?
 
 In a *New Yorker* article titled ‘The Writer as Meme Machine’, poet and
 critic Kenneth Goldsmith sees poetry slipping out the backdoor, running
@@ -4800,7 +4767,7 @@ Language*. London: Harvill Secker, 2019.
 
 
 
-**A SELL FOR FILLING PROPHECY **
+#**A SELL FOR FILLING PROPHECY**
 
 When you accidentally write 'satan'
 
@@ -5036,7 +5003,7 @@ u
 
 come back, plz.
 
-**RACISTS DON'T DESERVE MOLLY**
+#**RACISTS DON'T DESERVE MOLLY**
 
 A woman’s
 
@@ -5154,7 +5121,7 @@ not
 
 garbage cannot
 
-**PUTTING THE PRO IN UNPRODUCTIVE**
+#**PUTTING THE PRO IN UNPRODUCTIVE**
 
 Live life to the fullest:
 
@@ -5316,9 +5283,9 @@ gaaaalzz.
 
 
 
-# ‘The Disturbingly Humanoid Face of the Lamb of God Has Shocked Many’: Visual Strategies in Internet Memes on the Restoration of the *Ghent Altarpiece*.\
-\
-By Martin Hanßen
+# ‘The Disturbingly Humanoid Face of the Lamb of God Has Shocked Many’: Visual Strategies in Internet Memes on the Restoration of the *Ghent Altarpiece*
+
+###By Martin Hanßen
 
 What do the Lamb of God painted by Hubert and Jan van Eyck in 1432 and
 Kylie Jenner have in common? Well, a variation of the *Ghent Altarpiece
@@ -5348,21 +5315,14 @@ the head which turned out to be the animal’s original right ear. To the
 right, separated by a vertical black line, the now-revealed true face of
 the lamb looks strikingly unlike a sheep, almost grotesque.
 
-![](media/image1.jpeg){width="4.227273622047244in"
-height="2.7035673665791777in"}
+![Fig. 1 Screenshot of a variation of the Ghent Altarpiece Lamb Restoration Meme juxtaposing the restored head of the Eyckian Lamb to Kylie Jenner’s face. A comment connects the two images. Posted by @alexvtunzelmann to twitter.com on 22 January 2020.](11.1.jpeg)
 
-Fig. 2 Screenshot of a variation of the Ghent Altarpiece Lamb
-Restoration Meme juxtaposing the restored head of the Eyckian Lamb to
-Kylie Jenner’s face. A comment connects the two images. Posted by
-@alexvtunzelmann to <a href="http://twitter.com">twitter.com</a> on 22 January 2020.
+<br/>
 
-![](media/image2.jpeg){width="4.429520997375328in"
-height="2.69124343832021in"}
+![Fig. 2 Screenshot of the initial variation of the Ghent Altarpiece Lamb
+Restoration Meme juxtaposing the head of the Mystic Lamb before and after restoration. A comment connects the two images. Posted by @fatherajds to <a href="http://twitter.com">twitter.com</a> on 20 January 2020.](imgs/11.2.jpeg)
 
-Fig. 3 Screenshot of the initial variation of the Ghent Altarpiece Lamb
-Restoration Meme juxtaposing the head of the Mystic Lamb before and
-after restoration. A comment connects the two images. Posted by
-@fatherajds to <a href="http://twitter.com">twitter.com</a> on 20 January 2020.
+<br/>
 
 As a way of making the restored lamb’s head tangible for the internet
 community, both variations choose comparative vision: a traditional yet
@@ -5446,15 +5406,10 @@ restoration to support the caption’s ironic claim—even if the work of
 art itself is not depicted and the lack of comparative vision undermines
 the processual character of the before-and-after-idea.
 
-![Afbeelding met tekst Automatisch gegenereerde
-beschrijving](media/image3.jpg){width="2.8627143482064743in"
-height="4.054451006124235in"}
+![Fig. 3 Screenshot of a variation of the Ghent Altarpiece Lamb Restoration Meme. The user substitutes the image of the Mystic Lamb with the face of Shaun the Sheep. The comment labels the head ‘disturbingly
+humanoid’, picking up online media rhetoric. Posted by @CheeseWorrier to <a href="http://twitter.com">twitter.com</a> on 22 January 2020.](imgs/11.3.jpeg)
 
-Fig. 4 Screenshot of a variation of the Ghent Altarpiece Lamb
-Restoration Meme. The user substitutes the image of the Mystic Lamb with
-the face of Shaun the Sheep. The comment labels the head ‘disturbingly
-humanoid’, picking up online media rhetoric. Posted by @CheeseWorrier to
-<a href="http://twitter.com">twitter.com</a> on 22 January 2020.
+<br/>
 
 In combining images with witty captions internet users apparently had a
 great time joking about the restoration of the *Ghent Altarpiece*.
@@ -5473,7 +5428,7 @@ collective memory of internet culture, these images offer references by
 which the phenomenon of a ‘disturbingly humanoid’ face ties back to and
 is explained within the visual culture of the internet.[^13chapter11_9]
 
-## (Re-)Formatting the Altarpiece\
+## (Re-)Formatting the Altarpiece
 
 When the extensive overpainting was removed, the Lamb of God was only
 one of many details that changed drastically throughout the restoration
@@ -5533,13 +5488,9 @@ the Holy Spirit representing the transubstantiation*.* Also lost is the
 Lamb’s exposure to the *Arma Christi* or the *Fountain of Life* which
 again emphasizes the lamb as a metaphor of Jesus himself. (Fig. 4).
 
-![Afbeelding met tekst, gras Automatisch gegenereerde
-beschrijving](media/image4.jpeg){width="4.84246062992126in"
-height="2.7397233158355205in"}
+![Fig. 4 Hubert & Jan van Eyck, Adoration of the Mystic Lamb, 1432, 350 x 461 cm, oil on wood, St. Bavo’s Cathedral, Ghent. Macrophotography after the restoration. © closertovaneyck.kikirpa.be](imgs/11.4.jpeg)
 
-Fig. 5 Hubert & Jan van Eyck, Adoration of the Mystic Lamb, 1432, 350 x
-461 cm, oil on wood, St. Bavo’s Cathedral, Ghent. Macrophotography after
-the restoration. © closertovaneyck.kikirpa.be
+<br/>
 
 In contrast to the original iconographic interplay, the lamb’s
 now-trademark facial features are the focus of attention, additionally
@@ -5652,23 +5603,13 @@ conservator in Borja, Spain, that took social media by storm in 2012 and
 the many more memes of failed restoration attempts following the same
 genre of ‘restoration gone wrong’.
 
-![](media/image5.jpeg){width="3.452192694663167in"
-height="4.537573272090989in"}
+![Fig. 5 Screenshot of a Twitter-thread on the initial variation of the Ghent Altarpiece Lamb Restoration Meme by @fatherajds. The user @somecaboose replied with a before and after juxtaposition of the Potato Jesus on 20 January 2020.](imgs/11.5.jpeg)
 
-Fig. 6 Screenshot of a Twitter-thread on the initial variation of the
-Ghent Altarpiece Lamb Restoration Meme by @fatherajds. The user
-@somecaboose replied with a before and after juxtaposition of the Potato
-Jesus on 20 January 2020.
+<br/>
 
-![Afbeelding met tekst Automatisch gegenereerde
-beschrijving](media/image6.jpeg){width="3.517703412073491in"
-height="3.628383639545057in"}
+![Fig. 6 Screenshot of a variation of the ‘The Immaculate Conception of Los Venerables’ Restoration Fail Meme on <a href="http://knowyourmeme.com">knowyourmeme.com</a>, originally posted by @thetomzone to <a href="http://twitter.com">twitter.com</a>. The meme compares the before to the two restoration attempts focusing on the face of the Virgin. A comment relates it to the Potato Jesus.](imgs/11.6.jpeg)
 
-Fig. 7 Screenshot of a variation of the ‘The Immaculate Conception of
-Los Venerables’ Restoration Fail Meme on <a href="http://knowyourmeme.com">knowyourmeme.com</a>, originally
-posted by @thetomzone to <a href="http://twitter.com">twitter.com</a>. The meme compares the before to
-the two restoration attempts focusing on the face of the Virgin. A
-comment relates it to the Potato Jesus.
+<br/>
 
 In its original state, the devotional fresco by Elías García Martínez
 showed Christ in a half-length portrait in three-quarter profile placed
@@ -5717,7 +5658,7 @@ Christ. Instead, it is assessed and appreciated primarily based on its
 distinctive looks: in net culture, therefore, the restoration has to be
 regarded a huge success.
 
-## References\
+## References
 
 Bader, Lena. *Bild-Prozesse im 19. Jahrhundert. Der Holbein-Streit und
 die Ursprünge der Kunstgeschichte*. Munich: Wilhelm Fink Verlag, 2013.
@@ -5861,11 +5802,10 @@ Berlin: Deutscher Kunstverlag 2020.
 
 
 
-# Ibiza Austrian Memes: Reflections on Reclaiming Political Discourse through Memes\
-\
-Anahita Neghabat
+# **Ibiza Austrian Memes: Reflections on Reclaiming Political Discourse through Memes**
 
-[]{#_Hlk66014007 .anchor}\
+###Anahita Neghabat
+
 On 15 October of 2017, for the first time in almost twenty years,
 Austrian citizens elected a far-right government, consisting of a
 coalition between the Christian-conservative Austrian People’s Party
@@ -5923,20 +5863,11 @@ downloaded a random meme-making app and, because I didn’t want to flood
 my private Instagram stories with countless memes, I spontaneously
 created a meme account: @ibiza\_austrian\_memes.
 
-![Ein Bild, das Text, Person, Zeitung, Mann enthält. Automatisch
-generierte Beschreibung](media/image1.jpg){width="4.322834645669292in"
-height="4.330708661417323in"}\
-\
-Fig. 1. One of my first memes posted on @ibiza\_austrian\_memes in the
-first couple of days following the Ibiza-scandal. It depicts former vice
-chancellor and FPÖ leader Heinz-Christian Strache and former FPÖ
-politician Johann Gudenus, who were both filmed on Ibiza. Both are
-smiling and giving a thumbs up. The text reads, ‘When people have
-12-hour shifts because of you but you are unemployed’, referring to the
-loosening of labor laws and introduction of a 12-hour workday by the
-ÖVP-FPÖ government in 2018.
+![Fig. 1. One of my first memes posted on @ibiza\_austrian\_memes in the first couple of days following the Ibiza-scandal. It depicts former vice
+chancellor and FPÖ leader Heinz-Christian Strache and former FPÖ politician Johann Gudenus, who were both filmed on Ibiza. Both are smiling and giving a thumbs up. The text reads, ‘When people have 12-hour shifts because of you but you are unemployed’, referring to the loosening of labor laws and introduction of a 12-hour workday by the ÖVP-FPÖ government in 2018.[^14chapter12_1]](imgs/12.1.jpeg)
 
-[^14chapter12_1]
+<br/>
+
 
 What started as a small idea quickly grew into a big project. After only
 two days of posting, I already had 5000 followers and it became apparent
@@ -5968,7 +5899,7 @@ moderating comments, deleting hate-speech, and replying to problematic
 comments, even providing sources for the facts I build my arguments on
 in my replies.
 
-## Shaping Public Discourse with Memes: When Mainstream Media Sucks\
+## Shaping Public Discourse with Memes: When Mainstream Media Sucks
 
 I think one of the reasons my memes resonate with so many people is that
 by analyzing Austrian interior politics from an explicitly anti-racist
@@ -6019,14 +5950,10 @@ political actors. SpongeBob’s expression is also funny: He looks
 confused, lost and even a little desperate. The meme thus also belittles
 Sebastian Kurz, his actions and political rhetoric by ridiculing it.
 
-![](media/image2.jpg){width="4.665354330708661in"
-height="4.330708661417323in"}\
-\
-Fig. 2. A meme depicting cartoon character SpongeBob Squarepants. It
-criticizes chancellor Sebastian Kurz’ use of the term ‘Judeo-Christian’.
-The meme was made and posted by me on the Instagram page
-@ibiza\_austrian\_memes.\
-\
+![Fig. 2. A meme depicting cartoon character SpongeBob Squarepants. It criticizes chancellor Sebastian Kurz’ use of the term ‘Judeo-Christian’. The meme was made and posted by me on the Instagram page @ibiza\_austrian\_memes.](imgs/12.2.jpeg)
+
+<br/>
+
 Along with the meme, I wrote a caption with which I contextualized and
 criticized the term ‘Judeo-Christian’ by pinpointing several problematic
 aspects: first, insisting on a ‘Judeo-Christian’ European or Austrian
@@ -6045,8 +5972,8 @@ problem.[^14chapter12_8] This framing of Orientalized, supposedly ‘Muslim’
 immigrants as perpetrators not only discursively distracts from the fact
 that they are marginalized and affected by anti-Muslim racism, but it
 also erases Austria’s National Socialist history and antisemitic
-present.\
-\
+present.
+
 Using memes, which are enjoyable and quickly readable, as the central
 medium for voicing my criticism enables me to reach a lot of users, many
 of whom then proceed to read my written commentary and analysis in the
@@ -6073,8 +6000,8 @@ amazing post, learned something new again.’ Accordingly, my meme page
 @ibiza\_austrian\_memes, which I would have previously labelled
 satirical political activism, has also been perceived as educational
 work and even been discussed in an art education research context
-before.[^14chapter12_11]\
-\
+before.[^14chapter12_11]
+
 At first glance, it might seem like this is *just* the meme-maker
 telling her story. However, this is not the case. As Limor Shifman
 reminds us, memes are intrinsically tied to practices of copying,
@@ -6123,17 +6050,10 @@ below humorously addresses a painful truth for many people of color, who
 know what it feels like to be racially profiled and unrightfully
 suspected of being up to something dangerous.
 
-![Ein Bild, das Text enthält. Automatisch generierte
-Beschreibung](media/image3.jpg){width="4.338582677165355in"
-height="4.330708661417323in"}\
-\
-Fig. 3. Posted by @migraobservations on Instagram. The meme consists of
-stock photos showing a person who is protecting their purse and making
-dramatic faces and gestures that can be read as ‘stop’ or ‘leave my
-purse alone’. The text reads: ‘How I’m holding my bag when Almans sit
-down or walk next to me, in the hope of inciting a reflection of their
-racism through my ingenious experiment’.\
-\
+![Fig. 3. Posted by @migraobservations on Instagram. The meme consists of stock photos showing a person who is protecting their purse and making dramatic faces and gestures that can be read as ‘stop’ or ‘leave my purse alone’. The text reads: ‘How I’m holding my bag when Almans sit down or walk next to me, in the hope of inciting a reflection of their racism through my ingenious experiment’.](imgs/12.3.jpeg)
+
+<br/>
+
 Marginalized groups are of course not only using memes, but also more
 conventional media formats to partake in public discourse. There is an
 endless quantity of blog entries, online magazines, and even online talk
@@ -6157,17 +6077,11 @@ use easily understandable language. The meme below, posted by
 of criticism too. Using an image from an animated children’s movie—a
 medium not typically taken too seriously—it questions the expertise and
 legitimacy of those who are commonly given a platform in political talk
-shows on German TV.\
-\
-![Ein Bild, das Text enthält. Automatisch generierte
-Beschreibung](media/image4.jpg){width="3.858267716535433in"
-height="4.330708661417323in"}\
-\
-Fig. 4. A meme by @kanaxanax on Instagram. It depicts a cartoon
-character turtle from the movie *Kung Fu Panda*, saying ‘My time has
-come’ while gazing into the distance. The added text reads: ‘German talk
-shows when they finally find an opportunity to discuss political and
-radical Islam with 5 white men and 1 German Islam scholar again.’
+shows on German TV.
+
+![Fig. 4. A meme by @kanaxanax on Instagram. It depicts a cartoon character turtle from the movie *Kung Fu Panda*, saying ‘My time has come’ while gazing into the distance. The added text reads: ‘German talk shows when they finally find an opportunity to discuss political and radical Islam with 5 white men and 1 German Islam scholar again.’](imgs/12.4.jpeg)
+
+<br/>
 
 ## Building Resilience Through Memes: When Life Sucks
 
@@ -6191,22 +6105,12 @@ the meme below after a press conference held by Austria’s Federal
 Minister for Women and Integration. I experienced the press conference
 and its media coverage as very emotionally draining, which is why I
 decided to bring fun into it by ridiculing the minister’s anti-Muslim
-rhetoric with a meme.\
-\
-![Ein Bild, das Text enthält. Automatisch generierte
-Beschreibung](media/image5.jpg){width="4.338582677165355in"
-height="4.330708661417323in"}\
-\
-Fig. 5. A meme I made and posted as @ibiza\_austrian\_memes on
-Instagram. The top depicts part of a newspaper article about Susanne
-Raab, Austrian Federal Minister for Women and Integration, who according
-to the screenshot warned against a ‘fertile ground for violence’ due to
-some people ‘only going to Turkish supermarkets and the mosque.’ Below
-is an image of pop culture figure Baby Yoda, a cute and innocent-looking
-baby alien. The alien is holding a Turkish pastry called Simit, that was
-edited into the original image. Baby Yoda is described as ‘My Simit and
-I’. He says, ‘Hi Susi, I won’t hurt you if you don’t hurt me please
-thanks byyyeee’.
+rhetoric with a meme.
+
+![Fig. 5. A meme I made and posted as @ibiza\_austrian\_memes on Instagram. The top depicts part of a newspaper article about Susanne Raab, Austrian Federal Minister for Women and Integration, who according to the screenshot warned against a ‘fertile ground for violence’ due to some people ‘only going to Turkish supermarkets and the mosque.’ Below is an image of pop culture figure Baby Yoda, a cute and innocent-looking baby alien. The alien is holding a Turkish pastry called Simit, that was edited into the original image. Baby Yoda is described as ‘My Simit and
+I’. He says, ‘Hi Susi, I won’t hurt you if you don’t hurt me please thanks byyyeee’.](imgs/12.5.jpeg)
+
+<br/>
 
 After I had uploaded the meme I received a message from a Muslim
 follower, who wrote, ‘Seriously, I opened your page three or four times
@@ -6235,7 +6139,7 @@ collective relief during its aftermath. As it turns out, however, we are
 not only making memes when we experience relief—we are also gifting each
 other experiences of relief when we are making memes.
 
-## References\
+## References
 
 Blewitt-Golsch, Ashley Lorraine. 2019. "Transgender Experience Depicted
 Through Memes: An Ethnographic Investigation of Minority Stress and
@@ -6392,11 +6296,10 @@ MIT press, 2014.
 
 
 
-Dear Mr.BoneSaw your face smells like a chicken shawarma:\
-A Clapback to Saudi Arabia’s Electronic Army\
-\
-Saeeda Saeed\
-\
+#Dear Mr.BoneSaw your face smells like a chicken shawarma: A Clapback to Saudi Arabia’s Electronic Army
+
+###Saeeda Saeed
+
 Hello:) My pseudonym is Saeeda Saeed, and I’m an e-activist from Saudi
 Arabia. This is the story of how I came to devise an Instant Meme Noise
 Generator that spews out nonsensical insults to the top 10 Saudi
@@ -6426,14 +6329,13 @@ to drown out official state-run tweets, to vent and express frustration
 directly towards state institutions that have prosecuted, harassed and
 silenced critical voices within the Saudi authoritarian regime.
 
-## \
-The Rise of Hypernationalism in Saudi Arabia
+## The Rise of Hypernationalism in Saudi Arabia
 
 Imagine an electronic dance music festival with DJ David Guetta remixing
 pro-regime patriotic songs: the crowd goes wild when the beat drops on
-the lyrics ‘LONG LIVE THE SALMANS.’
+the lyrics ‘LONG LIVE THE SALMANS.’[^15chapter13_1] 
 
-[^15chapter13_1] Prior to gaining the nickname Mr.BoneSaw, the crown prince Mohammed
+Prior to gaining the nickname Mr.BoneSaw, the crown prince Mohammed
 Bin Salman—also known as MBS—was quick to gain the support of the Saudi
 transnational google generation aged 15 to 34 which make up 36.7% of the
 population.[^15chapter13_2] Upon his anointment in April 2017, he led several
@@ -6522,8 +6424,9 @@ This virtually unspoken yet constantly looming reminder led people to
 self-censor in public, retreating to self-organized and mobilized
 underground physical safe spaces.
 
-![](media/image2.png){width="2.345138888888889in"
-height="4.404166666666667in"}
+![Image Source: Whisper App @Yellow_Net](imgs/13.1.jpeg)
+
+<br>
 
 A similar pattern is reflected online where users are seemingly silent
 but are actually in constant movement searching and replatforming on to
@@ -6585,12 +6488,18 @@ measures. All these are highly critical topics that would have been
 flagged had they been framed in the form of tweets or interviews, but
 dressed in the vernacular of memes they seem to be dismissed by state.
 Michel Foucault touches upon the
-![](media/image4.png){width="6.738194444444445in"
-height="3.1972222222222224in"}
-
 notion of ‘disqualified knowledges’ when he writes that ‘It is through
 the re-appearance of this knowledge, of the local popular knowledges,
 the disqualified knowledges, that criticism performs its work.’[^15chapter13_11]
+
+![The covid19 contact tracing app is called Tawakalna which roughly translates to God be with you. This meme deletes the app ands write to it God be with you.](imgs/13.2.jpeg)
+
+<br/>
+
+![Meme commenting on police raid during the nationwide crackdown on illegal immigrants](imgs/13.3.jpeg)
+
+<br/>
+
 
 This underlies that idea that the distance between the very serious and
 very silly is quite small. The epistemology of nonsense has been used
@@ -6620,7 +6529,11 @@ in the visual vernacular of internet memes, and thus generally
 disregarded as trolls being a nuisance, with little to no ramifications
 other than your account being taken down.
 
-## ![](media/image10.png){width="5.708333333333333in" height="3.5in"}The Instant Meme Noise Generator
+## The Instant Meme Noise Generator
+
+![Some of the insults coded into the randomized insult generator.](imgs/13.5.jpeg)
+
+<br/>
 
 A study titled ‘Dissecting the Meme magic: Understanding Indicators of
 Virality in Meme Images’ found that memes that trigger high arousal
@@ -6649,7 +6562,7 @@ large button for a total of 4 rounds; each round randomly generated
 insults with the final round tagging one of the Top 10 State run Media
 accounts and directly uploading the sentence on to Twitter in real time.
 (In order to play log onto on to
-[*https://insultgenerator.club/*](https://insultgenerator.club/) )
+[*https://insultgenerator.club/*](https://insultgenerator.club/))
 
 An example randomly generated Insult:
 
@@ -6660,8 +6573,15 @@ An example randomly generated Insult:
 \[round 3\] MOULDED CHEESE
 
 \[round 4\] TAG STATE MEDIA
-ACCOUNT![](media/image12.png){width="7.24375in"
-height="3.2743055555555554in"}\[final round \] UPLOAD TO TWITTER
+ACCOUNT
+
+![Gigantic key cap from Novel Keys: Big Switch Series.](imgs/13.6.jpeg)
+
+<br/>
+
+![An example of a nonsensical insult generated post on Twitter.](imgs/13.7.jpeg)
+
+<br/>
 
 Now I that I had the mechanism of the game, I needed to find out when
 and which accounts I should target, and what was the most optimal way to
@@ -6870,9 +6790,9 @@ the Tools to Transform Them.* New York: W. W. Norton & Co, 2021.
 
 
 
-# Mimetic Sameness\
-\
-Grant Bollmer
+# **Mimetic Sameness**
+
+###Grant Bollmer
 
 ## A New Replicator, A New Exterior to Rationality
 
@@ -6885,9 +6805,7 @@ behavior acceptable to his particular Darwinian sensibilities. Hence the
 need for a ‘new replicator’, the meme, a ‘thing’ analogous to a gene
 which obeys many of the same genetic principles Dawkins sketches
 elsewhere. The meme is ‘a unit of cultural transmission, or a unit of
-*imitation*’,
-
-[^15chapter14_1] one that follows a rationalistic logic of evolution. The meme is
+*imitation*’,[^15chapter14_1] one that follows a rationalistic logic of evolution. The meme is
 that which gives us ‘culture’: culture as an accumulation of discrete,
 competing practices, trends, and statements—‘tunes, ideas,
 catch-phrases, clothes fashions, ways of making pots or of building
@@ -7222,8 +7140,7 @@ the trick of the meme is to induce sameness at an individual level, with
 each person believing themselves to be the origin of the meme through
 which they become united as a fascist mass.
 
-## \
-The Uncanny and the Dream-Meme 
+## The Uncanny and the Dream-Meme 
 
 The eeriness of the double is essential for any Freudian notion of the
 uncanny. The doppelgänger is a failed copy, a duplicate that is partial,
@@ -7526,12 +7443,10 @@ Press, 1992
 
 
 
-# A Postdigital Angel of History? On ‘Meme Theory’\
-\
-Scott Wark\
-\
+# A Postdigital Angel of History? On ‘Meme Theory’
 
-![](media/image1.jpeg){width="4.7972222222222225in" height="3.19375in"}
+###Scott Wark
+
 
 ## 0.
 
@@ -7546,9 +7461,7 @@ somewhat stupidly literal. What if—bear with me—this meme perfectly
 represents a (post-)digital version of Walter Benjamin’s ‘angel of
 history’? What if it perfectly figures how ‘one pictures the angel of
 history’ and the ‘wreckage… in front of his feet’ blown in by the
-‘storm… we call progress’
-
-[^16chapter15_1] in our postdigital present?
+‘storm… we call progress’[^16chapter15_1] in our postdigital present?
 
 ## 1. 
 
@@ -7600,14 +7513,10 @@ way through our contemporary post-digital media situation.
 
 ## 2.
 
-![The 'Distracted Boyfriend' Meme Photographer Explains All |
-WIRED](media/image2.jpeg){width="4.491666666666666in"
-height="2.5271850393700785in"}
+![Fig. 1: Disloyal Man with his Girlfriend Looking at Another Girl, also known as Distracted Boyfriend. Antonio Guillem, November 2, 2015. Digital image.
+Archived at Wikipedia. <a href="https://en.wikipedia.org/wiki/File:Disloyal%5C_man%5C_with%5C_his%5C_girlfriend%5C_looking%5C_at%5C_another%5C_girl.jpg">https://en.wikipedia.org/wiki/File:Disloyal\_man\_with\_his\_girlfriend\_looking\_at\_another\_girl.jpg</a>](imgs/15.2.jpeg)
 
-Figure 1: Disloyal Man with his Girlfriend Looking at Another Girl, also
-known as Distracted Boyfriend. Antonio Guillem, November 2, 2015.
-Digital image. Archived at Wikipedia.
-<a href="https://en.wikipedia.org/wiki/File:Disloyal%5C_man%5C_with%5C_his%5C_girlfriend%5C_looking%5C_at%5C_another%5C_girl.jpg">https://en.wikipedia.org/wiki/File:Disloyal\_man\_with\_his\_girlfriend\_looking\_at\_another\_girl.jpg</a>
+<br/>
 
 By the time I found this example of the ‘Distracted Boyfriend’ meme, the
 meme itself was kind of over. It persists today as a particularly
@@ -7761,8 +7670,7 @@ perpetual obsolescence, new becoming old through bland repetition.
 
 ## 6.
 
-![page278image55894768](media/image1.jpeg){width="4.1305555555555555in"
-height="2.75in"}
+![Fig. 2: Distracted Angel of History. Digital Image. Originally seen on Twitter, late-2018. Archived at: Know Your Meme. <https://knowyourmeme.com/photos/1290289-distracted-boyfriend>](imgs/15.1.jpeg)
 
 Let’s try to draw all of these conceptual threads together by returning
 to my original conceit: ‘Distracted Boyfriend’ manifesting a
@@ -7938,15 +7846,14 @@ Do we not get the angels we deserve? If so, it’s no wonder that what
 this post-digital angel figures, amongst everything else, is toxic
 masculinity. The ‘storm… we call progress,’ indeed.[^16chapter15_22]
 
-## References\
+## References
 
 BBC News. ““Distracted Boyfriend” Couple Star in Hungaray Pro-Family
 Ads.” *BBC* News, March 13, 2019.
 <a href="https://www.bbc.co.uk/news/world-europe-47557217">https://www.bbc.co.uk/news/world-europe-47557217</a>
 
 Benjamin, Walter. “The Work of Art in the Age of Its Technological
-Reproducibility \[Third Version\].” In []{#_Hlk72787636
-.anchor}*Selected Writings Vol. 4, 1938-1940*, edited by Howard Eiland,
+Reproducibility \[Third Version\].” In *Selected Writings Vol. 4, 1938-1940*, edited by Howard Eiland,
 and Michael W. Jennings, 252–83. Cambridge, Mass. and London: The
 Belknap Press of Harvard University Press, 2003.
 
@@ -8058,10 +7965,9 @@ Wark, McKenzie. *Capital is Dead*. London: Verso, 2019.
 
 
 
-# On the Prospect of Overcoming Meme-Culture\
-or, The Last Meme in History\
-\
-Åke Gafvelin\
+# On the Prospect of Overcoming Meme-Culture, or, The Last Meme in History
+
+###Åke Gafvelin
 
 Meme culture, at its present stage, consists in an oscillation between
 two opposed tendencies. On one hand, it attempts to *rigidify* various
@@ -8112,12 +8018,15 @@ equally ambivalent conclusion of this essay.
 
 ## Moving Up
 
+![Fig. 0 - Source: https://en.wikipedia.org/wiki/Distracted_boyfriend](imgs/16.1.jpeg)
+
+<br/>
+
 Consider the *Distracted Boyfriend Meme*, featuring (unsurprisingly) a
 distracted boyfriend (see Figure 0). Figure 0 can be called **Level 0**
 meme in this paradigm—a memetic paradigm being simply a set of memes
 that share a family resemblance. Although Figure 0 forms a stable
-building-ground for ![](media/image1.jpeg){width="3.2472222222222222in"
-height="2.533333333333333in"}the paradigm, it is clearly not a meme in
+building-ground for the paradigm, it is clearly not a meme in
 the colloquial sense. To create an actual meme, we need to map the
 relations between the objects we find in level 0 to the relations of
 some other phenomena, thus moving up to **Level 1.** An example of this
@@ -8129,8 +8038,11 @@ analogous to what logicians call an *object-language*. In such a
 language, we are capable of representing relations between various
 objects in reality. Figure 1 is simply representing the relation between
 the youth, socialism, and capitalism by means of the relations between
-the ![](media/image3.jpeg){width="3.173611111111111in"
-height="2.7604166666666665in"}people in Figure 0.
+the people in Figure 0.
+
+![Fig. 1 - Source: https://en.meming.world/wiki/Distracted_Boyf](imgs/16.2.jpeg)
+
+<br/>
 
 One can find an infinite number of possible memes within Level 1, all
 with different levels of *dankness* (*dankness* roughly standing for the
@@ -8140,28 +8052,32 @@ with the comparative public support for capitalism and socialism.
 However, divisions of *dankness* within this level are so culturally
 contingent and dependent on personal taste that they do not lend
 themselves to rigorous philosophical
-analysis.![](media/image5.jpeg){width="3.1319444444444446in"
-height="2.3666054243219596in"}
+analysis.
+
+![Fig. 2 - Source: https://knowyourmeme.com/photos/1287554-](imgs/16.3.jpeg)
+
+<br/>
 
 Moving up to **Level 2**, we find memes making reference to other memes.
 Consider Figure 2, for example, which refers to memes discovered on
 Level 1. We can think of Level 2 as roughly equivalent to what logicians
-call a *meta-language*: a language used to talk about languages.
-
-[^17chapter16_1]
+call a *meta-language*: a language used to talk about languages.[^17chapter16_1]
 
 We can further imagine that Level 2 has an infinite number of possible
 layers: Figure 2 is a *meta*-meme, a meme about memes, but we might
 imagine meta-meta memes: memes like the meme in Figure 2 (see Figure
 2.1); meta-meta-meta memes and so on… It should be noted, however, that
-memes do not always ![](media/image7.jpeg){width="3.303034776902887in"
-height="2.5616546369203848in"}become *danker* as they become more
+memes do not always become *danker* as they become more
 ‘meta’: the fundamental joke is already in place by Figure 2. One might
 speculate whether this has something to do with the fact that these
 memes are not genuinely self-referential. Any attempt at *representing*
 a meme M *within* itself would instantaneously move M up one order in
 the hierarchy. But then, the meme we are representing is obviously no
 longer M.
+
+![Fig. 2.1 - Source: https://knowyourmeme.com/photos/1287554-](imgs/16.4.jpeg)
+
+<br/>
 
 This fits neatly with our (albeit imperfect) analogy of a hierarchy of
 languages, which was developed by Tarski precisely because any notion of
@@ -8174,9 +8090,7 @@ To fully comprehend a **Level 3** meme, we need to make a short detour
 through Russell and Wittgenstein’s dispute on the distinction between
 *saying* and *showing* outlined in the *Tractatus-Logico Philosophicus.*
 In his treatise, Wittgenstein sought to unveil the necessary structures
-of language. In doing so, he argued that all logical truths,
-![](media/image9.jpeg){width="3.0555555555555554in"
-height="2.6458333333333335in"}like *it* *rains or it does not rain,* are
+of language. In doing so, he argued that all logical truths, like *it* *rains or it does not rain,* are
 vacuous; absolutely true precisely because they say absolutely nothing.
 Such tautologies instead gain their significance by *showing* something
 about the structure of the language in which they are formulated; in the
@@ -8186,6 +8100,10 @@ that Wittgenstein’s own philosophy is unsayable, since it successfully
 formulates the necessary structure of language from within that very
 structure. Hence his treatise concludes: *Whereof one cannot speak,
 thereof one must be silent*.
+
+![Fig. 2.2 - Source: Set Theory Memes for Logically Equivalent Teens](imgs/16.5.jpeg)
+
+<br/>
 
 Russell thought this to be a superfluous piece of mysticism. He
 suggested in the preface that any quietism could be avoided by
@@ -8204,8 +8122,7 @@ With this distinction in place, we can now begin to comprehend a **Level
 by means of *representation* (like the picture under “the other format”
 in Figure 2). But Level 3 memes (see Figure 3)[^17chapter16_2] *show* the structure
 of all possible memes within its paradigm by simply
-![](media/image11.jpeg){width="3.0555555555555554in"
-height="2.895138888888889in"}instantiating its barren structure,
+instantiating its barren structure,
 breaching the limits of any representational scope found within the
 hierarchy at Level 2. Figure 3 can thus be seen as the *Tractatus* of
 the *Distracted Boyfriend-*paradigm of memes, elucidating the ultimate
@@ -8215,6 +8132,10 @@ Wittgenstein proclaimed, mean the end of philosophy. Similarly, any
 Level 3 meme must finalize the upward movement in its paradigm: when one
 has reached it, one must – paraphrasing proposition 6.54 of the
 *Tractatus – throw away the ladder one used to climb it*.
+
+![Fig. 3 - Source: https://emaaneastwood.blogspot.com/2019/11/meme-template-distracted-boyfriend.html](16.6.jpeg)
+
+<br/>
 
 ## Moving Sideways
 
@@ -8284,9 +8205,7 @@ upwards. Geist wakes up on a 4chan board, and “based” is applied to
 someone like Ben Shapiro or Jordan Peterson. But that **Level 1** usage
 is obviously cringe. So we move up to **Level 2**, achieving
 *meta-basedness.* I take it that this is where Geist is located
-presently: ‘return to monké,’ is Urban Dictionary’s most up-voted
-![](media/image13.jpeg){width="3.4006944444444445in"
-height="3.2333333333333334in"}example of something based, and this
+presently: ‘return to monké,’ is Urban Dictionary’s most up-voted example of something based, and this
 clearly mocks the alt-right and /pol/-associated wish to reject
 modernity and embrace tradition. We can only speculate what is to come,
 but plausibly the paradigm will continue to accelerate its upward
@@ -8296,10 +8215,17 @@ basedness (see Figure 4 and Figure 5). But this will, as before, result
 in quietism, requiring us to throw away the ladder and move sideways
 into a new paradigm. And so memeological history will continue.
 
+![Fig. 4 – Source: eSCATological posting (a Facebook group that has now been zucced)](imgs/16.7.jpeg)
+
+<br/>
+
 ## Moving Beyond?
 
-![](media/image15.jpeg){width="3.077777777777778in"
-height="1.7583333333333333in"}The preceding parts of this essay have
+![Fig. 5 - Source: https://youtu.be/VSkPkSYFQ3U](imgs/16.8.jpeg)
+
+<br/>
+
+The preceding parts of this essay have
 sought to describe the workings of memeological history – the point,
 however, is to change it. Is meme culture something we ought to leave on
 the historical scrap-heap? Don’t get me wrong; I like a good meme just
@@ -8420,18 +8346,15 @@ edition. Kegan Paul, Trench, Trubner & Co.
 
 
 
-# Deeper and Higher: Memes as Scalar Abstraction\
-\
-Geoffrey Hondroudakis
+# **Deeper and Higher: Memes as Scalar Abstraction**
+
+###Geoffrey Hondroudakis
 
 ## How Many Layers Are You On?
 
-![The Original 'Layers of Irony' Meme from the Facebook page 'Special
-Meme Fresh'](media/image1.png){width="4.045833333333333in"
-height="4.045833333333333in"}
+![Fig. 1 - The 'Layers of Irony' Meme - first posted to the ‘Special Meme Fresh’ Facebook page on October 24th, 2015](imgs/17.1)
 
-> Figure 1 - The 'Layers of Irony' Meme - first posted to the ‘Special
-> Meme Fresh’ Facebook page on October 24th, 2015
+<br/>
 
 This is an old meme – which is to say that it’s tired, tiresome,
 coopted, boring – it’s well and truly dead. But the vulture of Minerva
@@ -8489,9 +8412,7 @@ there is too much stuff and it is all the same.
 The internet is very large. Trivial to say, but it registers important
 phenomenological, cognitive, infrastructural, and informatic facts. For
 one, information and choice overload are significant factors inflecting
-everyday interactions. Whether reading or watching news,
-
-[^18chapter17_1] buying things,[^18chapter17_2] browsing a social media feed, or engaging in any
+everyday interactions. Whether reading or watching news,[^18chapter17_1] buying things,[^18chapter17_2] browsing a social media feed, or engaging in any
 number of other activities on the internet, there is a confrontation
 with cascading flows of activity. Adding further to this is the sense
 that there are not only innumerable objects and possibilities within an
@@ -8804,7 +8725,7 @@ This mediation is itself active, structuring and restructuring as it
 recursively incorporates and adjusts to the inevitable ruptures and
 contingencies of billions of people and gigantic technical systems.
 
-## Conclusion\
+## Conclusion
 
 So, what do we have? Memes are, or could be:
 
@@ -8835,7 +8756,7 @@ sand – they might be furnace-blasted and soldered into regular
 circuitries, but they retain the memory of the dunes, and all the
 atomistic changeability that entails.
 
-## References\
+## References
 
 Baudrillard, Jean. *Simulacra and Simulation*. Translated by Sheila
 Faria Glaser. Michigan: University of Michigan Press, 1994.
@@ -8979,9 +8900,9 @@ Human Future at the New Frontier of Power*. New York: PublicAffairs,
 
 
 
-# Post-Truth Design Tactics in Memes in India: Decoding Malicious Design Practices in Right-Wing Meme Factories\
-\
-By Aarushi Bapna, Ajitesh Lokhande
+# **Post-Truth Design Tactics in Memes in India: Decoding Malicious Design Practices in Right-Wing Meme Factories**
+
+###By Aarushi Bapna, Ajitesh Lokhande
 
 On May 12, 2017, two people suspected to be child kidnappers were
 lynched in the Indian village of Jadugora, in the eastern state of
@@ -9042,14 +8963,14 @@ sour, true of \[sic\] fake.[^19chapter18_7] The political establishment is not o
 aware of this culture of fact-denying, disinformation, and post-truth
 politics, but occasionally it even takes part in it.
 
-[[]{#_5er5mo5ad8qo .anchor}]{#_xb3n42ad88nd .anchor}To fully understand
+To fully understand
 the context of fake-news in India, one needs to understand a phenomenon
 that is a more evolved form of sensationalism. This phenomenon is
 planned, designed to grab attention, appeal to emotion, and set trends
 for political discourse. This is where the *Aestheticization of
 Politics* comes in.
 
-## Memes as Aestheticization of Politics\
+## Memes as Aestheticization of Politics
 
 In his essay *The Work of Art in the Age of Mechanical Reproduction*,
 Walter Benjamin mentions the ‘Aestheticization of Politics’. This is
@@ -9075,10 +8996,9 @@ accessible to any person with an internet connection.
 
 ### Types of ‘Aestheticization of Politics’
 
-![Afbeelding met tafel Automatisch gegenereerde
-beschrijving](media/image1.jpg){width="7.0in"
-height="3.138888888888889in"}\
-Fig. 1 Types of Aestheticization of Politics
+![Fig. 1 Types of Aestheticization of Politics](imgs/18.1.jpeg)
+
+<br/>
 
 Today, the paradigm shift to be considered is the emergence of memes as
 an extremely accessible tool of aestheticizing politics (e.g. Hello
@@ -9105,15 +9025,13 @@ the far-right, too, has undergone a process of (post-)modernization, it
 must be regarded as closely intertwined with post-modern (youth)
 cultures who express themselves creatively and often ironically on
 social media.’ Virality defeats veracity, and one of the key ingredients
-of this fact-defying virality is its visuality. [[]{#_qiwk6wz5qysq
-.anchor}]{#_cwnqtkh0ci98 .anchor}
+of this fact-defying virality is its visuality. 
 
-### Meme 1: One Nation, One Flag\
-![Afbeelding met tekst, teken Automatisch gegenereerde beschrijving](media/image2.png){width="2.5681813210848645in" height="2.7424234470691164in"}
+### Meme 1: One Nation, One Flag
 
-Fig. 2 One Nation One Flag.\
-Source: @saffronpilled, One Nation One Flag, 2019, Instagram Post,
-<a href="https://www.instagram.com/p/BzA4B9cFs7W/">https://www.instagram.com/p/BzA4B9cFs7W/</a>
+![Fig. 2 One Nation One Flag. Source: @saffronpilled, One Nation One Flag, 2019, Instagram Post, <https://www.instagram.com/p/BzA4B9cFs7W/>](imgs/18.2.jpeg)
+
+<br/>
 
 In the meme in figure 2, we see a combination of visual symbols. The
 lighting, the retrofuturist car, and the CGI 3D environment are key
@@ -9142,13 +9060,9 @@ immersed in digital culture.
 
 ### Meme 2: Hindu Lives Matter
 
-![Afbeelding met tekst Automatisch gegenereerde
-beschrijving](media/image3.png){width="3.936137357830271in"
-height="3.945442913385827in"}
+![Fig. 3 Hindu Lives Matter Source: @bharatincrisis, Hindu Lives Matter meme, 2020, Instagram Post, <https://www.instagram.com/p/CLMMSfdABK6/?igshid=1kf3pts4eyki3>](imgs/18.3.jpeg)
 
-Fig. 3 Hindu Lives Matter\
-Source: @bharatincrisis, Hindu Lives Matter meme, 2020, Instagram Post,
-<a href="https://www.instagram.com/p/CLMMSfdABK6/?igshid=1kf3pts4eyki3">https://www.instagram.com/p/CLMMSfdABK6/?igshid=1kf3pts4eyki3</a>
+<br/>
 
 In figure 3, we see yet another visual aesthetic being exploited. The
 visual style mimics an activist, outraged, and intellectual stance. It
@@ -9175,14 +9089,12 @@ completely false equivalence to support its position.
 
 ### Meme 3: Sanskari (Virtuous) Girl meme
 
-![](media/image4.png){width="3.295156386701662in"
-height="3.158333333333333in"}\
-Fig. 4 Girl wearing Sari\
-Source: @hindutvamemes, Girl Wearing Sari, 2021, Instagram Post,
-<a href="https://www.instagram.com/p/CNt4ug6Lxd4/">https://www.instagram.com/p/CNt4ug6Lxd4/</a>
+![Fig. 4 Girl wearing Sari
+Source: @hindutvamemes, Girl Wearing Sari, 2021, Instagram Post, <https://www.instagram.com/p/CNt4ug6Lxd4>](imgs/18.4.jpeg)
 
-Figure 4, is much less political in comparison to figures 2 and 3. It
-uses the well-known meme template of ‘Godzilla vs. Kong vs. Doge’. In
+<br/>
+
+Figure 4, is much less political in comparison to figures 2 and 3. It uses the well-known meme template of ‘Godzilla vs. Kong vs. Doge’. In
 this two-panel object labeling meme, we see Godzilla and Kong being
 equated to ‘girl wearing jeans-top’ and ‘girl wearing burkha’
 respectively. It is helpful to know that in the Indian context, ‘girl
@@ -9215,46 +9127,29 @@ Adapting historical and political contexts to trendy visual genres or
 subcultures to appeal to their respective audiences. These trends may
 include aesthetic styles, current events & pop culture references.
 
-![Afbeelding met tekst Automatisch gegenereerde
-beschrijving](media/image5.jpg){width="3.0052088801399823in"
-height="2.191117672790901in"}\
-\
-Fig. 5 ‘Govt’s involvement in protecting Hindu temple and civilization’\
-Fig. 5 is a reference to a ship getting stuck at the Suez Canal in March
-‘21 and was a heavily used meme format. Here the messaging points at
-religious (Hindu) victimization even though the group is a vast majority
-in the country. This is a classic example of Trendification.\
-Source: @indic\_history\_memes, ‘Govt’s involvement in protecting Hindu
-temple and civilization’, 2021, Instagram Post,
-<a href="https://www.instagram.com/p/CM3wFp4Bl82/">https://www.instagram.com/p/CM3wFp4Bl82/</a>.
+![Fig. 5 ‘Govt’s involvement in protecting Hindu temple and civilization’ Fig. 5 is a reference to a ship getting stuck at the Suez Canal in March
+‘21 and was a heavily used meme format. Here the messaging points at religious (Hindu) victimization even though the group is a vast majority
+in the country. This is a classic example of Trendification. Source: @indic\_history\_memes, ‘Govt’s involvement in protecting Hindu temple and civilization’, 2021, Instagram Post,
+<https://www.instagram.com/p/CM3wFp4Bl82>.](imgs/18.5.jpeg)
 
-###  Virtuous Imagery\
+<br/>
+
+
+###  Virtuous Imagery
 
 Associating an idea with positive and emotive language. Juxtaposing an
 ideological message with euphoric or cheerful imagery.
 
-![Afbeelding met tekst Automatisch gegenereerde
-beschrijving](media/image6.jpg){width="3.6718755468066493in"
-height="2.3386351706036748in"}\
-Fig. 6 ‘Nudes…? No girl’\
-The meme (fig.6) is a reference to the popular culture of sharing nudes.
-However, this is depicted as a ‘vice’, and doing pooja (engaging in
-worship) is depicted as a ‘virtuous’ act. The aesthetic used is of a
-popular AR filter and the imagery is of a young Hindu monk.\
-Source: @rastrawadi\_dank\_memes, ‘Nudes…? No Girl’, 2021, Instagram
-Post, <a href="https://www.instagram.com/p/CNkgd-4hfxp/">https://www.instagram.com/p/CNkgd-4hfxp/</a>
+![ Fig. 6 ‘Nudes…? No girl. The meme (fig.6) is a reference to the popular culture of sharing nudes.
+However, this is depicted as a ‘vice’, and doing pooja (engaging in worship) is depicted as a ‘virtuous’ act. The aesthetic used is of a popular AR filter and the imagery is of a young Hindu monk. Source: @rastrawadi\_dank\_memes, ‘Nudes…? No Girl’, 2021, Instagram Post, <https://www.instagram.com/p/CNkgd-4hfxp>](imgs/18.6.jpeg)
 
-![Afbeelding met tekst Automatisch gegenereerde
-beschrijving](media/image7.png){width="3.9218755468066493in"
-height="2.8421926946631673in"}
+<br/>
 
-Fig. 7 Soldiers performing worship infographic\
-The meme is from a popular right-wing page with over 16.1k followers.
-This meme consists of two ‘virtues’: those of religiosity and military
-patriotism. The mixed message hopes to point at how the ‘brave’ soldiers
-are engaging in Hindu prayer at theIndia-Pakistan border.\
-Source: @bharatarashtra, Soldiers performing worship infographic, 2021,
-Instagram Post, <a href="https://www.instagram.com/p/CNpOeTyBij7/">https://www.instagram.com/p/CNpOeTyBij7/</a>
+![Fig. 7 Soldiers performing worship infographic\
+The meme is from a popular right-wing page with over 16.1k followers. This meme consists of two ‘virtues’: those of religiosity and military patriotism. The mixed message hopes to point at how the ‘brave’ soldiers
+are engaging in Hindu prayer at theIndia-Pakistan border. Source: @bharatarashtra, Soldiers performing worship infographic, 2021, Instagram Post, <https://www.instagram.com/p/CNpOeTyBij7/>](imgs/18.7.jpeg) 
+
+<br/>
 
 ###  Deceptive Simplification
 
@@ -9262,18 +9157,11 @@ Using *glittering generalities,*[^19chapter18_19] to falsely prove ideological
 arguments. Oversimplifying complex, nuanced realities to incite a change
 in viewpoint.
 
-![](media/image8.jpg){width="3.619792213473316in"
-height="2.31084864391951in"}\
-Fig. 8 Hindu vs. Muslim reaction meme\
-This meme is an example of an over-simplistic and vague comparison of
-two incidents. It depicts two personalities with different religious
-affiliations conveyed through their background colours (saffron being
-Hindu, green being Muslim). However, the meme is a jab at liberals and
-claims that in their eyes only Muslims have ‘freedom of speech’ while
-Hindus do not. This is a case of *Hindu-victimisation* and
-whataboutism.\
-Source: @burnol\_wala, Hindu vs. Muslim reaction meme, 2021, Instagram
-Post, <a href="https://www.instagram.com/p/CNxh-fjj-q8/">https://www.instagram.com/p/CNxh-fjj-q8/</a>
+![Fig. 8 Hindu vs. Muslim reaction meme. This meme is an example of an over-simplistic and vague comparison of two incidents. It depicts two personalities with different religious affiliations conveyed through their background colours (saffron being Hindu, green being Muslim). However, the meme is a jab at liberals and
+claims that in their eyes only Muslims have ‘freedom of speech’ while Hindus do not. This is a case of *Hindu-victimisation* and whataboutism. Source: @burnol\_wala, Hindu vs. Muslim reaction meme, 2021, Instagram
+Post, <https://www.instagram.com/p/CNxh-fjj-q8/>](imgs/18.8.jpeg)
+
+<br/>
 
 ### Conditioning or ‘Brand Recall’
 
@@ -9287,25 +9175,9 @@ slideshows on Instagram[^19chapter18_20]) to propagate a right-wing agenda. Driv
 by transfer of association of the visuals they imitate, such memes
 establish the credibility of their content.
 
-![Afbeelding met tekst Automatisch gegenereerde
-beschrijving](media/image9.png){width="3.170236220472441in"
-height="2.2927602799650044in"}\
-\
-Fig. 9 ‘Can you go with me?’\
-In Fig. 9 the meme shows a mob climbing on top of the Taj Mahal and
-waving a saffron flag as a display of their domination. The meme is
-meant to be an attack on this monument because it was built by a Mughal
-ruler (the entire Mughal empire being a symbol of Islamic oppression of
-Hindu India according to the Hindu right-wing ideology)\
-By using the recurring imagery of Hindu ideology (saffron flags) the
-meme tries to dissociate its gruesome context. This visual recall helps
-in endorsing views under the guise of subscribing to this ideology. It
-also uses Trendification (1) as a visual style in the form of its pink
-glitter filter which gives it a Tik Tok aesthetic. It’s worth pointing
-out the photo is a direct reference to the Insta-famous ‘hand-holding’
-couple.\
-Source: @jai\_mahakal1, “Can you go with me?”, 2021, Instagram Post,
-<a href="https://www.instagram.com/p/CNsNq4YBmGW/">https://www.instagram.com/p/CNsNq4YBmGW/</a>
+![Fig. 9 ‘Can you go with me?’ In Fig. 9 the meme shows a mob climbing on top of the Taj Mahal and waving a saffron flag as a display of their domination. The meme is meant to be an attack on this monument because it was built by a Mughal ruler (the entire Mughal empire being a symbol of Islamic oppression of Hindu India according to the Hindu right-wing ideology). By using the recurring imagery of Hindu ideology (saffron flags) the meme tries to dissociate its gruesome context. This visual recall helps in endorsing views under the guise of subscribing to this ideology. It also uses Trendification (1) as a visual style in the form of its pink glitter filter which gives it a Tik Tok aesthetic. It’s worth pointing out the photo is a direct reference to the Insta-famous ‘hand-holding’ couple. Source: @jai\_mahakal1, “Can you go with me?”, 2021, Instagram Post, <https://www.instagram.com/p/CNsNq4YBmGW/>](imgs/18.9.jpeg)
+
+<br/>
 
 ### Cognitive Dissonance
 
@@ -9319,20 +9191,13 @@ Another approach is disinformation combined with false imagery in the
 form of image manipulation, deepfakes etc. to create false visual
 association. This can also be achieved by cherry picking content.
 
-![Afbeelding met tekst Automatisch gegenereerde
-beschrijving](media/image10.jpg){width="4.214788932633421in"
-height="3.463542213473316in"}\
-Fig. 10 Sundar Pichai on NEET exam\
+![Fig. 10 Sundar Pichai on NEET exam\
 In fig. 10, we see a viral image that was being circulated to show
-Google CEO Sundar Pichai’s opinion on the NEET exam (a medical entrance
-exam in India). The image includes the logos of the *Copenhagen
-University Press, Google* and *The Business Outsider.* However, Sundar
-Pichai reportedly never said any of the given text.[^19chapter18_21] *Copenhagen
-University Press* has no association with this statement either and the
-name and website of *The Business Outsider* seeks to emulate another
-much more credible and well-known website called *The Business Insider*.
-These three elements add a touch of legitimacy to this viral and false
-image.
+Google CEO Sundar Pichai’s opinion on the NEET exam (a medical entrance exam in India). The image includes the logos of the *Copenhagen University Press, Google* and *The Business Outsider.* However, Sundar Pichai reportedly never said any of the given text[^19chapter18_21] *Copenhagen
+University Press* has no association with this statement either and the name and website of *The Business Outsider* seeks to emulate another much more credible and well-known website called *The Business Insider*. These three elements add a touch of legitimacy to this viral and false
+image.](imgs/18.10.jpeg)
+
+<br/>
 
 ### Red Herring & Pseudo-Scientific imagery
 
@@ -9344,34 +9209,19 @@ claims and fake news. This is done through diagrams, scientific-looking
 visuals, made-up testimonies of projected experts, other similar
 techniques.
 
-![](media/image11.png){width="3.8281255468066493in"
-height="2.4515080927384076in"}\
-Fig.11.1 Value of Semen
+![Fig.11.1 Value of Semen](imgs/18.11.1.jpeg)
 
-![](media/image12.png){width="3.7031255468066493in"
-height="2.3799245406824148in"}\
-Fig.11.2 Formation of Semen\
-The Fig.s 11.1 and 11.2 are slides from a post claiming unverified facts
-and a hoax theory (11.1) by using anatomical diagrams (11.2) to appear
-scientific. The claim cites Ayurveda[^19chapter18_22] as logic for this theory and
-calls to reject so-called western notions on the subject.\
-Source: @snaatanhindutva, Value of Semen Infographic, 2020, Instagram
-Post, <a href="https://www.instagram.com/p/CHw-KnBAEJH/">https://www.instagram.com/p/CHw-KnBAEJH/</a>
+<br/>
 
-![Afbeelding met tekst, verschillend, verschillende Automatisch
-gegenereerde
-beschrijving](media/image13.png){width="3.7656255468066493in"
-height="2.0150196850393702in"}
+![Fig.11.2 Formation of Semen. The Fig.s 11.1 and 11.2 are slides from a post claiming unverified facts
+and a hoax theory (11.1) by using anatomical diagrams (11.2) to appear scientific. The claim cites Ayurveda[^19chapter18_22] as logic for this theory and
+calls to reject so-called western notions on the subject. Source: @snaatanhindutva, Value of Semen Infographic, 2020, Instagram Post, <https://www.instagram.com/p/CHw-KnBAEJH/>](imgs/18.11.2.jpeg)
 
-Fig. 11 Darwin x Dashavatara\
-In this second example, the meme is trying to establish a supposed link
-between the chain of evolution and the different avatars of the hindu
-god Vishnu. By juxtaposing arbitrary creatures on a timeline, the meme
-tries to imply that the Hindu mythological concept of ‘Dashavatara’ had
-foretold and preceded Darwin’s theory of evolution.\
-Source: Mystery of India Website, Evolution according to Dashavatara,
-2014, Blog Post,
-<a href="https://www.mysteryofindia.com/2014/10/dashavatar-darwins-evolution.html">https://www.mysteryofindia.com/2014/10/dashavatar-darwins-evolution.html</a>
+<br/>
+
+![Fig. 11.3 Darwin x Dashavatara. In this second example, the meme is trying to establish a supposed link between the chain of evolution and the different avatars of the hindu god Vishnu. By juxtaposing arbitrary creatures on a timeline, the meme
+tries to imply that the Hindu mythological concept of ‘Dashavatara’ had foretold and preceded Darwin’s theory of evolution. Source: Mystery of India Website, Evolution according to Dashavatara, 2014, Blog Post,
+<https://www.mysteryofindia.com/2014/10/dashavatar-darwins-evolution.html>](18.11.3.jpg)
 
 ### Cute-ification
 
@@ -9382,18 +9232,11 @@ messages embedded in cute pop cultural references. The bite-sized format
 of cute, aesthetically pleasing memes distances you from the grotesque
 facts, thereby warping your perception of reality.
 
-![Afbeelding met tekst, binnen Automatisch gegenereerde
-beschrijving](media/image14.png){width="2.2864588801399823in"
-height="2.2864588801399823in"}\
-Fig.12 Har Har Mahadev X Doge\
-In the meme above, we see the character Doge asking the viewer what is
-stopping them from saying ‘Har Har Mahadev’– originally a religious
-Hindu mantra. The meme is a reference to a political speech where the
-phrase was used as a jab at the opposition (for having contested the use
-of religious slogans in politics). It undoes this political connotation
-by presenting it with the Doge meme and cute emojis.\
-Source: @proudhindu\_, Har Har Mahadev X Doge, 2021, Instagram Post,
-<https://www.instagram.com/p/CM2T9PRBRQL/>.
+![Fig.12 Har Har Mahadev X Doge. In the meme above, we see the character Doge asking the viewer what is stopping them from saying ‘Har Har Mahadev’– originally a religious Hindu mantra. The meme is a reference to a political speech where the phrase was used as a jab at the opposition (for having contested the use
+of religious slogans in politics). It undoes this political connotation by presenting it with the Doge meme and cute emojis. Source: @proudhindu\_, Har Har Mahadev X Doge, 2021, Instagram Post,
+<https://www.instagram.com/p/CM2T9PRBRQL/>.](imgs/18.13.jpeg)
+
+<br/>
 
 ### Trivialization
 
@@ -9401,21 +9244,11 @@ The use of imagery to imply something is unimportant or not worthy of
 attention. Using common jokes, cartoons and rage comics to dismiss and
 trivialize oppressed groups, the opposition and critique.
 
-![](media/image15.jpg){width="4.3811132983377075in"
-height="2.1041666666666665in"}\
-Fig. 13 Indian Transgenders x Tom and Jerry
-
-In this example, we see Indian transgender people being equated to the
-cartoon Tom, insistently asking for something. This is a jibe at
-transgender people who beg due to forced systemic poverty. By depicting
-their plight in the form of a cartoon-based meme, all nuance and
-attempts to understand the issue are discarded. The entire Indian
-transgender community is thus alienated and reduced to mere fodder for
-humor.\
-\
-Source: Reserved Memes for Dalit Teens, Indian Transgenders X Tom and
+![Fig. 13 Indian Transgender people x Tom and Jerry. In this example, we see Indian transgender people being equated to the cartoon Tom, insistently asking for something. This is a jibe at transgender people who beg due to forced systemic poverty. By depicting their plight in the form of a cartoon-based meme, all nuance and attempts to understand the issue are discarded. The entire Indian transgender community is thus alienated and reduced to mere fodder for humor. Source: Reserved Memes for Dalit Teens, Indian Transgenders X Tom and
 Jerry, 2019, Facebook Post,
-<a href="https://www.facebook.com/Dalitsenpai/photos/610210472788608">https://www.facebook.com/Dalitsenpai/photos/610210472788608</a>
+<https://www.facebook.com/Dalitsenpai/photos/610210472788608">.](imgs/18.14.jpeg)
+
+<br/>
 
 ## Social media strategy
 
@@ -9458,15 +9291,8 @@ radicalized by malicious propaganda: the content he consumed in turn
 consumed him. A shocking incident, but can we really say we didn't see
 it coming?
 
-![](media/image16.png){width="3.098144138232721in"
-height="1.8311712598425196in"}\
-Fig.15 Screenshot from the perpetrator’s Facebook page right before he
-pulled out the gun. He uses the prefix ‘*Rambhakt*’ (which translates to
-a worshiper of the Hindu god Ram).\
-Source: Screenshot of ‘Rambhakt’s’ Facebook post, the 17-year-old
-shooter at Jamia Milia Islamia University is posing with a gun, 2020,
-News Article,
-<a href="https://thediplomat.com/2020/02/jamia-millia-shootout-making-of-a-hindutva-terrorist/">https://thediplomat.com/2020/02/jamia-millia-shootout-making-of-a-hindutva-terrorist/</a>
+![Fig.15 Screenshot from the perpetrator’s Facebook page right before he pulled out the gun. He uses the prefix ‘*Rambhakt*’ (which translates to
+a worshiper of the Hindu god Ram). Source: Screenshot of ‘Rambhakt’s’ Facebook post, the 17-year-old shooter at Jamia Milia Islamia University is posing with a gun, 2020, News Article, <https://thediplomat.com/2020/02/jamia-millia-shootout-making-of-a-hindutva-terrorist/>](imgs/18.15.jpeg)
 
 In Freedom House’s *Freedom in the World 2021* report, India had its
 status a s a ‘free’ nation downgraded to ‘partly free’ due to what they
@@ -9726,9 +9552,9 @@ False News Online.” Science 359, no. 6380 (March 9, 2018), 1146-1151.
 
 
 
-# Weapons of Mass Distraction: Far-Right Culture-Jamming Tactics in Memetic Warfare\
-\
-Andy King
+# Weapons of Mass Distraction: Far-Right Culture-Jamming Tactics in Memetic Warfare
+
+###Andy King
 
 ## Memefluencers
 
@@ -9758,14 +9584,9 @@ of an out-of-touch academic defender—rather than influencer—fighting to
 protect remaining online territories, instead of seizing and subverting
 new grounds.
 
-![Afbeelding met tekst, krant Automatisch gegenereerde
-beschrijving](media/image1.jpg){width="3.5280489938757653in"
-height="2.6460367454068243in"}
+![Fig. 1: Right-wing meme stereotyping leftists as digitally illiterate and therefore irrelevant SJWs. <https://imgflip.com/i/1zwubx>](imgs/19.1.jpeg) 
 
-**Fig. 1.** Right-wing meme stereotyping leftists as digitally
-illiterate
-
-and therefore irrelevant SJWs. <a href="https://imgflip.com/i/1zwubx">https://imgflip.com/i/1zwubx</a>
+</br>
 
 This is not to say that tech-savvy leftists haven’t been trying to
 discredit the internet maxim ‘*The left can’t meme’* \[Fig. 1.\]. There
@@ -9796,8 +9617,7 @@ understandably angry reactions to racist memes and hateful speech were
 documented and fed back into the online propaganda machine portraying
 them as humorless snowflakes.
 
-## \
-Open Book for Those Who Dare Look
+## Open Book for Those Who Dare Look
 
 Alt-right instructional guides and manifestos for online warfare have
 remained accessible and easy to share. Once uploaded to a pastebin, they
@@ -10247,8 +10067,7 @@ of time before alt-tech social media platforms grow in scope, this time
 out of plain sight. Fascist shibboleths will become subtler so as to
 evade auto-bans; the conversion tactics will become more nuanced.
 
-## \
-Countering the Counterstrategies
+## Countering the Counterstrategies
 
 The alt-right have persistently proven their ability to adapt to
 situations geared against them. By masterfully manipulating the
@@ -10406,8 +10225,9 @@ Will Never Be the Same.” *Indiewire,* August 31, 2019.
 
 Evans, Robert. “Ignore The Poway Synagogue Shooter’s Manifesto: Pay
 Attention To 8Chan’s /Pol/ Board.” *Bellingcat,* March 15, 2019.
-<https://www.bellingcat.com/news/americas/2019/04/28/ignore-the-poway-synagogue-shooters-manifesto-pay-attention-to-8chans-pol-board/>.Feinberg,
-Ashley. “This Is The Daily Stormer's Playbook.” *Huffpost UK,* December
+<https://www.bellingcat.com/news/americas/2019/04/28/ignore-the-poway-synagogue-shooters-manifesto-pay-attention-to-8chans-pol-board/>.
+
+Feinberg, Ashley. “This Is The Daily Stormer's Playbook.” *Huffpost UK,* December
 13, 2017.
 <https://www.huffpost.com/entry/daily-stormer-nazi-style-guide_n_5a2ece19e4b0ce3b344492f2>.
 
@@ -10544,9 +10364,9 @@ or Why Trump is no Joker.” *The Philosophical Salon,* November 11, 2019.
 
 
 
-# Your Feed is a Battleground: A Field Report on Memetic Warfare in Turkey\
-\
-Sarp Özer
+# **Your Feed is a Battleground: A Field Report on Memetic Warfare in Turkey**
+
+###Sarp Özer
 
 As a child, I lived with my mother's younger brother who was a fan of
 rock music thanks to Metallica’s popularity in the late 1980s. Even
@@ -10561,12 +10381,9 @@ the horns and peace gestures. At that time, I was not able to decipher
 these enigmatic salutations, but it seemed to work like a charm to
 indicate that one was cool.
 
-![Afbeelding met persoon Automatisch gegenereerde
-beschrijving](media/image1.jpg){width="3.18163167104112in"
-height="4.727566710411199in"}
+![Fig. 1. Author’s childhood portrait while flashing the peace gesture. Date unknown.](imgs/20.1.jpg)
 
-Fig. 1. Author’s childhood portrait while flashing the peace gesture.
-Date unknown.
+<br/>
 
 To execute the horns gesture, one should have the pinky and index
 fingers pointing upwards while the middle and ring fingers should be
@@ -10648,9 +10465,7 @@ After ruling Turkey for twenty years with an iron gauntlet, the
 president of Turkey, Recep Tayyip Erdoğan’s internet search results are
 flooded with content portraying him as a corrupt, racist, and
 authoritarian politician. Opinion polling for the 2023 Turkish general
-election indicates that Erdoğan’s popularity has taken a dive.
-
-[^21chapter20_1] The discontent is especially observable among internet-savvy
+election indicates that Erdoğan’s popularity has taken a dive.[^21chapter20_1] The discontent is especially observable among internet-savvy
 younger generations.[^21chapter20_2] Since their consent is impossible to forcefully
 obtain, it needs to be engineered. Rather than making a genuine effort
 to earn approval, Erdoğan’s propaganda team started to invest in a
@@ -10672,17 +10487,10 @@ behind this that hurts AKP supporters by suggesting there is an absence
 of subjectivity amongst those who do as Erdoğan bids—akin to zombie
 armies.
 
-![Afbeelding met tekst, persoon Automatisch gegenereerde
-beschrijving](media/image2.jpg){width="2.55in"
-height="3.6083333333333334in"}
+![Fig. 2. A meme example mocking the style of AKP propaganda posters featuring the Night King, the supreme leader of White Walkers from the Game of Thrones series. Translates as: ‘Redemption and Ascension with kind support of the president we are resurrecting the Ottoman.’ Meme archived from Uludağ Sözlük. Posted by ‘theoutsider’ under the subsection ‘akgezenler vs the akp secmeni’ on 27.08.2017. Image
+available at: <ahttps://www.uludagsozluk.com/k/ak-gezenler-vs-akp-se%C3%A7meni/>](imgs/20.2.jpg)
 
-Fig. 2. A meme example mocking the style of AKP propaganda posters
-featuring the Night King, the supreme leader of White Walkers from the
-Game of Thrones series. Translates as: ‘Redemption and Ascension with
-kind support of the president we are resurrecting the Ottoman.’ Meme
-archived from Uludağ Sözlük. Posted by ‘theoutsider’ under the
-subsection ‘akgezenler vs the akp secmeni’ on 27.08.2017. Image
-available at: <a href="https://www.uludagsozluk.com/k/ak-gezenler-vs-akp-se%C3%A7meni/">https://www.uludagsozluk.com/k/ak-gezenler-vs-akp-seçmeni/</a>
+<br/> 
 
 Ak as a prefix has not only spawned the AK Troll term. It is in such
 widespread use in daily life that it has become a memetic pattern
@@ -10822,14 +10630,9 @@ guards: similarly, Erdoğan descends from the principal stairs of his
 palace to receive his guest surrounded by guardsmen in warrior
 costumes.[^21chapter20_10]
 
-![Afbeelding met tekst Automatisch gegenereerde
-beschrijving](media/image3.jpg){width="2.187389545056868in"
-height="2.8483278652668416in"}
+![Fig. 3. Guarded by Pokémon, Erdoğan shakes hands with Professor Oak in Aksaray. Author unknown. Posted on Twitter under the username: Çapul-Şen @kivanceliacik Date: 12.01.2015 Image available at: <https://www.diken.com.tr/erdoganin-askerleri-caps-oldu-yagdi-game-thronestan-age-empiresa-sey-var/>](imgs/20.3.jpg)
 
-Fig. 3. Guarded by Pokémon, Erdoğan shakes hands with Professor Oak in
-Aksaray. Author unknown. Posted on Twitter under the username: Çapul-Şen
-@kivanceliacik Date: 12.01.2015 Image available at:
-<a href="https://www.diken.com.tr/erdoganin-askerleri-caps-oldu-yagdi-game-thronestan-age-empiresa-sey-var/">https://www.diken.com.tr/erdoganin-askerleri-caps-oldu-yagdi-game-thronestan-age-empiresa-sey-var/</a>
+<br/>
 
 Because it fell short of the production standards of a space opera, this
 villainesque appearance had not gone the way it was expected. Apart from
@@ -10863,14 +10666,9 @@ incompetent dummy minister or a nitwit caused so much humiliation that
 it resulted in his resignation. Under heavy fire, Erdoğan could not
 insist on keeping the weakest link in his position anymore.[^21chapter20_13]
 
-![Afbeelding met gras, persoon, buiten, mensen Automatisch gegenereerde
-beschrijving](media/image4.jpg){width="4.261089238845145in"
-height="3.841506999125109in"}
+![Fig. 4. Meme showing Minister Berat Albayrak smiling by the tombstone of Turkish Economy. Author unknown. Posted on Twitter by the username: Dünyalı @obirdunyali Date: 17.08.2020 Image available at: <https://twitter.com/obirdunyali/status/1295298492555042816?s=20>](imgs/20.4.jpg)
 
-Fig. 4. Meme showing Minister Berat Albayrak smiling by the tombstone of
-Turkish Economy. Author unknown. Posted on Twitter by the username:
-Dünyalı @obirdunyali Date: 17.08.2020 Image available at:
-<a href="https://twitter.com/obirdunyali/status/1295298492555042816?s=20">https://twitter.com/obirdunyali/status/1295298492555042816?s=20</a>
+<br/>
 
 To keep this fragile political image intact, the primary strategy in
 effect is to dominate the traditional channels and moderate social media
@@ -10988,7 +10786,7 @@ humorous political memes to address people who already agree with us is
 self-propaganda at its best. But in war, a meme only becomes a meme when
 it hits the mind of people that disagree.
 
-## References:
+## References
 
 140Journos. “Devletin Yeni Rengi: Turkuaz.” *140Journos*, January 20,
 2017. <a href="https://140journos.com/devletin-yeni-rengi-turkuaz-18d377f88407">https://140journos.com/devletin-yeni-rengi-turkuaz-18d377f88407</a>.
@@ -11108,9 +10906,9 @@ translation).” Submitted by Artukî, July 25, 2019.
 
 
 
-# It Lurks in the Deep: Memetic Terror and the Blue Whale Challenge in India\
-\
-Anirban K. Baishya
+# **It Lurks in the Deep: Memetic Terror and the Blue Whale Challenge in India**
+
+###Anirban K. Baishya
 
 ## The Networked Uncanny
 
@@ -11209,7 +11007,7 @@ it spreads. Thus, while there may be visual manifestations of the BWC
 (Maluna’s video is an example), the ripple-effect of the BWC emerges out
 of the affective power of the network itself.
 
-## Of Monkeys and Whales: Infrastructures of Feeling\
+## Of Monkeys and Whales: Infrastructures of Feeling
 
 It is true, the BWC does not originate in the specific cultural milieu
 of India. Yet something about it resonated with the Indian imaginary.
@@ -11268,8 +11066,7 @@ the possibility of the infrastructural uncanny. The spread of the BWC in
 India must be read in this infrastructural context. To the planned city:
 a monkeyman; to the algorithmic network: a whale.
 
-## \
-When a Meme Becomes Real
+## When a Meme Becomes Real
 
 As the BWC panic began to spread in India, institutional responses to
 the crisis also emerged. As mentioned earlier, the BWC was not made to
@@ -11359,15 +11156,9 @@ take a page from Ryan Milner’s work, this is literally a ‘world made
 meme’ through the ‘messy memetic interrelationships’ between media, law,
 regulation and of course, users.[^22chapter21_26]
 
-![Diagram Description automatically
-generated](media/image1.jpg){width="5.79816491688539in"
-height="4.063671259842519in"}
+![Fig. 1: Excerpt of an information brochure about the BWC hosted on the Information Security Awareness website run by the Ministry of Electronics and Information Technology.[^22chapter21_27] (Original Creator: Information Security Awareness, Ministry of Electronics and Information Technology (MeitY), Govt of India).](imgs/21.1.jpeg)
 
-**Fig. 1:** Excerpt of an information brochure about the BWC hosted on
-the Information Security Awareness website run by the Ministry of
-Electronics and Information Technology.[^22chapter21_27] (Original Creator:
-Information Security Awareness, Ministry of Electronics and Information
-Technology (MeitY), Govt of India).
+<br/>
 
 ## End/Users
 
@@ -11456,13 +11247,9 @@ becomes a key agent in everyday practices of connectedness, it also
 overlaps with misinformation, rumor mongering and the fear of sudden,
 erupting violence.
 
-![Graphical user interface, text, application, chat or text message
-Description automatically
-generated](media/image2.jpg){width="5.759689413823272in"
-height="3.6533409886264216in"}
+![Fig. 2: The WhatsApp interface and *The Ring* featured in an amateur short film on the BWC on YouTube. (Creator: onionNgarlic, YouTube).[^22chapter21_37]](imgs/21.2.jpeg)
 
-**Fig. 2:** The WhatsApp interface and *The Ring* featured in an amateur
-short film on the BWC on YouTube. (Creator: onionNgarlic, YouTube).[^22chapter21_37]
+</br>
 
 Let’s also not forget how the cellphone and such mobile communication
 platforms inform the petitions and regulatory efforts mentioned earlier,
@@ -11478,15 +11265,11 @@ scramble to catch up to the viral speed of the network, the collision
 between bodies, devices and practices remains largely unmanageable. And
 as Bauman reminds us, ‘we fear what we can’t manage.’[^22chapter21_38]
 
-![A picture containing text, electronics, display, computer Description
-automatically generated](media/image3.jpeg){width="6.5in"
-height="2.5243055555555554in"}
+![Fig. 3: YouTube screengrabs of an *NDTV* news program about the BWC. The image on the right shows public demonstrations against the BWC (NDTV, YouTube).[^22chapter21_39]](imgs/21.3.jpeg)
 
-**Fig. 3:** YouTube screengrabs of an *NDTV* news program about the BWC.
-The image on the right shows public demonstrations against the BWC
-(NDTV, YouTube).[^22chapter21_39]
+</br>
 
-## **The Fearsome Meme**
+## The Fearsome Meme
 
 That the networked uncanny manifests itself in text and images
 circulating and reverberating with users/audiences is not surprising in
@@ -11507,12 +11290,9 @@ horror films at 4:20 am. The same coding is also visible in the short
 film variants, albeit in narrative form, and such details also inform
 the PILs discussed earlier.
 
-![Graphical user interface, text, application Description automatically
-generated](media/image4.jpg){width="5.689889545056868in"
-height="3.990825678040245in"}
+![Fig. 4: The BWC ‘tasks’ listed in an advisory video on YouTube. (Creator: SidTalk, YouTube).[^22chapter21_41]](imgs/21.4.jpeg)
 
-**Fig. 4:** The BWC ‘tasks’ listed in an advisory video on YouTube.
-(Creator: SidTalk, YouTube).[^22chapter21_41]
+</br>
 
 While such details remain largely unverifiable or dubious, they become
 ‘real’ through repeated circulation. Details about the BWC take on the
@@ -11776,11 +11556,11 @@ Arts-SGEM, Vol. 17 Book 1:253-260.
 
 
 
-# SILICODEFORESTATION\
-\
-Stephanie Boulding\
+# **SILICODEFORESTATION**
 
-### Statement of Intent
+###Stephanie Boulding
+
+## Statement of Intent
 
 Cowboys are dead and so is the Wild West. The utopian hacker-dream of
 the Net, of all the world’s knowledge at all the (hacker) world’s
@@ -11811,7 +11591,7 @@ today to be more like airspace or mineral rights, inherited from
 regional power projection by the builders and keepers of the Backbone.
 This new material reality demands a new metaphor.
 
-### Deforestation
+## Deforestation
 
 Scott Malcolmson, in his book Splinternet, describes the internet as
 “cracking apart into discrete groups no longer willing, or able, to
@@ -11844,8 +11624,8 @@ understanding of all activity of trees and forests. The mycorrhizal
 network, in brief, connects an estimated 90% of all land plants to each
 other through invisible hyphae within soil, and allows for the
 transmission of not only information (say, about a forest fire) but
-nutrients, chemicals, and other physical goods.\
-\
+nutrients, chemicals, and other physical goods.
+
 Understanding the vastness of the mycorrhizal network calls for a
 re-interrogation of how we understand trees, roots, fungi, and soil.
 There is a way of seeing available here that prompts us to imagine
@@ -11869,9 +11649,8 @@ the English language internet in size, is a special case which is not
 comparable to the RUnet or halal internet examples, which create smaller
 ‘walled gardens’ within an existing forest.
 
-[]{#_heading=h.2et92p0 .anchor}
 
-### Gardens
+## Gardens
 
 Different networking protocols lead to diasporic languages, services,
 and memescapes. The forest meme invites new understandings of these
@@ -11914,7 +11693,7 @@ only to lead to the swift persecution of those schools of thought and
 their participants. An invasive species, or weed, has always been
 defined by the gardener.
 
-### Virality
+## Virality
 
 On land, deforestation is an ecological catastrophe which contains its
 own aftershock - the pandemic. A forest, once clear-cut, fills with
@@ -11983,14 +11762,14 @@ resistance to these memes.
 
 ### 
 
-1.  *dà mā *
+1.  *dà mā* (big mama) | Dama, literally means "big mama," referring mainly to married women between the age 40-60. They were pushed to the forefront for the first time in 2013 when thousands of Chinese women began buying record amounts of gold. They were the driving force in the global gold market between April and June, when prices had slumped. As well as making investments, 大妈 also love public square dancing.
 
-2.  *dà mā* [^23chapter22_7]
+2.  *dà mā* (Big Mama) | Moderators required on web forums and BBSes based in China. Named in a cognate pun for both definition 1 and Orwell’s “Big Brother”. While automated surveillance and censorship tools prevent politically sensitive information from being directly stated, 大妈 monitor fora and chatrooms and ‘harmonize’ offending memetic content, sending the user an email notifying them that their post is now shadowbanned. As well as monitoring internet communities, 大妈 also grow to know and personally apologize to the users they censor.[^23chapter22_7]
 
 ### 
 
 Crazy Crab 疯蟹, then a pseudonymous contributing political cartoonist
-for the China Daily Times,[^23chapter22_8] issued a viral challenge: make your
+for the China Daily Times, issued a viral challenge: make your
 avatar a photo of yourself with dark sunglasses or a blindfold on, to
 show your support for the long-suffering Chen Guangchen. He also draws
 his comic, in which Red, the protagonist of the Angry Birds series, is
@@ -12017,7 +11796,7 @@ GAN exists in a state of balanced competition. But in the Chinese
 forest, the discriminator is empowered with the agency of the state. The
 house always wins.
 
-### VIII. reterritorialization Imbues an Artifact with a New Aura
+## VIII. reterritorialization Imbues an Artifact with a New Aura
 
 The stateless Marxist Jewish exile Walter Benjamin invented the idea of
 the ‘aura’ to explain what distinguished a mechanical reproduction of an
@@ -12078,7 +11857,7 @@ the terrestrial national borders the new continents imitate.
 > It has never been easier than it is now to copy art. JPEG artifacts
 > are samizdat without the hardship.
 
-## References\
+## References
 
 Benjamin, Walter. “The Work of Art in the Age of Mechanical
 Reproduction.” In *Illuminations*, edited by Hannah Arendt, translated
@@ -12127,7 +11906,6 @@ Control and the Chinese Government,” MA Diss., University of Leiden,
     the Chinese Government,” MA Diss., University of Leiden, 2001.
     <a href="https://www.lokman.nu/thesis/010717-thesis.pdf">https://www.lokman.nu/thesis/010717-thesis.pdf</a>.
 
-[^23chapter22_8]:
 
 
 
@@ -13187,59 +12965,147 @@ WhatSticker. “Polite Pepe.”
 
 
 
-# Meme Tarot\
-\
-Marc Tuters\
+# **Meme Tarot**
 
-000 The Fool
+###Marc Tuters
 
-001 The Magician
+##000 The Fool
 
-002 The High Priestess
+![](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/25.1.jpeg)
 
-003 The Empress
+<br/>
 
-004 The Emperor
+##001 The Magician
 
-005 The Hierophant
+![](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/25.2.jpeg)
 
-006 The Lovers
+<br/>
 
-007 The Chariot
+##002 The High Priestess
 
-008 Justice
+![](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/25.3.jpeg)
 
-009 The Hermit
+<br/>
 
-010 Wheel of Fortune
+##003 The Empress
 
-011 Strength
+![](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/25.4.jpeg)
 
-012 The Hanged Man
+<br/>
 
-013 Death
+##004 The Emperor
 
-014 Temperance
+![](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/25.5.jpeg)
 
-015 The Devil
+<br/>
 
-016 The Tower
+##005 The Hierophant
 
-017 The Star
+![](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/25.6.jpeg)
 
-018 The Moon
+<br/>
 
-019 The Sun
+##006 The Lovers
 
-020 Judgement
+![](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/25.7.jpeg)
 
-021 The World
+<br/>
+
+##007 The Chariot
+
+![](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/25.8.jpeg)
+
+<br/>
+
+##008 Justice
+
+![](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/25.9.jpeg)
+
+<br/>
+
+##009 The Hermit
+
+![](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/25.10.jpeg)
+
+<br/>
+
+##010 Wheel of Fortune
+
+![](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/25.11.jpeg)
+
+<br/>
+
+##011 Strength
+
+![](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/25.12.jpeg)
+
+<br/>
+
+##012 The Hanged Man
+
+![](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/25.13.jpeg)
+
+<br/>
+
+##013 Death
+
+![](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/25.14.jpeg)
+
+<br/>
+
+##014 Temperance
+
+![](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/25.15.jpeg)
+
+<br/>
+
+##015 The Devil
+
+![](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/25.16.jpeg)
+
+<br/>
+
+##016 The Tower
+
+![](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/25.17.jpeg)
+
+<br/>
+
+##017 The Star
+
+![](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/25.18.jpeg)
+
+<br/>
+
+##018 The Moon
+
+![](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/25.19.jpeg)
+
+<br/>
+
+##019 The Sun
+
+![](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/25.20.jpeg)
+
+<br/>
+
+##020 Judgement
+
+![](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/25.21.jpeg)
+
+<br/>
+
+##021 The World
+
+![](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/25.22.jpeg)
+
+<br/>
 
 
 
-# Genes, Memes, Dreams\
-\
-Ivan Knapp\
+# **Genes, Memes, Dreams**
+
+###Ivan Knapp
 
 Genes, Memes, Dreams. Three words which, to borrow one of Theodor
 Adorno’s famous remarks, ‘are connected by more than phonetic
@@ -14276,7 +14142,7 @@ no. 2 (2011): 126–145[]{#_heading=h.g89hph4tumt2
 
 
 
-# Biographies
+# **Biographies**
 
 **Abidin Abidin and D. Bondy Valdovinos Kaye**
 
@@ -14303,7 +14169,7 @@ Press to be published in 2022. He has also published research on
 creative labor in India, digital nationalism in China, and cultural
 policy in Myanmar.
 
-**Anirban K. Baishya **
+**Anirban K. Baishya**
 
 Anirban Baishya is an Assistant Professor at the Communication and Media
 Studies Department, Fordham University. His current research examines
@@ -14315,7 +14181,7 @@ Communication*, *Communication, Culture & Critique*, *South Asian
 Popular Culture*, *Porn Studies*, *South Asia: Journal of South Asian
 Studies* and *Media, Culture and Society.*
 
-**Aarushi Bapna and Ajitesh Lokhande **
+**Aarushi Bapna and Ajitesh Lokhande**
 
 Aarushi Bapna is a visual communicator, designer, and researcher from
 India. She graduated with a Bachelor's in Design (Graphic Design) from
@@ -14338,7 +14204,7 @@ the DeSForM 2019 conference organized by the MIT Design Lab.
 
 Both Aarushi and Ajtesh are a part of the Critters' Collective.
 
-**Grant Bolmer **
+**Grant Bolmer**
 
 Grant Bollmer is the author of three books, *Inhuman Networks: Social
 Media and the Archaeology of Connection* (2016), *Theorizing Digital
@@ -14349,8 +14215,8 @@ completing a book on the history of technologies used in psychological
 research on emotion. He is an Associate Professor of Media Studies at
 North Carolina State University, where he teaches in the Department of
 Communication and the Ph.D. Program in Communication, Rhetoric, and
-Digital Media (CRDM).\
-\
+Digital Media (CRDM).
+
 **Stephanie Boulding**
 
 Stephanie Boulding is a teller of stories. She is interested in the
@@ -14376,12 +14242,12 @@ and Work in Kinshasa*, forthcoming with the University of Wisconsin
 Press, focuses on the ways that popular dance, in its embodied and
 symbolic forms, participates in the construction of an urban experience.
 
-**Anthony Burton **
+**Anthony Burton**
 
-## \
+
 Anthony Glyn Burton is a Ph.D. student and SSHRC Joseph Bombardier Fellow in the Department of Communications at Simon Fraser University. Anthony’s research is broadly concerned with the networked development of epistemologies and ideology in technological and datafied environments. He has published in *First Monday*, the *International Journal of Communications*, the *Canadian Journal of Communications*, and the *Harvard Misinformation Review*. He also co-convenes the Techne/Technics/Technology (3T) reading and research group with the Associação de Pesquisas e Práticas em Humanidades (Porto Alegre). He graduated from Ryerson and York University’s Master of Arts in Communication & Culture, where he wrote his thesis on involuntary celibacy, programmatic epistemology, and masculinity under neoliberalism. He is a researcher at the Digital Democracies Institute, the Infoscape Lab at Ryerson University, and affiliated with the Open Intelligence Lab at the University of Amsterdam. [https://anthbrtn.com](https://anthbrtn.com/).
 
-**Caspar Chan **
+**Caspar Chan**
 
 Caspar Chan, originally from Macau, is a current Research Master student
 of Arts and Culture at the University of Groningen, following the track
@@ -14394,7 +14260,7 @@ University. Raised as a music scholar and being a keen traveler, he also
 writes on music, travel, heritage, and culture on different local and
 international platforms, as well as in various journals and newspapers.
 
-**Clusterduck **
+**Clusterduck**
 
 [*Clusterduck*](https://clusterduck.space) is a collective working at
 the crossroads of research, design and transmedia, focusing on social
@@ -14409,7 +14275,7 @@ interviews with Swedish philosophers on the Covid-19 pandemic. Aside
 from meme-culture, Åke is interested in metaethics, pragmatism and the
 philosophy of religion.
 
-**Idil Galip **
+**Idil Galip**
 
 İdil Galip is a writer, researcher and maker. Her work explores the
 intersections of digital culture and labour, especially with relation to
@@ -14418,8 +14284,7 @@ University of Edinburgh, finishing up her thesis titled *Art Worlds
 Online: Memes, Labour and Politics*. She is also the founder and
 convener of the Meme Studies Research Network. 
 
-**Martin Hanßen\
-**
+**Martin Hanßen**
 
 Martin Hanßen is an art and visual historian. He works as an art
 educator for the Berlin State Museums and teaches art history online.
@@ -14442,7 +14307,7 @@ Currently he is a graduate research student at the University of
 Melbourne, where his work examines theories of scale and abstraction in
 philosophy and media.
 
-**Max Horwich **
+**Max Horwich**
 
 Max Horwich is a musician, designer, teacher and creative technologist
 based in Brooklyn, NY. His work explores the intersections of new media
@@ -14481,7 +14346,7 @@ College London in 2021 for a thesis entitled *Meme-work: Psychoanalysis
 and the alt-right*. His research focuses on questions of psychoanalysis
 and masculinity.
 
-**Jacob Sujin Kuppermann **
+**Jacob Sujin Kuppermann**
 
 Jacob Sujin Kuppermann is an interdisciplinary researcher and writer
 currently living in the San Francisco Bay Area. Their work focuses on
@@ -14576,11 +14441,11 @@ German-American origin, based in Philadephia and London. As artists,
 comedians and academics, they are interested in the radical potential of
 lols and using them to jinx the constraints of consensus reality.
 
-**Marc Tuters **
+**Marc Tuters**
 
 X
 
-**Sabrina Ward-Kimola **
+**Sabrina Ward-Kimola**
 
 Sabrina Ward-Kimola is a Research Associate with the Infoscape Lab. She
 is currently a student at Ryerson/York’s joint program in Communication
@@ -14592,7 +14457,7 @@ North America. Her more general research interests include critical
 theory, post-hermeneutics, virtual embodiment and platform
 infrastructures.
 
-**Scott Wark **
+**Scott Wark**
 
 Scott Wark is a Research Fellow for the Wellcome-funded project, People
 Like You: Contemporary Figures of Personalisation. He is based at the
@@ -14617,11 +14482,11 @@ server. 
 To learn more and join the network,
 visit [*http://memestudiesrn.wordpress.com*](http://memestudiesrn.wordpress.com) 
 
-Follow us on
+Follow the MSRN on
 Twitter [*http://twitter.com/MemeStudiesRN*](http://twitter.com/MemeStudiesRN) 
 
-E-mail us
+E-mail the MSRN
 at [*memestudiesrn@gmail.com*](mailto:memestudiesrn@gmail.com) 
 
-![](media/image1.png){width="6.3in" height="4.725in"}
+![](imgs/30.1)
 

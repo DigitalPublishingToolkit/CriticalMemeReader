@@ -78,8 +78,8 @@ downloaded a random meme-making app and, because I didn’t want to flood
 my private Instagram stories with countless memes, I spontaneously
 created a meme account: @ibiza\_austrian\_memes.
 
-![Fig. 1. One of my first memes posted on @ibiza\_austrian\_memes in the first couple of days following the Ibiza-scandal. It depicts former vice
-chancellor and FPÖ leader Heinz-Christian Strache and former FPÖ politician Johann Gudenus, who were both filmed on Ibiza. Both are smiling and giving a thumbs up. The text reads, ‘When people have 12-hour shifts because of you but you are unemployed’, referring to the loosening of labor laws and introduction of a 12-hour workday by the ÖVP-FPÖ government in 2018.[^14chapter12_1]](imgs/12.1.jpeg)
+![Fig. 1: One of my first memes posted on @ibiza\_austrian\_memes in the first couple of days following the Ibiza-scandal. It depicts former vice
+chancellor and FPÖ leader Heinz-Christian Strache and former FPÖ politician Johann Gudenus, who were both filmed on Ibiza. Both are smiling and giving a thumbs up. The text reads, ‘When people have 12-hour shifts because of you but you are unemployed’, referring to the loosening of labor laws and introduction of a 12-hour workday by the ÖVP-FPÖ government in 2018.[^14chapter12_1]](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/12.1.jpeg)
 
 <br/>
 
@@ -165,7 +165,7 @@ political actors. SpongeBob’s expression is also funny: He looks
 confused, lost and even a little desperate. The meme thus also belittles
 Sebastian Kurz, his actions and political rhetoric by ridiculing it.
 
-![Fig. 2. A meme depicting cartoon character SpongeBob Squarepants. It criticizes chancellor Sebastian Kurz’ use of the term ‘Judeo-Christian’. The meme was made and posted by me on the Instagram page @ibiza\_austrian\_memes.](imgs/12.2.jpeg)
+![Fig. 2: A meme depicting cartoon character SpongeBob Squarepants. It criticizes chancellor Sebastian Kurz’ use of the term ‘Judeo-Christian’. The meme was made and posted by me on the Instagram page @ibiza\_austrian\_memes.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/12.2.jpeg)
 
 <br/>
 
@@ -265,7 +265,7 @@ below humorously addresses a painful truth for many people of color, who
 know what it feels like to be racially profiled and unrightfully
 suspected of being up to something dangerous.
 
-![Fig. 3. Posted by @migraobservations on Instagram. The meme consists of stock photos showing a person who is protecting their purse and making dramatic faces and gestures that can be read as ‘stop’ or ‘leave my purse alone’. The text reads: ‘How I’m holding my bag when Almans sit down or walk next to me, in the hope of inciting a reflection of their racism through my ingenious experiment’.](imgs/12.3.jpeg)
+![Fig. 3: Posted by @migraobservations on Instagram. The meme consists of stock photos showing a person who is protecting their purse and making dramatic faces and gestures that can be read as ‘stop’ or ‘leave my purse alone’. The text reads: ‘How I’m holding my bag when Almans sit down or walk next to me, in the hope of inciting a reflection of their racism through my ingenious experiment’.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/12.3.jpeg)
 
 <br/>
 
@@ -294,7 +294,7 @@ medium not typically taken too seriously—it questions the expertise and
 legitimacy of those who are commonly given a platform in political talk
 shows on German TV.
 
-![Fig. 4. A meme by @kanaxanax on Instagram. It depicts a cartoon character turtle from the movie *Kung Fu Panda*, saying ‘My time has come’ while gazing into the distance. The added text reads: ‘German talk shows when they finally find an opportunity to discuss political and radical Islam with 5 white men and 1 German Islam scholar again.’](imgs/12.4.jpeg)
+![Fig. 4: A meme by @kanaxanax on Instagram. It depicts a cartoon character turtle from the movie *Kung Fu Panda*, saying ‘My time has come’ while gazing into the distance. The added text reads: ‘German talk shows when they finally find an opportunity to discuss political and radical Islam with 5 white men and 1 German Islam scholar again.’](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/12.4.jpeg)
 
 <br/>
 
@@ -322,8 +322,8 @@ and its media coverage as very emotionally draining, which is why I
 decided to bring fun into it by ridiculing the minister’s anti-Muslim
 rhetoric with a meme.
 
-![Fig. 5. A meme I made and posted as @ibiza\_austrian\_memes on Instagram. The top depicts part of a newspaper article about Susanne Raab, Austrian Federal Minister for Women and Integration, who according to the screenshot warned against a ‘fertile ground for violence’ due to some people ‘only going to Turkish supermarkets and the mosque.’ Below is an image of pop culture figure Baby Yoda, a cute and innocent-looking baby alien. The alien is holding a Turkish pastry called Simit, that was edited into the original image. Baby Yoda is described as ‘My Simit and
-I’. He says, ‘Hi Susi, I won’t hurt you if you don’t hurt me please thanks byyyeee’.](imgs/12.5.jpeg)
+![Fig. 5: A meme I made and posted as @ibiza\_austrian\_memes on Instagram. The top depicts part of a newspaper article about Susanne Raab, Austrian Federal Minister for Women and Integration, who according to the screenshot warned against a ‘fertile ground for violence’ due to some people ‘only going to Turkish supermarkets and the mosque.’ Below is an image of pop culture figure Baby Yoda, a cute and innocent-looking baby alien. The alien is holding a Turkish pastry called Simit, that was edited into the original image. Baby Yoda is described as ‘My Simit and
+I’. He says, ‘Hi Susi, I won’t hurt you if you don’t hurt me please thanks byyyeee’.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/12.5.jpeg)
 
 <br/>
 

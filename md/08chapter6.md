@@ -69,7 +69,7 @@ consequences. In effect, so is their dealing with it. The sticker comes
 from the same place that yields uneasiness—the screen—except it lets us
 reconcile it.
 
-![Fig. 1 Curfew, no curfew. Digital animated sticker. Received on WhatsApp. February 21, 2021.](imgs/6.1.jpg)
+![Fig. 1: Curfew, no curfew. Digital animated sticker. Received on WhatsApp. February 21, 2021.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/6.1.jpg)
 
 <br/>
 
@@ -120,7 +120,7 @@ and a symbolic figure dearly nicknamed the hummingbird of the Gulf—with
 a photoshopped mask asking ‘ملكي ولا استيديو؟’ (‘King suite or
 studio?’).
 
-![Fig. 2 King suite or studio? Digital image. Received on WhatsApp. February 25, 2020.](imgs/6.2.jpg)
+![Fig. 2: King suite or studio? Digital image. Received on WhatsApp. February 25, 2020.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/6.2.jpg)
 
 <br/>
 
@@ -145,7 +145,7 @@ and that its citizens ought to see it that way. Beyond the nationalist
 rhetoric, Dr. Mona isn’t wrong: if your quarantine facility is a resort,
 *something* must be working in your favor.
 
-![Fig 3. The salad doesn't have dressing. Digital sticker. Received on WhatsApp. March 5, 2021.](imgs/6.3.jpg)
+![Fig 3: The salad doesn't have dressing. Digital sticker. Received on WhatsApp. March 5, 2021.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/6.3.jpg)
 
 <br/>
 
@@ -258,11 +258,11 @@ The jokes aren’t funny, but to address them as unfunny would be to
 address a message that is far from the message that this meme carries.
 When it comes to memes, the joke is the point.
 
-![Fig. 4 Saltbae meme with Iran, Coronavirus, and Kuwait. Digital image. Received on WhatsApp. Feb 27, 2020](imgs/6.4.jpg)
+![Fig. 4: Saltbae meme with Iran, Coronavirus, and Kuwait. Digital image. Received on WhatsApp. Feb 27, 2020](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/6.4.jpg)
 
 <br/>
 
-![Fig. 5 This time it really is Iran's fault. Digital sticker. Received on WhatsApp. March 5, 2021](imgs/6.5.jpg)
+![Fig. 5: This time it really is Iran's fault. Digital sticker. Received on WhatsApp. March 5, 2021](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/6.5.jpg)
 
 <br/>
 

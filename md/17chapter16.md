@@ -70,7 +70,7 @@ equally ambivalent conclusion of this essay.
 
 ## Moving Up
 
-![Fig. 0 - Source: https://en.wikipedia.org/wiki/Distracted_boyfriend](imgs/16.1.jpeg)
+![Fig. 0: Source: <https://en.wikipedia.org/wiki/Distracted_boyfriend>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/16.1.jpeg)
 
 <br/>
 
@@ -92,7 +92,7 @@ objects in reality. Figure 1 is simply representing the relation between
 the youth, socialism, and capitalism by means of the relations between
 the people in Figure 0.
 
-![Fig. 1 - Source: https://en.meming.world/wiki/Distracted_Boyf](imgs/16.2.jpeg)
+![Fig. 1: Source: <https://en.meming.world/wiki/Distracted_Boyf>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/16.2.jpeg)
 
 <br/>
 
@@ -106,7 +106,7 @@ contingent and dependent on personal taste that they do not lend
 themselves to rigorous philosophical
 analysis.
 
-![Fig. 2 - Source: https://knowyourmeme.com/photos/1287554-](imgs/16.3.jpeg)
+![Fig. 2: Source: <https://knowyourmeme.com/photos/1287554->](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/16.3.jpeg)
 
 <br/>
 
@@ -127,7 +127,7 @@ a meme M *within* itself would instantaneously move M up one order in
 the hierarchy. But then, the meme we are representing is obviously no
 longer M.
 
-![Fig. 2.1 - Source: https://knowyourmeme.com/photos/1287554-](imgs/16.4.jpeg)
+![Fig. 2.1: Source: <https://knowyourmeme.com/photos/1287554-?>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/16.4.jpeg)
 
 <br/>
 
@@ -153,7 +153,7 @@ formulates the necessary structure of language from within that very
 structure. Hence his treatise concludes: *Whereof one cannot speak,
 thereof one must be silent*.
 
-![Fig. 2.2 - Source: Set Theory Memes for Logically Equivalent Teens](imgs/16.5.jpeg)
+![Fig. 2.2: Source: Set Theory Memes for Logically Equivalent Teens](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/16.5.jpeg)
 
 <br/>
 
@@ -185,7 +185,7 @@ Level 3 meme must finalize the upward movement in its paradigm: when one
 has reached it, one must – paraphrasing proposition 6.54 of the
 *Tractatus – throw away the ladder one used to climb it*.
 
-![Fig. 3 - Source: https://emaaneastwood.blogspot.com/2019/11/meme-template-distracted-boyfriend.html](16.6.jpeg)
+![Fig. 3: Source: https://www.emaaneastwood.blogspot.com/2019/11/meme-template-distracted-boyfriend.html](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/16.6.jpeg)
 
 <br/>
 
@@ -267,13 +267,13 @@ basedness (see Figure 4 and Figure 5). But this will, as before, result
 in quietism, requiring us to throw away the ladder and move sideways
 into a new paradigm. And so memeological history will continue.
 
-![Fig. 4 – Source: eSCATological posting (a Facebook group that has now been zucced)](imgs/16.7.jpeg)
+![Fig. 4: Source: eSCATological posting, a Facebook group that has now been zucced](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/16.7.jpeg)
 
 <br/>
 
 ## Moving Beyond?
 
-![Fig. 5 - Source: https://youtu.be/VSkPkSYFQ3U](imgs/16.8.jpeg)
+![Fig. 5: Source: <https://youtu.be/VSkPkSYFQ3U>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/16.8.jpeg)
 
 <br/>
 
@@ -351,7 +351,7 @@ itself memetic, an attempt at radical ironizing beyond all dimensions.
 With these considerations in mind, I conclude that it is much easier to
 imagine the end of the world than the end of meme-culture.[^17chapter16_7]
 
-## References\
+## References
 
 Bauman, Zygmunt. *Postmodernity and Its Discontents*. New York, New York
 University Press, 1997.

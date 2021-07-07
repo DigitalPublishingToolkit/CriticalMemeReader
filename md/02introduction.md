@@ -63,11 +63,11 @@ imperceptibly changed after the arrival of the Messiah. Yet through it,
 *everything* becomes different, and therein lies its revolutionary
 thrust.
 
-![Fig. 1 https://giphy.com/gifs/pipe-einstein-s5z4Oy4xrezm0](imgs/0.1.jpeg)
+![Fig. 1: <https://giphy.com/gifs/pipe-einstein-s5z4Oy4xrezm0>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/0.1.jpeg)
 
 <br/>
 
-![Fig. 2chttps://tenor.com/view/truck-crash-gif-10492368](imgs/0.2.jpeg)
+![Fig. 2: <chttps://tenor.com/view/truck-crash-gif-10492368>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/0.2.jpeg)
 
 <br/>
 
@@ -154,7 +154,7 @@ with postmodernity, and of a generalized informational obesity whose
 gravitational pull bends reality to whatever ‘program’, in the multiple
 senses of that term.
 
-![Fig. 3 https://tenor.com/view/nyan-cat-gif-5716621](imgs/0.3.jpeg)
+![Fig. 3: <https://tenor.com/view/nyan-cat-gif-5716621>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/0.3.jpeg)
 
 <br/>
 
@@ -235,7 +235,7 @@ prototypical instance of ‘influence’ as a tactical acting at a distance,
 changing the psycho-physical makeup of the agents it targets. Acting at
 a distance: isn’t that the very definition of media?
 
-![Fig. 4](imgs/0.4.jpeg)
+![Fig. 4](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/0.4.jpeg)
 
 <br/>
 

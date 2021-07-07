@@ -17,9 +17,9 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Your Feed is a Battleground: A Field Report on Memetic Warfare in Turkey\
-\
-Sarp Özer
+# **Your Feed is a Battleground: A Field Report on Memetic Warfare in Turkey**
+
+###Sarp Özer
 
 As a child, I lived with my mother's younger brother who was a fan of
 rock music thanks to Metallica’s popularity in the late 1980s. Even
@@ -34,12 +34,9 @@ the horns and peace gestures. At that time, I was not able to decipher
 these enigmatic salutations, but it seemed to work like a charm to
 indicate that one was cool.
 
-![Afbeelding met persoon Automatisch gegenereerde
-beschrijving](media/image1.jpg){width="3.18163167104112in"
-height="4.727566710411199in"}
+![Fig. 1. Author’s childhood portrait while flashing the peace gesture. Date unknown.](imgs/20.1.jpg)
 
-Fig. 1. Author’s childhood portrait while flashing the peace gesture.
-Date unknown.
+<br/>
 
 To execute the horns gesture, one should have the pinky and index
 fingers pointing upwards while the middle and ring fingers should be
@@ -121,9 +118,7 @@ After ruling Turkey for twenty years with an iron gauntlet, the
 president of Turkey, Recep Tayyip Erdoğan’s internet search results are
 flooded with content portraying him as a corrupt, racist, and
 authoritarian politician. Opinion polling for the 2023 Turkish general
-election indicates that Erdoğan’s popularity has taken a dive.
-
-[^21chapter20_1] The discontent is especially observable among internet-savvy
+election indicates that Erdoğan’s popularity has taken a dive.[^21chapter20_1] The discontent is especially observable among internet-savvy
 younger generations.[^21chapter20_2] Since their consent is impossible to forcefully
 obtain, it needs to be engineered. Rather than making a genuine effort
 to earn approval, Erdoğan’s propaganda team started to invest in a
@@ -145,17 +140,10 @@ behind this that hurts AKP supporters by suggesting there is an absence
 of subjectivity amongst those who do as Erdoğan bids—akin to zombie
 armies.
 
-![Afbeelding met tekst, persoon Automatisch gegenereerde
-beschrijving](media/image2.jpg){width="2.55in"
-height="3.6083333333333334in"}
+![Fig. 2. A meme example mocking the style of AKP propaganda posters featuring the Night King, the supreme leader of White Walkers from the Game of Thrones series. Translates as: ‘Redemption and Ascension with kind support of the president we are resurrecting the Ottoman.’ Meme archived from Uludağ Sözlük. Posted by ‘theoutsider’ under the subsection ‘akgezenler vs the akp secmeni’ on 27.08.2017. Image
+available at: <ahttps://www.uludagsozluk.com/k/ak-gezenler-vs-akp-se%C3%A7meni/>](imgs/20.2.jpg)
 
-Fig. 2. A meme example mocking the style of AKP propaganda posters
-featuring the Night King, the supreme leader of White Walkers from the
-Game of Thrones series. Translates as: ‘Redemption and Ascension with
-kind support of the president we are resurrecting the Ottoman.’ Meme
-archived from Uludağ Sözlük. Posted by ‘theoutsider’ under the
-subsection ‘akgezenler vs the akp secmeni’ on 27.08.2017. Image
-available at: <a href="https://www.uludagsozluk.com/k/ak-gezenler-vs-akp-se%C3%A7meni/">https://www.uludagsozluk.com/k/ak-gezenler-vs-akp-seçmeni/</a>
+<br/> 
 
 Ak as a prefix has not only spawned the AK Troll term. It is in such
 widespread use in daily life that it has become a memetic pattern
@@ -295,14 +283,9 @@ guards: similarly, Erdoğan descends from the principal stairs of his
 palace to receive his guest surrounded by guardsmen in warrior
 costumes.[^21chapter20_10]
 
-![Afbeelding met tekst Automatisch gegenereerde
-beschrijving](media/image3.jpg){width="2.187389545056868in"
-height="2.8483278652668416in"}
+![Fig. 3. Guarded by Pokémon, Erdoğan shakes hands with Professor Oak in Aksaray. Author unknown. Posted on Twitter under the username: Çapul-Şen @kivanceliacik Date: 12.01.2015 Image available at: <https://www.diken.com.tr/erdoganin-askerleri-caps-oldu-yagdi-game-thronestan-age-empiresa-sey-var/>](imgs/20.3.jpg)
 
-Fig. 3. Guarded by Pokémon, Erdoğan shakes hands with Professor Oak in
-Aksaray. Author unknown. Posted on Twitter under the username: Çapul-Şen
-@kivanceliacik Date: 12.01.2015 Image available at:
-<a href="https://www.diken.com.tr/erdoganin-askerleri-caps-oldu-yagdi-game-thronestan-age-empiresa-sey-var/">https://www.diken.com.tr/erdoganin-askerleri-caps-oldu-yagdi-game-thronestan-age-empiresa-sey-var/</a>
+<br/>
 
 Because it fell short of the production standards of a space opera, this
 villainesque appearance had not gone the way it was expected. Apart from
@@ -336,14 +319,9 @@ incompetent dummy minister or a nitwit caused so much humiliation that
 it resulted in his resignation. Under heavy fire, Erdoğan could not
 insist on keeping the weakest link in his position anymore.[^21chapter20_13]
 
-![Afbeelding met gras, persoon, buiten, mensen Automatisch gegenereerde
-beschrijving](media/image4.jpg){width="4.261089238845145in"
-height="3.841506999125109in"}
+![Fig. 4. Meme showing Minister Berat Albayrak smiling by the tombstone of Turkish Economy. Author unknown. Posted on Twitter by the username: Dünyalı @obirdunyali Date: 17.08.2020 Image available at: <https://twitter.com/obirdunyali/status/1295298492555042816?s=20>](imgs/20.4.jpg)
 
-Fig. 4. Meme showing Minister Berat Albayrak smiling by the tombstone of
-Turkish Economy. Author unknown. Posted on Twitter by the username:
-Dünyalı @obirdunyali Date: 17.08.2020 Image available at:
-<a href="https://twitter.com/obirdunyali/status/1295298492555042816?s=20">https://twitter.com/obirdunyali/status/1295298492555042816?s=20</a>
+<br/>
 
 To keep this fragile political image intact, the primary strategy in
 effect is to dominate the traditional channels and moderate social media
@@ -461,7 +439,7 @@ humorous political memes to address people who already agree with us is
 self-propaganda at its best. But in war, a meme only becomes a meme when
 it hits the mind of people that disagree.
 
-## References:
+## References
 
 140Journos. “Devletin Yeni Rengi: Turkuaz.” *140Journos*, January 20,
 2017. <a href="https://140journos.com/devletin-yeni-rengi-turkuaz-18d377f88407">https://140journos.com/devletin-yeni-rengi-turkuaz-18d377f88407</a>.

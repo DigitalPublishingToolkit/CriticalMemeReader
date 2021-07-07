@@ -139,7 +139,7 @@ addition to the spectral algorithm of the ‘For You’ page. It is because
 of these predetermined streams of mimetic output that Zulli & Zulli
 describe TikTok as a mimetic text, in and of itself.
 
-![Fig. 1: Stills of pop musician Rosé performing the infamous WAP choreography. KpopPostEditor, Cardi B Reacts to BLACKPINK Rosé WAP Dance Challenge on TikTok, 2021, video stills, KpopPost, https://www.kpoppost.com/blackpink-rose-wap-dance-challenge-tiktok-cardi-b/](imgs/3.1)
+![Fig. 1: Stills of pop musician Rosé performing the infamous WAP choreography. KpopPostEditor, Cardi B Reacts to BLACKPINK Rosé WAP Dance Challenge on TikTok, 2021, video stills, KpopPost, <https://www.kpoppost.com/blackpink-rose-wap-dance-challenge-tiktok-cardi-b/>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/3.1.jpeg)
 
 <br/>
 
@@ -289,7 +289,7 @@ speak of an imitation public through the optical lens is to speak of the
 virtualized body as a means to a massively-scalable end in the interests
 of more and more content.
 
-![Fig. 2. The front cover of Thomas Hobbes’s The Leviathan. Wenceslas Hollar or Abraham Bosse, Drawing of frontispiece of Leviathan, 1910, ink drawing on manuscript, 784 x 600 pixels, Wikimedia Commons, https://commons.wikimedia.org/wiki/File:Drawing_of_frontispiece_of_Leviathan.jpg](imgs/3.2)
+![Fig. 2: The front cover of Thomas Hobbes’s The Leviathan. Wenceslas Hollar or Abraham Bosse, Drawing of frontispiece of Leviathan, 1910, ink drawing on manuscript, 784 x 600 pixels, Wikimedia Commons, https://commons.wikimedia.org/wiki/File:Drawing_of_frontispiece_of_Leviathan.jpg](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/3.2.jpeg)
 
 <br/>
 

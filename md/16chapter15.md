@@ -88,7 +88,7 @@ way through our contemporary post-digital media situation.
 ## 2.
 
 ![Fig. 1: Disloyal Man with his Girlfriend Looking at Another Girl, also known as Distracted Boyfriend. Antonio Guillem, November 2, 2015. Digital image.
-Archived at Wikipedia. <a href="https://en.wikipedia.org/wiki/File:Disloyal%5C_man%5C_with%5C_his%5C_girlfriend%5C_looking%5C_at%5C_another%5C_girl.jpg">https://en.wikipedia.org/wiki/File:Disloyal\_man\_with\_his\_girlfriend\_looking\_at\_another\_girl.jpg</a>](imgs/15.2.jpeg)
+Archived at Wikipedia. <a href="https://en.wikipedia.org/wiki/File:Disloyal%5C_man%5C_with%5C_his%5C_girlfriend%5C_looking%5C_at%5C_another%5C_girl.jpg">https://en.wikipedia.org/wiki/File:Disloyal\_man\_with\_his\_girlfriend\_looking\_at\_another\_girl.jpg</a>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/15.2.jpeg)
 
 <br/>
 
@@ -244,7 +244,7 @@ perpetual obsolescence, new becoming old through bland repetition.
 
 ## 6.
 
-![Fig. 2: Distracted Angel of History. Digital Image. Originally seen on Twitter, late-2018. Archived at: Know Your Meme. <https://knowyourmeme.com/photos/1290289-distracted-boyfriend>](imgs/15.1.jpeg)
+![Fig. 2: Distracted Angel of History. Digital Image. Originally seen on Twitter, late-2018. Archived at: Know Your Meme. <https://knowyourmeme.com/photos/1290289-distracted-boyfriend>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/15.1.jpeg)
 
 Let’s try to draw all of these conceptual threads together by returning
 to my original conceit: ‘Distracted Boyfriend’ manifesting a
