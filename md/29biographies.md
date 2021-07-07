@@ -79,6 +79,10 @@ the DeSForM 2019 conference organized by the MIT Design Lab.
 
 Both Aarushi and Ajtesh are a part of the Critters' Collective.
 
+**Luther Blisset**
+
+Luther Blisset is the pseudonym of one of the most notorious meme researchers out there.
+
 **Grant Bolmer**
 
 Grant Bollmer is the author of three books, *Inhuman Networks: Social
@@ -315,10 +319,6 @@ The Trans Bears are two gender non-conforming people of American and
 German-American origin, based in Philadephia and London. As artists,
 comedians and academics, they are interested in the radical potential of
 lols and using them to jinx the constraints of consensus reality.
-
-**Marc Tuters**
-
-X
 
 **Sabrina Ward-Kimola**
 

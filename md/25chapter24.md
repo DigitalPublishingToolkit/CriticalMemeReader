@@ -17,11 +17,11 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Pepe the Frog Is Love and Peace! His Second Life in Hong Kong\
-\
-Caspar Chan\
+# Pepe the Frog Is Love and Peace! His Second Life in Hong Kong
 
-## Introduction\
+###Caspar Chan
+
+## Introduction
 
 In Hong Kong, starting in June 2019, a series of demonstrations and
 civil disobedience actions were launched, protesting the government’s
@@ -50,7 +50,7 @@ way, a meme does not only appoint one specific way of understanding, but
 allows its viewers to derive and create their own ways of comprehending
 the meme through continually identifying with the meme itself.
 
-## The Entextualizability and Appropriability of Memes\
+## The Entextualizability and Appropriability of Memes
 
 Memes have taken on a variety of roles in online spaces. For one, their
 jocular aspect has been manipulated by users to refer to or mimic other
@@ -75,14 +75,12 @@ another*.* By entextualization, Piia Varis and Jan Blommaert mean that a
 sign can be extracted from its original context and re-inserted into
 another ‘involving different participation frameworks’, which allow
 ‘different meaning outcomes.’[^25chapter24_6] Richard Bauman and Charles Briggs also
-express that entextualisation as a
-
-process ‘of making a stretch of our linguistic and/or
+express that entextualisation as a process ‘of making a stretch of our linguistic and/or
 semiotic…production into a unit - a text - that can be lifted out of its
 interactional setting’[^25chapter24_7] Content from social media have a high
 possibility to be entextualisable.[^25chapter24_8] Through numerous clicks of
 transmitting and copy and-pasting a meme, its formal features can
-eventually be levered from their original context.\
+eventually be levered from their original context.
 Now that a meme, being entextualised, floats from its original niche, it
 opens up the possibility to be perceived in a different way. Michele
 Knobel and Colin Lankshear rightly point out that while a meme is
@@ -109,7 +107,7 @@ the meme. In the case of a political movement where the situation is
 dynamic, such as that in Hong Kong, a continuous, negotiable
 identification can arise.
 
-## Left or Right? — The Political Case in Hong Kong\
+## Left or Right? — The Political Case in Hong Kong
 
 To understand how the meme can be laden with a different political
 charge in Hong Kong, it is useful to first look at the political context
@@ -176,11 +174,10 @@ one store could be boycotted and destroyed because it was not ‘yellow
 enough’, some protestors became more radical and extreme, criticising
 and alienating other fellow protestors.
 
-![](media/image1.png){width="5.875in" height="2.6666666666666665in"}
+![Fig. 1: A poster circulated on LIGHK, a popular Hong Kong forum, which illustrate the four categories as well s what to act accordingly. Screen
+captured from <https://lihkg.com/thread/1626988/page/1>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/24.1.jpeg)
 
-Figure 1: A poster circulated on LIGHK, a popular Hong Kong forum, which
-illustrate the four categories as well s what to act accordingly. Screen
-captured from <a href="https://lihkg.com/thread/1626988/page/1">https://lihkg.com/thread/1626988/page/1</a>.
+<br/>
 
 One could also attack another protestor as being a “’eftard (左膠), who
 sought a universal struggle and focused on non-violent ways to continue
@@ -210,8 +207,8 @@ a term which is used to refer to those protestors who fought directly
 against the police, and contains the idea that their violence is
 justified because the authorities first used violence against them. It
 is also because of this that, generally speaking, no Hong Kongers
-seethis movement as a leftist movement.\
-\
+seethis movement as a leftist movement.
+
 Amidst the pandemic, and after the imposition of the National Security
 Law on 1 July 2020, Hong Kongers now have other agendas in continuing
 the movement. They have also revised their strategies for counteracting
@@ -238,7 +235,7 @@ can be produced.[^25chapter24_11] Within difficult-to-define political backgroun
 Pepe the Frog, well-known as a symbol of hatred, can receive his second
 life in Hong Kong.
 
-## Pepe the ‘Hong Konger’ — A Symbol of Love, Sympathy and Trolling\
+## Pepe the ‘Hong Konger’ — A Symbol of Love, Sympathy and Trolling
 
 Being fans of Trump’s presidency and shit-stirring online campaigns, as
 well as the exaggeration and bragging of his anti-China stance, the Hong
@@ -277,52 +274,27 @@ Pepe is ubiquitous, as if Pepe had become a fellow Hong Konger, so
 special as a symbol of the movement, but also familiar: a consolation a
 Hong Konger can always count on.
 
-![](media/image2.png){width="4.263888888888889in"
-height="2.486111111111111in"}
+![Fig. 2: ‘Pepe the Press’ graffitied by the Hong Kong protestors. Screen captured from Daniel Victor, ‘Hong Kong Protesters Love Pepe the Frog. No, They’re Not Alt-Right,’ The New York Times, August 19, 2019, retrieved from <http://www.nytimes.com/2019/08/19/world/asia/hong-kong-protest-pepe-frog.html>.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/24.2.jpeg)
 
-Figure 2: ‘Pepe the Press’ graffitied by the Hong Kong protestors.
-Screen captured from Daniel Victor, ‘Hong Kong Protesters Love Pepe the
-Frog. No, They’re Not Alt-Right,’ The New York Times, August 19, 2019,
-retrieved from https://
-<a href="http://www.nytimes.com/2019/08/19/world/asia/hong-kong-protest-pepe-frog.html">www.nytimes.com/2019/08/19/world/asia/hong-kong-protest-pepe-frog.html</a>.
+<br/>
 
-![Afbeelding met tekst, buiten Automatisch gegenereerde
-beschrijving](media/image3.png){width="4.375in"
-height="2.4583333333333335in"}
+![Fig. 3: A flag showing a cheering Pepe. Photo from: © Getty Images. Anadolu Agency. Miguel Candela. Screen captured from Igor Ogorodnev,‘What the Uncanceling of Pepe the Frog – Just for HK Protests, Though – Tells Us about US Media,’ RT Question More, September 21, 2019, retrieved from
+<https://www.rt.com/op-ed/469318-pepe-frog-hong-king-media/>.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/24.3.jpeg)
 
-Figure 3: A flag showing a cheering Pepe. Photo from: © Getty Images /
-Anadolu Agency / Miguel Candela. Screen captured from Igor Ogorodnev,
-‘What the Uncanceling of Pepe the Frog – Just for HK Protests, Though –
-Tells Us about US Media,’ RT Question More, September 21, 2019,
-retrieved from
-<a href="https://www.rt.com/op-ed/469318-pepe-frog-hong-king-media/">https://www.rt.com/op-ed/469318-pepe-frog-hong-king-media/</a>.
+<br/>
 
-![Afbeelding met persoon, groep Automatisch gegenereerde
-beschrijving](media/image4.png){width="4.083333333333333in"
-height="2.736111111111111in"}
+![Fig. 4: A graffiti of Pepe wearing the protestor’s helmet, smiling and holding a fist with the words ‘Hong Kong Hang On!’ On the side. Photo from Billy H.C. Kwok / Getty Images.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/24.4.jpeg)
 
-Figure 4: A graffiti of Pepe wearing the protestor’s helmet, smiling and
-holding a fist with the words ‘Hong Kong Hang On!’ On the side. Photo
-from Billy H.C. Kwok / Getty Images.
+<br/>
 
-![Afbeelding met tekst, binnen, verschillend Automatisch gegenereerde
-beschrijving](media/image5.png){width="4.083333333333333in"
-height="2.2222222222222223in"}
+![Fig. 5: A chains of Pepe with different look, hands in hands. Screen captured from Denise Tsang (@denis\_tsang), ‘Love this Pepe-the-Frog chain at the Shum Shui Po Lennon Wall,’ Twitter, August 23, 2019,
+<ahttps://twitter.com/denise%5C_tsang/status/1164779085186211840?ref%5C_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1164779085186211840%7Ctwgr%5E%7Ctwcon%5Es1%5C_&amp;ref%5C_url=https%3A%2F%2Fstayhipp.com%2Fnews%2Fpepe-the-frog-as-a-symbol-for>.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/24.5.jpeg)
 
-Figure 5: A chains of Pepe with different look, hands in hands. Screen
-captured from Denise Tsang (@denis\_tsang), ‘Love this Pepe-the-Frog
-chain at the Shum Shui Po Lennon Wall,’ Twitter, August 23, 2019,
-<a href="https://twitter.com/denise%5C_tsang/status/1164779085186211840?ref%5C_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1164779085186211840%7Ctwgr%5E%7Ctwcon%5Es1%5C_&amp;ref%5C_url=https%3A%2F%2Fstayhipp.com%2Fnews%2Fpepe-the-frog-as-a-symbol-for">https://twitter.com/denise\_tsang/status/1164779085186211840?ref\_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1164779085186211840%7Ctwgr%5E%7Ctwcon%5Es1\_&ref\_url=https%3A%2F%2Fstayhipp.com%2Fnews%2Fpepe-the-frog-as-a-symbol-for</a>.
+<br/>
 
-![Afbeelding met persoon, sport Automatisch gegenereerde
-beschrijving](media/image6.png){width="4.027777777777778in"
-height="2.6944444444444446in"}
+![Fig. 6: Graffiti of Pepe found outside the Central Government complex, depicted with a board with the word ‘Hope’. Photo from Billy H.C. Kwok / Getty Images.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/24.6.jpeg)
 
-Figure 6: Graffiti of Pepe found outside the Central Government complex,
-depicted with a board with the word ‘Hope’. Photo from Billy H.C. Kwok /
-Getty Images
-
-.
+<br/>
 
 The Hong Kong protestors do not only use Pepe to personify their ideals:
 Pepe is also used to express frustration and anger towards the
@@ -358,31 +330,20 @@ inflicted upon the Hong Kongers as it is onto Pepe. It is at this point
 that Hong Kong’s Pepe is distinguished from his counterpart in the US,
 where the partisans of ‘Pepe the Loser’ passionately embrace his
 self-effacing, bizarre, loser’s ’values’, rationalising them as an
-attempt to alter their own ‘loser’ status.^17^
+attempt to alter their own ‘loser’ status.
 
-![](media/image7.png){width="3.361111111111111in"
-height="3.361111111111111in"}
+![Fig. 7: Pepe the Frog, LIHKG Pig and LIHKG Dog. Screen captured from Lamjj (@Lamjj5), ‘Pepe and his friends in  hong kong Twitter, August 21, 2019, <https://twitter.com/Lamjj5/status/1163972363643318272/photo/1>.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/24.7.jpeg)
 
-![Afbeelding met tekst, persoon, binnen Automatisch gegenereerde
-beschrijving](media/image8.png){width="3.1527777777777777in"
-height="4.208333333333333in"}
+<br/>
 
-Figure 8: Pepe, with a yellow helmet, depicted as a patient with an eye
-bleeding, with the words: Police Shot MY EYE. Give me back my eye!
-Screen captured from Alvin Lum (@alvinllun), ‘In Queen Mary Hospital,
-some medical staff showed support for one one lady who is shot blind on
-Sun,’ Twitter, August 13, 2019, <a href="https://twitter.com/alvinllum/status/">https://twitter.com/alvinllum/status/</a>
-1161161988547870720/photo/1.
+![Figure 8: Pepe, with a yellow helmet, depicted as a patient with an eye bleeding, with the words: Police Shot MY EYE. Give me back my eye! Screen captured from Alvin Lum (@alvinllun), ‘In Queen Mary Hospital, some medical staff showed support for one one lady who is shot blind on Sun,’ Twitter, August 13, 2019, <https://twitter.com/alvinllum/status/>.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/24.8.jpeg)
 
-![Afbeelding met tekst, persoon, buiten, mensen Automatisch gegenereerde
-beschrijving](media/image9.png){width="3.7083333333333335in"
-height="2.9305555555555554in"}
+<br/>
 
-Figure 9: A sobbing Pepe with the words “Don’t Beat Me”, seemingly a
-protest against police brutality. “2019 Hong Kong Anti-Extradition Bill
-Protests - "Don't Beat Me" Pepe the Frog sign,” Know Your Meme, 2020,
-retrieved from https://
-<a href="http://knowyourmeme.com/photos/1543273-2019-hong-kong-anti-extradition-bill-protests">knowyourmeme.com/photos/1543273-2019-hong-kong-anti-extradition-bill-protests</a>.
+![Fig. 9: A sobbing Pepe with the words “Don’t Beat Me”, seemingly a protest against police brutality. “2019 Hong Kong Anti-Extradition Bill Protests - "Don't Beat Me" Pepe the Frog sign,” Know Your Meme, 2020,
+ etrieved from <http://knowyourmeme.com/photos/1543273-2019-hong-kong-anti-extradition-bill-protests>.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/24.9.jpeg)
+ 
+<br/>
 
 In addition, Pepe the Frog has also gone viral among Hong Kong netizens,
 further spreading the ideas of the political movement to internet users.
@@ -399,24 +360,16 @@ has become politicized and functions as a protesting strategy in Hong
 Kong, just in a very different way to its political deployments in the
 USA.
 
-![Afbeelding met diverse, verschillend, verschillende Automatisch
-gegenereerde
-beschrijving](media/image10.png){width="6.819444444444445in"
-height="1.5555555555555556in"}
+![Fig. 10: A Pepe sticker pack as a troll to the government and police, including one, the third one from the left on the bottom row, depicting the chief executive of Hong Kong, Ms Carrie Lam, “Polite Pepe,”
+WhatSticker, <https://whatsticker.online/p/18668317p5Lmt/HK/zh>.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/24.10.jpeg)
 
-Figure 10: A Pepe sticker pack as a troll to the government and police,
-including one, the third one from the left on the bottom row, depicting
-the chief executive of Hong Kong, Ms Carrie Lam, “Polite Pepe,”
-WhatSticker, <a href="https://whatsticker.online/p/18668317p5Lmt/HK/zh">https://whatsticker.online/p/18668317p5Lmt/HK/zh</a>.
+<br/>
 
-![](media/image11.png){width="6.402777777777778in" height="6.25in"}
+![Fig. 11: One of the many sticker packs depicting Pepe as the Hong Kong protestors and Pepe as the Hong Kong police. “Fighting Pepe,” Stickers.clould, retrieved from <https://stickers.cloud/pack/fighting-pepe>.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/24.11.jpeg)
 
-Figure 11: One of the many sticker packs depicting Pepe as the Hong Kong
-protestors and Pepe as the Hong Kong police. “Fighting Pepe,”
-Stickers.clould, retrieved from
-<a href="https://stickers.cloud/pack/fighting-pepe">https://stickers.cloud/pack/fighting-pepe</a>.
+<br/>
 
-## The Becoming of ‘Pepe the Omnipotent’\
+## The Becoming of ‘Pepe the Omnipotent’
 
 Pepe the Frog, escaping from its detestable character in the US, has
 become an adorable figure, a mascot in the political movement in Hong
@@ -500,12 +453,9 @@ with Pepe, the Hong Kongers can then appropriate the meme to their
 advantage and make Pepe their own possession, devising and weaponizing
 different Pepes in different arenas.
 
-![](media/image12.png){width="6.263888888888889in"
-height="4.055555555555555in"}
+![Fig. 12: How Pepe is eventually entextualized from its original context to be appropriated by the Hong Kongers in a new context through recurrent identification.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/24.12.jpeg)
 
-Figure 12: How Pepe is eventually entextualized from its original
-context to be appropriated by the Hong Kongers in a new context through
-recurrent identification
+<br/>
 
 The way Pepe has gained his second life in Hong Kongshows that one can
 identify a meme through relating to one’s own referential background,
@@ -526,8 +476,7 @@ affirmative.
 
 Australian Broadcasting Corporation. “Pepe Cartoonist Kills off
 Character That Became Hate symbol.” *Australian Broadcasting
-Corporation*, May 9, 2017. <a href="http://www.abc.net.au/news/2017-05-09/">http://www.abc.net.au/news/2017-05-09/</a>
-pepe-cartoonist -kills-off-character-that-became-hate-symbol/8509280.
+Corporation*, May 9, 2017. <http://www.abc.net.au/news/2017-05-09/>.
 
 Bauman, Richard, and Charles L. Briggs. “Poetics and Performance As
 Critical Perspectives on Language and Social Life.” *Annual Review of
@@ -538,13 +487,11 @@ Press, 1976.
 
 Beran, Dale. “4chan: The Skeleton Key to the Rise of Trump.” *Medium*,
 February 14, 2017.
-<a href="https://medium.com/@DaleBeran/4chan-the-skeleton-key-to-the-rise">https://medium.com/@DaleBeran/4chan-the-skeleton-key-to-the-rise</a>
-of-trump-624e7cb798cb.
+<https://medium.com/@DaleBeran/4chan-the-skeleton-key-to-the-rise>.
 
 Echevarria, Gina. “How This Frog Meme Became a Symbol of Hope and Hate.”
 *Insider,* October 8, 2020.
-<a href="https://www.businessinsider.com/pepe-frog-meme-hate-symbol-hope">https://www.businessinsider.com/pepe-frog-meme-hate-symbol-hope</a>
-hong-kong-protesters-2019-10?r=DE&IR=T.
+<https://www.businessinsider.com/pepe-frog-meme-hate-symbol-hope>.
 
 Galinsky, Adam D., et al. "The Reappropriation of Stigmatizing Labels:
 Implications for Social Identity." In *Identity Issues in Groups*, 221 -
@@ -562,17 +509,14 @@ Knobel, Michele, and Colin Lankshear. “Online Memes, Affinities, and
 Cultural Production.” *A New Literacies Sampler* 29 (2007): 199-227.
 
 KnowYourMeme. “2019 Hong Kong Anti-Extradition Bill Protests - "Don't
-Beat Me" Pepe the Frog sign.” 2020. <a href="https://knowyourmeme.com/photos/">https://knowyourmeme.com/photos/</a>
-1543273-2019-hong-kong-anti-extradition-bill-protests.
+Beat Me" Pepe the Frog sign.” 2020. <https://knowyourmeme.com/photos/1543273-2019-hong-kong-anti-extradition-bill-protests>.
 
 Know Your Meme. “Pepe the Frog - Pepe Timeline.”2015. https://
 knowyourmeme. com/photos/942029-pepe-the-frog.
 
 Ko, Christina. “How Pepe the Frog Became Face of Hong Kong Protests –
 Despite Cartoon Being a Symbol of Hate in US.” *South China Morning
-Post,* August 17, 2019. https://
-<a href="http://www.scmp.com/lifestyle/arts-culture/article/3023060/how-pepe-frog-became-face">www.scmp.com/lifestyle/arts-culture/article/3023060/how-pepe-frog-became-face</a>
-hong-kong-protests-despite-cartoon.
+Post,* August 17, 2019. <https://www.scmp.com/lifestyle/arts-culture/article/3023060/how-pepe-frog-became-face-hong-kong-protests-despite-cartoon>.
 
 Kuipers, Giselinde. “‘Where Was King Kong When We Needed Him?’ Public
 Discourse, Digital Disaster Jokes, and the Functions of Laughter After
@@ -612,8 +556,7 @@ alvinllum/status/1161161988547870720/photo/1.
 
 Naam Ngon Geoi Sii \[南岸居⼠\]. “‘Zhongli’ De Yuanzui「中⽴」的原罪.
 \[The Sin of Neutrality\].” *Standnews,* February 29, 2020.
-<a href="https://www.thestandnews.com/politics/">https://www.thestandnews.com/politics/</a>
-%E4%B8%AD%E7%AB%8B-%E7%9A%84%E5%8E%9 F%E7%BD%AA/.
+<https://www.thestandnews.com/politics/%E4%B8%AD%E7%AB%8B-%E7%9A%84%E5%8E%9 F%E7%BD%AA/>.
 
 Ogorodnev, Igor. “What the Uncanceling of Pepe the Frog – Just for HK
 Protests, Though – Tells Us about US Media.” *RT Question More,*
@@ -632,11 +575,7 @@ Context & Media* 14 (2016): 28– 39.
 
 Tsang, Denise (@denis\_tsang). “Love this Pepe-the-Frog chain at the
 Shum Shui Po Lennon Wall.” Twitter, August 23, 2019.
-<a href="https://twitter.com/denise%5C_tsang/status/">https://twitter.com/denise\_tsang/status/</a>
-1164779085186211840?ref\_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctw
-term%5E1164779085186211840%7Ctwgr%5E%7Ctwcon%5Es1\_&ref\_url=https%3A
-%2F%2Fstayhipp.com%2Fnews%2Fpepe-the-frog-as-a-symbol-for-hong-kong
-protestors %2F.
+<https://twitter.com/denise\_tsang/status/116477908518621184?ref\_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1164779085186211840%7Ctwgr%5E%7Ctwcon%5Es1\_&ref\_url=htps%3A%2F%2Fstayhipp.com%2Fnews%2Fpepe-the-frog-as-a-symbol-for-hong-kong-protestors%2F>.
 
 Varis, Piia, and Jan Blommaert. “Conviviality and Collectives on Social
 Media: Virality, Memes, and New Social Structures.” *Multilingual
@@ -653,7 +592,7 @@ Not Alt-Right.” *The New York Times,* August 19, 2019.
 2019/08/19/world/asia/hong-kong-protest-pepe-frog.html.
 
 WhatSticker. “Polite Pepe.”
-<a href="https://whatsticker.online/p/18668317p5Lmt/HK/">https://whatsticker.online/p/18668317p5Lmt/HK/</a> zh.
+<https://whatsticker.online/p/18668317p5Lmt/HK/zh>.
 
 [^25chapter24_1]: Laura Glitsos and James Hall, “The Pepe the Frog Meme: An
     Examination of Social, Political, and Cultural Implications Through

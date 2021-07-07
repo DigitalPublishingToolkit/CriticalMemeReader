@@ -17,18 +17,13 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# The Contagious Other: Virality and Anxiety in Congolese Memes\
-\
-Lesley Nicole Braun
+# The Contagious Other: Virality and Anxiety in Congolese Memes
 
-![Afbeelding met persoon, person, binnen Automatisch gegenereerde
-beschrijving](media/image1.png){width="1.707182852143482in"
-height="2.044199475065617in"}
+###Lesley Nicole Braun
 
-Figure 1 caption translation: Have you protected yourself? The wearing
-of dirty bills on one’s face resonates with current global mask
-mandates, as expressed in the caption's call to 'protect yourself.'[^28chapter27_1]
-[]{#_heading=h.30yem6yaiht8 .anchor}
+![Fig. 1: Caption translation: Have you protected yourself? The wearing of dirty bills on one’s face resonates with current global mask mandates, as expressed in the caption's call to 'protect yourself.'[^28chapter27_1]](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/27.1.jpeg)
+
+<br/>
 
 Two banknotes cover the mouth and eyes of a Congolese young man who is
 seated in front of a religious poster made in China. His shirt is
@@ -95,19 +90,12 @@ affirmations as spiritual cosmologies. These memes, carried anonymously
 by internet infrastructures, are another connection between the
 individual and the collective, and between the DRC and the world.
 
-![Afbeelding met tekst, persoon, krant, schermafbeelding Automatisch
-gegenereerde
-beschrijving](media/image2.png){width="2.0708333333333333in"
-height="2.448611111111111in"}
+![Fig. 2: Caption translation: When you’re left with only 50f to send 50 texts and Airtel asks you if you want to make a donation of 50f to the government for the fight against covid-19. The specific “when you’re…”
+opening text and the two-panel image follow familiar meme structures. Meanwhile, one needs to think twice before deciding if this is a meme, an ad or a PSA. Meme courtesy of Socier officiel (Instagram)](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/27.2.jpeg)
 
-Figure 2 caption translation: When you’re left with only 50f to send 50
-texts and Airtel asks you if you want to make a donation of 50f to the
-government for the fight against covid-19. The specific “when you’re…”
-opening text and the two-panel image follow familiar meme structures.
-Meanwhile, one needs to think twice before deciding if this is a meme,
-an ad or a PSA. Meme courtesy of Socier officiel (Instagram)
+<br/>
 
-## Digital Divide and Control\
+## Digital Divide and Control
 
 The West Africa Cable System (WACS) is a submarine fibre-optic cable
 that provides bandwidth to much of Africa. Implemented in 2012, the DRC
@@ -172,7 +160,7 @@ circulating in abstract and proprietary spaces. Moreover, in becoming a
 generative medium through which to discuss politics, they reshape lives
 and in turn form a continuous productive-consumptive loop.
 
-## The Appeal of Memes\
+## The Appeal of Memes
 
 As a mechanism of critique, subversive memes hold fascination both in
 their content as well as for the suspenseful thrill of following the
@@ -191,13 +179,9 @@ created and circulated online, it could not lead the authorities to hold
 any individual accountable. Still, simply viewing it or having it on a
 phone can give one a thrill of being a transgressive dissident.
 
-![Afbeelding met kleding, persoon, poseren, wapenrusting Automatisch
-gegenereerde
-beschrijving](media/image3.png){width="1.5972222222222223in"
-height="2.1534722222222222in"}
+![Fig. 3: Caption translation: I am Kabila Kamambe, a mediocre prostitute sent from Rwanda.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/27.3.jpeg)
 
-Figure 3 caption translation: “I am Kabila Kamambe, a mediocre
-prostitute sent from Rwanda.”
+<br/>
 
 Although some may argue that this symbolic act of transgression only
 deflates the pressure toward material action, a more likely assumption
@@ -220,15 +204,13 @@ more “worth it.” The question again is: Will such mocking images result
 into true societal self-criticism? Or by making light of these issues,
 will they temper any call to change?
 
-![Afbeelding met binnen, persoon, muur Automatisch gegenereerde
-beschrijving](media/image4.png){width="2.0493055555555557in"
-height="2.7319444444444443in"} ![Afbeelding met tekst, persoon
-Automatisch gegenereerde
-beschrijving](media/image5.png){width="2.20625in"
-height="2.9055555555555554in"}
+![Fig. 4 and fig. 5: Two examples of a popular meme depicting a man in a traditional sling normally used to carry babies.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/27.4.jpeg)
 
-Figures 4 & 5: Two examples of a popular meme depicting a man in a
-traditional sling normally used to carry babies.
+<br/>
+
+![Fig. 4 and fig. 5: Two examples of a popular meme depicting a man in a traditional sling normally used to carry babies.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/27.5.jpeg)
+
+<br/>
 
 This ambiguity brought on by political memes renders it difficult to
 locate a single source of unchallenged power. Rather, we have a
@@ -248,16 +230,10 @@ lack of agency in the face of a system that they perceive as
 immutable”.[^28chapter27_9] The self-reflexive laughter, always teetering at the
 edge of irony, is therefore a coping mechanism.
 
-![Afbeelding met tekst, auto, schermafbeelding Automatisch gegenereerde
-beschrijving](media/image6.png){width="2.584722222222222in"
-height="2.584722222222222in"}
+![Fig. 6: Caption translation from left to right: “Politicians, wives of
+politicians, sons of politicians, voters.” The instant you get the joke about the corruption of politicians, you’re immediately forced to confront your own poverty and powerlessness. Thisenforces the coping mechanism of self-reflexive laughter at your sorry lot and its causes (namely the greedy ruling classes).](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/27.6.jpeg)
 
-Figure 6 caption translation from left to right: “Politicians, wives of
-politicians, sons of politicians, voters.” The instant you get the joke
-about the corruption of politicians, you’re immediately forced to
-confront your own poverty and powerlessness. Thisenforces the coping
-mechanism of self-reflexive laughter at your sorry lot and its causes
-(namely the greedy ruling classes).
+<br/>
 
 Sometimes, universality is eschewed for more granular in-group
 identification. The virality of certain memes or videos depend on their
@@ -275,18 +251,11 @@ panel: a neighbourhood in Kinshasa. The meme’s appeal resides in how it
 emits self-essentialized caricatures of Congolese culture: perhaps
 low-tech, but more personal.
 
-![Afbeelding met tekst, buiten, krant Automatisch gegenereerde
-beschrijving](media/image7.png){width="1.8756944444444446in"
-height="2.786111111111111in"}
+![Fig. 6: Caption translation: “Surveillance cameras, America, China, Lingwala” (a neighbourhood in Kinshasa). Again, the joke is based on the material inequalities between the richer countries and poorer Africa, while at the same time reminding/rewarding “in-the-know” viewers through a sense of personal community-interest lacking in the techno-surveillance states of “advanced” countries.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/27.7.jpeg)
 
-Figure 6 caption translation: “Surveillance cameras, America, China,
-Lingwala” (a neighbourhood in Kinshasa). Again, the joke is based on the
-material inequalities between the richer countries and poorer Africa,
-while at the same time reminding/rewarding “in-the-know” viewers through
-a sense of personal community-interest lacking in the
-techno-surveillance states of “advanced” countries*. *
+</br>
 
-## Made in China\
+## Made in China
 
 International media often criticizes China’s manoeuvring as a
 neo-colonial power in Africa (though some would say that China is merely
@@ -307,12 +276,9 @@ silhouettes, with the text pointing to China’s propensity to make
 knockoffs of anything. These images work their way into everyday
 conversations, sometimes causing debate.
 
-![Afbeelding met tekst Automatisch gegenereerde
-beschrijving](media/image8.png){width="1.4673611111111111in"
-height="2.109027777777778in"}
+![Fig. 13: Caption translation: (left) “Chinese don’t miss anything! They made a Congolese mannequin.”](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/27.8.jpeg)
 
-Figure 13 caption translation: (left) “Chinese don’t miss anything! They
-made a Congolese mannequin.”
+<br/>
 
 The circulation of people, products and memes has given rise to a
 multiplication of conspiracy theories across the African continent.
@@ -321,12 +287,9 @@ grabbing African women’s breasts. Is this legitimate or fake news,
 propaganda or just a troll? What backlash can it cause if interpreted as
 legitimate?
 
-![Afbeelding met tekst, buiten, persoon, strand Automatisch gegenereerde
-beschrijving](media/image9.png){width="2.2895833333333333in"
-height="2.598611111111111in"}
+![Fig. 14: Caption translation: “Here is what this poor Chinese man is doing in the quarries with miners.”](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/27.9.jpeg)
 
-Figure 14 caption translation: “Here is what this poor Chinese man is
-doing in the quarries with miners.”
+<br>
 
 ## A Me(r)maid’s Tale
 
@@ -343,17 +306,18 @@ of the times changing. Clock-time is also symbolic of the rigid
 organization of daily life so necessary to capitalist modes of
 production.
 
-![Afbeelding met tekst, geschilderd Automatisch gegenereerde
-beschrijving](media/image10.png){width="2.7680555555555557in"
-height="1.5576388888888888in"} ![Afbeelding met tekst, oud, fotolijstje,
-vintage Automatisch gegenereerde
-beschrijving](media/image11.png){width="1.195138888888889in"
-height="1.5534722222222221in"} ![Afbeelding met tekst, oud, steen
-Automatisch gegenereerde
-beschrijving](media/image12.png){width="2.4722222222222223in"
-height="1.8590277777777777in"}
+![Fig. 7, fig. 8, and fig. 9: Mami Wata wearing a wrist watch.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/27.10.jpeg)
 
-Figures 7, 8, and 9: Mami Wata wearing a wrist watch.
+<br/>
+
+![Fig. 7, fig. 8, and fig. 9: Mami Wata wearing a wrist watch.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/27.11.jpeg)
+
+<br/>
+
+![Fig. 7, fig. 8, and fig. 9: Mami Wata wearing a wrist watch.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/27.12.jpeg)
+
+<br/>
+
 
 Since the colonial period, people have told of encounters with Mami
 Wata, who is depicted as a siren, an irresistible temptress. In exchange
@@ -433,16 +397,11 @@ memes, the passage from information to persuasion to manipulation is
 optimized, as depicted in Figure 10 in which a young man is washing his
 brain, trying to make it clean again.
 
-![Afbeelding met persoon, buiten Automatisch gegenereerde
-beschrijving](media/image13.png){width="2.147222222222222in"
-height="2.6777777777777776in"}
+![Fig. 10: Caption translation: “Tag a friend who needs to have his brain washed” Though the term brainwashing directly translates in French as “lavage de cerveau”, this meme also refers to having a dirty mind. Meme courtesy of Starjirexmedia (Instagram)](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/27.13.jpeg)
 
-Figure 10 caption translation: “Tag a friend who needs to have his brain
-washed” Though the term brainwashing directly translates in French as
-“lavage de cerveau”, this meme also refers to having a dirty mind. Meme
-courtesy of Starjirexmedia (Instagram)
+<br/>
 
-## Self-Mockery as Defence\
+## Self-Mockery as Defence
 
 Supernatural content in memes can also be light-hearted, and not
 perceived as sinister. Consider the rooster in Figure 11, standing at
@@ -454,14 +413,7 @@ forgetfulness, the in-feeling of getting the mystical significance, a
 poke at militarism, and the gesture of Congolese self-mockery in which
 the idea of a witch’s presence is an uncanny, yet plausible one.
 
-![Afbeelding met tekst, persoon, militair uniform, poseren Automatisch
-gegenereerde
-beschrijving](media/image14.png){width="2.348611111111111in"
-height="2.4194444444444443in"}
-
-Figure 11 caption translation: “When you’re a witch and you forget to
-transform yourself in the morning.” This follows the familiar “that
-moment when…” (TMW) structure very common in memes.
+![Fig. 11: Caption translation: “When you’re a witch and you forget to transform yourself in the morning.” This follows the familiar “that moment when…” (TMW) structure very common in memes.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/27.14.jpeg)
 
 “Sorcier officiel,” or ‘Witch official,’ is a profile on Instagram
 devoted to francophone African memes (Fig 12). The account handle is an
@@ -471,16 +423,9 @@ interns). Sorcier officiel’s popularity signals the bewitching quality
 of being a meme creator, charged with the task of sending out images to
 infect our minds.
 
-![Afbeelding met tekst, persoon, krant, schermafbeelding Automatisch
-gegenereerde
-beschrijving](media/image15.png){width="2.015277777777778in"
-height="2.4229166666666666in"}
+![Fig. 12: Caption translation: “The moment when your phone is charging and you start to think about your future.” Again, there is that “TMW” structure. Meme courtesy of Socier officiel (Instagram)](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/27.15.jpeg)
 
-Figure 12 caption translation: “The moment when your phone is charging
-and you start to think about your future.” Again, there is that “TMW”
-structure. Meme courtesy of Socier officiel (Instagram)
-
-## Enchanted Horizons\
+## Enchanted Horizons
 
 As the reality of a biological virus dominates our material lives, its
 media dominates our airwaves and bandwidth. The next decade’s struggle
@@ -542,9 +487,7 @@ Modified February 17, 2020.
 
 Willems, Wendy. “Comic Strips and “the crisis”: Postcolonial Laughter
 and Coping with Everyday Life in Zimbabwe.” *Popular Communication* 9,
-no. 2 (2011): 126–145[]{#_heading=h.g89hph4tumt2
-.anchor}.[[]{#_heading=h.7twaor8buis8 .anchor}]{#_heading=h.1ptu7j3wbnxi
-.anchor}
+no. 2 (2011): 126–145.
 
 [^28chapter27_1]: While the identities of the meme sources/creators are difficult to
     pin down, those that are known have been intentionally kept
