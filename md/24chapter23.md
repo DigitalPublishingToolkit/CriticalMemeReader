@@ -17,9 +17,13 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# The Trans Bears
+# An Ambiguous Utopia 
 
-## Introduction\
+###The Trans Bears
+
+![Fig. 1](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/23.1.jpeg)
+
+## Introduction
 
 Our contribution is an experiment in memetic worlding. It explores what
 could happen if we generated pluralistic, positive visions as an
@@ -66,7 +70,7 @@ xo
 
 The Trans Bears
 
-## Prologue\
+## Prologue
 
 Hello!
 
@@ -79,7 +83,11 @@ tiny bits of cultural DNA then, like us, you might be able to imagine
 using them to alter the status quo. We hope you might discover their
 radical potential and want to make mischief as we did.
 
-## The Ruins\
+## The Ruins
+
+![Fig. 2](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/23.2.jpeg)
+
+<br/>
 
 Our Meme Squad met at a time we now refer to as The Ruins. Human and
 natural systems were on the brink of collapse. Our societies and
@@ -94,6 +102,10 @@ their own island. Few were imaginative enough to question the narrative
 we were fed: that it was easier to imagine the end of the world than the
 end of the systems that governed our lives. As apathy grew, irony and
 cynicism were normalized in online and offline culture.
+
+![Fig. 3](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/23.3.jpeg)
+
+<br/>
 
 Still, a scattering of people searched for alternatives. Seeking
 connection, we tried to find like-minded others on the Whisper Web, a
@@ -112,6 +124,13 @@ collectivised. We formed a syndicate, and began casting coordinated
 memetic spells to jinx the established order. We hexed corrupt
 corporations, went troll hunting, and inundated bureaucrats with our
 raging semiotic meltdown.
+
+![Fig. 4](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/23.4.jpeg)
+
+<br/>
+
+![Fig. 5](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/23.5.jpeg)
+
 
 We ridiculed old power, and laid bare that the concepts and systems
 invented by humans were impressionable to our resistance and change. Our
@@ -134,6 +153,10 @@ monied, who paid gatekeepers for access to information and goods, and
 the poor left with nothing but patchy service hosting unreliable,
 ad-littered news sites and communication channels.
 
+![Fig. 6](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/23.6.jpeg)
+
+<br/>
+
 Our plans to grow an accessible, sustainable internet gained urgency.
 We’d laid some groundwork in The Ruins, but the crash took its toll on
 us and our network too. After the initial shock, we began working in
@@ -145,7 +168,11 @@ thing and we learned to meme offline, in slower and more local forms
 that resembled older and more ancient traditions. Most importantly, we
 learned to laugh together in person again.
 
-## The Makeshift\
+![Fig. 7](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/23.7.jpeg)
+
+<br/>
+
+## The Makeshift
 
 We began to adapt and find new ways to operate in The Makeshift, the
 decade following the collapse. While the rich walled themselves off in
@@ -165,6 +192,14 @@ The Makeshift were shared using old meme formats. Hopepunk emerged as an
 absurdist mash-up philosophy, encoding a culture of care, nurture, and
 maintenance into our mischief.
 
+![Fig. 8](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/23.8.jpeg)
+
+<br/>
+
+![Fig. 9](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/23.9.jpeg)
+
+<br/>
+
 As the years passed, the last of the old elite hid in their walled and
 now dying gardens. While locked out, we'd come to realize we didn't need
 them. They had just been middlemen who estranged us from ourselves and
@@ -176,7 +211,7 @@ measured against earthly vitality instead of growth. We still faced
 opposition at times, but even sceptics joined us when they saw we were
 thriving.
 
-## Deep Adaptation\
+## Deep Adaptation
 
 After a rocky and generative decade in The Makeshift, we found Deep
 Adaptation. While in many ways still reeling, we were freed from old
@@ -196,6 +231,18 @@ dramatically when we realized we were in essence all part of the same
 earthly nervous system. Turns out, natural and cultural DNA is one and
 the same thing, and Earth is the greatest memer of all.
 
+![Fig. 10](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/23.10.jpeg)
+
+<br/>
+
+![Fig. 11](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/23.11.jpeg)
+
+<br/>
+
+![Fig. 12](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/23.12.jpeg)
+
+<br/>
+
 Of course, many cultures had long known and embraced this. For those who
 hadn't, scientific evidence made the difference. Old concepts of the
 boundary between self and other dissolved and became obsolete. Once the
@@ -204,7 +251,7 @@ holobionts: multi-species organisms in constant communion with those in
 and outside ourselves. In the present day, we make no distinction
 between nature and culture. They have merged into one word: nurture.
 
-## Epilogue\
+## Epilogue
 
 That’s all from us for now. All we’re really saying is that ‘nonsense’
 can be an effective counter to hegemonic ‘common sense’. Don’t let the
@@ -215,7 +262,7 @@ your memes. We’ll try to get back to you through deep time.
 
 xo Meme Squad
 
-## Acknowledgements\
+## Acknowledgements
 
 Special thanks to:
 
@@ -263,7 +310,7 @@ Carlos Machado
 
 Ben Welch
 
-## References\
+## References
 
 Asprem, Egil. “The Magical Theory of Politics: Memes, Magic, and the
 Enchantment of Social Forces in the American Magic War.” *Nova Religio*
