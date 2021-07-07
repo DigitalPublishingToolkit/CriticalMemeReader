@@ -29,7 +29,7 @@ old news to the veterans that waged them, but have only recently been
 scrutinized by journalists and politicians, tripping over the already
 outdated lingo. Progressives have sheepishly acknowledged the political
 power of memes but still fail to accommodate their production
-mechanisms$$and develop countermeasures. Leftist memes are still
+mechanisms and develop countermeasures. Leftist memes are still
 primarily created *by* leftists *for* leftists, without a methodical
 branching out to adversaries. The alt-right excels at conquering new
 territories by invading not only politically neutral online spaces, but
@@ -49,7 +49,7 @@ of an out-of-touch academic defender—rather than influencer—fighting to
 protect remaining online territories, instead of seizing and subverting
 new grounds.
 
-![Fig. 1: Right-wing meme stereotyping leftists as digitally illiterate and therefore irrelevant SJWs. <https://imgflip.com/i/1zwubx>](imgs/19.1.jpeg) 
+![Fig. 1: Right-wing meme stereotyping leftists as digitally illiterate and therefore irrelevant SJWs. <https://imgflip.com/i/1zwubx>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/19.1.jpeg) 
 
 </br>
 
@@ -108,19 +108,13 @@ activists willing to publicly expose their faces in real-life
 Identitarian rallies to ‘lower tier’ (but more popular) battalions
 consisting of anonymous activists ready to spam, dox, and harass.
 
-![Afbeelding met tafel Automatisch gegenereerde
-beschrijving](media/image2.jpg){width="6.267716535433071in"
-height="2.013888888888889in"}
-
-![Afbeelding met tekst Automatisch gegenereerde
-beschrijving](media/image3.jpg){width="6.267716535433071in"
-height="1.8888888888888888in"}
-
-**Fig. 2.** Example of a krautpol copypasta. Note the upbeat military
+![Fig. 2: Example of a krautpol copypasta. Note the upbeat military
 tone and the reminder for members to be proactive without in-fighting.
 Copypastas such as this one help far-right factions overlook their
 ideological differences and work together to complete specific tasks.
-<a href="https://pastebin.com/zRU2HecC">https://pastebin.com/zRU2HecC</a>
+<https://pastebin.com/zRU2HecC>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/19.2.jpeg)
+
+<br/>
 
 Another reason the alt-right is able to amass large troll armies is due
 to its ability to embrace ideological differences within its own
@@ -214,20 +208,16 @@ mascot they didn’t even invent. Best of all, political opponents who
 weren’t aware of Pepe’s new status as a hate symbol, or refused to give
 him up, were suddenly attacked for being closeted fascists.
 
-![Afbeelding met tekst Automatisch gegenereerde
-beschrijving](media/image4.png){width="3.026042213473316in"
-height="2.5511515748031495in"}![Afbeelding met tekst, bed, slaapkamer
-Automatisch gegenereerde
-beschrijving](media/image5.jpg){width="2.5156255468066493in"
-height="2.5156255468066493in"}
+![Fig. 3.1: Matt Furie—Pepe’s creator—officially killed off his creation
+in 2017. Far-right usersresponded by resurrecting him. (i)
+<https://me.me/i/00-pepe-has-been-resurrected-praise-kek-shadilay-13576027> \(ii) <https://archive.4plebs.org/pol/thread/257302630/%5C#q257304889">](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/19.3.1.jpeg)
 
-**Fig. 3.** Matt Furie—Pepe’s creator—officially killed off his creation
-in 2017. Far-right users
+<br/>
 
-responded by resurrecting him. (i)
-[*https://me.me/i/00-pepe-has-been-resurrected-praise-kek-shadilay-13576027*](https://me.me/i/00-pepe-has-been-resurrected-praise-kek-shadilay-13576027)
+![Fig. 3.2: Matt Furie—Pepe’s creator—officially killed off his creation
+in 2017. Far-right usersresponded by resurrecting him. (ii) <https://archive.4plebs.org/pol/thread/257302630/%5C#q257304889">](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/19.3.2.jpeg)
 
-\(ii) <a href="https://archive.4plebs.org/pol/thread/257302630/%5C#q257304889">https://archive.4plebs.org/pol/thread/257302630/\#q257304889</a>
+<br/>
 
 A movement born on the internet needs real life legitimacy if it aspires
 to influence the world at large. Since trust is difficult to
@@ -259,13 +249,9 @@ at this new symbol for white power. At the same time, openly fascist
 alt-accounts were used to spam twitter with offensive content
 accompanied by the OK Hand emoji👌 in order to validate accusations.
 
-![Afbeelding met tekst Automatisch gegenereerde
-beschrijving](media/image6.jpg){width="4.921875546806649in"
-height="2.4039271653543306in"}
+![Fig. 4: One of many OPERATION O-KKK threads on 4chan. Image: <ahttps://archive.4plebs.org/pol/thread/209521954/%5C#q209527911>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/19.4.jpeg)
 
-**Fig. 4**. One of many OPERATION O-KKK threads on 4chan.
-
-Image: <a href="https://archive.4plebs.org/pol/thread/209521954/%5C#q209527911">https://archive.4plebs.org/pol/thread/209521954/\#q209527911</a>
+<br/>
 
 Far-right users masquerading as feminists began to wage a pretend war
 with far-right users masquerading as caricatured versions of themselves
@@ -288,12 +274,9 @@ their ethnicity, race, culture or faith’.[^20chapter19_4] Justin Trudeau and C
 Owens—a black conservative—were sardonically credited as influences.
 After his arrest, Tarrant flashed the OK hand sign in court.[^20chapter19_5]
 
-![](media/image7.jpg){width="3.5052088801399823in"
-height="2.6028040244969377in"}
+![Fig. 5: Feminists United is a Twitter account led by a 4chan troll. Tweet: <https://twitter.com/proudfemme83/status/836366339514241024>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/19.5.jpeg)
 
-**Fig. 5.** Feminists United is a Twitter account led by a 4chan troll.
-
-Tweet: <a href="https://twitter.com/proudfemme83/status/836366339514241024">https://twitter.com/proudfemme83/status/836366339514241024</a>
+<br/>
 
 Ironic far-right charades benefit everyone whose ideologies lie beyond
 the centre-right. It’s advantageous for Conservatives if the Overton
@@ -345,16 +328,14 @@ fact that they will report on this clown meme proves this point and will
 redpill the masses as the fact that they are reading about a cartoon
 frog clown sinks in.’
 
-![Afbeelding met tekst Automatisch gegenereerde
-beschrijving](media/image8.png){width="2.276042213473316in"
-height="2.5725010936132984in"}
-
-**Fig. 6.** *Honkler* holding Brenton Tarrant’s inscribed gun. In one of
+![Fig. 6: *Honkler* holding Brenton Tarrant’s inscribed gun. In one of
 his manifestos, Brentan Tarrant wrote ‘Clown memes are step one of
 riding the tiger where we have to go a little coocoo and rebuild
 ourselves.’[^20chapter19_7] He also advocated supporters to: ‘Create memes, post
 memes, and spread memes. Memes have done more for the ethno-nationalist
-movement than any manifesto.[^20chapter19_8] Image: <a href="https://boards.4chan.org/pol/">https://boards.4chan.org/pol/</a>
+movement than any manifesto.[^20chapter19_8] Image: <https://boards.4chan.org/pol/">](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/19.6.jpeg)
+
+<br/>
 
 Once again, the media took the bait. Articles such as ‘White
 Nationalists Adopt Clowns as Their Next Racist Symbol’[^20chapter19_9] and ‘No Joke:
@@ -378,13 +359,9 @@ algorithms designed to automatically remove hate-speech would pick up on
 this artificially manufactured connection. Fortunately, despite their
 best efforts, this has not happened yet.
 
-![Afbeelding met tekst Automatisch gegenereerde
-beschrijving](media/image9.jpg){width="3.384025590551181in"
-height="3.338542213473316in"}
+![Fig. 7: 4chan thread laying out Operation \#takingbacktherainbow. Image: <https://boards.4chan.org/pol/>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/19.7.jpeg)
 
-**Fig. 7.** 4chan thread laying out Operation \#takingbacktherainbow.
-
-Image: [*https://boards.4chan.org/pol/*](https://boards.4chan.org/pol/)
+<br/>
 
 \#takingbacktherainbow memes were (poorly) disguised as being pro-LGBT+,
 advocating ‘preserving diversity’ through racial segregation. Some
@@ -403,19 +380,21 @@ feign open-mindedness to potential converts, while simultaneously
 tricking opponents into unfairly condemning LGBT+ communities for
 inciting hate.
 
-![](media/image10.jpg){width="2.811744313210849in"
-height="2.119792213473316in"}![](media/image11.jpg){width="2.3541666666666665in"
-height="2.1197265966754157in"}![](media/image12.jpg){width="2.441512467191601in"
-height="2.3527307524059493in"}![Afbeelding met persoon, buiten,
-kleurrijk Automatisch gegenereerde
-beschrijving](media/image13.jpg){width="2.588542213473316in"
-height="2.2924660979877514in"}
+![Fig. 8.1 Collection of Honkler and \#takingbacktherainbow memes.Images: <https://boards.4chan.org/pol/> and <https://knowyourmeme.com/memes/clown-pepe-honk-honk-clown-world/photos/>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/19.8.1.jpeg)
 
-**Fig. 8.** Collection of Honkler and \#takingbacktherainbow memes.
+<br/>
 
-Images: [*https://boards.4chan.org/pol/*](https://boards.4chan.org/pol/)
-&
-<a href="https://knowyourmeme.com/memes/clown-pepe-honk-honk-clown-world/photos/">https://knowyourmeme.com/memes/clown-pepe-honk-honk-clown-world/photos/</a>
+![Fig. 8.1 Collection of Honkler and \#takingbacktherainbow memes.Images: <https://boards.4chan.org/pol/> and <https://knowyourmeme.com/memes/clown-pepe-honk-honk-clown-world/photos/>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/19.8.2.jpeg)
+
+<br/>
+
+![Fig. 8.1 Collection of Honkler and \#takingbacktherainbow memes.Images: <https://boards.4chan.org/pol/> and <https://knowyourmeme.com/memes/clown-pepe-honk-honk-clown-world/photos/>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/19.8.3.jpeg)
+
+<br/>
+
+![Fig. 8.1 Collection of Honkler and \#takingbacktherainbow memes.Images: <https://boards.4chan.org/pol/> and <https://knowyourmeme.com/memes/clown-pepe-honk-honk-clown-world/photos/>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/19.8.4.jpeg)
+
+<br/>
 
 ## How to Kill a Clown
 
@@ -483,29 +462,22 @@ clown emoji began to be used extensively to convey the feeling of being
 shortchanged, drowning its secondary meaning. The far-right couldn’t get
 their last laugh in a world overrun with clowns.
 
-![Afbeelding met tekst Automatisch gegenereerde
-beschrijving](media/image14.jpg){width="2.466899606299213in"
-height="2.6406255468066493in"}
-
-**Fig. 9.** *Putting on Clown Makeup* meme template was popularized in
+![Fig. 9: *Putting on Clown Makeup* meme template was popularized in
 2019. It depicts an individual suffering cognitive dissonance from
 contradicting observations of the world. He reconciles the contradiction
 in a nonsensical way, thereby making a fool of himself*.*[^20chapter19_16] Image:
-<a href="https://knowyourmeme.com/photos/1563390-putting-on-clown-makeup">https://knowyourmeme.com/photos/1563390-putting-on-clown-makeup</a>
+<https://knowyourmeme.com/photos/1563390-putting-on-clown-makeup>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/19.9.jpeg)
 
-![](media/image15.jpg){width="2.3281255468066493in"
-height="2.5335476815398077in"}![Afbeelding met dragen, geschilderd
-Automatisch gegenereerde
-beschrijving](media/image16.jpg){width="2.5364588801399823in"
-height="2.526147200349956in"}
+<br/>
 
-**Fig. 10.** Joker memes created and spread outside far-right circles.
+![Fig. 10.1: Joker memes created and spread outside far-right circles. ‘We Live in a Society’ became one of the most popular Joker memes, yielding endless variants.
+<https://me.me/i/creating-joker-1989-throw-him-into-chemical-waster-creating-joker-866cd2582a7042679e82fd818478d36e>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/19.10.1.jpeg)
 
-*Left:* ‘We Live in a Society’ became one of the most popular Joker
-memes, yielding endless variants.
-[*https://me.me/i/creating-joker-1989-throw-him-into-chemical-waster-creating-joker-866cd2582a7042679e82fd818478d36e*](https://me.me/i/creating-joker-1989-throw-him-into-chemical-waster-creating-joker-866cd2582a7042679e82fd818478d36e)
+<br/>
 
-*Right:* Left-wing meme depicting Karl Marx as Joker.
+![Fig. 10.1: Joker memes created and spread outside far-right circles. Left-wing meme depicting Karl Marx as Joker.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/19.10.2.jpeg)
+
+<br/>
 
 When right-wing extremists began to exit the screen in 2016, their
 threat to democracy became apparent IRL. People who previously brushed
@@ -637,13 +609,10 @@ the chans sees rainbow Pepe and thinks LGBT /.../ your doing their dirty
 work for them.’ Other users echoed similar concerns:s the real danger to
 Pepe is appropriation, *not* cancellation.
 
-![](media/image17.jpg){width="3.7968755468066493in"
-height="3.8212139107611547in"}
-
-**Fig. 11.** Pepe Instagram collage created by clusterduck, a left-wing
+![Fig. 11: Pepe Instagram collage created by clusterduck, a left-wing
 artist collective that uses memes to protest the climate crisis. They
 have reappropriated Pepe to promote a positive message of inclusivity.
-<a href="https://www.instagram.com/realclusterfuck">https://www.instagram.com/realclusterfuck</a>
+<https://www.instagram.com/realclusterfuck>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/19.11.jpeg) 
 
 What the alt-right fears most is losing media attention and its
 reputation for being an edgy counterculture that defends ‘free-speech’

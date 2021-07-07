@@ -39,4 +39,4 @@ Twitter [*http://twitter.com/MemeStudiesRN*](http://twitter.com/MemeStudiesRN)�
 E-mail the MSRN
 at [*memestudiesrn@gmail.com*](mailto:memestudiesrn@gmail.com) 
 
-![](imgs/30.1)
+![MSRN](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/30.1.jpeg)

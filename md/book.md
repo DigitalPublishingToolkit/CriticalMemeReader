@@ -16,7 +16,9 @@ Editors: Chloë Arkenbout, Jack Wilson, Daniel de Zeeuw
 
 Copy editor: Geoff Hondroudakis
 
-Cover Design: Marijn Bril
+Cover design: Marijn Bril
+
+Cover font: Terminal Grotesque Regular by Raphaël Bastide (Velvetyne)
 
 Design and EPUB development: Chloë Arkenbout
 
@@ -3065,7 +3067,7 @@ consequences. In effect, so is their dealing with it. The sticker comes
 from the same place that yields uneasiness—the screen—except it lets us
 reconcile it.
 
-![Fig. 1 Curfew, no curfew. Digital animated sticker. Received on WhatsApp. February 21, 2021.](imgs/6.1.jpg)
+![Fig. 1: Curfew, no curfew. Digital animated sticker. Received on WhatsApp. February 21, 2021.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/6.1.jpg)
 
 <br/>
 
@@ -3116,7 +3118,7 @@ and a symbolic figure dearly nicknamed the hummingbird of the Gulf—with
 a photoshopped mask asking ‘ملكي ولا استيديو؟’ (‘King suite or
 studio?’).
 
-![Fig. 2 King suite or studio? Digital image. Received on WhatsApp. February 25, 2020.](imgs/6.2.jpg)
+![Fig. 2: King suite or studio? Digital image. Received on WhatsApp. February 25, 2020.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/6.2.jpg)
 
 <br/>
 
@@ -3141,7 +3143,7 @@ and that its citizens ought to see it that way. Beyond the nationalist
 rhetoric, Dr. Mona isn’t wrong: if your quarantine facility is a resort,
 *something* must be working in your favor.
 
-![Fig 3. The salad doesn't have dressing. Digital sticker. Received on WhatsApp. March 5, 2021.](imgs/6.3.jpg)
+![Fig 3: The salad doesn't have dressing. Digital sticker. Received on WhatsApp. March 5, 2021.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/6.3.jpg)
 
 <br/>
 
@@ -3254,11 +3256,11 @@ The jokes aren’t funny, but to address them as unfunny would be to
 address a message that is far from the message that this meme carries.
 When it comes to memes, the joke is the point.
 
-![Fig. 4 Saltbae meme with Iran, Coronavirus, and Kuwait. Digital image. Received on WhatsApp. Feb 27, 2020](imgs/6.4.jpg)
+![Fig. 4: Saltbae meme with Iran, Coronavirus, and Kuwait. Digital image. Received on WhatsApp. Feb 27, 2020](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/6.4.jpg)
 
 <br/>
 
-![Fig. 5 This time it really is Iran's fault. Digital sticker. Received on WhatsApp. March 5, 2021](imgs/6.5.jpg)
+![Fig. 5: This time it really is Iran's fault. Digital sticker. Received on WhatsApp. March 5, 2021](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/6.5.jpg)
 
 <br/>
 
@@ -3391,7 +3393,7 @@ I watched the 50-minute video in its entirety four times that night. We
 were introduced over the phone two days later and have been working
 together ever since.
 
-![Fig. 1: Still from Scoobert Doobert’s video for ‘A Good Life’](imgs/7.1)
+![Fig. 1: Still from Scoobert Doobert’s video for ‘A Good Life’](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/7.1.jpeg)
 
 <br/>
 
@@ -3410,7 +3412,7 @@ Scoobert Doobert memes. So let the record show, it wasn’t from Scooby
 Doo. In fact, there is no character named Scoobert Doobert. Just
 Scoobert Doo.’
 
-![Fig. 2: A tryptic of stills from the music video for ‘Bread Stapled to Trees’](imgs/7.2)
+![Fig. 2: A tryptic of stills from the music video for ‘Bread Stapled to Trees’](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/7.2.jpeg)
 
 <br/>
 
@@ -3541,7 +3543,7 @@ smart. We're not that good. There's not a lot for us to grasp onto. We
 can't trust our eyes. We can't trust our experiences. We can't trust the
 systems that we’ve built. All of it is artificial.
 
-![Figure 3: Still from ‘Scoobert Doobert Eats a Banana in the Void’](imgs/7.3)
+![Figure 3: Still from ‘Scoobert Doobert Eats a Banana in the Void’](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/7.3.jpeg)
 
 <br/>
 
@@ -3800,7 +3802,7 @@ was dealing with the same problem for the first time ever. It’s like we
 were all right on the verge of this incredible epiphany and then just
 ran screaming in the other direction.*
 
-![Figure 4: Still from the music video for ‘Why, How, Yeah, Yeah’](imgs/7.4)
+![Figure 4: Still from the music video for ‘Why, How, Yeah, Yeah’](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/7.4.jpeg)
 
 <br/>
 
@@ -5315,12 +5317,12 @@ the head which turned out to be the animal’s original right ear. To the
 right, separated by a vertical black line, the now-revealed true face of
 the lamb looks strikingly unlike a sheep, almost grotesque.
 
-![Fig. 1 Screenshot of a variation of the Ghent Altarpiece Lamb Restoration Meme juxtaposing the restored head of the Eyckian Lamb to Kylie Jenner’s face. A comment connects the two images. Posted by @alexvtunzelmann to twitter.com on 22 January 2020.](11.1.jpeg)
+![Fig. 1: Screenshot of a variation of the Ghent Altarpiece Lamb Restoration Meme juxtaposing the restored head of the Eyckian Lamb to Kylie Jenner’s face. A comment connects the two images. Posted by @alexvtunzelmann to twitter.com on 22 January 2020.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/11.1.jpeg)
 
 <br/>
 
-![Fig. 2 Screenshot of the initial variation of the Ghent Altarpiece Lamb
-Restoration Meme juxtaposing the head of the Mystic Lamb before and after restoration. A comment connects the two images. Posted by @fatherajds to <a href="http://twitter.com">twitter.com</a> on 20 January 2020.](imgs/11.2.jpeg)
+![Fig. 2: Screenshot of the initial variation of the Ghent Altarpiece Lamb
+Restoration Meme juxtaposing the head of the Mystic Lamb before and after restoration. A comment connects the two images. Posted by @fatherajds to <a href="http://twitter.com">twitter.com</a> on 20 January 2020.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/11.2.jpeg)
 
 <br/>
 
@@ -5406,8 +5408,8 @@ restoration to support the caption’s ironic claim—even if the work of
 art itself is not depicted and the lack of comparative vision undermines
 the processual character of the before-and-after-idea.
 
-![Fig. 3 Screenshot of a variation of the Ghent Altarpiece Lamb Restoration Meme. The user substitutes the image of the Mystic Lamb with the face of Shaun the Sheep. The comment labels the head ‘disturbingly
-humanoid’, picking up online media rhetoric. Posted by @CheeseWorrier to <a href="http://twitter.com">twitter.com</a> on 22 January 2020.](imgs/11.3.jpeg)
+![Fig. 3: Screenshot of a variation of the Ghent Altarpiece Lamb Restoration Meme. The user substitutes the image of the Mystic Lamb with the face of Shaun the Sheep. The comment labels the head ‘disturbingly
+humanoid’, picking up online media rhetoric. Posted by @CheeseWorrier to <a href="http://twitter.com">twitter.com</a> on 22 January 2020.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/11.3.jpeg)
 
 <br/>
 
@@ -5488,7 +5490,7 @@ the Holy Spirit representing the transubstantiation*.* Also lost is the
 Lamb’s exposure to the *Arma Christi* or the *Fountain of Life* which
 again emphasizes the lamb as a metaphor of Jesus himself. (Fig. 4).
 
-![Fig. 4 Hubert & Jan van Eyck, Adoration of the Mystic Lamb, 1432, 350 x 461 cm, oil on wood, St. Bavo’s Cathedral, Ghent. Macrophotography after the restoration. © closertovaneyck.kikirpa.be](imgs/11.4.jpeg)
+![Fig. 4: Hubert & Jan van Eyck, Adoration of the Mystic Lamb, 1432, 350 x 461 cm, oil on wood, St. Bavo’s Cathedral, Ghent. Macrophotography after the restoration. © closertovaneyck.kikirpa.be](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/11.4.jpeg)
 
 <br/>
 
@@ -5603,11 +5605,11 @@ conservator in Borja, Spain, that took social media by storm in 2012 and
 the many more memes of failed restoration attempts following the same
 genre of ‘restoration gone wrong’.
 
-![Fig. 5 Screenshot of a Twitter-thread on the initial variation of the Ghent Altarpiece Lamb Restoration Meme by @fatherajds. The user @somecaboose replied with a before and after juxtaposition of the Potato Jesus on 20 January 2020.](imgs/11.5.jpeg)
+![Fig. 5: Screenshot of a Twitter-thread on the initial variation of the Ghent Altarpiece Lamb Restoration Meme by @fatherajds. The user @somecaboose replied with a before and after juxtaposition of the Potato Jesus on 20 January 2020.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/11.5.jpeg)
 
 <br/>
 
-![Fig. 6 Screenshot of a variation of the ‘The Immaculate Conception of Los Venerables’ Restoration Fail Meme on <a href="http://knowyourmeme.com">knowyourmeme.com</a>, originally posted by @thetomzone to <a href="http://twitter.com">twitter.com</a>. The meme compares the before to the two restoration attempts focusing on the face of the Virgin. A comment relates it to the Potato Jesus.](imgs/11.6.jpeg)
+![Fig. 6: Screenshot of a variation of the ‘The Immaculate Conception of Los Venerables’ Restoration Fail Meme on <a href="http://knowyourmeme.com">knowyourmeme.com</a>, originally posted by @thetomzone to <a href="http://twitter.com">twitter.com</a>. The meme compares the before to the two restoration attempts focusing on the face of the Virgin. A comment relates it to the Potato Jesus.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/11.6.jpeg)
 
 <br/>
 
@@ -5863,8 +5865,8 @@ downloaded a random meme-making app and, because I didn’t want to flood
 my private Instagram stories with countless memes, I spontaneously
 created a meme account: @ibiza\_austrian\_memes.
 
-![Fig. 1. One of my first memes posted on @ibiza\_austrian\_memes in the first couple of days following the Ibiza-scandal. It depicts former vice
-chancellor and FPÖ leader Heinz-Christian Strache and former FPÖ politician Johann Gudenus, who were both filmed on Ibiza. Both are smiling and giving a thumbs up. The text reads, ‘When people have 12-hour shifts because of you but you are unemployed’, referring to the loosening of labor laws and introduction of a 12-hour workday by the ÖVP-FPÖ government in 2018.[^14chapter12_1]](imgs/12.1.jpeg)
+![Fig. 1: One of my first memes posted on @ibiza\_austrian\_memes in the first couple of days following the Ibiza-scandal. It depicts former vice
+chancellor and FPÖ leader Heinz-Christian Strache and former FPÖ politician Johann Gudenus, who were both filmed on Ibiza. Both are smiling and giving a thumbs up. The text reads, ‘When people have 12-hour shifts because of you but you are unemployed’, referring to the loosening of labor laws and introduction of a 12-hour workday by the ÖVP-FPÖ government in 2018.[^14chapter12_1]](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/12.1.jpeg)
 
 <br/>
 
@@ -5950,7 +5952,7 @@ political actors. SpongeBob’s expression is also funny: He looks
 confused, lost and even a little desperate. The meme thus also belittles
 Sebastian Kurz, his actions and political rhetoric by ridiculing it.
 
-![Fig. 2. A meme depicting cartoon character SpongeBob Squarepants. It criticizes chancellor Sebastian Kurz’ use of the term ‘Judeo-Christian’. The meme was made and posted by me on the Instagram page @ibiza\_austrian\_memes.](imgs/12.2.jpeg)
+![Fig. 2: A meme depicting cartoon character SpongeBob Squarepants. It criticizes chancellor Sebastian Kurz’ use of the term ‘Judeo-Christian’. The meme was made and posted by me on the Instagram page @ibiza\_austrian\_memes.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/12.2.jpeg)
 
 <br/>
 
@@ -6050,7 +6052,7 @@ below humorously addresses a painful truth for many people of color, who
 know what it feels like to be racially profiled and unrightfully
 suspected of being up to something dangerous.
 
-![Fig. 3. Posted by @migraobservations on Instagram. The meme consists of stock photos showing a person who is protecting their purse and making dramatic faces and gestures that can be read as ‘stop’ or ‘leave my purse alone’. The text reads: ‘How I’m holding my bag when Almans sit down or walk next to me, in the hope of inciting a reflection of their racism through my ingenious experiment’.](imgs/12.3.jpeg)
+![Fig. 3: Posted by @migraobservations on Instagram. The meme consists of stock photos showing a person who is protecting their purse and making dramatic faces and gestures that can be read as ‘stop’ or ‘leave my purse alone’. The text reads: ‘How I’m holding my bag when Almans sit down or walk next to me, in the hope of inciting a reflection of their racism through my ingenious experiment’.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/12.3.jpeg)
 
 <br/>
 
@@ -6079,7 +6081,7 @@ medium not typically taken too seriously—it questions the expertise and
 legitimacy of those who are commonly given a platform in political talk
 shows on German TV.
 
-![Fig. 4. A meme by @kanaxanax on Instagram. It depicts a cartoon character turtle from the movie *Kung Fu Panda*, saying ‘My time has come’ while gazing into the distance. The added text reads: ‘German talk shows when they finally find an opportunity to discuss political and radical Islam with 5 white men and 1 German Islam scholar again.’](imgs/12.4.jpeg)
+![Fig. 4: A meme by @kanaxanax on Instagram. It depicts a cartoon character turtle from the movie *Kung Fu Panda*, saying ‘My time has come’ while gazing into the distance. The added text reads: ‘German talk shows when they finally find an opportunity to discuss political and radical Islam with 5 white men and 1 German Islam scholar again.’](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/12.4.jpeg)
 
 <br/>
 
@@ -6107,8 +6109,8 @@ and its media coverage as very emotionally draining, which is why I
 decided to bring fun into it by ridiculing the minister’s anti-Muslim
 rhetoric with a meme.
 
-![Fig. 5. A meme I made and posted as @ibiza\_austrian\_memes on Instagram. The top depicts part of a newspaper article about Susanne Raab, Austrian Federal Minister for Women and Integration, who according to the screenshot warned against a ‘fertile ground for violence’ due to some people ‘only going to Turkish supermarkets and the mosque.’ Below is an image of pop culture figure Baby Yoda, a cute and innocent-looking baby alien. The alien is holding a Turkish pastry called Simit, that was edited into the original image. Baby Yoda is described as ‘My Simit and
-I’. He says, ‘Hi Susi, I won’t hurt you if you don’t hurt me please thanks byyyeee’.](imgs/12.5.jpeg)
+![Fig. 5: A meme I made and posted as @ibiza\_austrian\_memes on Instagram. The top depicts part of a newspaper article about Susanne Raab, Austrian Federal Minister for Women and Integration, who according to the screenshot warned against a ‘fertile ground for violence’ due to some people ‘only going to Turkish supermarkets and the mosque.’ Below is an image of pop culture figure Baby Yoda, a cute and innocent-looking baby alien. The alien is holding a Turkish pastry called Simit, that was edited into the original image. Baby Yoda is described as ‘My Simit and
+I’. He says, ‘Hi Susi, I won’t hurt you if you don’t hurt me please thanks byyyeee’.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/12.5.jpeg)
 
 <br/>
 
@@ -6424,7 +6426,7 @@ This virtually unspoken yet constantly looming reminder led people to
 self-censor in public, retreating to self-organized and mobilized
 underground physical safe spaces.
 
-![Image Source: Whisper App @Yellow_Net](imgs/13.1.jpeg)
+![Fig. 1: Image Source: Whisper App @Yellow_Net](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/13.1.jpeg)
 
 <br>
 
@@ -6492,11 +6494,11 @@ notion of ‘disqualified knowledges’ when he writes that ‘It is through
 the re-appearance of this knowledge, of the local popular knowledges,
 the disqualified knowledges, that criticism performs its work.’[^15chapter13_11]
 
-![The covid19 contact tracing app is called Tawakalna which roughly translates to God be with you. This meme deletes the app ands write to it God be with you.](imgs/13.2.jpeg)
+![Fig. 2.1: The covid19 contact tracing app is called Tawakalna which roughly translates to God be with you. This meme deletes the app ands write to it God be with you.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/13.2.jpeg)
 
 <br/>
 
-![Meme commenting on police raid during the nationwide crackdown on illegal immigrants](imgs/13.3.jpeg)
+![Fig. 2.2: Meme commenting on police raid during the nationwide crackdown on illegal immigrants](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/13.3.jpeg)
 
 <br/>
 
@@ -6531,7 +6533,7 @@ other than your account being taken down.
 
 ## The Instant Meme Noise Generator
 
-![Some of the insults coded into the randomized insult generator.](imgs/13.5.jpeg)
+![Fig. 3: Some of the insults coded into the randomized insult generator.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/13.5.jpeg)
 
 <br/>
 
@@ -6575,11 +6577,11 @@ An example randomly generated Insult:
 \[round 4\] TAG STATE MEDIA
 ACCOUNT
 
-![Gigantic key cap from Novel Keys: Big Switch Series.](imgs/13.6.jpeg)
+![Fig. 4.1: Gigantic key cap from Novel Keys: Big Switch Series.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/13.6.jpeg)
 
 <br/>
 
-![An example of a nonsensical insult generated post on Twitter.](imgs/13.7.jpeg)
+![Fig. 4.2: An example of a nonsensical insult generated post on Twitter.]( /Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/13.7.jpeg)
 
 <br/>
 
@@ -7514,7 +7516,7 @@ way through our contemporary post-digital media situation.
 ## 2.
 
 ![Fig. 1: Disloyal Man with his Girlfriend Looking at Another Girl, also known as Distracted Boyfriend. Antonio Guillem, November 2, 2015. Digital image.
-Archived at Wikipedia. <a href="https://en.wikipedia.org/wiki/File:Disloyal%5C_man%5C_with%5C_his%5C_girlfriend%5C_looking%5C_at%5C_another%5C_girl.jpg">https://en.wikipedia.org/wiki/File:Disloyal\_man\_with\_his\_girlfriend\_looking\_at\_another\_girl.jpg</a>](imgs/15.2.jpeg)
+Archived at Wikipedia. <a href="https://en.wikipedia.org/wiki/File:Disloyal%5C_man%5C_with%5C_his%5C_girlfriend%5C_looking%5C_at%5C_another%5C_girl.jpg">https://en.wikipedia.org/wiki/File:Disloyal\_man\_with\_his\_girlfriend\_looking\_at\_another\_girl.jpg</a>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/15.2.jpeg)
 
 <br/>
 
@@ -7670,7 +7672,7 @@ perpetual obsolescence, new becoming old through bland repetition.
 
 ## 6.
 
-![Fig. 2: Distracted Angel of History. Digital Image. Originally seen on Twitter, late-2018. Archived at: Know Your Meme. <https://knowyourmeme.com/photos/1290289-distracted-boyfriend>](imgs/15.1.jpeg)
+![Fig. 2: Distracted Angel of History. Digital Image. Originally seen on Twitter, late-2018. Archived at: Know Your Meme. <https://knowyourmeme.com/photos/1290289-distracted-boyfriend>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/15.1.jpeg)
 
 Let’s try to draw all of these conceptual threads together by returning
 to my original conceit: ‘Distracted Boyfriend’ manifesting a
@@ -8018,7 +8020,7 @@ equally ambivalent conclusion of this essay.
 
 ## Moving Up
 
-![Fig. 0 - Source: https://en.wikipedia.org/wiki/Distracted_boyfriend](imgs/16.1.jpeg)
+![Fig. 0: Source: <https://en.wikipedia.org/wiki/Distracted_boyfriend>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/16.1.jpeg)
 
 <br/>
 
@@ -8040,7 +8042,7 @@ objects in reality. Figure 1 is simply representing the relation between
 the youth, socialism, and capitalism by means of the relations between
 the people in Figure 0.
 
-![Fig. 1 - Source: https://en.meming.world/wiki/Distracted_Boyf](imgs/16.2.jpeg)
+![Fig. 1: Source: <https://en.meming.world/wiki/Distracted_Boyf>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/16.2.jpeg)
 
 <br/>
 
@@ -8054,7 +8056,7 @@ contingent and dependent on personal taste that they do not lend
 themselves to rigorous philosophical
 analysis.
 
-![Fig. 2 - Source: https://knowyourmeme.com/photos/1287554-](imgs/16.3.jpeg)
+![Fig. 2: Source: <https://knowyourmeme.com/photos/1287554->](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/16.3.jpeg)
 
 <br/>
 
@@ -8075,7 +8077,7 @@ a meme M *within* itself would instantaneously move M up one order in
 the hierarchy. But then, the meme we are representing is obviously no
 longer M.
 
-![Fig. 2.1 - Source: https://knowyourmeme.com/photos/1287554-](imgs/16.4.jpeg)
+![Fig. 2.1: Source: <https://knowyourmeme.com/photos/1287554-?>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/16.4.jpeg)
 
 <br/>
 
@@ -8101,7 +8103,7 @@ formulates the necessary structure of language from within that very
 structure. Hence his treatise concludes: *Whereof one cannot speak,
 thereof one must be silent*.
 
-![Fig. 2.2 - Source: Set Theory Memes for Logically Equivalent Teens](imgs/16.5.jpeg)
+![Fig. 2.2: Source: Set Theory Memes for Logically Equivalent Teens](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/16.5.jpeg)
 
 <br/>
 
@@ -8133,7 +8135,7 @@ Level 3 meme must finalize the upward movement in its paradigm: when one
 has reached it, one must – paraphrasing proposition 6.54 of the
 *Tractatus – throw away the ladder one used to climb it*.
 
-![Fig. 3 - Source: https://emaaneastwood.blogspot.com/2019/11/meme-template-distracted-boyfriend.html](16.6.jpeg)
+![Fig. 3: Source: https://www.emaaneastwood.blogspot.com/2019/11/meme-template-distracted-boyfriend.html](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/16.6.jpeg)
 
 <br/>
 
@@ -8215,13 +8217,13 @@ basedness (see Figure 4 and Figure 5). But this will, as before, result
 in quietism, requiring us to throw away the ladder and move sideways
 into a new paradigm. And so memeological history will continue.
 
-![Fig. 4 – Source: eSCATological posting (a Facebook group that has now been zucced)](imgs/16.7.jpeg)
+![Fig. 4: Source: eSCATological posting, a Facebook group that has now been zucced](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/16.7.jpeg)
 
 <br/>
 
 ## Moving Beyond?
 
-![Fig. 5 - Source: https://youtu.be/VSkPkSYFQ3U](imgs/16.8.jpeg)
+![Fig. 5: Source: <https://youtu.be/VSkPkSYFQ3U>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/16.8.jpeg)
 
 <br/>
 
@@ -8299,7 +8301,7 @@ itself memetic, an attempt at radical ironizing beyond all dimensions.
 With these considerations in mind, I conclude that it is much easier to
 imagine the end of the world than the end of meme-culture.[^17chapter16_7]
 
-## References\
+## References
 
 Bauman, Zygmunt. *Postmodernity and Its Discontents*. New York, New York
 University Press, 1997.

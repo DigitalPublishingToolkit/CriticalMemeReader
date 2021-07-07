@@ -34,7 +34,7 @@ the horns and peace gestures. At that time, I was not able to decipher
 these enigmatic salutations, but it seemed to work like a charm to
 indicate that one was cool.
 
-![Fig. 1. Author’s childhood portrait while flashing the peace gesture. Date unknown.](imgs/20.1.jpg)
+![Fig. 1: Author’s childhood portrait while flashing the peace gesture. Date unknown.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/20.1.jpg)
 
 <br/>
 
@@ -140,8 +140,8 @@ behind this that hurts AKP supporters by suggesting there is an absence
 of subjectivity amongst those who do as Erdoğan bids—akin to zombie
 armies.
 
-![Fig. 2. A meme example mocking the style of AKP propaganda posters featuring the Night King, the supreme leader of White Walkers from the Game of Thrones series. Translates as: ‘Redemption and Ascension with kind support of the president we are resurrecting the Ottoman.’ Meme archived from Uludağ Sözlük. Posted by ‘theoutsider’ under the subsection ‘akgezenler vs the akp secmeni’ on 27.08.2017. Image
-available at: <ahttps://www.uludagsozluk.com/k/ak-gezenler-vs-akp-se%C3%A7meni/>](imgs/20.2.jpg)
+![Fig. 2: A meme example mocking the style of AKP propaganda posters featuring the Night King, the supreme leader of White Walkers from the Game of Thrones series. Translates as: ‘Redemption and Ascension with kind support of the president we are resurrecting the Ottoman.’ Meme archived from Uludağ Sözlük. Posted by ‘theoutsider’ under the subsection ‘akgezenler vs the akp secmeni’ on 27.08.2017. Image
+available at: <ahttps://www.uludagsozluk.com/k/ak-gezenler-vs-akp-se%C3%A7meni/>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/20.2.jpg)
 
 <br/> 
 
@@ -283,7 +283,7 @@ guards: similarly, Erdoğan descends from the principal stairs of his
 palace to receive his guest surrounded by guardsmen in warrior
 costumes.[^21chapter20_10]
 
-![Fig. 3. Guarded by Pokémon, Erdoğan shakes hands with Professor Oak in Aksaray. Author unknown. Posted on Twitter under the username: Çapul-Şen @kivanceliacik Date: 12.01.2015 Image available at: <https://www.diken.com.tr/erdoganin-askerleri-caps-oldu-yagdi-game-thronestan-age-empiresa-sey-var/>](imgs/20.3.jpg)
+![Fig. 3: Guarded by Pokémon, Erdoğan shakes hands with Professor Oak in Aksaray. Author unknown. Posted on Twitter under the username: Çapul-Şen @kivanceliacik Date: 12.01.2015 Image available at: <https://www.diken.com.tr/erdoganin-askerleri-caps-oldu-yagdi-game-thronestan-age-empiresa-sey-var/>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/20.3.jpg)
 
 <br/>
 
@@ -319,7 +319,7 @@ incompetent dummy minister or a nitwit caused so much humiliation that
 it resulted in his resignation. Under heavy fire, Erdoğan could not
 insist on keeping the weakest link in his position anymore.[^21chapter20_13]
 
-![Fig. 4. Meme showing Minister Berat Albayrak smiling by the tombstone of Turkish Economy. Author unknown. Posted on Twitter by the username: Dünyalı @obirdunyali Date: 17.08.2020 Image available at: <https://twitter.com/obirdunyali/status/1295298492555042816?s=20>](imgs/20.4.jpg)
+![Fig. 4: Meme showing Minister Berat Albayrak smiling by the tombstone of Turkish Economy. Author unknown. Posted on Twitter by the username: Dünyalı @obirdunyali Date: 17.08.2020 Image available at: <https://twitter.com/obirdunyali/status/1295298492555042816?s=20>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/20.4.jpg)
 
 <br/>
 

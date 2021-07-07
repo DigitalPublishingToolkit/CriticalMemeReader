@@ -267,7 +267,7 @@ take a page from Ryan Milner’s work, this is literally a ‘world made
 meme’ through the ‘messy memetic interrelationships’ between media, law,
 regulation and of course, users.[^22chapter21_26]
 
-![Fig. 1: Excerpt of an information brochure about the BWC hosted on the Information Security Awareness website run by the Ministry of Electronics and Information Technology.[^22chapter21_27] (Original Creator: Information Security Awareness, Ministry of Electronics and Information Technology (MeitY), Govt of India).](imgs/21.1.jpeg)
+![Fig. 1: Excerpt of an information brochure about the BWC hosted on the Information Security Awareness website run by the Ministry of Electronics and Information Technology.[^22chapter21_27] (Original Creator: Information Security Awareness, Ministry of Electronics and Information Technology (MeitY), Govt of India).](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/21.1.jpeg)
 
 <br/>
 
@@ -358,7 +358,7 @@ becomes a key agent in everyday practices of connectedness, it also
 overlaps with misinformation, rumor mongering and the fear of sudden,
 erupting violence.
 
-![Fig. 2: The WhatsApp interface and *The Ring* featured in an amateur short film on the BWC on YouTube. (Creator: onionNgarlic, YouTube).[^22chapter21_37]](imgs/21.2.jpeg)
+![Fig. 2: The WhatsApp interface and *The Ring* featured in an amateur short film on the BWC on YouTube. (Creator: onionNgarlic, YouTube).[^22chapter21_37]](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/21.2.jpeg)
 
 </br>
 
@@ -376,7 +376,7 @@ scramble to catch up to the viral speed of the network, the collision
 between bodies, devices and practices remains largely unmanageable. And
 as Bauman reminds us, ‘we fear what we can’t manage.’[^22chapter21_38]
 
-![Fig. 3: YouTube screengrabs of an *NDTV* news program about the BWC. The image on the right shows public demonstrations against the BWC (NDTV, YouTube).[^22chapter21_39]](imgs/21.3.jpeg)
+![Fig. 3: YouTube screengrabs of an *NDTV* news program about the BWC. The image on the right shows public demonstrations against the BWC (NDTV, YouTube).[^22chapter21_39]](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/21.3.jpeg)
 
 </br>
 
@@ -401,7 +401,7 @@ horror films at 4:20 am. The same coding is also visible in the short
 film variants, albeit in narrative form, and such details also inform
 the PILs discussed earlier.
 
-![Fig. 4: The BWC ‘tasks’ listed in an advisory video on YouTube. (Creator: SidTalk, YouTube).[^22chapter21_41]](imgs/21.4.jpeg)
+![Fig. 4: The BWC ‘tasks’ listed in an advisory video on YouTube. (Creator: SidTalk, YouTube).[^22chapter21_41]](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/21.4.jpeg)
 
 </br>
 

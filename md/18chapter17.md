@@ -23,7 +23,7 @@ Rights: CC BY-NC 4.0
 
 ## How Many Layers Are You On?
 
-![Fig. 1 - The 'Layers of Irony' Meme - first posted to the ‘Special Meme Fresh’ Facebook page on October 24th, 2015](imgs/17.1)
+![Fig. 1: The 'Layers of Irony' Meme - first posted to the ‘Special Meme Fresh’ Facebook page on October 24th, 2015](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/17.1.jpeg)
 
 <br/>
 

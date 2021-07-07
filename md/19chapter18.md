@@ -113,7 +113,7 @@ accessible to any person with an internet connection.
 
 ### Types of ‘Aestheticization of Politics’
 
-![Fig. 1 Types of Aestheticization of Politics](imgs/18.1.jpeg)
+![Fig. 1: Types of Aestheticization of Politics](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/18.1.jpeg)
 
 <br/>
 
@@ -146,7 +146,7 @@ of this fact-defying virality is its visuality.
 
 ### Meme 1: One Nation, One Flag
 
-![Fig. 2 One Nation One Flag. Source: @saffronpilled, One Nation One Flag, 2019, Instagram Post, <https://www.instagram.com/p/BzA4B9cFs7W/>](imgs/18.2.jpeg)
+![Fig. 2: One Nation One Flag. Source: @saffronpilled, One Nation One Flag, 2019, Instagram Post, <https://www.instagram.com/p/BzA4B9cFs7W/>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/18.2.jpeg)
 
 <br/>
 
@@ -177,7 +177,7 @@ immersed in digital culture.
 
 ### Meme 2: Hindu Lives Matter
 
-![Fig. 3 Hindu Lives Matter Source: @bharatincrisis, Hindu Lives Matter meme, 2020, Instagram Post, <https://www.instagram.com/p/CLMMSfdABK6/?igshid=1kf3pts4eyki3>](imgs/18.3.jpeg)
+![Fig. 3: Hindu Lives Matter Source: @bharatincrisis, Hindu Lives Matter meme, 2020, Instagram Post, <https://www.instagram.com/p/CLMMSfdABK6/?igshid=1kf3pts4eyki3>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/18.3.jpeg)
 
 <br/>
 
@@ -206,8 +206,8 @@ completely false equivalence to support its position.
 
 ### Meme 3: Sanskari (Virtuous) Girl meme
 
-![Fig. 4 Girl wearing Sari
-Source: @hindutvamemes, Girl Wearing Sari, 2021, Instagram Post, <https://www.instagram.com/p/CNt4ug6Lxd4>](imgs/18.4.jpeg)
+![Fig. 4: Girl wearing Sari
+Source: @hindutvamemes, Girl Wearing Sari, 2021, Instagram Post, <https://www.instagram.com/p/CNt4ug6Lxd4>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/18.4.jpeg)
 
 <br/>
 
@@ -244,10 +244,10 @@ Adapting historical and political contexts to trendy visual genres or
 subcultures to appeal to their respective audiences. These trends may
 include aesthetic styles, current events & pop culture references.
 
-![Fig. 5 ‘Govt’s involvement in protecting Hindu temple and civilization’ Fig. 5 is a reference to a ship getting stuck at the Suez Canal in March
+![Fig. 5: ‘Govt’s involvement in protecting Hindu temple and civilization’ Fig. 5 is a reference to a ship getting stuck at the Suez Canal in March
 ‘21 and was a heavily used meme format. Here the messaging points at religious (Hindu) victimization even though the group is a vast majority
 in the country. This is a classic example of Trendification. Source: @indic\_history\_memes, ‘Govt’s involvement in protecting Hindu temple and civilization’, 2021, Instagram Post,
-<https://www.instagram.com/p/CM3wFp4Bl82>.](imgs/18.5.jpeg)
+<https://www.instagram.com/p/CM3wFp4Bl82>.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/18.5.jpeg)
 
 <br/>
 
@@ -257,14 +257,14 @@ in the country. This is a classic example of Trendification. Source: @indic\_his
 Associating an idea with positive and emotive language. Juxtaposing an
 ideological message with euphoric or cheerful imagery.
 
-![ Fig. 6 ‘Nudes…? No girl. The meme (fig.6) is a reference to the popular culture of sharing nudes.
-However, this is depicted as a ‘vice’, and doing pooja (engaging in worship) is depicted as a ‘virtuous’ act. The aesthetic used is of a popular AR filter and the imagery is of a young Hindu monk. Source: @rastrawadi\_dank\_memes, ‘Nudes…? No Girl’, 2021, Instagram Post, <https://www.instagram.com/p/CNkgd-4hfxp>](imgs/18.6.jpeg)
+![ Fig. 6: ‘Nudes…? No girl. The meme (fig.6) is a reference to the popular culture of sharing nudes.
+However, this is depicted as a ‘vice’, and doing pooja (engaging in worship) is depicted as a ‘virtuous’ act. The aesthetic used is of a popular AR filter and the imagery is of a young Hindu monk. Source: @rastrawadi\_dank\_memes, ‘Nudes…? No Girl’, 2021, Instagram Post, <https://www.instagram.com/p/CNkgd-4hfxp>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/18.6.jpeg)
 
 <br/>
 
-![Fig. 7 Soldiers performing worship infographic\
+![Fig. 7: Soldiers performing worship infographic\
 The meme is from a popular right-wing page with over 16.1k followers. This meme consists of two ‘virtues’: those of religiosity and military patriotism. The mixed message hopes to point at how the ‘brave’ soldiers
-are engaging in Hindu prayer at theIndia-Pakistan border. Source: @bharatarashtra, Soldiers performing worship infographic, 2021, Instagram Post, <https://www.instagram.com/p/CNpOeTyBij7/>](imgs/18.7.jpeg) 
+are engaging in Hindu prayer at theIndia-Pakistan border. Source: @bharatarashtra, Soldiers performing worship infographic, 2021, Instagram Post, <https://www.instagram.com/p/CNpOeTyBij7/>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/18.7.jpeg) 
 
 <br/>
 
@@ -274,9 +274,9 @@ Using *glittering generalities,*[^19chapter18_19] to falsely prove ideological
 arguments. Oversimplifying complex, nuanced realities to incite a change
 in viewpoint.
 
-![Fig. 8 Hindu vs. Muslim reaction meme. This meme is an example of an over-simplistic and vague comparison of two incidents. It depicts two personalities with different religious affiliations conveyed through their background colours (saffron being Hindu, green being Muslim). However, the meme is a jab at liberals and
+![Fig. 8: Hindu vs. Muslim reaction meme. This meme is an example of an over-simplistic and vague comparison of two incidents. It depicts two personalities with different religious affiliations conveyed through their background colours (saffron being Hindu, green being Muslim). However, the meme is a jab at liberals and
 claims that in their eyes only Muslims have ‘freedom of speech’ while Hindus do not. This is a case of *Hindu-victimisation* and whataboutism. Source: @burnol\_wala, Hindu vs. Muslim reaction meme, 2021, Instagram
-Post, <https://www.instagram.com/p/CNxh-fjj-q8/>](imgs/18.8.jpeg)
+Post, <https://www.instagram.com/p/CNxh-fjj-q8/>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/18.8.jpeg)
 
 <br/>
 
@@ -292,7 +292,7 @@ slideshows on Instagram[^19chapter18_20]) to propagate a right-wing agenda. Driv
 by transfer of association of the visuals they imitate, such memes
 establish the credibility of their content.
 
-![Fig. 9 ‘Can you go with me?’ In Fig. 9 the meme shows a mob climbing on top of the Taj Mahal and waving a saffron flag as a display of their domination. The meme is meant to be an attack on this monument because it was built by a Mughal ruler (the entire Mughal empire being a symbol of Islamic oppression of Hindu India according to the Hindu right-wing ideology). By using the recurring imagery of Hindu ideology (saffron flags) the meme tries to dissociate its gruesome context. This visual recall helps in endorsing views under the guise of subscribing to this ideology. It also uses Trendification (1) as a visual style in the form of its pink glitter filter which gives it a Tik Tok aesthetic. It’s worth pointing out the photo is a direct reference to the Insta-famous ‘hand-holding’ couple. Source: @jai\_mahakal1, “Can you go with me?”, 2021, Instagram Post, <https://www.instagram.com/p/CNsNq4YBmGW/>](imgs/18.9.jpeg)
+![Fig. 9: ‘Can you go with me?’ In Fig. 9 the meme shows a mob climbing on top of the Taj Mahal and waving a saffron flag as a display of their domination. The meme is meant to be an attack on this monument because it was built by a Mughal ruler (the entire Mughal empire being a symbol of Islamic oppression of Hindu India according to the Hindu right-wing ideology). By using the recurring imagery of Hindu ideology (saffron flags) the meme tries to dissociate its gruesome context. This visual recall helps in endorsing views under the guise of subscribing to this ideology. It also uses Trendification (1) as a visual style in the form of its pink glitter filter which gives it a Tik Tok aesthetic. It’s worth pointing out the photo is a direct reference to the Insta-famous ‘hand-holding’ couple. Source: @jai\_mahakal1, “Can you go with me?”, 2021, Instagram Post, <https://www.instagram.com/p/CNsNq4YBmGW/>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/18.9.jpeg)
 
 <br/>
 
@@ -308,11 +308,8 @@ Another approach is disinformation combined with false imagery in the
 form of image manipulation, deepfakes etc. to create false visual
 association. This can also be achieved by cherry picking content.
 
-![Fig. 10 Sundar Pichai on NEET exam\
-In fig. 10, we see a viral image that was being circulated to show
-Google CEO Sundar Pichai’s opinion on the NEET exam (a medical entrance exam in India). The image includes the logos of the *Copenhagen University Press, Google* and *The Business Outsider.* However, Sundar Pichai reportedly never said any of the given text[^19chapter18_21] *Copenhagen
-University Press* has no association with this statement either and the name and website of *The Business Outsider* seeks to emulate another much more credible and well-known website called *The Business Insider*. These three elements add a touch of legitimacy to this viral and false
-image.](imgs/18.10.jpeg)
+![Fig. 10: Sundar Pichai on NEET exam. In fig. 10, we see a viral image that was being circulated to show
+Google CEO Sundar Pichai’s opinion on the NEET exam (a medical entrance exam in India). The image includes the logos of the *Copenhagen University Press, Google* and *The Business Outsider.* However, Sundar Pichai reportedly never said any of the given text[^19chapter18_21] *Copenhagen University Press* has no association with this statement either and the name and website of *The Business Outsider* seeks to emulate another much more credible and well-known website called *The Business Insider*. These three elements add a touch of legitimacy to this viral and false image.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/18.10.jpeg)
 
 <br/>
 
@@ -326,19 +323,17 @@ claims and fake news. This is done through diagrams, scientific-looking
 visuals, made-up testimonies of projected experts, other similar
 techniques.
 
-![Fig.11.1 Value of Semen](imgs/18.11.1.jpeg)
+![Fig.11.1: Value of Semen.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/18.11.1.jpeg)
 
 <br/>
 
-![Fig.11.2 Formation of Semen. The Fig.s 11.1 and 11.2 are slides from a post claiming unverified facts
-and a hoax theory (11.1) by using anatomical diagrams (11.2) to appear scientific. The claim cites Ayurveda[^19chapter18_22] as logic for this theory and
-calls to reject so-called western notions on the subject. Source: @snaatanhindutva, Value of Semen Infographic, 2020, Instagram Post, <https://www.instagram.com/p/CHw-KnBAEJH/>](imgs/18.11.2.jpeg)
+![Fig.11.2: Formation of Semen. The Fig.s 11.1 and 11.2 are slides from a post claiming unverified facts
+and a hoax theory (11.1) by using anatomical diagrams (11.2) to appear scientific. The claim cites Ayurveda[^19chapter18_22] as logic for this theory and calls to reject so-called western notions on the subject. Source: @snaatanhindutva, Value of Semen Infographic, 2020, Instagram Post, <https://www.instagram.com/p/CHw-KnBAEJH/>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/18.11.2.jpeg)
 
 <br/>
 
-![Fig. 11.3 Darwin x Dashavatara. In this second example, the meme is trying to establish a supposed link between the chain of evolution and the different avatars of the hindu god Vishnu. By juxtaposing arbitrary creatures on a timeline, the meme
-tries to imply that the Hindu mythological concept of ‘Dashavatara’ had foretold and preceded Darwin’s theory of evolution. Source: Mystery of India Website, Evolution according to Dashavatara, 2014, Blog Post,
-<https://www.mysteryofindia.com/2014/10/dashavatar-darwins-evolution.html>](18.11.3.jpg)
+![Fig. 11.3: Darwin x Dashavatara. In this second example, the meme is trying to establish a supposed link between the chain of evolution and the different avatars of the hindu god Vishnu. By juxtaposing arbitrary creatures on a timeline, the meme tries to imply that the Hindu mythological concept of ‘Dashavatara’ had foretold and preceded Darwin’s theory of evolution. Source: Mystery of India Website, Evolution according to Dashavatara, 2014, Blog Post,
+<https://www.mysteryofindia.com/2014/10/dashavatar-darwins-evolution.html>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/18.11.3.jpg)
 
 ### Cute-ification
 
@@ -349,9 +344,9 @@ messages embedded in cute pop cultural references. The bite-sized format
 of cute, aesthetically pleasing memes distances you from the grotesque
 facts, thereby warping your perception of reality.
 
-![Fig.12 Har Har Mahadev X Doge. In the meme above, we see the character Doge asking the viewer what is stopping them from saying ‘Har Har Mahadev’– originally a religious Hindu mantra. The meme is a reference to a political speech where the phrase was used as a jab at the opposition (for having contested the use
+![Fig.12: Har Har Mahadev X Doge. In the meme above, we see the character Doge asking the viewer what is stopping them from saying ‘Har Har Mahadev’– originally a religious Hindu mantra. The meme is a reference to a political speech where the phrase was used as a jab at the opposition (for having contested the use
 of religious slogans in politics). It undoes this political connotation by presenting it with the Doge meme and cute emojis. Source: @proudhindu\_, Har Har Mahadev X Doge, 2021, Instagram Post,
-<https://www.instagram.com/p/CM2T9PRBRQL/>.](imgs/18.13.jpeg)
+<https://www.instagram.com/p/CM2T9PRBRQL/>.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/18.13.jpeg)
 
 <br/>
 
@@ -361,9 +356,8 @@ The use of imagery to imply something is unimportant or not worthy of
 attention. Using common jokes, cartoons and rage comics to dismiss and
 trivialize oppressed groups, the opposition and critique.
 
-![Fig. 13 Indian Transgender people x Tom and Jerry. In this example, we see Indian transgender people being equated to the cartoon Tom, insistently asking for something. This is a jibe at transgender people who beg due to forced systemic poverty. By depicting their plight in the form of a cartoon-based meme, all nuance and attempts to understand the issue are discarded. The entire Indian transgender community is thus alienated and reduced to mere fodder for humor. Source: Reserved Memes for Dalit Teens, Indian Transgenders X Tom and
-Jerry, 2019, Facebook Post,
-<https://www.facebook.com/Dalitsenpai/photos/610210472788608">.](imgs/18.14.jpeg)
+![Fig. 13: Indian Transgender people x Tom and Jerry. In this example, we see Indian transgender people being equated to the cartoon Tom, insistently asking for something. This is a jibe at transgender people who beg due to forced systemic poverty. By depicting their plight in the form of a cartoon-based meme, all nuance and attempts to understand the issue are discarded. The entire Indian transgender community is thus alienated and reduced to mere fodder for humor. Source: Reserved Memes for Dalit Teens, Indian Transgenders X Tom and
+Jerry, 2019, Facebook Post, <https://www.facebook.com/Dalitsenpai/photos/610210472788608">.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/18.14.jpeg)
 
 <br/>
 
@@ -408,8 +402,8 @@ radicalized by malicious propaganda: the content he consumed in turn
 consumed him. A shocking incident, but can we really say we didn't see
 it coming?
 
-![Fig.15 Screenshot from the perpetrator’s Facebook page right before he pulled out the gun. He uses the prefix ‘*Rambhakt*’ (which translates to
-a worshiper of the Hindu god Ram). Source: Screenshot of ‘Rambhakt’s’ Facebook post, the 17-year-old shooter at Jamia Milia Islamia University is posing with a gun, 2020, News Article, <https://thediplomat.com/2020/02/jamia-millia-shootout-making-of-a-hindutva-terrorist/>](imgs/18.15.jpeg)
+![Fig.15: Screenshot from the perpetrator’s Facebook page right before he pulled out the gun. He uses the prefix ‘*Rambhakt*’ (which translates to
+a worshiper of the Hindu god Ram). Source: Screenshot of ‘Rambhakt’s’ Facebook post, the 17-year-old shooter at Jamia Milia Islamia University is posing with a gun, 2020, News Article, <https://thediplomat.com/2020/02/jamia-millia-shootout-making-of-a-hindutva-terrorist/>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/18.15.jpeg)
 
 In Freedom House’s *Freedom in the World 2021* report, India had its
 status a s a ‘free’ nation downgraded to ‘partly free’ due to what they
