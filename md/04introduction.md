@@ -405,7 +405,7 @@ York: Routledge, 2016.
 [^02introduction_2]: Maurizio Lazzarato, [*Signs and Machines: Capitalism and the
     Production of Subjectivity*, trans. Joshua David Jordan,
     Semiotext(e) Foreign Agents Series (Los Angeles, CA: Semiotext(e),
-    2014), <a href="http://39.](https://www.zotero.org/google-docs/?nObmdR)">39.](https://www.zotero.org/google-docs/?nObmdR)</a>
+    2014),[https://www.zotero.org/google-docs/?nObmdR](https://www.zotero.org/google-docs/?nObmdR)
 
 [^02introduction_3]: Claudio Celis Bueno, “Harun Farocki's Asignifying Images,”
     *tripleC* 15, no. 2 (2017): 742.
