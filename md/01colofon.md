@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-#Colofon
+#Colophon
 
 **INC Reader \#15**
 **Critical Meme Reader: Global Mutations of the Viral Image**<br/>
@@ -43,7 +43,7 @@ Amsterdam University of Applied Sciences<br/>
 
 Order a copy or download this publication for free at:
 <a href="http://www.networkcultures.org/publications">www.networkcultures.org/publications</a><br/>
-Subscribe to the INC newsletters: <a href="http://www.networkcultures.org/newsletter">www.networkcultures.org/newsletter</a> / <a href="https://app.inboxify.nl/sign-up/v2/61624D6C4D7347364669303D/7638456838614B6B4E61673D">https://app.inboxify.nl/sign-up/v2/61624D6C4D7347364669303D/7638456838614B6B4E61673D</a>
+Subscribe to the INC newsletters: <a href="http://www.networkcultures.org/newsletter">www.networkcultures.org/newsletter</a> / [Viral Image Culture](>https://app.inboxify.nl/sign-up/v2/61624D6C4D7347364669303D/7638456838614B6B4E61673D) 
 
 
 

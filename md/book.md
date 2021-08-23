@@ -133,7 +133,7 @@ Reader, 2005.
 
 <a href='ch011.xhtml'>**Le Meme d’Auteur, or: 
 How We Learned to Stop Worrying and Love Original Content Memes**</a>
-<br/>Clusterduck (Tommaso Cappelletti, Silvia Dal Dosso, Francesca Del Bono, Aria Mag, Noel Nicolaus)
+<br/>Clusterduck (Tommaso Cappelletti, Silvia Dal Dosso, Francesca Del Bono, Aria Mag and Noel Nicolaus)
 
 <a href='ch012.xhtml'>**Making poetry babies in an online world**</a>
 <br/>Laurence Scherz
@@ -185,7 +185,7 @@ A Clapback to Saudi Arabia’s Electronic Army**</a>
 <br/>The Trans Bears
 
 <a href='ch029.xhtml'>**Pepe the Frog Is Love and Peace: His Second Life in Hong Kong**</a>
-<br/>ACaspar Chan
+<br/>Caspar Chan
 
 <a href='ch030.xhtml'>**Meme Tarot**</a>
 <br/>Luther Blisset
@@ -318,7 +318,7 @@ representation and ideology, Bueno asks:
 > apparatus that helps grasping the machinic dimension of contemporary
 > capitalism?[^02introduction_5]
 
-This is also exactly the question memes pose to us. <a href='ch022.xhtml'>As Geoff
+This is also exactly the question memes pose to us. <a href='ch023.xhtml'>As Geoff
 Hondroudakis argues</a> in his contribution to this reader:
 
 > The significance of circulation and exchange in memes—their
@@ -363,7 +363,7 @@ Outdoor Playground Finger Family Song Nursery Rhymes Animation Education
 Learning Video,’ ‘Double Pregnant FROZEN ELSA vs DOCTOR! w/ Spiderman vs
 Joker Maleficent Hulk Baby - Superhero Fun’ and the myriad other
 examples of recombinant YouTube Kids’ grotesquery, the dead eyes of
-‘Momo,’ or the psychic terrorism of the ‘Blue Whale Challenge’ <a href='ch026.xhtml'>that
+‘Momo,’ or the psychic terrorism of the ‘Blue Whale Challenge’ <a href='ch027.xhtml'>that
 Anirban Baishya discusses</a> in this collection:
 
 > Memetic terror is an affective, networked fear of breaching. It
@@ -425,7 +425,7 @@ a distance: isn’t that the very definition of media?
 
 From state actors to insurgents, Memes have proven to be powerful
 weapons in informational warfare. Indeed, even the canard that ‘the left
-can’t meme’ is a meme unto itself, as <a href='ch024.xhtml'>Andy King tells us</a> in her essay
+can’t meme’ is a meme unto itself, as <a href='ch025.xhtml'>Andy King tells us</a> in her essay
 ‘Weapons of Mass Distraction: Far-right Culture-jamming Tactics in
 Memetic Warfare’:
 
@@ -4030,7 +4030,7 @@ Like, Socrates laughed on his deathbed. That’s memeable AF.
 
 # Le Meme d’Auteur, or: How We Learned to Stop Worrying and Love Original Content Memes
 
-###Clusterduck (Silvia Dal Dosso, Francesca Del Bono, Aria Mag, Noel Nicolaus)
+###Clusterduck (Silvia Dal Dosso, Francesca Del Bono, Aria Mag and Noel Nicolaus)
 
 At the start of the third decade of the 21st century, while internet
 Memes certainly can’t be considered a cultural novelty anymore, their
@@ -9052,7 +9052,7 @@ Human Future at the New Frontier of Power*. New York: PublicAffairs,
 
 # **Post-Truth Design Tactics in Memes in India: Decoding Malicious Design Practices in Right-Wing Meme Factories**
 
-###By Aarushi Bapna, Ajitesh Lokhande
+###By Aarushi Bapna and Ajitesh Lokhande
 
 On May 12, 2017, two people suspected to be child kidnappers were
 lynched in the Indian village of Jadugora, in the eastern state of
