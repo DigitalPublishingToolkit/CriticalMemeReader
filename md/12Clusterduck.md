@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 # Le Meme d’Auteur, or: How We Learned to Stop Worrying and Love Original Content Memes
 
-###Clusterduck (Silvia Dal Dosso, Francesca Del Bono, Aria Mag, Noel Nicolaus)
+###Clusterduck (Silvia Dal Dosso, Francesca Del Bono, Aria Mag and Noel Nicolaus)
 
 At the start of the third decade of the 21st century, while internet
 Memes certainly can’t be considered a cultural novelty anymore, their
