@@ -110,72 +110,107 @@ of this license, visit <a href="http://www.creativecommons.org/licences/by-nc-sa
 
 #Contents
 
-<a href='ch003.xhtml'>**Acknowledgments**</a>
-<br/>
+ <a href='ch004.xhtml'>**Introduction: Global Mutations of the Viral Image**</a>
+<br/>Chloë Arkenbout, Jack Wilson and Daniël de Zeeuw 
 
-<a href='ch004.xhtml'>**Foreword**</a>
-<br/>Ravi Sundaram
+###MEMETIC SUBJECTIVITIES & COMMUNITIES
 
- <a href='ch005.xhtml'>**Introduction: Relationalities Abound**</a>
-<br/>Sandeep Mertia
+<a href='ch006.xhtml'>**Wojak’s lament: Excess and Voyeurism Under Platform Capitalism**</a>
+<br/>Anthony Glyn Burton
 
-###HISTORIES
+<a href='ch007.xhtml'>**The ‘Grotesque’ in Instagram Memes**</a>
+<br/>İdil Galip
 
-<a href='ch006.xhtml'>**01. Did Mahalanobis Dream of Androids?**</a>
-<br/>Sandeep Mertia
 
-<a href='ch007.xhtml'>**02. Programming the Intermission: ‘Big Data’, Software, and Indian Cinema**</a>
-<br/>Karl Mendonca 
+<a href='ch008.xhtml'>**‘A Vaguely Erotic Mime’: Mimetic Text vs. Optical Tactility**</a>
+<br/>Sabrina Ward-Kimola
 
-###FORMS
+<a href='ch009.xhtml'>**Praise Gopod: Weird Tales and Memetic Lore on the WELL**</a>
+<br/>Jacob Sujin Kuppermann
 
-<a href='ch008.xhtml'>**03. Number, Probability, and Community: the Duckworth-Lewis-Stern Data Model and Counterfactual Futures in Cricket**</a>
-<br/>Sivakumar Arumugam
+<a href='ch010.xhtml'>**Audio Memes, Earworms, and Templatability: the ‘Aural Turn’ of Memes on TikTok**</a>
+<br/>Crystal Abidin and Dr. Bondy Valdovinos Kaye
 
-<a href='ch009.xhtml'>**04. Study the Imbrication: A Methodological Maxim to Follow the Multiple Lives of Data**</a>
-<br/>Ranjit Singh
+<a href='ch011.xhtml'>**Memes in Kuwait as Coping Mechanism for a Lack of Infrastructure**</a>
+<br/>Yasmeen Khaja
 
-<a href='ch010.xhtml'>**05. Data Lives of Humanities Texts**</a>
-<br/>Puthiya Purayil Sneha
+###THE WORK OF ART IN THE AGE OF MEMETIC PRODUCTION
 
-###POLITICAL DESIGNS
+<a href='ch012.xhtml'>**Masks, Monsters, and Memes: In Conversation with Scoobert Doobert**</a>
+<br/>Max Horwich
 
-<a href='ch011.xhtml'>**06. Hackathons: Labor, Politics, and the Organization of Public Passions**</a>
-<br/>Lilly Irani
+<a href='ch013.xhtml'>**Le Meme d’Auteur, or: 
+How We Learned to Stop Worrying and Love Original Content Memes**</a>
+<br/>Clusterduck (Tommaso Cappelletti, Silvia Dal Dosso, Francesca Del Bono, Aria Mag, Noel Nicolaus)
 
-<a href='ch012.xhtml'>**07. Reporting the World’s Largest Biometric Project**</a>
-<br/>Anumeha Yadav
+<a href='ch014.xhtml'>**Making poetry babies in an online world**</a>
+<br/>Laurence Scherz
 
-<a href='ch013.xhtml'>**08. Broken Data: Repairs in the Production of Biometric Bodies**</a>
-<br/>Preeti Mudliar
+<a href='ch015.xhtml'>**‘The Disturbingly Humanoid Face of the Lamb of God Has Shocked Many’: Visual Strategies in Internet Memes on the Restoration of the Ghent Altarpiece**</a>
+<br/>Martin Hanßen
 
-###PRACTICES
+<a href='ch016.xhtml'>**Ibiza Austrian Memes: Reflections on Reclaiming Political Discourse through Memes**</a>
+<br/>Anahita Neghabat
 
-<a href='ch014.xhtml'>**09. Outline India: Field Notes on Data Practices and Innovations**</a>
-<br/>Prerna Mukharya and Mahima Taneja
+<a href='ch017.xhtml'>**Dear Mr.BoneSaw your face smells like a chicken shawarma: 
+A Clapback to Saudi Arabia’s Electronic Army**</a>
+<br/>Saeeda Saeed
 
-<a href='ch015.xhtml'>**10. Collecting Open Data**</a>
-<br/>Guneet Narula
+###FROM PEAK TO POST MEME
 
-<a href='ch016.xhtml'>**11. Making India’s Budgets Machinable**</a>
-<br/>Gaurav Godhwani
+<a href='ch018.xhtml'>**Mimetic Sameness**</a>
+<br/>Grant Bollmer
 
-### FIELDS
+<a href='ch019.xhtml'>**A Postdigital Angel of History? On ‘Meme Theory'**</a>
+<br/>Scott Wark
 
-<a href='ch017.xhtml'>**12. Hisaab-Kitaab in Big Data: Finding Relief from Calculative Logics**</a>
-<br/>Noopur Raval
+<a href='ch018.xhtml'>**On the Prospect of Overcoming Meme-Culture or, The Last Meme in History**</a>
+<br/>Åke Gafvelin
 
-<a href='ch018.xhtml'>**13. Untidy Data: Spreadsheet Practices in the Indian Bureaucracy**</a>
-<br/>Aakash Solanki
+<a href='ch019.xhtml'>**Deeper and Higher: Memes as Scalar Abstraction**</a>
+<br/>Geoffrey Hondroudakis
 
-<a href='ch019.xhtml'>**14. The Work of Waiting: Syndromic Surveillance and the Paradox of Immediacy**</a>
-<br/>Anirudh Raghavan
+###MEME WARFARE
+
+<a href='ch018.xhtml'>**Post-Truth Design Tactics in Memes in India: Decoding Malicious Design Practices in Right-Wing Meme Factories**</a>
+<br/>Aarushi Bapna and Ajitesh Lokhande
+
+<a href='ch019.xhtml'>**Weapons of Mass Distraction: Far-Right Culture-Jamming Tactics in Memetic Warfare**</a>
+<br/>Andy King
+
+<a href='ch018.xhtml'>**Your Feed is a Battleground: A Field Report on Memetic Warfare in Turkey**</a>
+<br/>Sarp Özer
+
+<a href='ch019.xhtml'>**It Lurks in the Deep: Memetic Terror and the Blue Whale Challenge in India**</a>
+<br/>Anirban K. Baishya
+
+<a href='ch019.xhtml'>**SILICODEFORESTATION**</a>
+<br/>Stephanie Boulding
+
+###MEME MAGIC: SPECTRES AND DEMONS
+
+<a href='ch019.xhtml'>**An Ambiguous Utopia**</a>
+<br/>The Trans Bears
+
+<a href='ch019.xhtml'>**Pepe the Frog Is Love and Peace: His Second Life in Hong Kong**</a>
+<br/>ACaspar Chan
+
+<a href='ch019.xhtml'>**Meme Tarot**</a>
+<br/>Luther Blisset
+
+<a href='ch019.xhtml'>**Genes, Memes, Dreams**</a>
+<br/>Ivan Knapp
+
+<a href='ch019.xhtml'>**The Contagious Other: Virality and Anxiety in Congolese Memes**</a>
+<br/>Lesley Nicole Braun
 
 ####<a href='ch020.xhtml'>Contributor Biographies</a>
 
+####<a href='ch020.xhtml'>Meme Studies Research Network</a>
 
 
-#**Global Mutations of the Viral Image**
+
+#**Introduction: Global Mutations of the Viral Image**
 
 ###Chloë Arkenbout, Jack Wilson and Daniël de Zeeuw 
 

@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-#**Global Mutations of the Viral Image**
+#**Introduction: Global Mutations of the Viral Image**
 
 ###Chloë Arkenbout, Jack Wilson and Daniël de Zeeuw 
 
