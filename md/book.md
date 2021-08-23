@@ -8,45 +8,33 @@ INC Reader \#15
 
 
 
-###Colofon
+#Colofon
 
-###**INC Reader \#15**
+**INC Reader \#15**
+**Critical Meme Reader: Global Mutations of the Viral Image**<br/>
+*Editors: Chloë Arkenbout, Jack Wilson, Daniel de Zeeuw*
 
-###**Critical Meme Reader: Global Mutations of the Viral Image**
-
-Editors: Chloë Arkenbout, Jack Wilson, Daniel de Zeeuw
-
-Copy editor: Geoff Hondroudakis
-
-Cover design: Marijn Bril
-
-Cover font: Terminal Grotesque Regular by Raphaël Bastide (Velvetyne)
-
-Design and EPUB development: Chloë Arkenbout
-
-Printing and binding: GPS Group
+**Copy editor**: Geoff Hondroudakis<br/>
+**Cover design**: Marijn Bril<br/>
+**Cover font** Terminal Grotesque Regular by Raphaël Bastide (Velvetyne)<br/>
+**Design and EPUB development**: Chloë Arkenbout<br/>
+**Printing and binding**: GPS Group
 
 Published by the Institute of Network Cultures, Amsterdam 2021
 
-ISBN print: 9789492302762
-
+ISBN print: 9789492302762<br/>
 ISBN EPUB: 9789492302779 
 
-**Contact**
-
-Institute of Network Cultures
-
-Amsterdam University of Applied Sciences
-
-Emai: <a href="mailto:info@networkcultures.org">info@networkcultures.org</a> / <a href="mailto:viralimageculture@networkcultures.org">viralimageculture@networkcultures.org</a>
-
-Web: [www.networkcultures.org](http://www.networkcultures.org) / <a href="http://www.networkcultures.org/viralimageculture">https://app.inboxify.nl/sign-up/v2/61624D6C4D7347364669303D/7638456838614B6B4E61673D</a>
+**Contact**<br/>
+Institute of Network Cultures<br/>
+Amsterdam University of Applied Sciences<br/>
+**Email**: <a href="mailto:info@networkcultures.org">info@networkcultures.org</a> / <a href="mailto:viralimageculture@networkcultures.org">viralimageculture@networkcultures.org</a><br/>
+**Web**: [www.networkcultures.org](http://www.networkcultures.org) / <a href="http://www.networkcultures.org/viralimageculture">www.networkcultures.org/viralimageculture</a>
 
 
 Order a copy or download this publication for free at:
-<a href="http://www.networkcultures.org/publications">www.networkcultures.org/publications</a>
-
-Subscribe to the INC newsletters: <a href="http://www.networkcultures.org/newsletter">www.networkcultures.org/newsletter</a> / <a href="https://app.inboxify.nl/sign-up/v2/61624D6C4D7347364669303D/7638456838614B6B4E61673D">www.networkcultures.org/viralimageculture</a>
+<a href="http://www.networkcultures.org/publications">www.networkcultures.org/publications</a><br/>
+Subscribe to the INC newsletters: <a href="http://www.networkcultures.org/newsletter">www.networkcultures.org/newsletter</a> / <a href="https://app.inboxify.nl/sign-up/v2/61624D6C4D7347364669303D/7638456838614B6B4E61673D">https://app.inboxify.nl/sign-up/v2/61624D6C4D7347364669303D/7638456838614B6B4E61673D</a>
 
 
 
@@ -54,58 +42,63 @@ This publication is licensed under the Creative Commons Attribution
 NonCommercial ShareAlike 4.0 Unported (CC BY-NC-SA 4.0). To view a copy
 of this license, visit <a href="http://www.creativecommons.org/licences/by-nc-sa/4.0/">www.creativecommons.org/licences/by-nc-sa/4.0/</a>.
 
+<br/>
 
-![](imgs/INC-logoCMYK.png)
+![](imgs/inclogo.jpg)
 
-
-###Colofon
-
-###**INC Reader \#15**
-
-###**Critical Meme Reader: Global Mutations of the Viral Image**
-
-Editors: Chloë Arkenbout, Jack Wilson, Daniel de Zeeuw
-
-Copy editor: Geoff Hondroudakis
-
-Cover design: Marijn Bril
-
-Cover font: Terminal Grotesque Regular by Raphaël Bastide (Velvetyne)
-
-Design and EPUB development: Chloë Arkenbout
-
-Printing and binding: GPS Group
-
-Published by the Institute of Network Cultures, Amsterdam 2021
-
-ISBN print: 9789492302762
-
-ISBN EPUB: 9789492302779 
-
-**Contact**
-
-Institute of Network Cultures
-
-Amsterdam University of Applied Sciences
-
-Emai: <a href="mailto:info@networkcultures.org">info@networkcultures.org</a> / <a href="mailto:viralimageculture@networkcultures.org">viralimageculture@networkcultures.org</a>
-
-Web: [www.networkcultures.org](http://www.networkcultures.org) / <a href="http://www.networkcultures.org/viralimageculture">https://app.inboxify.nl/sign-up/v2/61624D6C4D7347364669303D/7638456838614B6B4E61673D</a>
+<br/>
 
 
-Order a copy or download this publication for free at:
-<a href="http://www.networkcultures.org/publications">www.networkcultures.org/publications</a>
+##Previously published INC Readers
 
-Subscribe to the INC newsletters: <a href="http://www.networkcultures.org/newsletter">www.networkcultures.org/newsletter</a> / <a href="https://app.inboxify.nl/sign-up/v2/61624D6C4D7347364669303D/7638456838614B6B4E61673D">www.networkcultures.org/viralimageculture</a>
+The INC Reader series is derived from conference contributions and
+produced by the Institute of Network Cultures. The publications in this
+series are available in EPUB, PDF form, and a print run of 2000 copies.
+All INC Readers, and other publications like the Network Notebooks
+series, INC Longforms, and Theory on Demand, can be downloaded and read
+for free. See <a href="http://networkcultures.org/publications">networkcultures.org/publications</a>.
 
+**INC Reader \#14**: Geert Lovink and Andreas Treske (ed.), Video Vortex Reader III: Inside the Youtube Decade, 2020. 
 
+**INC Reader \#13**: Miriam Rasch (ed.), Let’s Get Physical, A Sample of INC
+Longforms 2015-2020, 2020.
 
-This publication is licensed under the Creative Commons Attribution
-NonCommercial ShareAlike 4.0 Unported (CC BY-NC-SA 4.0). To view a copy
-of this license, visit <a href="http://www.creativecommons.org/licences/by-nc-sa/4.0/">www.creativecommons.org/licences/by-nc-sa/4.0/</a>.
+**INC Reader \#12**: Loes Bogers and Letizia Chiappini (eds), Critical
+Makers Reader: (Un)Learning Technology, 2019.
 
+**INC Reader \#11**: Inte Gloerich, Geert Lovink and Patricia de Vries
+(eds), MoneyLab Reader 2: Overcoming the Hype, 2018.
 
-![](imgs/INC-logoCMYK.png)
+**INC Reader \#10**: Geert Lovink, Nathaniel Tkacz and Patricia de Vries
+(eds), MoneyLab Reader: An Intervention in Digital Economy, 2015.
+
+**INC Reader \#9**: René König and Miriam Rasch (eds), Society of the Query:
+Reflections on Web Search, 2014.
+
+**INC Reader \#8**: Geert Lovink and Miriam Rasch (eds), Unlike Us: Social
+Media Monopolies and Their Alternatives, 2013.
+
+**INC Reader \#7**: Geert Lovink and Nathaniel Tkacz (eds), Critical Point
+of View: A Wikipedia Reader, 2011.
+
+**INC Reader \#6**: Geert Lovink and Rachel Somers Miles (eds), Video Vortex
+Reader II: Moving Images Beyond YouTube, 2011.
+
+**INC Reader \#5**: Scott McQuire, Meredith Martin and Sabine Niederer
+(eds), Urban Screens Reader, 2009.
+
+**INC Reader \#4**: Geert Lovink and Sabine Niederer (eds), Video Vortex
+Reader: Responses to YouTube, 2008.
+
+**INC Reader \#3**: Geert Lovink and Ned Rossiter (eds), MyCreativity
+Reader: A Critique of Creative Industries, 2007.
+
+**INC Reader \#2**: Katrien Jacobs, Marije Janssen and Mateo Pasquinelli
+(eds), C’LICK ME: A Netporn Studies Reader, 2007.
+
+**INC Reader \#1**: Geert Lovink and Soenke Zehle (eds), Incommunicade
+Reader, 2005.
+
 
 
 #Contents
@@ -113,7 +106,7 @@ of this license, visit <a href="http://www.creativecommons.org/licences/by-nc-sa
  <a href='ch003.xhtml'>**Introduction: Global Mutations of the Viral Image**</a>
 <br/>Chloë Arkenbout, Jack Wilson and Daniël de Zeeuw 
 
-###MEMETIC SUBJECTIVITIES & COMMUNITIES
+##MEMETIC SUBJECTIVITIES & COMMUNITIES
 
 <a href='ch004.xhtml'>**Wojak’s lament: Excess and Voyeurism Under Platform Capitalism**</a>
 <br/>Anthony Glyn Burton
@@ -133,7 +126,7 @@ of this license, visit <a href="http://www.creativecommons.org/licences/by-nc-sa
 <a href='ch009.xhtml'>**Memes in Kuwait as Coping Mechanism for a Lack of Infrastructure**</a>
 <br/>Yasmeen Khaja
 
-###THE WORK OF ART IN THE AGE OF MEMETIC PRODUCTION
+##THE WORK OF ART IN THE AGE OF MEMETIC PRODUCTION
 
 <a href='ch010.xhtml'>**Masks, Monsters, and Memes: In Conversation with Scoobert Doobert**</a>
 <br/>Max Horwich
@@ -155,7 +148,7 @@ How We Learned to Stop Worrying and Love Original Content Memes**</a>
 A Clapback to Saudi Arabia’s Electronic Army**</a>
 <br/>Saeeda Saeed
 
-###FROM PEAK TO POST MEME
+##FROM PEAK TO POST MEME
 
 <a href='ch019.xhtml'>**Mimetic Sameness**</a>
 <br/>Grant Bollmer
@@ -169,7 +162,7 @@ A Clapback to Saudi Arabia’s Electronic Army**</a>
 <a href='ch022.xhtml'>**Deeper and Higher: Memes as Scalar Abstraction**</a>
 <br/>Geoffrey Hondroudakis
 
-###MEME WARFARE
+##MEME WARFARE
 
 <a href='ch023.xhtml'>**Post-Truth Design Tactics in Memes in India: Decoding Malicious Design Practices in Right-Wing Meme Factories**</a>
 <br/>Aarushi Bapna and Ajitesh Lokhande
@@ -186,7 +179,7 @@ A Clapback to Saudi Arabia’s Electronic Army**</a>
 <a href='ch027.xhtml'>**SILICODEFORESTATION**</a>
 <br/>Stephanie Boulding
 
-###MEME MAGIC: SPECTRES AND DEMONS
+##MEME MAGIC: SPECTRES AND DEMONS
 
 <a href='ch028.xhtml'>**An Ambiguous Utopia**</a>
 <br/>The Trans Bears
@@ -203,9 +196,9 @@ A Clapback to Saudi Arabia’s Electronic Army**</a>
 <a href='ch032.xhtml'>**The Contagious Other: Virality and Anxiety in Congolese Memes**</a>
 <br/>Lesley Nicole Braun
 
-####<a href='ch030.xhtml'>Contributor Biographies</a>
+####<a href='ch033.xhtml'>Contributor Biographies</a>
 
-####<a href='ch031.xhtml'>Meme Studies Research Network</a>
+####<a href='ch034.xhtml'>Meme Studies Research Network</a>
 
 
 
@@ -259,7 +252,7 @@ thrust.
 
 <br/>
 
-![Fig. 2: <chttps://tenor.com/view/truck-crash-gif-10492368>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/0.2.jpeg)
+![Fig. 2: <https://tenor.com/view/truck-crash-gif-10492368>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/0.2.jpeg)
 
 <br/>
 
@@ -2963,7 +2956,7 @@ opportunities in the music industry.
 Should you have a TikTok earworm lodged in your head, we welcome
 friendly correspondence to share in your burden, For Science.
 
-## Bibliography
+## References
 
 Abidin, Crystal. “Mapping Internet Celebrity on TikTok: Exploring
 Attention Economies and Visibility Labours.” *Cultural Science Journal*
@@ -4037,7 +4030,7 @@ Like, Socrates laughed on his deathbed. That’s memeable AF.
 
 
 
-# Le Meme d’Auteur, or: How We Learned to Stop Worrying and Love Original Content Memes.
+# Le Meme d’Auteur, or: How We Learned to Stop Worrying and Love Original Content Memes
 
 ###Clusterduck (Silvia Dal Dosso, Francesca Del Bono, Aria Mag, Noel Nicolaus)
 
@@ -7073,8 +7066,7 @@ communication, the generation of memes that cannot be but nonmimetic.
 
 ## The Meme Machine
 
-*\
-Circle Jerk* is one of the most successful examples of the many
+*Circle Jerk* is one of the most successful examples of the many
 livestreamed digital theatre productions of 2020, when the dangers of
 coronavirus contagion required a reinvention of theatrical liveness for
 online, distanced streaming. Most examples of theatre from this time can
@@ -7833,8 +7825,7 @@ perpetual obsolescence, new becoming old through bland repetition.
 
 ![Fig. 2: Distracted Angel of History. Digital Image. Originally seen on Twitter, late-2018. Archived at: Know Your Meme. <https://knowyourmeme.com/photos/1290289-distracted-boyfriend>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/15.1.jpeg)
 
-Let’s try to draw all of these conceptual threads together by returning
-to my original conceit: ‘Distracted Boyfriend’ manifesting a
+Let’s try to draw all of these conceptual threads together by returning to my original conceit: ‘Distracted Boyfriend’ manifesting a
 post-digital ‘angel of history.’
 
 Why slap a cropped image of Paul Klee’s *Angelus Novus* into a
@@ -9741,7 +9732,7 @@ new grounds.
 
 ![Fig. 1: Right-wing meme stereotyping leftists as digitally illiterate and therefore irrelevant SJWs. <https://imgflip.com/i/1zwubx>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/19.1.jpeg) 
 
-</br>
+<br/>
 
 This is not to say that tech-savvy leftists haven’t been trying to
 discredit the internet maxim ‘*The left can’t meme’* \[Fig. 1.\]. There
@@ -10302,7 +10293,9 @@ Pepe is appropriation, *not* cancellation.
 ![Fig. 11: Pepe Instagram collage created by clusterduck, a left-wing
 artist collective that uses memes to protest the climate crisis. They
 have reappropriated Pepe to promote a positive message of inclusivity.
-<https://www.instagram.com/realclusterfuck>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/19.11.jpeg) 
+<https://www.instagram.com/realclusterfuck>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/19.11.jpeg)
+
+<br/> 
 
 What the alt-right fears most is losing media attention and its
 reputation for being an edgy counterculture that defends ‘free-speech’

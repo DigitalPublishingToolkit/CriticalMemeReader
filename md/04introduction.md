@@ -133,8 +133,8 @@ representation and ideology, Bueno asks:
 > apparatus that helps grasping the machinic dimension of contemporary
 > capitalism?[^02introduction_5]
 
-This is also exactly the question memes pose to us. As Geoff
-Hondroudakis argues in his contribution to this reader:
+This is also exactly the question memes pose to us. <a href='ch022.xhtml'>As Geoff
+Hondroudakis argues</a> in his contribution to this reader:
 
 > The significance of circulation and exchange in memes—their
 > evolutionary function as asignifying network symbionts—is precisely
@@ -178,14 +178,13 @@ Outdoor Playground Finger Family Song Nursery Rhymes Animation Education
 Learning Video,’ ‘Double Pregnant FROZEN ELSA vs DOCTOR! w/ Spiderman vs
 Joker Maleficent Hulk Baby - Superhero Fun’ and the myriad other
 examples of recombinant YouTube Kids’ grotesquery, the dead eyes of
-‘Momo,’ or the psychic terrorism of the ‘Blue Whale Challenge’ that
-Anirban Baishya discusses in this collection:
+‘Momo,’ or the psychic terrorism of the ‘Blue Whale Challenge’ <a href='ch026.xhtml'>that
+Anirban Baishya discusses</a> in this collection:
 
 > Memetic terror is an affective, networked fear of breaching. It
 > replicates itself through exposure to repeated information,
 > reverberating throughout digital infrastructures, as it interacts with
 > personal devices, policy, and regulation, as well as users’ bodies.
-> (add page no. in final reader)
 
 These moments get their affective charge from witnessing—however
 briefly—the seething incomprehensibility from which the meme emerges and
@@ -235,13 +234,13 @@ prototypical instance of ‘influence’ as a tactical acting at a distance,
 changing the psycho-physical makeup of the agents it targets. Acting at
 a distance: isn’t that the very definition of media?
 
-![Fig. 4](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/0.4.jpeg)
+![Fig. 4 Screencapture from 'Call of Duty: Advanced Warfare'](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/0.4.jpeg)
 
 <br/>
 
 From state actors to insurgents, Memes have proven to be powerful
 weapons in informational warfare. Indeed, even the canard that ‘the left
-can’t meme’ is a meme unto itself, as Andy King tells us in her essay
+can’t meme’ is a meme unto itself, as <a href='ch024.xhtml'>Andy King tells us</a> in her essay
 ‘Weapons of Mass Distraction: Far-right Culture-jamming Tactics in
 Memetic Warfare’:
 
@@ -250,8 +249,7 @@ Memetic Warfare’:
 > pro-choice Facebook groups with images of aborted fetuses, raiding
 > subreddits and shitposting cringe compilations of angry feminists and
 > liberals appearing to ‘cancel free speech’. Their outreach was far and
-> wide – no corner of the internet was spared. (add page no. in final
-> reader)
+> wide – no corner of the internet was spared. 
 
 If we move, however, out from under the shadow of memes’ dark side, we
 see that they can too be critical acts of positive political
