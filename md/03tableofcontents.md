@@ -17,51 +17,67 @@ Rights: CC BY-NC 4.0
 ...
 
 
-###Colofon
+#Contents
 
-###**INC Reader \#15**
+<a href='ch003.xhtml'>**Acknowledgments**</a>
+<br/>
 
-###**Critical Meme Reader: Global Mutations of the Viral Image**
+<a href='ch004.xhtml'>**Foreword**</a>
+<br/>Ravi Sundaram
 
-Editors: Chloë Arkenbout, Jack Wilson, Daniel de Zeeuw
+ <a href='ch005.xhtml'>**Introduction: Relationalities Abound**</a>
+<br/>Sandeep Mertia
 
-Copy editor: Geoff Hondroudakis
+###HISTORIES
 
-Cover design: Marijn Bril
+<a href='ch006.xhtml'>**01. Did Mahalanobis Dream of Androids?**</a>
+<br/>Sandeep Mertia
 
-Cover font: Terminal Grotesque Regular by Raphaël Bastide (Velvetyne)
+<a href='ch007.xhtml'>**02. Programming the Intermission: ‘Big Data’, Software, and Indian Cinema**</a>
+<br/>Karl Mendonca 
 
-Design and EPUB development: Chloë Arkenbout
+###FORMS
 
-Printing and binding: GPS Group
+<a href='ch008.xhtml'>**03. Number, Probability, and Community: the Duckworth-Lewis-Stern Data Model and Counterfactual Futures in Cricket**</a>
+<br/>Sivakumar Arumugam
 
-Published by the Institute of Network Cultures, Amsterdam 2021
+<a href='ch009.xhtml'>**04. Study the Imbrication: A Methodological Maxim to Follow the Multiple Lives of Data**</a>
+<br/>Ranjit Singh
 
-ISBN print: 9789492302762
+<a href='ch010.xhtml'>**05. Data Lives of Humanities Texts**</a>
+<br/>Puthiya Purayil Sneha
 
-ISBN EPUB: 9789492302779 
+###POLITICAL DESIGNS
 
-**Contact**
+<a href='ch011.xhtml'>**06. Hackathons: Labor, Politics, and the Organization of Public Passions**</a>
+<br/>Lilly Irani
 
-Institute of Network Cultures
+<a href='ch012.xhtml'>**07. Reporting the World’s Largest Biometric Project**</a>
+<br/>Anumeha Yadav
 
-Amsterdam University of Applied Sciences
+<a href='ch013.xhtml'>**08. Broken Data: Repairs in the Production of Biometric Bodies**</a>
+<br/>Preeti Mudliar
 
-Emai: <a href="mailto:info@networkcultures.org">info@networkcultures.org</a> / <a href="mailto:viralimageculture@networkcultures.org">viralimageculture@networkcultures.org</a>
+###PRACTICES
 
-Web: [www.networkcultures.org](http://www.networkcultures.org) / <a href="http://www.networkcultures.org/viralimageculture">https://app.inboxify.nl/sign-up/v2/61624D6C4D7347364669303D/7638456838614B6B4E61673D</a>
+<a href='ch014.xhtml'>**09. Outline India: Field Notes on Data Practices and Innovations**</a>
+<br/>Prerna Mukharya and Mahima Taneja
 
+<a href='ch015.xhtml'>**10. Collecting Open Data**</a>
+<br/>Guneet Narula
 
-Order a copy or download this publication for free at:
-<a href="http://www.networkcultures.org/publications">www.networkcultures.org/publications</a>
+<a href='ch016.xhtml'>**11. Making India’s Budgets Machinable**</a>
+<br/>Gaurav Godhwani
 
-Subscribe to the INC newsletters: <a href="http://www.networkcultures.org/newsletter">www.networkcultures.org/newsletter</a> / <a href="https://app.inboxify.nl/sign-up/v2/61624D6C4D7347364669303D/7638456838614B6B4E61673D">www.networkcultures.org/viralimageculture</a>
+### FIELDS
 
+<a href='ch017.xhtml'>**12. Hisaab-Kitaab in Big Data: Finding Relief from Calculative Logics**</a>
+<br/>Noopur Raval
 
+<a href='ch018.xhtml'>**13. Untidy Data: Spreadsheet Practices in the Indian Bureaucracy**</a>
+<br/>Aakash Solanki
 
-This publication is licensed under the Creative Commons Attribution
-NonCommercial ShareAlike 4.0 Unported (CC BY-NC-SA 4.0). To view a copy
-of this license, visit <a href="http://www.creativecommons.org/licences/by-nc-sa/4.0/">www.creativecommons.org/licences/by-nc-sa/4.0/</a>.
+<a href='ch019.xhtml'>**14. The Work of Waiting: Syndromic Surveillance and the Paradox of Immediacy**</a>
+<br/>Anirudh Raghavan
 
-
-![](imgs/INC-logoCMYK.png)
+####<a href='ch020.xhtml'>Contributor Biographies</a>
