@@ -147,7 +147,7 @@ early online services like Usenet, or service providers like Compuserve.
 
 The ideology informing the WELL’s community structures is best shown in
 a set of founding principles that then-editor of *Wired* Kevin Kelly
-would recount to Howard Rheingold as part of Rheingold’s [*The Virtual Community*](https://www.rheingold.com/vc/book/2.html)</a>, an
+would recount to Howard Rheingold as part of Rheingold’s [*The Virtual Community*](https://www.rheingold.com/vc/book/2.html), an
 anthropological survey of the early 1990s online cosmos that focused
 heavily on the WELL. In between notes on the WELL’s business model (it
 was to be as close as it could be to free while still being profitable),

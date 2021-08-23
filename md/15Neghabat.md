@@ -369,9 +369,8 @@ Political Contexts.* Routledge, 2019.
 <https://doi.org/10.4324/9780429469404>
 
 DÖW. n.d. “Austrian Victims of the Holocaust.” Accessed March 9, 2021.
-<a href="https://www.doew.at/english/austrian-victims-of-the-holocaust%5C">https://www.doew.at/english/austrian-victims-of-the-holocaust\</a>
-DW. „Austria: Thousands protest against plans for 12-hour workday.“ June
-30, 2018
+<https://www.doew.at/english/austrian-victims-of-the-holocaust>
+DW. "Austria: Thousands protest against plans for 12-hour workday." June 30, 2018
 <https://www.dw.com/en/austria-thousands-protest-against-plans-for-12-hour-workday/a-44475182>
 
 Kittner, Daniela. “Kurz will, dass die EU die ‘christlich-jüdische

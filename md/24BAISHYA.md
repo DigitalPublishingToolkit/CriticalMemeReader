@@ -360,7 +360,7 @@ erupting violence.
 
 ![Fig. 2: The WhatsApp interface and *The Ring* featured in an amateur short film on the BWC on YouTube. (Creator: onionNgarlic, YouTube).[^22chapter21_37]](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/21.2.jpeg)
 
-</br>
+<br/>
 
 Let’s also not forget how the cellphone and such mobile communication
 platforms inform the petitions and regulatory efforts mentioned earlier,
@@ -378,7 +378,7 @@ as Bauman reminds us, ‘we fear what we can’t manage.’[^22chapter21_38]
 
 ![Fig. 3: YouTube screengrabs of an *NDTV* news program about the BWC. The image on the right shows public demonstrations against the BWC (NDTV, YouTube).[^22chapter21_39]](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/21.3.jpeg)
 
-</br>
+<br/>
 
 ## The Fearsome Meme
 
@@ -403,7 +403,7 @@ the PILs discussed earlier.
 
 ![Fig. 4: The BWC ‘tasks’ listed in an advisory video on YouTube. (Creator: SidTalk, YouTube).[^22chapter21_41]](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/21.4.jpeg)
 
-</br>
+<br/>
 
 While such details remain largely unverifiable or dubious, they become
 ‘real’ through repeated circulation. Details about the BWC take on the

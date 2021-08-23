@@ -8,6 +8,8 @@ INC Reader \#15
 
 
 
+###Colofon
+
 ###**INC Reader \#15**
 
 ###**Critical Meme Reader: Global Mutations of the Viral Image**
@@ -38,13 +40,13 @@ Amsterdam University of Applied Sciences
 
 Emai: <a href="mailto:info@networkcultures.org">info@networkcultures.org</a> / <a href="mailto:viralimageculture@networkcultures.org">viralimageculture@networkcultures.org</a>
 
-Web: [www.networkcultures.org](http://www.networkcultures.org) / <a href="http://www.networkcultures.org/viralimageculture">www.networkcultures.org/viralimageculture</a>
+Web: [www.networkcultures.org](http://www.networkcultures.org) / <a href="http://www.networkcultures.org/viralimageculture">https://app.inboxify.nl/sign-up/v2/61624D6C4D7347364669303D/7638456838614B6B4E61673D</a>
 
 
 Order a copy or download this publication for free at:
 <a href="http://www.networkcultures.org/publications">www.networkcultures.org/publications</a>
 
-Subscribe to the INC newsletters: <a href="http://www.networkcultures.org/newsletter">www.networkcultures.org/newsletter</a> / <a href="http://www.networkcultures.org/viralimageculture">www.networkcultures.org/viralimageculture</a>
+Subscribe to the INC newsletters: <a href="http://www.networkcultures.org/newsletter">www.networkcultures.org/newsletter</a> / <a href="https://app.inboxify.nl/sign-up/v2/61624D6C4D7347364669303D/7638456838614B6B4E61673D">www.networkcultures.org/viralimageculture</a>
 
 
 
@@ -54,6 +56,122 @@ of this license, visit <a href="http://www.creativecommons.org/licences/by-nc-sa
 
 
 ![](imgs/INC-logoCMYK.png)
+
+
+###Colofon
+
+###**INC Reader \#15**
+
+###**Critical Meme Reader: Global Mutations of the Viral Image**
+
+Editors: Chloë Arkenbout, Jack Wilson, Daniel de Zeeuw
+
+Copy editor: Geoff Hondroudakis
+
+Cover design: Marijn Bril
+
+Cover font: Terminal Grotesque Regular by Raphaël Bastide (Velvetyne)
+
+Design and EPUB development: Chloë Arkenbout
+
+Printing and binding: GPS Group
+
+Published by the Institute of Network Cultures, Amsterdam 2021
+
+ISBN print: 9789492302762
+
+ISBN EPUB: 9789492302779 
+
+**Contact**
+
+Institute of Network Cultures
+
+Amsterdam University of Applied Sciences
+
+Emai: <a href="mailto:info@networkcultures.org">info@networkcultures.org</a> / <a href="mailto:viralimageculture@networkcultures.org">viralimageculture@networkcultures.org</a>
+
+Web: [www.networkcultures.org](http://www.networkcultures.org) / <a href="http://www.networkcultures.org/viralimageculture">https://app.inboxify.nl/sign-up/v2/61624D6C4D7347364669303D/7638456838614B6B4E61673D</a>
+
+
+Order a copy or download this publication for free at:
+<a href="http://www.networkcultures.org/publications">www.networkcultures.org/publications</a>
+
+Subscribe to the INC newsletters: <a href="http://www.networkcultures.org/newsletter">www.networkcultures.org/newsletter</a> / <a href="https://app.inboxify.nl/sign-up/v2/61624D6C4D7347364669303D/7638456838614B6B4E61673D">www.networkcultures.org/viralimageculture</a>
+
+
+
+This publication is licensed under the Creative Commons Attribution
+NonCommercial ShareAlike 4.0 Unported (CC BY-NC-SA 4.0). To view a copy
+of this license, visit <a href="http://www.creativecommons.org/licences/by-nc-sa/4.0/">www.creativecommons.org/licences/by-nc-sa/4.0/</a>.
+
+
+![](imgs/INC-logoCMYK.png)
+
+
+#Contents
+
+<a href='ch003.xhtml'>**Acknowledgments**</a>
+<br/>
+
+<a href='ch004.xhtml'>**Foreword**</a>
+<br/>Ravi Sundaram
+
+ <a href='ch005.xhtml'>**Introduction: Relationalities Abound**</a>
+<br/>Sandeep Mertia
+
+###HISTORIES
+
+<a href='ch006.xhtml'>**01. Did Mahalanobis Dream of Androids?**</a>
+<br/>Sandeep Mertia
+
+<a href='ch007.xhtml'>**02. Programming the Intermission: ‘Big Data’, Software, and Indian Cinema**</a>
+<br/>Karl Mendonca 
+
+###FORMS
+
+<a href='ch008.xhtml'>**03. Number, Probability, and Community: the Duckworth-Lewis-Stern Data Model and Counterfactual Futures in Cricket**</a>
+<br/>Sivakumar Arumugam
+
+<a href='ch009.xhtml'>**04. Study the Imbrication: A Methodological Maxim to Follow the Multiple Lives of Data**</a>
+<br/>Ranjit Singh
+
+<a href='ch010.xhtml'>**05. Data Lives of Humanities Texts**</a>
+<br/>Puthiya Purayil Sneha
+
+###POLITICAL DESIGNS
+
+<a href='ch011.xhtml'>**06. Hackathons: Labor, Politics, and the Organization of Public Passions**</a>
+<br/>Lilly Irani
+
+<a href='ch012.xhtml'>**07. Reporting the World’s Largest Biometric Project**</a>
+<br/>Anumeha Yadav
+
+<a href='ch013.xhtml'>**08. Broken Data: Repairs in the Production of Biometric Bodies**</a>
+<br/>Preeti Mudliar
+
+###PRACTICES
+
+<a href='ch014.xhtml'>**09. Outline India: Field Notes on Data Practices and Innovations**</a>
+<br/>Prerna Mukharya and Mahima Taneja
+
+<a href='ch015.xhtml'>**10. Collecting Open Data**</a>
+<br/>Guneet Narula
+
+<a href='ch016.xhtml'>**11. Making India’s Budgets Machinable**</a>
+<br/>Gaurav Godhwani
+
+### FIELDS
+
+<a href='ch017.xhtml'>**12. Hisaab-Kitaab in Big Data: Finding Relief from Calculative Logics**</a>
+<br/>Noopur Raval
+
+<a href='ch018.xhtml'>**13. Untidy Data: Spreadsheet Practices in the Indian Bureaucracy**</a>
+<br/>Aakash Solanki
+
+<a href='ch019.xhtml'>**14. The Work of Waiting: Syndromic Surveillance and the Paradox of Immediacy**</a>
+<br/>Anirudh Raghavan
+
+####<a href='ch020.xhtml'>Contributor Biographies</a>
 
 
 
@@ -609,6 +727,14 @@ of the commons is the image of someone else out there, existing
 alongside me. Memes circulate through networks, and there is an element
 of affect that is produced in this traversal: impressions of the other
 *who felt themselves in the NPC meme* are left and felt on me.[^03chapter1_6]
+
+![Fig. 1: Wojak himself](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/1.1.jpeg) 
+
+<br/>
+
+![Fig. 2: Wojak wall](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/1.2.jpeg) 
+
+<br/>
 
 
 I’m using Wojak and NPC here interchangeably because while Wojak himself
@@ -2074,7 +2200,7 @@ early online services like Usenet, or service providers like Compuserve.
 
 The ideology informing the WELL’s community structures is best shown in
 a set of founding principles that then-editor of *Wired* Kevin Kelly
-would recount to Howard Rheingold as part of Rheingold’s [*The Virtual Community*](https://www.rheingold.com/vc/book/2.html)</a>, an
+would recount to Howard Rheingold as part of Rheingold’s [*The Virtual Community*](https://www.rheingold.com/vc/book/2.html), an
 anthropological survey of the early 1990s online cosmos that focused
 heavily on the WELL. In between notes on the WELL’s business model (it
 was to be as close as it could be to free while still being profitable),
@@ -4506,269 +4632,6 @@ Wofford, Taylor. “Fuck You And Die: An Oral History of Something Awful.”
 
 
 
-# **Making poetry babies in an online world**
-
-###Laurence Scherz
-
-If there were a meeting akin to alcoholics anonymous for the
-overconsumption of memes, I would be the first to lift my butt off the
-chair and say: 'Hi, my name is Laurence and I'm a meme-oholic.' Not only
-do I attempt to translate these intrinsically virtual copies of copies
-and edits of edits into an offline conversation on a regular basis—with
-lots of flailing of my limbs when it's a particularly good one and I’m
-in complete disbelief that the other person has not, in fact, seen it
-yet. I even get praise from strangers for my extensive collection and
-will not hesitate to try and 'cure' someone's bad mood with 'the
-funniest they've ever seen'.
-
-My dreams involve meme battles in an offline arena where dancing is
-allowed, and only the best meme-naisseur survives. Suffice to say, I
-love memes. But I also adore books, and the bizarre, enticing world they
-have to offer, a clean-cut escape from reality. This is the account of
-how the two met, in my living room, and even shook hands.
-
-## Magic Box that Makes Merry
-
-Imagine if you will: an avid reader, writer, and owner of an impressive
-library, sits on their couch. Having succumbed to the allure of Netflix
-they passively consume images and sounds. The unread books stare at them
-from across the room, wondering ‘why not them? Why not now?’. Perhaps to
-conquer their guilt, or out of sheer boredom—because albeit relaxing,
-the land of TV shows can be quite boring, especially while
-re-watching—the watcher starts to note down remarkable or funny
-one-liners that pass by.
-
-This viewer is, of course, me. The lists on my phone grew longer, and
-longer, and *longer*. I named the scribbles 'Netflix Poetry' and
-eventually stopped numbering the entries—that's how vast the collection
-had become. At some point, I started doing the same with memes. The
-collection of memes on my Insta account started pouring into my notes:
-fragmented, incorrect sentences, jokes devoid of their punchlines, words
-whose origin I couldn't pinpoint even if my life depended on it.
-
-The semiotics of these memes were all out of whack. Like shipwrecked
-passengers, they sat alone on an island with no context, no visuals to
-guide them. My phone had become a harbor for lost, incomplete memes
-without context, not yet appointed a new destination. The only companion
-they had were the Netflix one-liners, brutally taken from their home
-country in a similar manner.
-
-The nature of these digital-native words and scrap sentences had already
-altered slightly, but they weren't *something new* quite yet. It was
-only after the invitation came to apply a process involving chance on
-recycled texts, resulting in a Dada-istic poem as per artist Tristan
-Tzara's manual of 1920, that these pieces found their forever home. Dada
-poems were meant to reflect ‘a world where words should not be
-believed',[^11chapter9_1] and seeing as 'though\[t\] is produced in the mouth',[^11chapter9_2]
-all meaning is valid within these non-sensical poems.
-
-## A Big, Postmodern world
-
-Of course, members of Dada didn't have anything like the internet. It
-seemed strange to exchange their analogue paper and scissors for the
-quick flip of the ctrl paste buttons, but strangely—and wonderfully— it
-worked. What came out felt more at one with the internet's scatterbrain
-than a classical (let's say, linear and analogue) poem, raising the
-question of how to approach this kind of electronic poetry. Researcher
-Giovanna Di Rosario argues that 'there is a need of a new definition of
-textuality in addition to the previous definitions proposed by different
-disciplines or theories such as philology, logic, semiotics,
-structuralism and post-structuralism'.[^11chapter9_3] She goes on to say that none
-of these previous approaches 'have expressed the perspective of the text
-as a material machine, a device capable of manipulating itself as well
-as the reader'.[^11chapter9_4]
-
-My sweet, no-longer-forlorn digital babies, manipulating both themselves
-and the reader: I couldn't be more proud. A cut and paste birth it was,
-a random combination yet not random at all. Marcus Boon describes cut
-and paste in the world of computers as 'a dominant metaphor; more
-broadly, fragmentation, pastiche, and juxtaposition are characteristic
-of postmodernity.'[^11chapter9_5] And of course, it's true, online we are all big,
-big girls in a big, big postmodern world. Something else happened right
-before my screen-gazing eyes: the pieces not only aligned with one
-another, but became a new, shiny thing, one that I didn't seem to have
-full control over. Boon, again, tells us how 'montage implies that a
-whole has been broken, even if it is then reassembled into a new whole.
-Something is broken in a montage, and in most successful montages you
-can still see the break, which is often what makes them funny'.[^11chapter9_6]
-
-Because, joyfully, loudly, happily, yes—these electronically made poetry
-children were hilarious as fuck. But why? And what had travelled through
-them from the memes, and what had stayed behind?
-
-## Doing Me a Syntax
-
-One day, a friend of mine proclaimed that, to him, 'everyone is a doggo
-now'. My cat: a fluffy doggo. Our mutual friend: an amazing doggo. The
-tree across from my apartment still standing there after all the others
-had been cut: a lonely doggo. Funnily enough, this offline use of
-digital native language was to me, in all its absurdity, the most
-natural to boot, exactly *because* it owned up to its fragmentation, its
-out of place-ness. Boon: 'A fragment is an unstable unit—but we, too,
-are “unstable units”; and our longing for wholeness, our need to
-populate our equally unstable environment with wholes, expresses our
-discomfort with that moving, shifting chaos'.[^11chapter9_7] And that explains
-quite possibly my infatuation with the doggos not only roaming the
-internet, but the whole offline world, surrounding me with their goofy
-eyes and human faces.
-
-What had I brought together then, into a brave new world of literature?
-In *Because Internet: Understanding the New Rules of Language*, linguist
-Gretchen McCulloch points out that 'memes are a kind of internet
-folklore, drawing parallels to dirty limericks, ghost stories and
-pranks'.[^11chapter9_8] On top of that, McCulloch sees them as (wonderfully) weird
-and containing a playful language that invites participation. While
-making my poetry kin I observed how the language of the memes, strangely
-similar to that of poems—slightly elusive, with points of reference
-known mostly to initiates—felt right at home in the melodic cadence of
-verses I squeezed them into.
-
-What else is a well-written, or performed, poem other than an invitation
-into a world, one where the reader finishes the writer's thoughts, by
-bringing their own little bag of references along with them, by
-formulating new images with the tools—the words—provided for them? With
-this, the words by academic Scott H. Church ring very true: 'Remix
-*requires* the participation of the user to alter the original cultural
-artifact.'[^11chapter9_9] All language is remixed, perhaps, and thus all poets are
-DJs.
-
-## I Worked Out in My Mind
-
-The joke or 'clue' of a meme is very often—yet not always—a punchline that is accomplished with visual aid. Depriving the reader of this visual information when dragging the meme language into fiction, into these assembled poems, sometimes proved effective. An additional weirdness entered the scene, or, the joke was still understood and shone brightly in its new-found appearance. But sometimes the transposition missed the mark completely. 
-
-Cutting up these jokes laid them bare in a way that was quite
-surprising, almost reminiscent of the American author William Burroughs'
-cut-up method from the 1960s. Burrough’s method aimed to 'expose the
-texts’ true, deeper meanings',[^11chapter9_10] an action 'seen as undermining
-authority, as breaking down the control system'.[^11chapter9_11]
-
-But I certainly do not wish to compare myself to Burroughs. I merely
-want to tell you about the process of weed picking after the chance
-process had been done. Which darlings to keep, and which ones to throw
-away in the river? These choices felt almost arbitrary. For I do not
-know what my reader knows, how meme-savvy they are, which remixed jokes
-they will effortlessly grasp and which ones they won't. In this, I only
-have my own framework to hold onto. But to choose is also to exclude,
-for as McCulloch says, 'laughing at a meme is staking a claim to being
-an insider'.[^11chapter9_12] As a writer, I am walking blindly, hoping my reader
-owns somewhat the same cultural references as I do, or if not, can
-estimate this perspective—something that is more likely, of course,
-seeing the publication my poetry children find themselves in.
-
-Another beautiful thought regarding the humor of memes comes, again,
-from Boon: 'Puns are funny because they reveal, at the level of the unit
-of semantic meaning “itself,” the possibility of radical disjunctures
-and breaks. They show that a word is an unstable montage of
-meanings'.[^11chapter9_13] A broken world filled with endless words and meanings,
-light seeping into the cracks while jokes appear on its surface: sounds
-about right. At least *that* part of the memes travelled through and
-entered the gates of poetry.
-
-## Lean Mean Meme Machine
-
-The term *meme* originates from the ancient Greek word *mīmēma*, meaning 'something that is imitated'.[^11chapter9_14] There’s a meme in my catalogue for this too: 'We get it, poets, things are *like* other things.' 
-
-Life imitates life, poetry imitates life imitating life, metaphors and parables are flying around in an intense Droste effect that makes your head spin. Almost always signifying something outside themselves, memes are akin to a poet looking out of their window and describing the world through comparisons, referenced symbolism and insider jokes (sometimes only referring to the poem they are in). Is this poet, writing their new-found hybrids with all the pastiche, montage and remix they posses, not just a Marcel Duchamp, casually plucking ready-mades from the web and putting them on a literary pedestal? 
-
-Avant-garde works such as Duchamp's and, naturally, the Dada artists’, had 'constantly been built around a critique of notions of originality, identity, and property'.[^11chapter9_15] This might explain my simmering intuition that intentional vagueness was needed around which lines of my poems were quotes from the internet, and which were by my own hand. Surely, a hundred years later you would think notions of authorship and originality had evolved enough to make me care less—but alas. Perhaps the contemporary poet who's using recycled digital texts is not a Dada artist after all. Maybe, as I've joked unwisely, a DJ? Or something else altogether?
-
-In a *New Yorker* article titled ‘The Writer as Meme Machine’, poet and
-critic Kenneth Goldsmith sees poetry slipping out the backdoor, running
-towards the internet and finding its place there.[^11chapter9_16] A virtual space
-where an even more experimental form of (post)modernism is possible, a
-new era for recycling, appropriating, retooling, decoding, and much
-more—once again: our big, postmodern world. Casting aside for a minute
-the death of the author and the disputed nature of postmodern
-literature, one thing about this article stands out: how Goldsmith sees
-the writer of nowadays 'as a meme machine, writing works with the
-intention for them to ripple rapidly across networks only to evaporate
-just as quickly as they appeared'.[^11chapter9_17]
-
-Lonely stones, my poetry babies are; filled with internet slang, they're
-tossed into the river of poetry, hoping to cause enough ripples. What
-these ripples look like or entail, I have no idea. But there is, as Boon
-says, 'power in naming, because naming brings together the heterogeneous
-energies of various fragments and unifies them in a particular
-name/form'.[^11chapter9_18]
-
-## References
-
-Adema, Janneke. “Cut-up.” In *Keywords in Remix Studies*, edited by
-Eduardo Navas, Owen Gallagher and xtine burrough, 104-14. London:
-Routledge, 2017.
-
-Boon, Marcus. *In Praise of Copying*. Cambridge: Harvard University
-Press, 2010.
-
-Church, Scott H. “All Living Things are DJs: Rhetoric, Aesthetics, and
-Remix Culture.” PhD diss., University of Nebraska-Lincoln, 2013.
-
-Di Rosario, Giovanna. “Electronic Poetry: Understanding Poetry in the
-Digital Environment.” Diss., University of Jyväskylä, 2011.
-
-Goldsmith, Kenneth. “The Writer as Meme Machine.” *The New Yorker*,
-October 2013.
-<a href="https://www.newyorker.com/books/page-turner/the-writer-as-meme-machine">https://www.newyorker.com/books/page-turner/the-writer-as-meme-machine</a>.
-Kostadinovska-
-
-Stojchevska, Bisera and Shalevska, Elena. “Internet Memes and their
-Socio-Linguistic Features.” *European Journal of Literature, Language
-and Linguistics Studies* 2, no. 4 (January, 2018): 158-169.
-
-McCulloch, Gretchen. *Because Internet: Understanding the New Rules of
-Language*. London: Harvill Secker, 2019.
-
-[^11chapter9_1]: Tzara, 1959, quoted in Giovanna Di Rosario, “Electronic Poetry:
-    Understanding Poetry in the Digital Environment,” (PhD diss.,
-    University of Jyväskylä, 2011), 50.
-
-[^11chapter9_2]: Rosario, “Electronic Poetry,” 50.
-
-[^11chapter9_3]: Rosario, “Electronic Poetry,” 80.
-
-[^11chapter9_4]: Rosario, “Electronic Poetry,” 80.
-
-[^11chapter9_5]: Marcus Boon, *In Praise of Copying* (Cambridge: Harvard University
-    Press, 2010), 143.
-
-[^11chapter9_6]: Boon, *In Praise of Copying,* 145.
-
-[^11chapter9_7]: Boon, *In Praise of Copying,* 152.
-
-[^11chapter9_8]: Gretchen McCulloch, *Because Internet: Understanding the New Rules
-    of Language* (London: Harvill Secker, 2019).
-
-[^11chapter9_9]: Scott H. Church, “All Living Things are DJs: Rhetoric, Aesthetics,
-    and Remix Culture” (PhD diss.,: University of Nebraska-Lincoln,
-    2013), 50.
-
-[^11chapter9_10]: Janneke Adema, “Cut-Up,” in *Keywords in Remix Studies,* eds.
-    > Eduardo Navas, Owen Gallagher and xtine burrough (London:
-    > Routledge, 2017), 105.
-
-[^11chapter9_11]: Adema, “Cut-Up,” 105.
-
-[^11chapter9_12]: McCulloch, *Because Internet.*
-
-[^11chapter9_13]: Boon, *In Praise of Copying*, 155.
-
-[^11chapter9_14]: Bisera Kostadinovska-Stojchevska and Elena Shalevska, 'Internet
-    Memes and their Socio-Linguistic Features,” *European Journal of
-    Literature, Language and Linguistics Studies* 2, no. 4 (January,
-    2018): 159.
-
-[^11chapter9_15]: Boon, *In Praise of Copying,* 206.
-
-[^11chapter9_16]: Kenneth Goldsmith, “The Writer as Meme Machine,” *The New*
-    Yorker, October 2013,
-    <a href="https://www.newyorker.com/books/page-turner/the-writer-as-meme-machine">https://www.newyorker.com/books/page-turner/the-writer-as-meme-machine</a>.
-
-[^11chapter9_17]: Goldsmith, “The Writer as Meme Machine.”
-
-[^11chapter9_18]: Boon, *In Praise of Copying,* 151.
-
-
-
 #**A SELL FOR FILLING PROPHECY**
 
 When you accidentally write 'satan'
@@ -5282,6 +5145,269 @@ That’s what gluhwein
 do to
 
 gaaaalzz.
+
+
+
+# **Making poetry babies in an online world**
+
+###Laurence Scherz
+
+If there were a meeting akin to alcoholics anonymous for the
+overconsumption of memes, I would be the first to lift my butt off the
+chair and say: 'Hi, my name is Laurence and I'm a meme-oholic.' Not only
+do I attempt to translate these intrinsically virtual copies of copies
+and edits of edits into an offline conversation on a regular basis—with
+lots of flailing of my limbs when it's a particularly good one and I’m
+in complete disbelief that the other person has not, in fact, seen it
+yet. I even get praise from strangers for my extensive collection and
+will not hesitate to try and 'cure' someone's bad mood with 'the
+funniest they've ever seen'.
+
+My dreams involve meme battles in an offline arena where dancing is
+allowed, and only the best meme-naisseur survives. Suffice to say, I
+love memes. But I also adore books, and the bizarre, enticing world they
+have to offer, a clean-cut escape from reality. This is the account of
+how the two met, in my living room, and even shook hands.
+
+## Magic Box that Makes Merry
+
+Imagine if you will: an avid reader, writer, and owner of an impressive
+library, sits on their couch. Having succumbed to the allure of Netflix
+they passively consume images and sounds. The unread books stare at them
+from across the room, wondering ‘why not them? Why not now?’. Perhaps to
+conquer their guilt, or out of sheer boredom—because albeit relaxing,
+the land of TV shows can be quite boring, especially while
+re-watching—the watcher starts to note down remarkable or funny
+one-liners that pass by.
+
+This viewer is, of course, me. The lists on my phone grew longer, and
+longer, and *longer*. I named the scribbles 'Netflix Poetry' and
+eventually stopped numbering the entries—that's how vast the collection
+had become. At some point, I started doing the same with memes. The
+collection of memes on my Insta account started pouring into my notes:
+fragmented, incorrect sentences, jokes devoid of their punchlines, words
+whose origin I couldn't pinpoint even if my life depended on it.
+
+The semiotics of these memes were all out of whack. Like shipwrecked
+passengers, they sat alone on an island with no context, no visuals to
+guide them. My phone had become a harbor for lost, incomplete memes
+without context, not yet appointed a new destination. The only companion
+they had were the Netflix one-liners, brutally taken from their home
+country in a similar manner.
+
+The nature of these digital-native words and scrap sentences had already
+altered slightly, but they weren't *something new* quite yet. It was
+only after the invitation came to apply a process involving chance on
+recycled texts, resulting in a Dada-istic poem as per artist Tristan
+Tzara's manual of 1920, that these pieces found their forever home. Dada
+poems were meant to reflect ‘a world where words should not be
+believed',[^11chapter9_1] and seeing as 'though\[t\] is produced in the mouth',[^11chapter9_2]
+all meaning is valid within these non-sensical poems.
+
+## A Big, Postmodern world
+
+Of course, members of Dada didn't have anything like the internet. It
+seemed strange to exchange their analogue paper and scissors for the
+quick flip of the ctrl paste buttons, but strangely—and wonderfully— it
+worked. What came out felt more at one with the internet's scatterbrain
+than a classical (let's say, linear and analogue) poem, raising the
+question of how to approach this kind of electronic poetry. Researcher
+Giovanna Di Rosario argues that 'there is a need of a new definition of
+textuality in addition to the previous definitions proposed by different
+disciplines or theories such as philology, logic, semiotics,
+structuralism and post-structuralism'.[^11chapter9_3] She goes on to say that none
+of these previous approaches 'have expressed the perspective of the text
+as a material machine, a device capable of manipulating itself as well
+as the reader'.[^11chapter9_4]
+
+My sweet, no-longer-forlorn digital babies, manipulating both themselves
+and the reader: I couldn't be more proud. A cut and paste birth it was,
+a random combination yet not random at all. Marcus Boon describes cut
+and paste in the world of computers as 'a dominant metaphor; more
+broadly, fragmentation, pastiche, and juxtaposition are characteristic
+of postmodernity.'[^11chapter9_5] And of course, it's true, online we are all big,
+big girls in a big, big postmodern world. Something else happened right
+before my screen-gazing eyes: the pieces not only aligned with one
+another, but became a new, shiny thing, one that I didn't seem to have
+full control over. Boon, again, tells us how 'montage implies that a
+whole has been broken, even if it is then reassembled into a new whole.
+Something is broken in a montage, and in most successful montages you
+can still see the break, which is often what makes them funny'.[^11chapter9_6]
+
+Because, joyfully, loudly, happily, yes—these electronically made poetry
+children were hilarious as fuck. But why? And what had travelled through
+them from the memes, and what had stayed behind?
+
+## Doing Me a Syntax
+
+One day, a friend of mine proclaimed that, to him, 'everyone is a doggo
+now'. My cat: a fluffy doggo. Our mutual friend: an amazing doggo. The
+tree across from my apartment still standing there after all the others
+had been cut: a lonely doggo. Funnily enough, this offline use of
+digital native language was to me, in all its absurdity, the most
+natural to boot, exactly *because* it owned up to its fragmentation, its
+out of place-ness. Boon: 'A fragment is an unstable unit—but we, too,
+are “unstable units”; and our longing for wholeness, our need to
+populate our equally unstable environment with wholes, expresses our
+discomfort with that moving, shifting chaos'.[^11chapter9_7] And that explains
+quite possibly my infatuation with the doggos not only roaming the
+internet, but the whole offline world, surrounding me with their goofy
+eyes and human faces.
+
+What had I brought together then, into a brave new world of literature?
+In *Because Internet: Understanding the New Rules of Language*, linguist
+Gretchen McCulloch points out that 'memes are a kind of internet
+folklore, drawing parallels to dirty limericks, ghost stories and
+pranks'.[^11chapter9_8] On top of that, McCulloch sees them as (wonderfully) weird
+and containing a playful language that invites participation. While
+making my poetry kin I observed how the language of the memes, strangely
+similar to that of poems—slightly elusive, with points of reference
+known mostly to initiates—felt right at home in the melodic cadence of
+verses I squeezed them into.
+
+What else is a well-written, or performed, poem other than an invitation
+into a world, one where the reader finishes the writer's thoughts, by
+bringing their own little bag of references along with them, by
+formulating new images with the tools—the words—provided for them? With
+this, the words by academic Scott H. Church ring very true: 'Remix
+*requires* the participation of the user to alter the original cultural
+artifact.'[^11chapter9_9] All language is remixed, perhaps, and thus all poets are
+DJs.
+
+## I Worked Out in My Mind
+
+The joke or 'clue' of a meme is very often—yet not always—a punchline that is accomplished with visual aid. Depriving the reader of this visual information when dragging the meme language into fiction, into these assembled poems, sometimes proved effective. An additional weirdness entered the scene, or, the joke was still understood and shone brightly in its new-found appearance. But sometimes the transposition missed the mark completely. 
+
+Cutting up these jokes laid them bare in a way that was quite
+surprising, almost reminiscent of the American author William Burroughs'
+cut-up method from the 1960s. Burrough’s method aimed to 'expose the
+texts’ true, deeper meanings',[^11chapter9_10] an action 'seen as undermining
+authority, as breaking down the control system'.[^11chapter9_11]
+
+But I certainly do not wish to compare myself to Burroughs. I merely
+want to tell you about the process of weed picking after the chance
+process had been done. Which darlings to keep, and which ones to throw
+away in the river? These choices felt almost arbitrary. For I do not
+know what my reader knows, how meme-savvy they are, which remixed jokes
+they will effortlessly grasp and which ones they won't. In this, I only
+have my own framework to hold onto. But to choose is also to exclude,
+for as McCulloch says, 'laughing at a meme is staking a claim to being
+an insider'.[^11chapter9_12] As a writer, I am walking blindly, hoping my reader
+owns somewhat the same cultural references as I do, or if not, can
+estimate this perspective—something that is more likely, of course,
+seeing the publication my poetry children find themselves in.
+
+Another beautiful thought regarding the humor of memes comes, again,
+from Boon: 'Puns are funny because they reveal, at the level of the unit
+of semantic meaning “itself,” the possibility of radical disjunctures
+and breaks. They show that a word is an unstable montage of
+meanings'.[^11chapter9_13] A broken world filled with endless words and meanings,
+light seeping into the cracks while jokes appear on its surface: sounds
+about right. At least *that* part of the memes travelled through and
+entered the gates of poetry.
+
+## Lean Mean Meme Machine
+
+The term *meme* originates from the ancient Greek word *mīmēma*, meaning 'something that is imitated'.[^11chapter9_14] There’s a meme in my catalogue for this too: 'We get it, poets, things are *like* other things.' 
+
+Life imitates life, poetry imitates life imitating life, metaphors and parables are flying around in an intense Droste effect that makes your head spin. Almost always signifying something outside themselves, memes are akin to a poet looking out of their window and describing the world through comparisons, referenced symbolism and insider jokes (sometimes only referring to the poem they are in). Is this poet, writing their new-found hybrids with all the pastiche, montage and remix they posses, not just a Marcel Duchamp, casually plucking ready-mades from the web and putting them on a literary pedestal? 
+
+Avant-garde works such as Duchamp's and, naturally, the Dada artists’, had 'constantly been built around a critique of notions of originality, identity, and property'.[^11chapter9_15] This might explain my simmering intuition that intentional vagueness was needed around which lines of my poems were quotes from the internet, and which were by my own hand. Surely, a hundred years later you would think notions of authorship and originality had evolved enough to make me care less—but alas. Perhaps the contemporary poet who's using recycled digital texts is not a Dada artist after all. Maybe, as I've joked unwisely, a DJ? Or something else altogether?
+
+In a *New Yorker* article titled ‘The Writer as Meme Machine’, poet and
+critic Kenneth Goldsmith sees poetry slipping out the backdoor, running
+towards the internet and finding its place there.[^11chapter9_16] A virtual space
+where an even more experimental form of (post)modernism is possible, a
+new era for recycling, appropriating, retooling, decoding, and much
+more—once again: our big, postmodern world. Casting aside for a minute
+the death of the author and the disputed nature of postmodern
+literature, one thing about this article stands out: how Goldsmith sees
+the writer of nowadays 'as a meme machine, writing works with the
+intention for them to ripple rapidly across networks only to evaporate
+just as quickly as they appeared'.[^11chapter9_17]
+
+Lonely stones, my poetry babies are; filled with internet slang, they're
+tossed into the river of poetry, hoping to cause enough ripples. What
+these ripples look like or entail, I have no idea. But there is, as Boon
+says, 'power in naming, because naming brings together the heterogeneous
+energies of various fragments and unifies them in a particular
+name/form'.[^11chapter9_18]
+
+## References
+
+Adema, Janneke. “Cut-up.” In *Keywords in Remix Studies*, edited by
+Eduardo Navas, Owen Gallagher and xtine burrough, 104-14. London:
+Routledge, 2017.
+
+Boon, Marcus. *In Praise of Copying*. Cambridge: Harvard University
+Press, 2010.
+
+Church, Scott H. “All Living Things are DJs: Rhetoric, Aesthetics, and
+Remix Culture.” PhD diss., University of Nebraska-Lincoln, 2013.
+
+Di Rosario, Giovanna. “Electronic Poetry: Understanding Poetry in the
+Digital Environment.” Diss., University of Jyväskylä, 2011.
+
+Goldsmith, Kenneth. “The Writer as Meme Machine.” *The New Yorker*,
+October 2013.
+<a href="https://www.newyorker.com/books/page-turner/the-writer-as-meme-machine">https://www.newyorker.com/books/page-turner/the-writer-as-meme-machine</a>.
+Kostadinovska-
+
+Stojchevska, Bisera and Shalevska, Elena. “Internet Memes and their
+Socio-Linguistic Features.” *European Journal of Literature, Language
+and Linguistics Studies* 2, no. 4 (January, 2018): 158-169.
+
+McCulloch, Gretchen. *Because Internet: Understanding the New Rules of
+Language*. London: Harvill Secker, 2019.
+
+[^11chapter9_1]: Tzara, 1959, quoted in Giovanna Di Rosario, “Electronic Poetry:
+    Understanding Poetry in the Digital Environment,” (PhD diss.,
+    University of Jyväskylä, 2011), 50.
+
+[^11chapter9_2]: Rosario, “Electronic Poetry,” 50.
+
+[^11chapter9_3]: Rosario, “Electronic Poetry,” 80.
+
+[^11chapter9_4]: Rosario, “Electronic Poetry,” 80.
+
+[^11chapter9_5]: Marcus Boon, *In Praise of Copying* (Cambridge: Harvard University
+    Press, 2010), 143.
+
+[^11chapter9_6]: Boon, *In Praise of Copying,* 145.
+
+[^11chapter9_7]: Boon, *In Praise of Copying,* 152.
+
+[^11chapter9_8]: Gretchen McCulloch, *Because Internet: Understanding the New Rules
+    of Language* (London: Harvill Secker, 2019).
+
+[^11chapter9_9]: Scott H. Church, “All Living Things are DJs: Rhetoric, Aesthetics,
+    and Remix Culture” (PhD diss.,: University of Nebraska-Lincoln,
+    2013), 50.
+
+[^11chapter9_10]: Janneke Adema, “Cut-Up,” in *Keywords in Remix Studies,* eds.
+    > Eduardo Navas, Owen Gallagher and xtine burrough (London:
+    > Routledge, 2017), 105.
+
+[^11chapter9_11]: Adema, “Cut-Up,” 105.
+
+[^11chapter9_12]: McCulloch, *Because Internet.*
+
+[^11chapter9_13]: Boon, *In Praise of Copying*, 155.
+
+[^11chapter9_14]: Bisera Kostadinovska-Stojchevska and Elena Shalevska, 'Internet
+    Memes and their Socio-Linguistic Features,” *European Journal of
+    Literature, Language and Linguistics Studies* 2, no. 4 (January,
+    2018): 159.
+
+[^11chapter9_15]: Boon, *In Praise of Copying,* 206.
+
+[^11chapter9_16]: Kenneth Goldsmith, “The Writer as Meme Machine,” *The New*
+    Yorker, October 2013,
+    <a href="https://www.newyorker.com/books/page-turner/the-writer-as-meme-machine">https://www.newyorker.com/books/page-turner/the-writer-as-meme-machine</a>.
+
+[^11chapter9_17]: Goldsmith, “The Writer as Meme Machine.”
+
+[^11chapter9_18]: Boon, *In Praise of Copying,* 151.
 
 
 
@@ -6156,9 +6282,8 @@ Political Contexts.* Routledge, 2019.
 <https://doi.org/10.4324/9780429469404>
 
 DÖW. n.d. “Austrian Victims of the Holocaust.” Accessed March 9, 2021.
-<a href="https://www.doew.at/english/austrian-victims-of-the-holocaust%5C">https://www.doew.at/english/austrian-victims-of-the-holocaust\</a>
-DW. „Austria: Thousands protest against plans for 12-hour workday.“ June
-30, 2018
+<https://www.doew.at/english/austrian-victims-of-the-holocaust>
+DW. "Austria: Thousands protest against plans for 12-hour workday." June 30, 2018
 <https://www.dw.com/en/austria-thousands-protest-against-plans-for-12-hour-workday/a-44475182>
 
 Kittner, Daniela. “Kurz will, dass die EU die ‘christlich-jüdische
@@ -6428,7 +6553,7 @@ underground physical safe spaces.
 
 ![Fig. 1: Image Source: Whisper App @Yellow_Net](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/13.1.jpeg)
 
-<br>
+<br/>
 
 A similar pattern is reflected online where users are seemingly silent
 but are actually in constant movement searching and replatforming on to
@@ -10300,7 +10425,7 @@ or Why Trump is no Joker.” *The Philosophical Salon,* November 11, 2019.
     <a href="https://www.vulture.com/2019/10/all-the-joker-controversy-and-threats-explained.html">https://www.vulture.com/2019/10/all-the-joker-controversy-and-threats-explained.html</a>.
 
 [^20chapter19_15]: Slavoj Žižek, “More on Joker: from Apolitical Nihilism to a New
-    Left, or Why Trump is no Joker,” *The Philosophica*l *Salon,*
+    Left, or Why Trump is no Joker,” *The Philosophical Salon,*
     November 11, 2019,
     <a href="https://thephilosophicalsalon.com/more-on-joker-from-apolitical-nihilism-to-a-new-left-or-why-trump-is-no-joker/">https://thephilosophicalsalon.com/more-on-joker-from-apolitical-nihilism-to-a-new-left-or-why-trump-is-no-joker/</a>.
 
@@ -11214,7 +11339,7 @@ erupting violence.
 
 ![Fig. 2: The WhatsApp interface and *The Ring* featured in an amateur short film on the BWC on YouTube. (Creator: onionNgarlic, YouTube).[^22chapter21_37]](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/21.2.jpeg)
 
-</br>
+<br/>
 
 Let’s also not forget how the cellphone and such mobile communication
 platforms inform the petitions and regulatory efforts mentioned earlier,
@@ -11232,7 +11357,7 @@ as Bauman reminds us, ‘we fear what we can’t manage.’[^22chapter21_38]
 
 ![Fig. 3: YouTube screengrabs of an *NDTV* news program about the BWC. The image on the right shows public demonstrations against the BWC (NDTV, YouTube).[^22chapter21_39]](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/21.3.jpeg)
 
-</br>
+<br/>
 
 ## The Fearsome Meme
 
@@ -11257,7 +11382,7 @@ the PILs discussed earlier.
 
 ![Fig. 4: The BWC ‘tasks’ listed in an advisory video on YouTube. (Creator: SidTalk, YouTube).[^22chapter21_41]](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/21.4.jpeg)
 
-</br>
+<br/>
 
 While such details remain largely unverifiable or dubious, they become
 ‘real’ through repeated circulation. Details about the BWC take on the
@@ -13692,7 +13817,7 @@ low-tech, but more personal.
 
 ![Fig. 6: Caption translation: “Surveillance cameras, America, China, Lingwala” (a neighbourhood in Kinshasa). Again, the joke is based on the material inequalities between the richer countries and poorer Africa, while at the same time reminding/rewarding “in-the-know” viewers through a sense of personal community-interest lacking in the techno-surveillance states of “advanced” countries.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/27.7.jpeg)
 
-</br>
+<br/>
 
 ## Made in China
 
@@ -13728,7 +13853,7 @@ legitimate?
 
 ![Fig. 14: Caption translation: “Here is what this poor Chinese man is doing in the quarries with miners.”](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/27.9.jpeg)
 
-<br>
+<br/>
 
 ## A Me(r)maid’s Tale
 

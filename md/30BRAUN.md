@@ -253,7 +253,7 @@ low-tech, but more personal.
 
 ![Fig. 6: Caption translation: “Surveillance cameras, America, China, Lingwala” (a neighbourhood in Kinshasa). Again, the joke is based on the material inequalities between the richer countries and poorer Africa, while at the same time reminding/rewarding “in-the-know” viewers through a sense of personal community-interest lacking in the techno-surveillance states of “advanced” countries.](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/27.7.jpeg)
 
-</br>
+<br/>
 
 ## Made in China
 
@@ -289,7 +289,7 @@ legitimate?
 
 ![Fig. 14: Caption translation: “Here is what this poor Chinese man is doing in the quarries with miners.”](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/27.9.jpeg)
 
-<br>
+<br/>
 
 ## A Me(r)maid’s Tale
 

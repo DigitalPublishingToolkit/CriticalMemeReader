@@ -769,7 +769,7 @@ or Why Trump is no Joker.” *The Philosophical Salon,* November 11, 2019.
     <a href="https://www.vulture.com/2019/10/all-the-joker-controversy-and-threats-explained.html">https://www.vulture.com/2019/10/all-the-joker-controversy-and-threats-explained.html</a>.
 
 [^20chapter19_15]: Slavoj Žižek, “More on Joker: from Apolitical Nihilism to a New
-    Left, or Why Trump is no Joker,” *The Philosophica*l *Salon,*
+    Left, or Why Trump is no Joker,” *The Philosophical Salon,*
     November 11, 2019,
     <a href="https://thephilosophicalsalon.com/more-on-joker-from-apolitical-nihilism-to-a-new-left-or-why-trump-is-no-joker/">https://thephilosophicalsalon.com/more-on-joker-from-apolitical-nihilism-to-a-new-left-or-why-trump-is-no-joker/</a>.
 

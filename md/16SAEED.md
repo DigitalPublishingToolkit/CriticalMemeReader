@@ -147,7 +147,7 @@ underground physical safe spaces.
 
 ![Fig. 1: Image Source: Whisper App @Yellow_Net](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/13.1.jpeg)
 
-<br>
+<br/>
 
 A similar pattern is reflected online where users are seemingly silent
 but are actually in constant movement searching and replatforming on to
