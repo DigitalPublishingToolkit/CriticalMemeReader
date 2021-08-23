@@ -53,6 +53,6 @@ of this license, visit <a href="http://www.creativecommons.org/licences/by-nc-sa
 
 <br/>
 
-![](imgs/inclogo.jpg)
+![](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/inclogo.jpg)
 
 <br/>
