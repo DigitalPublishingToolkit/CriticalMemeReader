@@ -67,7 +67,7 @@ thrust.
 
 <br/>
 
-![Fig. 2: <chttps://tenor.com/view/truck-crash-gif-10492368>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/0.2.jpeg)
+![Fig. 2: <https://tenor.com/view/truck-crash-gif-10492368>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/0.2.jpeg)
 
 <br/>
 
