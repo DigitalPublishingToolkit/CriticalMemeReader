@@ -49,7 +49,7 @@ Rights: CC BY-NC 4.0
 
 <a href='ch011.xhtml'>**Le Meme d’Auteur, or: 
 How We Learned to Stop Worrying and Love Original Content Memes**</a>
-<br/>Clusterduck (Tommaso Cappelletti, Silvia Dal Dosso, Francesca Del Bono, Aria Mag, Noel Nicolaus)
+<br/>Clusterduck (Tommaso Cappelletti, Silvia Dal Dosso, Francesca Del Bono, Aria Mag and Noel Nicolaus)
 
 <a href='ch012.xhtml'>**Making poetry babies in an online world**</a>
 <br/>Laurence Scherz
@@ -101,7 +101,7 @@ A Clapback to Saudi Arabia’s Electronic Army**</a>
 <br/>The Trans Bears
 
 <a href='ch029.xhtml'>**Pepe the Frog Is Love and Peace: His Second Life in Hong Kong**</a>
-<br/>ACaspar Chan
+<br/>Caspar Chan
 
 <a href='ch030.xhtml'>**Meme Tarot**</a>
 <br/>Luther Blisset

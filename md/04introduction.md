@@ -133,7 +133,7 @@ representation and ideology, Bueno asks:
 > apparatus that helps grasping the machinic dimension of contemporary
 > capitalism?[^02introduction_5]
 
-This is also exactly the question memes pose to us. <a href='ch022.xhtml'>As Geoff
+This is also exactly the question memes pose to us. <a href='ch023.xhtml'>As Geoff
 Hondroudakis argues</a> in his contribution to this reader:
 
 > The significance of circulation and exchange in memes—their
@@ -178,7 +178,7 @@ Outdoor Playground Finger Family Song Nursery Rhymes Animation Education
 Learning Video,’ ‘Double Pregnant FROZEN ELSA vs DOCTOR! w/ Spiderman vs
 Joker Maleficent Hulk Baby - Superhero Fun’ and the myriad other
 examples of recombinant YouTube Kids’ grotesquery, the dead eyes of
-‘Momo,’ or the psychic terrorism of the ‘Blue Whale Challenge’ <a href='ch026.xhtml'>that
+‘Momo,’ or the psychic terrorism of the ‘Blue Whale Challenge’ <a href='ch027.xhtml'>that
 Anirban Baishya discusses</a> in this collection:
 
 > Memetic terror is an affective, networked fear of breaching. It
@@ -240,7 +240,7 @@ a distance: isn’t that the very definition of media?
 
 From state actors to insurgents, Memes have proven to be powerful
 weapons in informational warfare. Indeed, even the canard that ‘the left
-can’t meme’ is a meme unto itself, as <a href='ch024.xhtml'>Andy King tells us</a> in her essay
+can’t meme’ is a meme unto itself, as <a href='ch025.xhtml'>Andy King tells us</a> in her essay
 ‘Weapons of Mass Distraction: Far-right Culture-jamming Tactics in
 Memetic Warfare’:
 
