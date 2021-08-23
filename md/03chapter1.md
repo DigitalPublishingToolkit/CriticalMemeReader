@@ -150,6 +150,14 @@ alongside me. Memes circulate through networks, and there is an element
 of affect that is produced in this traversal: impressions of the other
 *who felt themselves in the NPC meme* are left and felt on me.[^03chapter1_6]
 
+![Fig. 1: Wojak himself](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/1.1.jpeg) 
+
+<br/>
+
+![Fig. 2: Wojak wall](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/1.2.jpeg) 
+
+<br/>
+
 
 I’m using Wojak and NPC here interchangeably because while Wojak himself
 might be the most recognizable type, he represents a genre of images
