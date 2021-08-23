@@ -404,7 +404,7 @@ opportunities in the music industry.
 Should you have a TikTok earworm lodged in your head, we welcome
 friendly correspondence to share in your burden, For Science.
 
-## Bibliography
+## References
 
 Abidin, Crystal. “Mapping Internet Celebrity on TikTok: Exploring
 Attention Economies and Visibility Labours.” *Cultural Science Journal*

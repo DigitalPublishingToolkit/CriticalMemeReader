@@ -17,51 +17,52 @@ Rights: CC BY-NC 4.0
 ...
 
 
-###Colofon
+##Previously published INC Readers
 
-###**INC Reader \#15**
+The INC Reader series is derived from conference contributions and
+produced by the Institute of Network Cultures. The publications in this
+series are available in EPUB, PDF form, and a print run of 2000 copies.
+All INC Readers, and other publications like the Network Notebooks
+series, INC Longforms, and Theory on Demand, can be downloaded and read
+for free. See <a href="http://networkcultures.org/publications">networkcultures.org/publications</a>.
 
-###**Critical Meme Reader: Global Mutations of the Viral Image**
+**INC Reader \#14**: Geert Lovink and Andreas Treske (ed.), Video Vortex Reader III: Inside the Youtube Decade, 2020. 
 
-Editors: Chloë Arkenbout, Jack Wilson, Daniel de Zeeuw
+**INC Reader \#13**: Miriam Rasch (ed.), Let’s Get Physical, A Sample of INC
+Longforms 2015-2020, 2020.
 
-Copy editor: Geoff Hondroudakis
+**INC Reader \#12**: Loes Bogers and Letizia Chiappini (eds), Critical
+Makers Reader: (Un)Learning Technology, 2019.
 
-Cover design: Marijn Bril
+**INC Reader \#11**: Inte Gloerich, Geert Lovink and Patricia de Vries
+(eds), MoneyLab Reader 2: Overcoming the Hype, 2018.
 
-Cover font: Terminal Grotesque Regular by Raphaël Bastide (Velvetyne)
+**INC Reader \#10**: Geert Lovink, Nathaniel Tkacz and Patricia de Vries
+(eds), MoneyLab Reader: An Intervention in Digital Economy, 2015.
 
-Design and EPUB development: Chloë Arkenbout
+**INC Reader \#9**: René König and Miriam Rasch (eds), Society of the Query:
+Reflections on Web Search, 2014.
 
-Printing and binding: GPS Group
+**INC Reader \#8**: Geert Lovink and Miriam Rasch (eds), Unlike Us: Social
+Media Monopolies and Their Alternatives, 2013.
 
-Published by the Institute of Network Cultures, Amsterdam 2021
+**INC Reader \#7**: Geert Lovink and Nathaniel Tkacz (eds), Critical Point
+of View: A Wikipedia Reader, 2011.
 
-ISBN print: 9789492302762
+**INC Reader \#6**: Geert Lovink and Rachel Somers Miles (eds), Video Vortex
+Reader II: Moving Images Beyond YouTube, 2011.
 
-ISBN EPUB: 9789492302779 
+**INC Reader \#5**: Scott McQuire, Meredith Martin and Sabine Niederer
+(eds), Urban Screens Reader, 2009.
 
-**Contact**
+**INC Reader \#4**: Geert Lovink and Sabine Niederer (eds), Video Vortex
+Reader: Responses to YouTube, 2008.
 
-Institute of Network Cultures
+**INC Reader \#3**: Geert Lovink and Ned Rossiter (eds), MyCreativity
+Reader: A Critique of Creative Industries, 2007.
 
-Amsterdam University of Applied Sciences
+**INC Reader \#2**: Katrien Jacobs, Marije Janssen and Mateo Pasquinelli
+(eds), C’LICK ME: A Netporn Studies Reader, 2007.
 
-Emai: <a href="mailto:info@networkcultures.org">info@networkcultures.org</a> / <a href="mailto:viralimageculture@networkcultures.org">viralimageculture@networkcultures.org</a>
-
-Web: [www.networkcultures.org](http://www.networkcultures.org) / <a href="http://www.networkcultures.org/viralimageculture">https://app.inboxify.nl/sign-up/v2/61624D6C4D7347364669303D/7638456838614B6B4E61673D</a>
-
-
-Order a copy or download this publication for free at:
-<a href="http://www.networkcultures.org/publications">www.networkcultures.org/publications</a>
-
-Subscribe to the INC newsletters: <a href="http://www.networkcultures.org/newsletter">www.networkcultures.org/newsletter</a> / <a href="https://app.inboxify.nl/sign-up/v2/61624D6C4D7347364669303D/7638456838614B6B4E61673D">www.networkcultures.org/viralimageculture</a>
-
-
-
-This publication is licensed under the Creative Commons Attribution
-NonCommercial ShareAlike 4.0 Unported (CC BY-NC-SA 4.0). To view a copy
-of this license, visit <a href="http://www.creativecommons.org/licences/by-nc-sa/4.0/">www.creativecommons.org/licences/by-nc-sa/4.0/</a>.
-
-
-![](imgs/INC-logoCMYK.png)
+**INC Reader \#1**: Geert Lovink and Soenke Zehle (eds), Incommunicade
+Reader, 2005.

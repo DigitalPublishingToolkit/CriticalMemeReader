@@ -139,8 +139,7 @@ communication, the generation of memes that cannot be but nonmimetic.
 
 ## The Meme Machine
 
-*\
-Circle Jerk* is one of the most successful examples of the many
+*Circle Jerk* is one of the most successful examples of the many
 livestreamed digital theatre productions of 2020, when the dangers of
 coronavirus contagion required a reinvention of theatrical liveness for
 online, distanced streaming. Most examples of theatre from this time can

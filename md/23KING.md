@@ -51,7 +51,7 @@ new grounds.
 
 ![Fig. 1: Right-wing meme stereotyping leftists as digitally illiterate and therefore irrelevant SJWs. <https://imgflip.com/i/1zwubx>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/19.1.jpeg) 
 
-</br>
+<br/>
 
 This is not to say that tech-savvy leftists haven’t been trying to
 discredit the internet maxim ‘*The left can’t meme’* \[Fig. 1.\]. There
@@ -612,7 +612,9 @@ Pepe is appropriation, *not* cancellation.
 ![Fig. 11: Pepe Instagram collage created by clusterduck, a left-wing
 artist collective that uses memes to protest the climate crisis. They
 have reappropriated Pepe to promote a positive message of inclusivity.
-<https://www.instagram.com/realclusterfuck>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/19.11.jpeg) 
+<https://www.instagram.com/realclusterfuck>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/19.11.jpeg)
+
+<br/> 
 
 What the alt-right fears most is losing media attention and its
 reputation for being an edgy counterculture that defends ‘free-speech’

@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Le Meme d’Auteur, or: How We Learned to Stop Worrying and Love Original Content Memes.
+# Le Meme d’Auteur, or: How We Learned to Stop Worrying and Love Original Content Memes
 
 ###Clusterduck (Silvia Dal Dosso, Francesca Del Bono, Aria Mag, Noel Nicolaus)
 

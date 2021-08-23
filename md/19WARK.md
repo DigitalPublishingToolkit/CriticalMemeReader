@@ -246,8 +246,7 @@ perpetual obsolescence, new becoming old through bland repetition.
 
 ![Fig. 2: Distracted Angel of History. Digital Image. Originally seen on Twitter, late-2018. Archived at: Know Your Meme. <https://knowyourmeme.com/photos/1290289-distracted-boyfriend>](/Users/c.c.arkenbouthva.nl/Documents/GitHub/CriticalMemeReader/imgs/15.1.jpeg)
 
-Let’s try to draw all of these conceptual threads together by returning
-to my original conceit: ‘Distracted Boyfriend’ manifesting a
+Let’s try to draw all of these conceptual threads together by returning to my original conceit: ‘Distracted Boyfriend’ manifesting a
 post-digital ‘angel of history.’
 
 Why slap a cropped image of Paul Klee’s *Angelus Novus* into a

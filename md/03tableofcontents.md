@@ -22,7 +22,7 @@ Rights: CC BY-NC 4.0
  <a href='ch003.xhtml'>**Introduction: Global Mutations of the Viral Image**</a>
 <br/>Chloë Arkenbout, Jack Wilson and Daniël de Zeeuw 
 
-###MEMETIC SUBJECTIVITIES & COMMUNITIES
+##MEMETIC SUBJECTIVITIES & COMMUNITIES
 
 <a href='ch004.xhtml'>**Wojak’s lament: Excess and Voyeurism Under Platform Capitalism**</a>
 <br/>Anthony Glyn Burton
@@ -42,7 +42,7 @@ Rights: CC BY-NC 4.0
 <a href='ch009.xhtml'>**Memes in Kuwait as Coping Mechanism for a Lack of Infrastructure**</a>
 <br/>Yasmeen Khaja
 
-###THE WORK OF ART IN THE AGE OF MEMETIC PRODUCTION
+##THE WORK OF ART IN THE AGE OF MEMETIC PRODUCTION
 
 <a href='ch010.xhtml'>**Masks, Monsters, and Memes: In Conversation with Scoobert Doobert**</a>
 <br/>Max Horwich
@@ -64,7 +64,7 @@ How We Learned to Stop Worrying and Love Original Content Memes**</a>
 A Clapback to Saudi Arabia’s Electronic Army**</a>
 <br/>Saeeda Saeed
 
-###FROM PEAK TO POST MEME
+##FROM PEAK TO POST MEME
 
 <a href='ch019.xhtml'>**Mimetic Sameness**</a>
 <br/>Grant Bollmer
@@ -78,7 +78,7 @@ A Clapback to Saudi Arabia’s Electronic Army**</a>
 <a href='ch022.xhtml'>**Deeper and Higher: Memes as Scalar Abstraction**</a>
 <br/>Geoffrey Hondroudakis
 
-###MEME WARFARE
+##MEME WARFARE
 
 <a href='ch023.xhtml'>**Post-Truth Design Tactics in Memes in India: Decoding Malicious Design Practices in Right-Wing Meme Factories**</a>
 <br/>Aarushi Bapna and Ajitesh Lokhande
@@ -95,7 +95,7 @@ A Clapback to Saudi Arabia’s Electronic Army**</a>
 <a href='ch027.xhtml'>**SILICODEFORESTATION**</a>
 <br/>Stephanie Boulding
 
-###MEME MAGIC: SPECTRES AND DEMONS
+##MEME MAGIC: SPECTRES AND DEMONS
 
 <a href='ch028.xhtml'>**An Ambiguous Utopia**</a>
 <br/>The Trans Bears
