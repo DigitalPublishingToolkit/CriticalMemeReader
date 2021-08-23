@@ -54,64 +54,64 @@ How We Learned to Stop Worrying and Love Original Content Memes**</a>
 <a href='ch012.xhtml'>**Making poetry babies in an online world**</a>
 <br/>Laurence Scherz
 
-<a href='ch013.xhtml'>**‘The Disturbingly Humanoid Face of the Lamb of God Has Shocked Many’: Visual Strategies in Internet Memes on the Restoration of the Ghent Altarpiece**</a>
+<a href='ch016.xhtml'>**‘The Disturbingly Humanoid Face of the Lamb of God Has Shocked Many’: Visual Strategies in Internet Memes on the Restoration of the Ghent Altarpiece**</a>
 <br/>Martin Hanßen
 
-<a href='ch014.xhtml'>**Ibiza Austrian Memes: Reflections on Reclaiming Political Discourse through Memes**</a>
+<a href='ch017.xhtml'>**Ibiza Austrian Memes: Reflections on Reclaiming Political Discourse through Memes**</a>
 <br/>Anahita Neghabat
 
-<a href='ch015.xhtml'>**Dear Mr.BoneSaw your face smells like a chicken shawarma: 
+<a href='ch018.xhtml'>**Dear Mr.BoneSaw your face smells like a chicken shawarma: 
 A Clapback to Saudi Arabia’s Electronic Army**</a>
 <br/>Saeeda Saeed
 
 ###FROM PEAK TO POST MEME
 
-<a href='ch016.xhtml'>**Mimetic Sameness**</a>
+<a href='ch019.xhtml'>**Mimetic Sameness**</a>
 <br/>Grant Bollmer
 
-<a href='ch017.xhtml'>**A Postdigital Angel of History? On ‘Meme Theory'**</a>
+<a href='ch020.xhtml'>**A Postdigital Angel of History? On ‘Meme Theory'**</a>
 <br/>Scott Wark
 
-<a href='ch018.xhtml'>**On the Prospect of Overcoming Meme-Culture or, The Last Meme in History**</a>
+<a href='ch021.xhtml'>**On the Prospect of Overcoming Meme-Culture or, The Last Meme in History**</a>
 <br/>Åke Gafvelin
 
-<a href='ch019.xhtml'>**Deeper and Higher: Memes as Scalar Abstraction**</a>
+<a href='ch022.xhtml'>**Deeper and Higher: Memes as Scalar Abstraction**</a>
 <br/>Geoffrey Hondroudakis
 
 ###MEME WARFARE
 
-<a href='ch020.xhtml'>**Post-Truth Design Tactics in Memes in India: Decoding Malicious Design Practices in Right-Wing Meme Factories**</a>
+<a href='ch023.xhtml'>**Post-Truth Design Tactics in Memes in India: Decoding Malicious Design Practices in Right-Wing Meme Factories**</a>
 <br/>Aarushi Bapna and Ajitesh Lokhande
 
-<a href='ch021.xhtml'>**Weapons of Mass Distraction: Far-Right Culture-Jamming Tactics in Memetic Warfare**</a>
+<a href='ch024.xhtml'>**Weapons of Mass Distraction: Far-Right Culture-Jamming Tactics in Memetic Warfare**</a>
 <br/>Andy King
 
-<a href='ch022.xhtml'>**Your Feed is a Battleground: A Field Report on Memetic Warfare in Turkey**</a>
+<a href='ch025.xhtml'>**Your Feed is a Battleground: A Field Report on Memetic Warfare in Turkey**</a>
 <br/>Sarp Özer
 
-<a href='ch023.xhtml'>**It Lurks in the Deep: Memetic Terror and the Blue Whale Challenge in India**</a>
+<a href='ch026.xhtml'>**It Lurks in the Deep: Memetic Terror and the Blue Whale Challenge in India**</a>
 <br/>Anirban K. Baishya
 
-<a href='ch024.xhtml'>**SILICODEFORESTATION**</a>
+<a href='ch027.xhtml'>**SILICODEFORESTATION**</a>
 <br/>Stephanie Boulding
 
 ###MEME MAGIC: SPECTRES AND DEMONS
 
-<a href='ch025.xhtml'>**An Ambiguous Utopia**</a>
+<a href='ch028.xhtml'>**An Ambiguous Utopia**</a>
 <br/>The Trans Bears
 
-<a href='ch026.xhtml'>**Pepe the Frog Is Love and Peace: His Second Life in Hong Kong**</a>
+<a href='ch029.xhtml'>**Pepe the Frog Is Love and Peace: His Second Life in Hong Kong**</a>
 <br/>ACaspar Chan
 
-<a href='ch027.xhtml'>**Meme Tarot**</a>
+<a href='ch030.xhtml'>**Meme Tarot**</a>
 <br/>Luther Blisset
 
-<a href='ch028.xhtml'>**Genes, Memes, Dreams**</a>
+<a href='ch031.xhtml'>**Genes, Memes, Dreams**</a>
 <br/>Ivan Knapp
 
-<a href='ch029.xhtml'>**The Contagious Other: Virality and Anxiety in Congolese Memes**</a>
+<a href='ch032.xhtml'>**The Contagious Other: Virality and Anxiety in Congolese Memes**</a>
 <br/>Lesley Nicole Braun
 
-####<a href='ch030.xhtml'>Contributor Biographies</a>
+####<a href='ch033.xhtml'>Contributor Biographies</a>
 
-####<a href='ch031.xhtml'>Meme Studies Research Network</a>
+####<a href='ch034.xhtml'>Meme Studies Research Network</a>
