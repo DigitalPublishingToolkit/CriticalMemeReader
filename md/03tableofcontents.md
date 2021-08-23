@@ -19,58 +19,57 @@ Rights: CC BY-NC 4.0
 
 #Contents
 
- <a href='ch005.xhtml'>**Introduction: Global Mutations of the Viral Image**</a>
+ <a href='ch003.xhtml'>**Introduction: Global Mutations of the Viral Image**</a>
 <br/>Chloë Arkenbout, Jack Wilson and Daniël de Zeeuw 
 
 ###MEMETIC SUBJECTIVITIES & COMMUNITIES
 
-<a href='ch006.xhtml'>**Wojak’s lament: Excess and Voyeurism Under Platform Capitalism**</a>
+<a href='ch004.xhtml'>**Wojak’s lament: Excess and Voyeurism Under Platform Capitalism**</a>
 <br/>Anthony Glyn Burton
 
-<a href='ch007.xhtml'>**The ‘Grotesque’ in Instagram Memes**</a>
+<a href='ch005.xhtml'>**The ‘Grotesque’ in Instagram Memes**</a>
 <br/>İdil Galip
 
-
-<a href='ch008.xhtml'>**‘A Vaguely Erotic Mime’: Mimetic Text vs. Optical Tactility**</a>
+<a href='ch006.xhtml'>**‘A Vaguely Erotic Mime’: Mimetic Text vs. Optical Tactility**</a>
 <br/>Sabrina Ward-Kimola
 
-<a href='ch009.xhtml'>**Praise Gopod: Weird Tales and Memetic Lore on the WELL**</a>
+<a href='ch007.xhtml'>**Praise Gopod: Weird Tales and Memetic Lore on the WELL**</a>
 <br/>Jacob Sujin Kuppermann
 
-<a href='ch010.xhtml'>**Audio Memes, Earworms, and Templatability: the ‘Aural Turn’ of Memes on TikTok**</a>
+<a href='ch008.xhtml'>**Audio Memes, Earworms, and Templatability: the ‘Aural Turn’ of Memes on TikTok**</a>
 <br/>Crystal Abidin and Dr. Bondy Valdovinos Kaye
 
-<a href='ch011.xhtml'>**Memes in Kuwait as Coping Mechanism for a Lack of Infrastructure**</a>
+<a href='ch009.xhtml'>**Memes in Kuwait as Coping Mechanism for a Lack of Infrastructure**</a>
 <br/>Yasmeen Khaja
 
 ###THE WORK OF ART IN THE AGE OF MEMETIC PRODUCTION
 
-<a href='ch012.xhtml'>**Masks, Monsters, and Memes: In Conversation with Scoobert Doobert**</a>
+<a href='ch010.xhtml'>**Masks, Monsters, and Memes: In Conversation with Scoobert Doobert**</a>
 <br/>Max Horwich
 
-<a href='ch013.xhtml'>**Le Meme d’Auteur, or: 
+<a href='ch011.xhtml'>**Le Meme d’Auteur, or: 
 How We Learned to Stop Worrying and Love Original Content Memes**</a>
 <br/>Clusterduck (Tommaso Cappelletti, Silvia Dal Dosso, Francesca Del Bono, Aria Mag, Noel Nicolaus)
 
-<a href='ch014.xhtml'>**Making poetry babies in an online world**</a>
+<a href='ch012.xhtml'>**Making poetry babies in an online world**</a>
 <br/>Laurence Scherz
 
-<a href='ch015.xhtml'>**‘The Disturbingly Humanoid Face of the Lamb of God Has Shocked Many’: Visual Strategies in Internet Memes on the Restoration of the Ghent Altarpiece**</a>
+<a href='ch013.xhtml'>**‘The Disturbingly Humanoid Face of the Lamb of God Has Shocked Many’: Visual Strategies in Internet Memes on the Restoration of the Ghent Altarpiece**</a>
 <br/>Martin Hanßen
 
-<a href='ch016.xhtml'>**Ibiza Austrian Memes: Reflections on Reclaiming Political Discourse through Memes**</a>
+<a href='ch014.xhtml'>**Ibiza Austrian Memes: Reflections on Reclaiming Political Discourse through Memes**</a>
 <br/>Anahita Neghabat
 
-<a href='ch017.xhtml'>**Dear Mr.BoneSaw your face smells like a chicken shawarma: 
+<a href='ch015.xhtml'>**Dear Mr.BoneSaw your face smells like a chicken shawarma: 
 A Clapback to Saudi Arabia’s Electronic Army**</a>
 <br/>Saeeda Saeed
 
 ###FROM PEAK TO POST MEME
 
-<a href='ch018.xhtml'>**Mimetic Sameness**</a>
+<a href='ch016.xhtml'>**Mimetic Sameness**</a>
 <br/>Grant Bollmer
 
-<a href='ch019.xhtml'>**A Postdigital Angel of History? On ‘Meme Theory'**</a>
+<a href='ch017.xhtml'>**A Postdigital Angel of History? On ‘Meme Theory'**</a>
 <br/>Scott Wark
 
 <a href='ch018.xhtml'>**On the Prospect of Overcoming Meme-Culture or, The Last Meme in History**</a>
@@ -81,38 +80,38 @@ A Clapback to Saudi Arabia’s Electronic Army**</a>
 
 ###MEME WARFARE
 
-<a href='ch018.xhtml'>**Post-Truth Design Tactics in Memes in India: Decoding Malicious Design Practices in Right-Wing Meme Factories**</a>
+<a href='ch020.xhtml'>**Post-Truth Design Tactics in Memes in India: Decoding Malicious Design Practices in Right-Wing Meme Factories**</a>
 <br/>Aarushi Bapna and Ajitesh Lokhande
 
-<a href='ch019.xhtml'>**Weapons of Mass Distraction: Far-Right Culture-Jamming Tactics in Memetic Warfare**</a>
+<a href='ch021.xhtml'>**Weapons of Mass Distraction: Far-Right Culture-Jamming Tactics in Memetic Warfare**</a>
 <br/>Andy King
 
-<a href='ch018.xhtml'>**Your Feed is a Battleground: A Field Report on Memetic Warfare in Turkey**</a>
+<a href='ch022.xhtml'>**Your Feed is a Battleground: A Field Report on Memetic Warfare in Turkey**</a>
 <br/>Sarp Özer
 
-<a href='ch019.xhtml'>**It Lurks in the Deep: Memetic Terror and the Blue Whale Challenge in India**</a>
+<a href='ch023.xhtml'>**It Lurks in the Deep: Memetic Terror and the Blue Whale Challenge in India**</a>
 <br/>Anirban K. Baishya
 
-<a href='ch019.xhtml'>**SILICODEFORESTATION**</a>
+<a href='ch024.xhtml'>**SILICODEFORESTATION**</a>
 <br/>Stephanie Boulding
 
 ###MEME MAGIC: SPECTRES AND DEMONS
 
-<a href='ch019.xhtml'>**An Ambiguous Utopia**</a>
+<a href='ch025.xhtml'>**An Ambiguous Utopia**</a>
 <br/>The Trans Bears
 
-<a href='ch019.xhtml'>**Pepe the Frog Is Love and Peace: His Second Life in Hong Kong**</a>
+<a href='ch026.xhtml'>**Pepe the Frog Is Love and Peace: His Second Life in Hong Kong**</a>
 <br/>ACaspar Chan
 
-<a href='ch019.xhtml'>**Meme Tarot**</a>
+<a href='ch027.xhtml'>**Meme Tarot**</a>
 <br/>Luther Blisset
 
-<a href='ch019.xhtml'>**Genes, Memes, Dreams**</a>
+<a href='ch028.xhtml'>**Genes, Memes, Dreams**</a>
 <br/>Ivan Knapp
 
-<a href='ch019.xhtml'>**The Contagious Other: Virality and Anxiety in Congolese Memes**</a>
+<a href='ch029.xhtml'>**The Contagious Other: Virality and Anxiety in Congolese Memes**</a>
 <br/>Lesley Nicole Braun
 
-####<a href='ch020.xhtml'>Contributor Biographies</a>
+####<a href='ch030.xhtml'>Contributor Biographies</a>
 
-####<a href='ch020.xhtml'>Meme Studies Research Network</a>
+####<a href='ch031.xhtml'>Meme Studies Research Network</a>
