@@ -17,6 +17,8 @@ Rights: CC BY-NC 4.0
 ...
 
 
+###Colofon
+
 ###**INC Reader \#15**
 
 ###**Critical Meme Reader: Global Mutations of the Viral Image**
@@ -47,13 +49,13 @@ Amsterdam University of Applied Sciences
 
 Emai: <a href="mailto:info@networkcultures.org">info@networkcultures.org</a> / <a href="mailto:viralimageculture@networkcultures.org">viralimageculture@networkcultures.org</a>
 
-Web: [www.networkcultures.org](http://www.networkcultures.org) / <a href="http://www.networkcultures.org/viralimageculture">www.networkcultures.org/viralimageculture</a>
+Web: [www.networkcultures.org](http://www.networkcultures.org) / <a href="http://www.networkcultures.org/viralimageculture">https://app.inboxify.nl/sign-up/v2/61624D6C4D7347364669303D/7638456838614B6B4E61673D</a>
 
 
 Order a copy or download this publication for free at:
 <a href="http://www.networkcultures.org/publications">www.networkcultures.org/publications</a>
 
-Subscribe to the INC newsletters: <a href="http://www.networkcultures.org/newsletter">www.networkcultures.org/newsletter</a> / <a href="http://www.networkcultures.org/viralimageculture">www.networkcultures.org/viralimageculture</a>
+Subscribe to the INC newsletters: <a href="http://www.networkcultures.org/newsletter">www.networkcultures.org/newsletter</a> / <a href="https://app.inboxify.nl/sign-up/v2/61624D6C4D7347364669303D/7638456838614B6B4E61673D">www.networkcultures.org/viralimageculture</a>
 
 
 

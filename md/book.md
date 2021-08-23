@@ -14057,7 +14057,7 @@ Both Aarushi and Ajtesh are a part of the Critters' Collective.
 
 **Luther Blisset**
 
-Luther Blisset is the pseudonym of one of the most notorious meme researchers out there.
+The Luther Blissett multiple name project (the name originally belonged to a British football player) was initiated in 1994 in Italy, and has since then been joined by dozens of mail-artists, underground reviews, poets, performers and squatters' collectives in cities throughout Europe.
 
 **Grant Bolmer**
 
