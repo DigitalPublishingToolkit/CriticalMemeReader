@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 # **Post-Truth Design Tactics in Memes in India: Decoding Malicious Design Practices in Right-Wing Meme Factories**
 
-###By Aarushi Bapna, Ajitesh Lokhande
+###By Aarushi Bapna and Ajitesh Lokhande
 
 On May 12, 2017, two people suspected to be child kidnappers were
 lynched in the Indian village of Jadugora, in the eastern state of
