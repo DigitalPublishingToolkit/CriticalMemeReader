@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# **Audio Memes, Earworms, and Templatability: the ‘Aural Turn’ of Memes on TikTok**
+#Audio Memes, Earworms, and Templatability: the ‘Aural Turn’ of Memes on TikTok
 
 ###Crystal Abidin and Dr. Bondy Valdovinos Kaye 
 
