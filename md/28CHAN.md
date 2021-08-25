@@ -17,11 +17,10 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Pepe the Frog Is Love and Peace! His Second Life in Hong Kong
+# Pepe the Frog Is Love and Peace: His Second Life in Hong Kong
 
 ###Caspar Chan
 
-## Introduction
 
 In Hong Kong, starting in June 2019, a series of demonstrations and
 civil disobedience actions were launched, protesting the government’s

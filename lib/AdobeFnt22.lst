@@ -1,0 +1,422 @@
+%!Adobe-FontList 1.22
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:04b30
+FamilyName:04b
+StyleName:30
+MenuName:04b
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:04b 30
+WritingScript:Roman
+OutlineFileName:/Users/aschlimm/Downloads/Meme-scaping/Final contribution/Exports/Edited Version/Edited Final Folder/Document fonts/04B_30__.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:30728
+FileModTime:11050328
+NameArray:0,Mac,4,04b 30
+NameArray:0,Win,1,04b
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/aschlimm/Downloads/Meme-scaping/Final contribution/Exports/Edited Version/Edited Final Folder/Document fonts/AdobeFnt22.lst
+FileLength:10153
+FileModTime:645299189
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Apple-Chancery
+FamilyName:Apple Chancery
+StyleName:Chancery
+MenuName:Apple Chancery
+StyleBits:0
+WeightClass:0
+WidthClass:5
+AngleClass:1
+FullName:Apple Chancery
+WritingScript:Roman
+OutlineFileName:/Users/aschlimm/Downloads/Meme-scaping/Final contribution/Exports/Edited Version/Edited Final Folder/Document fonts/Apple Chancery.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:336452
+FileModTime:645299187
+NameArray:0,Mac,4,Apple Chancery
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Arial-Black
+FamilyName:Arial Black
+StyleName:Regular
+MenuName:Arial Black
+StyleBits:0
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:Arial Black
+WritingScript:Roman
+OutlineFileName:/Users/aschlimm/Downloads/Meme-scaping/Final contribution/Exports/Edited Version/Edited Final Folder/Document fonts/Arial Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:122556
+FileModTime:645299187
+NameArray:0,Mac,4,Arial Black
+NameArray:0,Win,1,Arial Black
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:CirrusCumulus
+FamilyName:CirrusCumulus
+StyleName:Regular
+MenuName:CirrusCumulus
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:CirrusCumulus
+WritingScript:Roman
+OutlineFileName:/Users/aschlimm/Downloads/Meme-scaping/Final contribution/Exports/Edited Version/Edited Final Folder/Document fonts/CirrusCumulus.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:39980
+FileModTime:610811522
+NameArray:0,Mac,4,CirrusCumulus
+NameArray:0,Win,1,CirrusCumulus
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Compagnon-Medium
+FamilyName:Compagnon
+StyleName:Medium
+MenuName:Compagnon Medium
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Compagnon Medium
+WritingScript:Roman
+OutlineFileName:/Users/aschlimm/Downloads/Meme-scaping/Final contribution/Exports/Edited Version/Edited Final Folder/Document fonts/Compagnon-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:22568
+FileModTime:607515485
+NameArray:0,Mac,4,Compagnon Medium
+NameArray:0,Win,1,Compagnon Medium
+NameArray:0,Win,16,Compagnon
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DoubleFeature
+FamilyName:Double Feature
+StyleName:Regular
+MenuName:Double Feature
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Double Feature
+WritingScript:Roman
+OutlineFileName:/Users/aschlimm/Downloads/Meme-scaping/Final contribution/Exports/Edited Version/Edited Final Folder/Document fonts/DoubleFeature20.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:110060
+FileModTime:319196540
+NameArray:0,Mac,18,Double Feature
+NameArray:0,Mac,4,Double Feature
+NameArray:0,Win,1,Double Feature
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gulax-Regular
+FamilyName:Gulax
+StyleName:Regular
+MenuName:Gulax
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Gulax Regular
+WritingScript:Roman
+OutlineFileName:/Users/aschlimm/Downloads/Meme-scaping/Final contribution/Exports/Edited Version/Edited Final Folder/Document fonts/Gulax-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:37732
+FileModTime:638719262
+NameArray:0,Mac,4,Gulax Regular
+NameArray:0,Win,1,Gulax
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue
+FamilyName:Helvetica Neue
+StyleName:Regular
+MenuName:Helvetica Neue
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue
+WritingScript:Roman
+OutlineFileName:/Users/aschlimm/Downloads/Meme-scaping/Final contribution/Exports/Edited Version/Edited Final Folder/Document fonts/HelveticaNeue.ttc
+TTCOffset:80
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:6171680
+FileModTime:645299187
+NameArray:0,Mac,4,Helvetica Neue
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IngaStoneSigns
+FamilyName:Inga Stone Signs
+StyleName:Regular
+MenuName:Inga Stone Signs
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Inga Stone Signs
+WritingScript:Roman
+OutlineFileName:/Users/aschlimm/Downloads/Meme-scaping/Final contribution/Exports/Edited Version/Edited Final Folder/Document fonts/Inga Stone Signs.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:66956
+FileModTime:304928958
+NameArray:0,Mac,4,Inga Stone Signs
+NameArray:0,Win,1,Inga Stone Signs
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Luminari-Regular
+FamilyName:Luminari
+StyleName:Regular
+MenuName:Luminari
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Luminari
+WritingScript:Roman
+OutlineFileName:/Users/aschlimm/Downloads/Meme-scaping/Final contribution/Exports/Edited Version/Edited Final Folder/Document fonts/Luminari.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:557856
+FileModTime:645299187
+NameArray:0,Mac,4,Luminari
+NameArray:0,Win,1,Luminari
+NameArray:0,Win,16,Luminari
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Millimetre-Regular
+FamilyName:Millimetre
+StyleName:Regular
+MenuName:Millimetre Regular
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Millimetre Regular
+WritingScript:Roman
+OutlineFileName:/Users/aschlimm/Downloads/Meme-scaping/Final contribution/Exports/Edited Version/Edited Final Folder/Document fonts/Millimetre-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:58156
+FileModTime:585139207
+NameArray:0,Mac,4,Millimetre Regular
+NameArray:0,Win,1,Millimetre Regular
+NameArray:0,Win,16,Millimetre
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:/Users/aschlimm/Downloads/Meme-scaping/Final contribution/Exports/Edited Version/Edited Final Folder/Document fonts/MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:625423017
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:TradeGothicNextLTPro-LtIt
+FamilyName:Trade Gothic Next LT Pro
+StyleName:Light Italic
+MenuName:Trade Gothic Next LT Pro Lt
+StyleBits:1
+WeightClass:300
+WidthClass:5
+AngleClass:1
+FullName:Trade Gothic Next LT Pro Light Italic
+WritingScript:Roman
+OutlineFileName:/Users/aschlimm/Downloads/Meme-scaping/Final contribution/Exports/Edited Version/Edited Final Folder/Document fonts/TradeGothicNextLTPro-LtIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:65940
+FileModTime:640388745
+NameArray:0,Mac,18,Trade Gothic Next LT Pro LtIt
+NameArray:0,Mac,4,Trade Gothic Next LT Pro Light Italic
+NameArray:0,Win,1,Trade Gothic Next LT Pro Lt
+NameArray:0,Win,16,Trade Gothic Next LT Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BubbleButt
+FamilyName:Bubble Butt
+StyleName:Regular
+MenuName:Bubble Butt
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Bubble Butt Regular
+WritingScript:Roman
+OutlineFileName:/Users/aschlimm/Downloads/Meme-scaping/Final contribution/Exports/Edited Version/Edited Final Folder/Document fonts/bubblebutt.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:63868
+FileModTime:395249272
+NameArray:0,Mac,4,Bubble Butt Regular
+NameArray:0,Win,1,Bubble Butt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:kaerukaeru-Regular
+FamilyName:kaeru kaeru
+StyleName:Regular
+MenuName:kaeru kaeru
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:kaeru kaeru Regular
+WritingScript:Roman
+OutlineFileName:/Users/aschlimm/Downloads/Meme-scaping/Final contribution/Exports/Edited Version/Edited Final Folder/Document fonts/kaerukaeru-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:74172
+FileModTime:585089665
+NameArray:0,Mac,4,kaeru kaeru Regular
+NameArray:0,Win,1,kaeru kaeru
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:rainyhearts
+FamilyName:rainyhearts
+StyleName:Medium
+MenuName:rainyhearts
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:rainyhearts
+WritingScript:Roman
+OutlineFileName:/Users/aschlimm/Downloads/Meme-scaping/Final contribution/Exports/Edited Version/Edited Final Folder/Document fonts/rainyhearts.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:48784
+FileModTime:349343248
+NameArray:0,Mac,4,rainyhearts
+NameArray:0,Win,1,rainyhearts
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Silkscreen-Expanded
+FamilyName:Silkscreen Expanded
+StyleName:Normal
+MenuName:Silkscreen Expanded
+StyleBits:0
+WeightClass:400
+WidthClass:7
+AngleClass:0
+FullName:Silkscreen Expanded
+WritingScript:Roman
+OutlineFileName:/Users/aschlimm/Downloads/Meme-scaping/Final contribution/Exports/Edited Version/Edited Final Folder/Document fonts/slkscre.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:7720
+FileModTime:121119086
+NameArray:0,Mac,4,Silkscreen Expanded
+NameArray:0,Win,1,Silkscreen Expanded
+%EndFont
+
