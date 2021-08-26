@@ -22,7 +22,7 @@ Rights: CC BY-NC 4.0
  <a href='ch003.xhtml'>**Introduction: Global Mutations of the Viral Image**</a>
 <br/>Chloë Arkenbout, Jack Wilson and Daniël de Zeeuw 
 
-##MEMETIC SUBJECTIVITIES & COMMUNITIES
+##MEMETIC SUBJECTIVITIES AND COMMUNITIES
 
 <a href='ch004.xhtml'>**Wojak’s lament: Excess and Voyeurism Under Platform Capitalism**</a>
 <br/>Anthony Glyn Burton
