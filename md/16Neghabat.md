@@ -330,7 +330,7 @@ I’. He says, ‘Hi Susi, I won’t hurt you if you don’t hurt me please than
 After I had uploaded the meme I received a message from a Muslim
 follower, who wrote, ‘Seriously, I opened your page three or four times
 today and just kept thinking, please I need your content
-[]{#_Hlk73346760 .anchor}😆❤️’. The ‘need’ for memes, that she is
+😆❤️’. The ‘need’ for memes, that she is
 articulating in her message, tells me that like me, she too was seeking
 emotional relief in a humorous interpretation of the political rhetoric
 we both experienced as violent. Hegemonic political and media discourse

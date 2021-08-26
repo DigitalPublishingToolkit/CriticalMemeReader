@@ -430,7 +430,7 @@ Reproducibility \[Third Version\].” In *Selected Writings Vol. 4, 1938-1940*, 
 and Michael W. Jennings, 252–83. Cambridge, Mass. and London: The
 Belknap Press of Harvard University Press, 2003.
 
--- “On the Concept of History.” In *Selected Writings Vol. 4,
+——— “On the Concept of History.” In *Selected Writings Vol. 4,
 1938-1940*, 389–400. Cramer, Florian. “What is “Post-Digital”?” *A
 Peer-Reviewed Journal About* 3 (2013).
 
@@ -451,13 +451,13 @@ Watchdog.” *The Guardian*, September 26, 2018.
 
 Friedrich Kittler. “Forgetting.” *Discourse* 3 (1981): 88–121.
 
--- “There is No Software.” *CTheory* 32 (10 October 1995):
+——— “There is No Software.” *CTheory* 32 (10 October 1995):
 <a href="http://www.ctheory.net/articles.aspx?id=74">http://www.ctheory.net/articles.aspx?id=74</a>.
 
--- “The City is a Medium.” *New Literary History* 27, no. 4 (1996):
+——— “The City is a Medium.” *New Literary History* 27, no. 4 (1996):
 717–29.
 
--- *Gramophone, Film, Typewriter*. Translated by Geoffrey Winthrop-Young
+——— *Gramophone, Film, Typewriter*. Translated by Geoffrey Winthrop-Young
 and Michael Wutz. Stanford University Press, 1999.
 
 Olson, Marissa. “Lost Not Found: The Circulation of Images in Digital
